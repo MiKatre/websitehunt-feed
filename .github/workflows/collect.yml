@@ -1,0 +1,38 @@
+name: Collect candidates
+
+on:
+  schedule:
+    - cron: "17 5 * * *"
+  workflow_dispatch:
+
+concurrency: collect
+
+jobs:
+  collect:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: astral-sh/setup-uv@v6
+
+      - name: Install Chromium
+        run: uv run --with playwright==1.55.0 playwright install --with-deps chromium
+
+      - name: Collect
+        env:
+          JEV_API_KEY: ${{ secrets.JEV_API_KEY }}
+        run: uv run collect.py
+
+      - name: Commit
+        run: |
+          git add data shots latest.json
+          if git diff --staged --quiet; then
+            echo "No changes to commit"
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git commit -m "Daily candidates $(date -u +%F)"
+          git push
