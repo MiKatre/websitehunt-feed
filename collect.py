@@ -164,35 +164,85 @@ def meta(soup, *names):
     return ""
 
 
+GITHUB_REPO = re.compile(r"^/([\w.-]+)/([\w.-]+)")
+GITHUB_NON_REPOS = {"orgs", "sponsors", "topics", "features", "marketplace", "settings", "apps"}
+
+
+async def github_repo(client, item):
+    """Add the repository's About details, including its homepage link."""
+    parts = urlsplit(item["canonical_url"])
+    match = GITHUB_REPO.match(parts.path)
+    if parts.netloc != "github.com" or not match or match[1] in GITHUB_NON_REPOS:
+        return
+    owner, name = match[1], match[2].removesuffix(".git")
+    headers = {"Accept": "application/vnd.github+json"}
+    if os.environ.get("GITHUB_TOKEN"):
+        headers["Authorization"] = f"Bearer {os.environ['GITHUB_TOKEN']}"
+    try:
+        response = await client.get(f"https://api.github.com/repos/{owner}/{name}", headers=headers)
+        response.raise_for_status()
+        repo = response.json()
+    except Exception as exc:
+        item["github_error"] = f"{type(exc).__name__}: {str(exc)[:200]}"
+        return
+    homepage = (repo.get("homepage") or "").strip()
+    if homepage and not homepage.startswith("http"):
+        homepage = f"https://{homepage}"
+    if urlsplit(homepage).netloc.lower() in ("", "github.com", "www.github.com"):
+        homepage = ""
+    item["github"] = {
+        "repo_url": repo["html_url"],
+        "homepage": homepage,
+        "description": repo.get("description") or "",
+        "topics": repo.get("topics", []),
+        "stars": repo.get("stargazers_count"),
+        "created_at": repo.get("created_at"),
+        "pushed_at": repo.get("pushed_at"),
+        "owner_avatar": repo["owner"]["avatar_url"],
+    }
+
+
+async def snapshot(browser, url):
+    """Return (page details, JPEG screenshot) for url."""
+    page = await browser.new_page(user_agent=USER_AGENT, viewport={"width": 1280, "height": 800})
+    try:
+        response = await page.goto(url, wait_until="domcontentloaded", timeout=30000)
+        await page.wait_for_timeout(2500)
+        html = await page.content()
+        text = await page.inner_text("body")
+        final_url = page.url
+        soup = BeautifulSoup(html, "html.parser")
+        icon = soup.find("link", rel=lambda r: r and "icon" in r.lower())
+        og_image = meta(soup, "og:image", "twitter:image")
+        details = {
+            "final_url": final_url,
+            "status": response.status if response else None,
+            "title": meta(soup, "og:title") or (soup.title.get_text(strip=True) if soup.title else ""),
+            "description": meta(soup, "og:description", "description"),
+            "og_image": urljoin(final_url, og_image) if og_image else "",
+            "favicon": urljoin(final_url, icon["href"]) if icon and icon.get("href") else urljoin(final_url, "/favicon.ico"),
+            "text_excerpt": " ".join(text.split())[:2000],
+        }
+        return details, await page.screenshot(type="jpeg", quality=70)
+    finally:
+        await page.close()
+
+
 async def capture(browser, item, semaphore):
     async with semaphore:
-        page = await browser.new_page(
-            user_agent=USER_AGENT, viewport={"width": 1280, "height": 800}
-        )
         try:
-            response = await page.goto(item["url"], wait_until="domcontentloaded", timeout=30000)
-            await page.wait_for_timeout(2500)
-            html = await page.content()
-            text = await page.inner_text("body")
-            final_url = page.url
-            soup = BeautifulSoup(html, "html.parser")
-            icon = soup.find("link", rel=lambda r: r and "icon" in r.lower())
-            og_image = meta(soup, "og:image", "twitter:image")
-            item["page"] = {
-                "final_url": final_url,
-                "status": response.status if response else None,
-                "title": meta(soup, "og:title") or (soup.title.get_text(strip=True) if soup.title else ""),
-                "description": meta(soup, "og:description", "description"),
-                "og_image": urljoin(final_url, og_image) if og_image else "",
-                "favicon": urljoin(final_url, icon["href"]) if icon and icon.get("href") else urljoin(final_url, "/favicon.ico"),
-                "text_excerpt": " ".join(text.split())[:2000],
-            }
             # Kept in memory; written only if Jev rates the page highly enough.
-            item["_screenshot"] = await page.screenshot(type="jpeg", quality=70)
+            item["page"], item["_screenshot"] = await snapshot(browser, item["url"])
         except Exception as exc:
             item["error"] = f"{type(exc).__name__}: {str(exc).splitlines()[0][:200]}"
-        finally:
-            await page.close()
+            return
+        homepage = item.get("github", {}).get("homepage")
+        if homepage:
+            try:
+                # A project's own site shows it better than its repository page.
+                item["homepage"], item["_screenshot"] = await snapshot(browser, homepage)
+            except Exception as exc:
+                item["homepage_error"] = f"{type(exc).__name__}: {str(exc).splitlines()[0][:200]}"
 
 
 async def judge(client, item, semaphore, api_key):
@@ -209,6 +259,14 @@ async def judge(client, item, semaphore, api_key):
                 "source_title": item["sources"][0].get("title", ""),
             },
         }
+        if "github" in item:
+            state["github_repository"] = {
+                key: item["github"][key] for key in ("description", "topics", "homepage")
+            }
+        if "homepage" in item:
+            state["project_homepage"] = {
+                key: item["homepage"][key] for key in ("title", "description", "text_excerpt")
+            }
         try:
             response = await client.post(
                 JEV_ENDPOINT,
@@ -281,6 +339,7 @@ async def main():
             item["sources"].append(link["source"])
         items = list(by_url.values())
         print(f"{len(found)} links found, {len(items)} new.")
+        await asyncio.gather(*(github_repo(client, item) for item in items))
 
         async with async_playwright() as p:
             browser = await p.chromium.launch()

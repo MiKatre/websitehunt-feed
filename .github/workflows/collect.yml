@@ -23,6 +23,7 @@ jobs:
       - name: Collect
         env:
           JEV_API_KEY: ${{ secrets.JEV_API_KEY }}
+          GITHUB_TOKEN: ${{ github.token }}
         run: uv run collect.py
 
       - name: Commit
