@@ -1,6 +1,11 @@
 {
-  "updated_at": "2026-10-20T10:02:10+00:00",
-  "coverage_gaps": [],
+  "updated_at": "2026-10-21T10:06:44+00:00",
+  "coverage_gaps": [
+    {
+      "source": "pinboard",
+      "error": "HTTPStatusError: Server error '503 Service Unavailable' for url 'https://pinboard.in/popular/'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/503"
+    }
+  ],
   "items": [
     {
       "canonical_url": "https://skills.wheresryan.sh/anatomy",
@@ -208,6 +213,38 @@
         "category_confidence": 0.95
       },
       "screenshot": "shots/2026/10-19/pele-run.jpg"
+    },
+    {
+      "canonical_url": "https://github.com/KatrielMoses/voidaccess",
+      "url": "https://github.com/KatrielMoses/voidaccess",
+      "found_at": "2026-10-21T10:06:44+00:00",
+      "sources": [
+        {
+          "name": "hn",
+          "id": "50167286",
+          "title": "Show HN: VoidAccess – open-source dark web OSINT, from query to a graph",
+          "discussion_url": "https://news.ycombinator.com/item?id=50167286",
+          "score": 185,
+          "comments": 13,
+          "created_at": "2026-10-20T14:49:33Z"
+        }
+      ],
+      "page": {
+        "final_url": "https://github.com/KatrielMoses/voidaccess",
+        "status": 200,
+        "title": "GitHub - KatrielMoses/voidaccess: Self-hosted dark web OSINT platform. Automated threat intelligence from query to graph in 13 steps. Free alternative to Recorded Future, DarkOwl, and Flare.",
+        "description": "Self-hosted dark web OSINT platform. Automated threat intelligence from query to graph in 13 steps. Free alternative to Recorded Future, DarkOwl, and Flare. - KatrielMoses/voidaccess",
+        "og_image": "https://repository-images.githubusercontent.com/1224778433/52fbf28e-4a75-48ac-ba58-62e653c32d87",
+        "favicon": "https://github.com/fluidicon.png",
+        "text_excerpt": "Skip to content Navigation Menu Platform Solutions Resources Open Source Enterprise Pricing Sign in Sign up KatrielMoses voidaccess Repository navigation Code Issues 1 (1) Pull requests 8 (8) Actions Projects Security and quality Insights voidaccess Public Notifications Fork127 (127) Star894 (894) main 2 Branches 26 Tags Code Latest commit Katriel Moses docs: new README in the voidaccess.pro design, with a demo of the hos… a85e570 · History 143 Commits Folders and files Name Last commit message Last commit date analysis api auth benchmark crawler credential_presence data db docker docs export extractor feeds fingerprint freshness graph hygiene i18n index_population ingest jobqueue monitor netpool observability owned_index pacing progress public ratelimit sanitizer scraper scripts search shared_corpus snapshot_store sources tests trust_gate utils vector voidaccess voidaccess_cli web .dockerignore .env.example .gitignore CHANGELOG.md CONTRIBUTING.md LICENSE README.md SECURITY.md alembic.ini config.py dev-requirements.txt docker-compose.yml monitors.yaml.example pyproject.toml pytest.ini setup.bat setup.sh Repository files navigation README Code of conduct Contributing MIT license Security Ask one question. Get a sourced report, a graph you can search, and IOCs you can load. For security researchers, threat-intel teams, MSSPs and authorized investigators. Use it hosted → voidaccess.pro · Run it yourself → pip install voidaccess Hosted, at voidaccess.pro The hosted version runs this engine for you. Searches and page fetches go out from our servers through Tor, so your research doesn't start from your laptop or office network. A live view shows every link found, kept or discarded (duplicates, 404s, timeouts, the safety filter), then the results open as a graph with every value searchable by category. Start free at voidaccess.pro → How it works One query fans out in parallel to 12+ Tor search engines, code hosts, security feeds and curated .onion seeds, then follows new ."
+      },
+      "verdict": {
+        "model": "jev-1.13.0",
+        "score": 3.4,
+        "category": "Developer Tools",
+        "category_confidence": 0.53
+      },
+      "screenshot": "shots/2026/10-21/github-com-katrielmoses-voidaccess.jpg"
     },
     {
       "canonical_url": "https://www.regexmarblerun.com/",
@@ -476,6 +513,38 @@
       "screenshot": "shots/2026/10-20/paper-design-mono.jpg"
     },
     {
+      "canonical_url": "https://permit.petercai.com/",
+      "url": "https://permit.petercai.com/",
+      "found_at": "2026-10-21T10:06:44+00:00",
+      "sources": [
+        {
+          "name": "hn",
+          "id": "50170593",
+          "title": "Show HN: SimCity, but with Permits",
+          "discussion_url": "https://news.ycombinator.com/item?id=50170593",
+          "score": 799,
+          "comments": 376,
+          "created_at": "2026-10-20T18:29:09Z"
+        }
+      ],
+      "page": {
+        "final_url": "https://permit.petercai.com/",
+        "status": 200,
+        "title": "Permit Pending",
+        "description": "Build the city of your dreams. Subject to approval. A free city builder about zoning, hearings, lawsuits and reelection.",
+        "og_image": "https://permit.petercai.com/marketing/og.jpg",
+        "favicon": "https://permit.petercai.com/art/icons/permit.svg",
+        "text_excerpt": "How it plays Features Scenarios FAQ New game Build the city of your dreams. SUBJECT TO APPROVAL You are the mayor. You know exactly what this city needs. Now get it past the zoning board, the neighbors, the appeals court and the next election. New game Free, because you are loved Permit Pending is a city simulation in the spirit of the classics, with one difference: you are not a god. You are an elected mayor. Every apartment block, bus lane and factory goes through hearings, reviews, objections, lawsuits and appeals. The economy underneath is real. The neighbors are not always rational. Win the argument, or win the election. Ideally both. How a good idea dies A typical case from your inbox. The economic answer was obvious. The political path was not. Month 1 A tech boom pushes rents up. Young residents start to complain. Month 3 You rezone an empty lot for a 12-story apartment building. Month 4 Filed. Nearby homeowners organize over parking and \"neighborhood character.\" Month 7 Hearing. You trade height for parking. The building is now 6 stories. Month 8 The smaller project no longer pays. The developer asks for a tax break. Month 9 Housing advocates criticize the lower count of affordable units. Month 11 Appeal. The board delays construction. A lawsuit is filed. Month 42 Rents are still rising. Young voters blame you for the shortage. Homeowners blame you for the proposal. Month 48 Election day. Build absolutely nothing Every improvement creates opposition New housing lowers rents and angers homeowners. New industry brings jobs and smog. Better transit attracts development, and development attracts opponents. Fix one problem and you create a new group of voters who are angry about it. Hearings, appeals and lawsuits Your inbox fills with applications, controversies and recurring characters. Negotiate concessions at public hearings, win votes on a seven-seat council, and spend your political clout wisely. Some cases last longer than your term. An economy that keeps "
+      },
+      "verdict": {
+        "model": "jev-1.13.0",
+        "score": 3.19,
+        "category": "Games",
+        "category_confidence": 1.0
+      },
+      "screenshot": "shots/2026/10-21/permit-petercai-com.jpg"
+    },
+    {
       "canonical_url": "https://furifont.antfu.me/",
       "url": "https://furifont.antfu.me/",
       "found_at": "2026-10-19T13:29:24+00:00",
@@ -695,6 +764,38 @@
         "category_confidence": 0.47
       },
       "screenshot": "shots/2026/10-20/github-com-t4t5-omdrop-owl.jpg"
+    },
+    {
+      "canonical_url": "https://github.com/deepseek-ai/DeepInfer",
+      "url": "https://github.com/deepseek-ai/DeepInfer",
+      "found_at": "2026-10-21T10:06:44+00:00",
+      "sources": [
+        {
+          "name": "hn",
+          "id": "50163277",
+          "title": "DeepInfer: High-performance inference framework for DeepSeek models",
+          "discussion_url": "https://news.ycombinator.com/item?id=50163277",
+          "score": 2251,
+          "comments": 856,
+          "created_at": "2026-10-20T09:08:54Z"
+        }
+      ],
+      "page": {
+        "final_url": "https://github.com/deepseek-ai/DeepInfer",
+        "status": 200,
+        "title": "GitHub - deepseek-ai/DeepInfer: DeepInfer: High-performance, large-scale inference framework for DeepSeek models",
+        "description": "DeepInfer: High-performance, large-scale inference framework for DeepSeek models - deepseek-ai/DeepInfer",
+        "og_image": "https://opengraph.githubassets.com/117bb2201be063dd14e47d24254eee9aa3222a75fe3be0be5e79dae98422ee33/deepseek-ai/DeepInfer",
+        "favicon": "https://github.com/fluidicon.png",
+        "text_excerpt": "Skip to content Navigation Menu Platform Solutions Resources Open Source Enterprise Pricing Sign in Sign up deepseek-ai DeepInfer Repository navigation Code Pull requests 145 (145) Actions Projects Security and quality Insights DeepInfer Public Notifications Fork1.6k (1.6k) Star16.3k (16.3k) main 1 Branch 0 Tags Code Latest commit wx-csy and Shaoyuan Chen Bump DeepEP to f6aa38fe and drop the SSH->HTTPS rewrite (#157) 9bd9cf2 · History 4 Commits Folders and files Name Last commit message Last commit date csrc initial commit deep_cluster initial commit deepinfer initial commit doc update Q&A EN doc eval initial commit examples initial commit scripts Bump DeepEP to f6aa38fe and drop the SSH->HTTPS rewrite (#157) tests initial commit vendor Bump DeepEP to f6aa38fe and drop the SSH->HTTPS rewrite (#157) .clang-format initial commit .gitignore initial commit .gitmodules initial commit CONTRIBUTING.md initial commit LICENSE initial commit Makefile initial commit README.md initial commit build.sh initial commit pyproject.toml initial commit requirements-ascend.txt initial commit requirements-dev.txt initial commit requirements-nvidia.txt initial commit requirements.txt initial commit setup.py initial commit Repository files navigation README Contributing Apache-2.0 license DeepInfer DeepInfer is the high-performance inference framework that powers DeepSeek's large-scale production services. This open-source release provides offline inference with the core features needed for serving at scale. Supported models: DeepSeek-V4.1-Flash Supported features: Optimized kernels, model and sampler runtime Parallelism: Attention DP / balanced CP, MoE EP + EPLB DSpark and confidence-scheduled verification SWA bounded replay Asynchronous scheduling (zero-overhead batch scheduler) Batch-invariant inference Deterministic sampling Structured outputs Feature details and configuration Supported hardware: NVIDIA SM100 GPUs Huawei Ascend 950 NPUs Required for a complete inference service (not in"
+      },
+      "verdict": {
+        "model": "jev-1.13.0",
+        "score": 3.03,
+        "category": "Developer Tools",
+        "category_confidence": 0.85
+      },
+      "screenshot": "shots/2026/10-21/github-com-deepseek-ai-deepinfer.jpg"
     },
     {
       "canonical_url": "https://github.com/kksimp/Mac.apk",
@@ -1416,6 +1517,68 @@
       }
     },
     {
+      "canonical_url": "https://sael.net/flatpack/",
+      "url": "https://sael.net/flatpack/",
+      "found_at": "2026-10-21T10:06:44+00:00",
+      "sources": [
+        {
+          "name": "hn",
+          "id": "50168096",
+          "title": "IKEA – 3D Guide",
+          "discussion_url": "https://news.ycombinator.com/item?id=50168096",
+          "score": 183,
+          "comments": 63,
+          "created_at": "2026-10-20T15:42:45Z"
+        }
+      ],
+      "page": {
+        "final_url": "https://sael.net/flatpack/",
+        "status": 200,
+        "title": "Flat Pack, Step by Step",
+        "description": "IKEA's BILLY and LACK manuals, built in 3D so you can turn each step around and look.",
+        "og_image": "https://sael.net/flatpack/og.png",
+        "favicon": "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='32' height='32' rx='7' fill='%230b0f1a'/%3E%3Crect x='9' y='5' width='14' height='22' fill='none' stroke='%23f4efe6' stroke-width='2.2'/%3E%3Cpath d='M9 12h14M9 17h14M9 22h14' stroke='%23ffb454' stroke-width='2'/%3E%3C/svg%3E",
+        "text_excerpt": "STEP BY STEP BILLY STEP 1/14 HARDWARE IN 11/82 PANELS IN 0/11 STEP 1 · DOWELS Push a dowel (101351) into each hole in the ends of the top, fixed shelf, bottom and plinth. 11 of 16 in. MANUAL · PAGE 6 Open the manual PIECE ⇧K BILLY bookcase LACK table Dowels step 1 of 14 · page 6 THE BUILD [ ] · 0–9 · space 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 VIEW ⇧V Room Drawing"
+      },
+      "verdict": {
+        "model": "jev-1.13.0",
+        "score": 2.77,
+        "category": "Utilities & Tools",
+        "category_confidence": 0.68
+      }
+    },
+    {
+      "canonical_url": "https://blog.cloudflare.com/typescript-rust-port/",
+      "url": "https://blog.cloudflare.com/typescript-rust-port/",
+      "found_at": "2026-10-21T10:06:44+00:00",
+      "sources": [
+        {
+          "name": "hn",
+          "id": "50165953",
+          "title": "Tsrs: A Port of TypeScript to Rust",
+          "discussion_url": "https://news.ycombinator.com/item?id=50165953",
+          "score": 413,
+          "comments": 200,
+          "created_at": "2026-10-20T13:18:07Z"
+        }
+      ],
+      "page": {
+        "final_url": "https://blog.cloudflare.com/typescript-rust-port/",
+        "status": 200,
+        "title": "Introducing tsrs: a Port of TypeScript to Rust",
+        "description": "Cloudflare is collaborating on tsrs, a Rust port of TypeScript that is up to 8x faster and uses 70% less memory.",
+        "og_image": "https://blog.cloudflare.com/_emdash/api/media/file/01M5C82XAYSWX571T82A8AZRKS.png",
+        "favicon": "https://blog.cloudflare.com/favicon.ico",
+        "text_excerpt": "Skip to content Products Solutions Resources Pricing All Categories Login Contact Sales Blog Developer Platform JavaScript Open Source OCTOBER 20, 2026 Introducing tsrs: A port of TypeScript to Rust Boshen Chen, Dimitri Mitropoulos, and Christoph Nakazawa 6 MINUTE READ COPY URL Cloudflare and VoidZero are now working with Max Schwenk of Owner.com on tsrs, a Rust port of the TypeScript compiler. We are doing this work in close collaboration with the TypeScript team, and incubating tsrs as part of the Oxc JavaScript compiler toolchain. Our goal is to help developers spend less time waiting for their code to be checked and more time building. Making TypeScript faster and more memory-efficient also helps bring complete development environments to more places, including right in your browser. To be clear, we are not forking TypeScript. We believe the TypeScript team should remain in full control of the language’s design and direction. They have maintained a long-term vision while guiding TypeScript’s adoption across the JavaScript community. We do not want to change that. The TypeScript team can move quite fast on many things, but for some features they may spend years intentionally exploring options and making prototypes before picking the right implementation. A Rust port has to follow those decisions closely, or it will eventually fall apart and become incompatible. We have to preserve the TypeScript language strictly based on its original implementation – and the TypeScript team should remain solely responsible for deciding what that looks like. Copy link Performance and memory improvements Early benchmarks of our Rust port of TypeScript are promising: tsrs is up to 8x faster and uses ~70% less memory compared to TypeScript 7.0 when using the same number of type check workers: As you can see, the next version of TypeScript already brings many performance improvements, making TypeScript 7.1 beta up to 2.5x faster than TypeScript 7.0. Some of these optimizations were u"
+      },
+      "verdict": {
+        "model": "jev-1.13.0",
+        "score": 2.77,
+        "category": "Developer Tools",
+        "category_confidence": 0.62
+      }
+    },
+    {
       "canonical_url": "https://www.wasix.org/",
       "url": "https://www.wasix.org/",
       "found_at": "2026-10-19T13:29:24+00:00",
@@ -1844,6 +2007,37 @@
       }
     },
     {
+      "canonical_url": "https://www.anthropic.com/research/claude-scorpion-toxin-binder-design",
+      "url": "https://www.anthropic.com/research/claude-scorpion-toxin-binder-design",
+      "found_at": "2026-10-21T10:06:44+00:00",
+      "sources": [
+        {
+          "name": "hn",
+          "id": "50170021",
+          "title": "Claude designed protein binders against scorpion neurotoxins",
+          "discussion_url": "https://news.ycombinator.com/item?id=50170021",
+          "score": 106,
+          "comments": 68,
+          "created_at": "2026-10-20T17:48:29Z"
+        }
+      ],
+      "page": {
+        "final_url": "https://www.anthropic.com/research/claude-scorpion-toxin-binder-design",
+        "status": 200,
+        "title": "How Claude designed protein binders against scorpion neurotoxins",
+        "description": "We asked an internal research Claude model to design minibinders (small proteins that attach tightly to a target) against scorpion neurotoxins.",
+        "og_image": "https://www-cdn.anthropic.com/images/4zrzovbb/website/187c8077329b22f6bd02c5648ea58749af892e8c-1200x630.jpg",
+        "favicon": "https://www.anthropic.com/favicon.ico",
+        "text_excerpt": "Skip to main content News Research Policy Commitments Company Try Claude How Claude designed protein binders against scorpion neurotoxins Read the technical report Published Oct 20, 2026 Team Science Topics Life sciences Discovery See more... Related articles Science Sep 23, 2026 Claude discovers a novel enzyme system with CRISPR-like repeats View more Summary: As part of our work experimenting with how Claude can help accelerate drug discovery, we asked an internal research model to design minibinders (small proteins that attach tightly to a target) against scorpion neurotoxins. Claude worked from our prompt and four follow-ups, which we developed in collaboration with the financial investment research firm Citrini Research. Teams at Adaptyv Bio and Twist Bioscience experimentally tested 211 designs for binding. Of these, 17 met our criteria. We’re releasing all 211 designs and their data as a resource for the field. In August, we showed how Claude designed protein minibinders after being given a single prompt. A month before we released those results, a team from Citrini Research had approached us with an interesting question: could Claude (and AI drug discovery more generally) enable a group of motivated nonexperts to tackle a genuine problem in human health? Members of our life science research team set out to answer this, first by brainstorming problems with Claude. We landed on asking for Claude’s help designing novel protein binders against scorpion neurotoxins, with the hope that they could one day be used to develop a scorpion antivenom. Scorpions sting 1.2 million people or more every year, resulting in more than 3,250 deaths, mostly among children in parts of the world with limited access to medical care. New treatments are expensive to make, and are also unlikely to earn back the cost of developing them. With so little investment, scorpion envenomation has been described as a neglected tropical disease. We started by giving Claude the same prompt we’d us"
+      },
+      "verdict": {
+        "model": "jev-1.13.0",
+        "score": 2.57,
+        "category": "Science",
+        "category_confidence": 0.5
+      }
+    },
+    {
       "canonical_url": "https://github.com/ardiri/palmos-lemmings",
       "url": "https://github.com/ardiri/palmos-lemmings",
       "found_at": "2026-10-19T13:29:24+00:00",
@@ -1989,6 +2183,37 @@
       }
     },
     {
+      "canonical_url": "https://github.com/google-pytorch/torch_tpu",
+      "url": "https://github.com/google-pytorch/torch_tpu",
+      "found_at": "2026-10-21T10:06:44+00:00",
+      "sources": [
+        {
+          "name": "hn",
+          "id": "50169053",
+          "title": "Google open-sources TorchTPU, a native PyTorch back end for TPUs",
+          "discussion_url": "https://news.ycombinator.com/item?id=50169053",
+          "score": 342,
+          "comments": 73,
+          "created_at": "2026-10-20T16:40:24Z"
+        }
+      ],
+      "page": {
+        "final_url": "https://github.com/google-pytorch/torch_tpu",
+        "status": 200,
+        "title": "GitHub - google-pytorch/torch_tpu",
+        "description": "Contribute to google-pytorch/torch_tpu development by creating an account on GitHub.",
+        "og_image": "https://opengraph.githubassets.com/c3f58e6660c777b706a55139afa2eb4b2bb74361d77689df4a17f6c0fc731754/google-pytorch/torch_tpu",
+        "favicon": "https://github.com/fluidicon.png",
+        "text_excerpt": "Skip to content Navigation Menu Platform Solutions Resources Open Source Enterprise Pricing Sign in Sign up google-pytorch torch_tpu Repository navigation Code Issues 51 (51) Pull requests 220 (220) Actions Projects Security and quality Insights torch_tpu Public Notifications Fork23 (23) Star463 (463) main 693 Branches 2 Tags Code Latest commit WillFroom and copybara-github Eliminate Cond in favor of bool Scalar in Kiln. d60a35c · History 4,469 Commits Folders and files Name Last commit message Last commit date .agents/skills/docs-review Add docs-review skill .github Add workflow_dispatch inputs to TorchTPU nightly_benchmarks.yml. .vscode Set up clangd C++ code navigation and compilation database generation. bazel Update XLA dependency to use revision http://github.com/openxla/xla/c… build_files Add NOBUILD_OSS_OK suppression markers for CheckNobuildOss findings. ci Fall back to self-hosted Cloud TPU v5e runners when RBE presubmit is … csrc Eliminate Cond in favor of bool Scalar in Kiln. docker [TorchTPU] Install latest verified PyTorch dependencies in Docker image docs Print output in Muse Glimmer 30B inference only when all layers are l… examples Avoid buffer-sized bounds on the Muse Glimmer 30B dynamic sequence le… perflab Isolate DecodeStepper step timing & XProf device time requirements Add parameterized to PyTorch device-generic test dependencies shims Use local imports for intra-example module references in examples/. src/torch_tpu Suppress new Pyrefly findings before upgrading to v1.4.0 tests Add NOBUILD_OSS_OK suppression markers for CheckNobuildOss findings. tools Extend TorchTPU GitHub turn tracker to cover pull requests. .bazelignore Scaffold Bazel-based upstream test runner with a test sample. .bazelrc Fall back to self-hosted Cloud TPU v5e runners when RBE presubmit is … .bazelversion Upgrade bazel version to Bazel v8.6.0. Bzlmod is disabled by default,… .clang-format Add clang-format configuration and wire up a blocking GitHub Actions … .clangd Set up"
+      },
+      "verdict": {
+        "model": "jev-1.13.0",
+        "score": 2.52,
+        "category": "Developer Tools",
+        "category_confidence": 0.55
+      }
+    },
+    {
       "canonical_url": "https://cretezy.com/2026/ad-free-android-tv",
       "url": "https://cretezy.com/2026/ad-free-android-tv",
       "found_at": "2026-10-20T10:02:10+00:00",
@@ -2069,6 +2294,37 @@
         "score": 2.48,
         "category": "Utilities & Tools",
         "category_confidence": 0.99
+      }
+    },
+    {
+      "canonical_url": "https://www.joshwcomeau.com/css/interop-2027/",
+      "url": "https://www.joshwcomeau.com/css/interop-2027/",
+      "found_at": "2026-10-21T10:06:44+00:00",
+      "sources": [
+        {
+          "name": "hn",
+          "id": "50175070",
+          "title": "The Future of CSS",
+          "discussion_url": "https://news.ycombinator.com/item?id=50175070",
+          "score": 378,
+          "comments": 158,
+          "created_at": "2026-10-21T01:47:28Z"
+        }
+      ],
+      "page": {
+        "final_url": "https://www.joshwcomeau.com/css/interop-2027/",
+        "status": 200,
+        "title": "The Future of CSS ✨ • Josh W. Comeau",
+        "description": "Every year, browser vendors collaborate via the Interop project to synchronize their efforts on new HTML/CSS/JS features. This year, there’s a ton of super exciting features being considered! In this blog post, we’ll explore the CSS of the future, to get a glimpse of what we’ll soon be able to do.",
+        "og_image": "https://www.joshwcomeau.com/images/og-interop-2027.png",
+        "favicon": "https://www.joshwcomeau.com/favicon.png",
+        "text_excerpt": "Skip to content Josh W Comeau Categories Courses Goodies About Search Disable sounds Activate dark mode RSS Feed The Future of CSS ✨ My top 10 picks for Interop 2027 Filed under CSS on October 20th, 2026 For the past few years, all of the major browser vendors (Google, Apple, Microsoft, and Mozilla, along with Igalia and Bocoup) have been working together on Interop (opens in new tab) , a project to improve universal browser support on web technologies. It’s been a remarkably successful effort; when a focus area gets added to Interop, it often winds up reaching near-100% support across all major browsers within a year. ✨ CSS Subgrid is a good example. Subgrid is a super-powerful extension to CSS Grid which enables entirely new layouts. It was implemented in Firefox back in 2019, but there wasn’t much movement with other browsers for years. It got added to Interop 2023, and by the end of that year, it was widely available across all modern browsers: The Y axis shows the percentage of tests related to subgrid passing in each browser. The black “Interop” line shows tests passing in all browsers. As we reach the end of 2026, Interop 2027 is currently being planned, and the team at Mozilla has created a ranking system (opens in new tab) for us to upvote our most-requested features. They plan on using the ranking data to decide what to include for next year’s Interop! In this blog post, I want to dig into the top 10 features I voted for, to offer a bit of a preview of what CSS might look like within the next year. There will also be some little tips and tricks you can start using today! Link to this heading 1. CSS functions Current Browser Support Supported in Chrome 155 and Edge 154 Not supported in Firefox 157 Not supported in Safari 27 Current as of October 2026. More info on caniuse (opens in new tab) One of the most exciting ideas is the proposal to add functions to CSS (opens in new tab) : Copy to clipboard /* Define a function: */ @function --gradient-to-transparen"
+      },
+      "verdict": {
+        "model": "jev-1.13.0",
+        "score": 2.46,
+        "category": "Blog",
+        "category_confidence": 0.54
       }
     },
     {
@@ -2192,6 +2448,37 @@
         "score": 2.4,
         "category": "Blog",
         "category_confidence": 0.95
+      }
+    },
+    {
+      "canonical_url": "https://kaba.cx/posts/20261020_Tor/",
+      "url": "https://kaba.cx/posts/20261020_Tor/",
+      "found_at": "2026-10-21T10:06:44+00:00",
+      "sources": [
+        {
+          "name": "hn",
+          "id": "50166257",
+          "title": "How I got over 300 Tor exit nodes removed",
+          "discussion_url": "https://news.ycombinator.com/item?id=50166257",
+          "score": 367,
+          "comments": 96,
+          "created_at": "2026-10-20T13:39:24Z"
+        }
+      ],
+      "page": {
+        "final_url": "https://kaba.cx/posts/20261020_Tor/",
+        "status": 200,
+        "title": "How I got over 300 Tor exit nodes removed",
+        "description": "",
+        "og_image": "https://kaba.cx/img/tor/relays_offline_hero.png",
+        "favicon": "https://kaba.cx/img/leaf.svg",
+        "text_excerpt": "Home KABA.CX How I got over 300 Tor exit nodes removed October 20, 2026 On Friday Oct 2, 09:35am, 333 infected exit nodes started a coordinated campaign to intercept SSH connections and gather as much unencrypted data as possible. To give you a sense of scale, all of Tor has around 3000 exit relays, so roughly 10% were under their control. The attackers had gained access to the servers two months earlier, in August, and quietly deployed their Ebury 1.8.3 payload (an OpenSSH backdoor and credential stealer for Linux). The Attack The attack appears to have had two primary goals: Gather as much unencrypted mail traffic as possible Intercept SSH connections (MITM) By blocking certain ports, they made their exit nodes handle only unencrypted mail traffic. An interesting writeup by one of the victims (a veteran Tor operator) goes into great detail about that: lists.torproject.org/mailman3 In this post I'll focus on the second attack, the SSH MITM. If you happen to get a circuit that exits over one of those 333 infected exit nodes, you won't notice anything at first. Encrypted web traffic is forwarded as usual, but if you attempt an SSH connection over Port 22, you're unknowingly redirected to one of 12 SSH interception servers. That's exactly what happened to me on Friday morning. My SSH connection got redirected, and I was greeted with this warning: @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@ @ WARNING: REMOTE HOST IDENTIFICATION HAS CHANGED! @ @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@ IT IS POSSIBLE THAT SOMEONE IS DOING SOMETHING NASTY! Someone could be eavesdropping on you right now (man-in-the-middle attack)! It is also possible that a host key has just been changed. The fingerprint for the ED25519 key sent by the remote host is SHA256:6baCZCPsl+AfQuujUS81fMEE/C7UeJ+AwjrImqmDB3E. Please contact your system administrator. But if you ignore the warning and go ahead with the login, the attacker does three things: Steals your password Op"
+      },
+      "verdict": {
+        "model": "jev-1.13.0",
+        "score": 2.39,
+        "category": "Blog",
+        "category_confidence": 0.47
       }
     },
     {
@@ -2344,6 +2631,37 @@
       }
     },
     {
+      "canonical_url": "https://yoyo-code.com/2026-is-exciting-year-for-rust-compiler-and-me/",
+      "url": "https://yoyo-code.com/2026-is-exciting-year-for-rust-compiler-and-me/",
+      "found_at": "2026-10-21T10:06:44+00:00",
+      "sources": [
+        {
+          "name": "hn",
+          "id": "50166502",
+          "title": "2026 is an exciting year for the Rust compiler (and me)",
+          "discussion_url": "https://news.ycombinator.com/item?id=50166502",
+          "score": 183,
+          "comments": 91,
+          "created_at": "2026-10-20T13:53:48Z"
+        }
+      ],
+      "page": {
+        "final_url": "https://yoyo-code.com/2026-is-exciting-year-for-rust-compiler-and-me/",
+        "status": 200,
+        "title": "2026 is an exciting year for the Rust compiler (and me)",
+        "description": "Matyáš Racek's blog",
+        "og_image": "",
+        "favicon": "https://yoyo-code.com/favicon.ico",
+        "text_excerpt": "Skip to content Yoyo Code Matyáš Racek's blog About 2026 is an exciting year for the Rust compiler (and me) You might have already noticed that 2026 seems to be a bit special year for Rust compiler. It seems like there's just a lot of stuff going on. Some things were already announced since I started writing this, but there's still a bunch more that's not as visible. I'll share some things that I personally find interesting. To explain a bit of context, what happened this year is that multiple different initiatives are reaching final steps at the same time. In other words, 2026 is not that special with the amount of work being done, but it's a year when we see several long-term investments starting to pay dividends. Next solver 🔗 Probably the biggest thing is the next generation trait solver. This is a reimplementation of a big part of the type system, and it has been in the works for a very long time - Almost 10 years in various forms. It fixes a bunch of soundness bugs and unblocks a lot of features and fixes for long-standing issues. It's easy to understate how big of a deal this is for the compiler. This work resolves a major piece of technical debt that a lot of compiler developers dreamed about for years. It also frees up a bunch of people with a fresh and deep understanding of the type system to work on new things. The queue of things that get unblocked includes many common pain points of the language, even things that might seem benign or unrelated. It contains solutions to big problems in async Rust, or various limitations of impl Trait. Polonius 🔗 Another big thing is Polonius, a new borrow checker implementation, long time in the making as well. It enables more code to compile and unblocks several related features - including (hopefully one day) internal references. The compiler impact of this is not as big as with the new solver, but it's still a pretty big deal. Perf 🔗 My main area of interest is compiler performance, and here we have quite a few things"
+      },
+      "verdict": {
+        "model": "jev-1.13.0",
+        "score": 2.35,
+        "category": "Blog",
+        "category_confidence": 0.61
+      }
+    },
+    {
       "canonical_url": "https://blog.scottstevenson.net/p/pattern-matching-beats-narrative",
       "url": "https://blog.scottstevenson.net/p/pattern-matching-beats-narrative",
       "found_at": "2026-10-19T13:29:24+00:00",
@@ -2457,6 +2775,37 @@
       }
     },
     {
+      "canonical_url": "https://github.com/microg/GmsCore/wiki",
+      "url": "https://github.com/microg/GmsCore/wiki",
+      "found_at": "2026-10-21T10:06:44+00:00",
+      "sources": [
+        {
+          "name": "hn",
+          "id": "50162177",
+          "title": "MicroG: Free-libre re-implementation of Google's proprietary Android user space",
+          "discussion_url": "https://news.ycombinator.com/item?id=50162177",
+          "score": 409,
+          "comments": 119,
+          "created_at": "2026-10-20T06:37:07Z"
+        }
+      ],
+      "page": {
+        "final_url": "https://github.com/microg/GmsCore/wiki",
+        "status": 200,
+        "title": "Home",
+        "description": "Free implementation of Play Services. Contribute to microg/GmsCore development by creating an account on GitHub.",
+        "og_image": "https://opengraph.githubassets.com/6ddae1c4dace3afa105bcf3d7f0f0de98df9707184cb711dc6af68f475da5be9/microg/GmsCore",
+        "favicon": "https://github.com/fluidicon.png",
+        "text_excerpt": "Skip to content Navigation Menu Platform Solutions Resources Open Source Enterprise Pricing Sign in Sign up microg GmsCore Repository navigation Code Issues 1.3k (1.3k) Pull requests 119 (119) Actions Wiki Security and quality 13 (13) Insights Home ale5000 edited this page · 23 revisions GmsCore Overview microG GmsCore is a free software reimplementation of Google's Play Services. It allows applications calling proprietary Google APIs to run on AOSP-based ROMs like LineageOS, acting as a free replacement for the non-free, proprietary Google Play Services (sometimes referred to as the more generic term \"GApps\"). It is a powerful tool to reclaim your privacy and freedom while enjoying Android core features (although apps you use that take advantage of it may still be using proprietary libraries to communicate with microG, just as they do when communicating with the actual Google Play Services). Features Opt-in to Google Services and extend application support On-/Offline location service Easy on battery, memory and CPU No bloatware Works on real devices, test emulators and virtual mobile infrastructure Free (open source) (Apache 2.0 licensed) System Requirements Your Android system needs to support signature spoofing so GmsCore can pretend the existence of the official Play Services to applications calling Google APIs. See the linked page to know about ROM providing out-of-the-box support and what you can do about the other ones. Modules GmsCore includes the Unified Network Location Provider module (UnifiedNlp) which handles application calls to Google's network location provider. For a full-working microG setup, you must also install a Play Store replacement application (like microG Companion). See installation. Project status The current status of implemented APIs is documented on this wiki page. Contributions welcome! Please report bugs and include logs, screenshots, version numbers and device information depending on what issue you observed. Also, do not bother to"
+      },
+      "verdict": {
+        "model": "jev-1.13.0",
+        "score": 2.23,
+        "category": "Developer Tools",
+        "category_confidence": 0.66
+      }
+    },
+    {
       "canonical_url": "https://github.com/VikOlliver/RepRapMicron/wiki",
       "url": "https://github.com/VikOlliver/RepRapMicron/wiki",
       "found_at": "2026-10-19T13:29:24+00:00",
@@ -2547,6 +2896,37 @@
         "score": 2.14,
         "category": "Blog",
         "category_confidence": 0.7
+      }
+    },
+    {
+      "canonical_url": "https://unsung.aresluna.org/good-type-against-all-odds/",
+      "url": "https://unsung.aresluna.org/good-type-against-all-odds/",
+      "found_at": "2026-10-21T10:06:44+00:00",
+      "sources": [
+        {
+          "name": "hn",
+          "id": "50175059",
+          "title": "Good type against all odds",
+          "discussion_url": "https://news.ycombinator.com/item?id=50175059",
+          "score": 126,
+          "comments": 12,
+          "created_at": "2026-10-21T01:45:07Z"
+        }
+      ],
+      "page": {
+        "final_url": "https://unsung.aresluna.org/good-type-against-all-odds/",
+        "status": 200,
+        "title": "Good type against all odds – Unsung",
+        "description": "A blog about software craft and quality",
+        "og_image": "https://unsung.aresluna.org/_media/good-type-against-all-odds/ogimage.jpg",
+        "favicon": "https://unsung.aresluna.org/good-type-against-all-odds/_unsung/favicon-dark.png",
+        "text_excerpt": "SOFTWARE CRAFT AND QUALITY Search this site Results will appear as you type Clear HomeNewsletter + RSSAbout + ContactRandom post Good type against all odds This is not italics. This is not even oblique. This is a side effect of how those displays work. Instead of a whole rectangle of pixels being changed at once, the display is updated line by line, starting from the top one. As it’s moving towards the bottom, the internal horizontal position might have already advanced, the subsequent lines will be drawn slightly to the left, and it all leads to a slanted appearance. (This is in effect the same problem as rolling shutter in photography.) The interesting thing is that it could’ve gone the other way. Twice. In English or German, we treat scrolling left to be natural, and we consider only one direction of italic slant appropriate. The first has to do with the direction of reading. I believe the second is, like many things in typography, customary; there’s nothing inherently better than right-leaning letters, except we’re used to them since those are the only ones we ever see. But, the person putting it all together could’ve just as well done it the other way: scrolling to the right, or slanting to the left (by updating the display bottom to top – not as unusual as you might think!). Were those intentional choices, or was it a default? I’m not sure, but it points to the value of knowing this stuff, or creating a culture where this stuff is treasured. Often, more craft will require more work. Sometimes, however, you will get it for free – but only if you choose the right fork in the road. While we’re here, how about a few other examples of delightful moments in typography where I did not expect them? These, I believe, will be all intentional. But whether you consider them craft, or even good, I don’t know. Here are some surprising small caps: Here’s a cute depiction of a train carriage, somewhat hampered by the limitations of a similar workhorse 5×7 pixel font display: "
+      },
+      "verdict": {
+        "model": "jev-1.13.0",
+        "score": 2.14,
+        "category": "Blog",
+        "category_confidence": 0.83
       }
     },
     {
@@ -2773,6 +3153,37 @@
       }
     },
     {
+      "canonical_url": "https://peec.ai/blog/publish-stats-get-cited-the-tactic-that-put-my-data-all-over-the-web",
+      "url": "https://peec.ai/blog/publish-stats-get-cited-the-tactic-that-put-my-data-all-over-the-web",
+      "found_at": "2026-10-21T10:06:44+00:00",
+      "sources": [
+        {
+          "name": "hn",
+          "id": "50165801",
+          "title": "Publish fake stats, get cited in LLMs",
+          "discussion_url": "https://news.ycombinator.com/item?id=50165801",
+          "score": 343,
+          "comments": 198,
+          "created_at": "2026-10-20T13:06:22Z"
+        }
+      ],
+      "page": {
+        "final_url": "https://peec.ai/blog/publish-stats-get-cited-the-tactic-that-put-my-data-all-over-the-web",
+        "status": 200,
+        "title": "Publish stats, get cited: The tactic that put my data all over the web - Peec AI",
+        "description": "How 50,000 fake stats kept getting cited by ChatGPT Read more on the Peec AI blog.",
+        "og_image": "https://framerusercontent.com/images/g61nppL2S0T51TuBYG0bTxac2U.png?width=2150&height=1126",
+        "favicon": "https://framerusercontent.com/images/PIKLIeC0t7S3kIO1ubB33bcu10.png",
+        "text_excerpt": "New Take action on your AI search data Not sure which is right for you? Talk to us Product Pricing Resources Partnerships Careers Log in Sign up Publish stats, get cited: The tactic that put my data all over the web Metehan Yesilyurt GEO Researcher Oct 7, 2026 GEO Know-How Inside the page Where the idea for publishing fake statistics came from The setup: a website and 50,000 made-up stats, created in one day What happened Lessons learned A word on ethics What's next from GEO Research at Peec Want more of Peec AI? Subscribe to our weekly newsletter. Subscribe Share this What I learned about AI search when I made up 50,000 stats that got cited by ChatGPT... About 7 months ago, I launched a website with 50,000 statistics. Every one of them was fake. Google has forgotten the site exists and deindexed the pages, but ChatGPT hasn't. Since the website went live 7 months ago, it has sent more than 10,000 AI sessions its way. And now more than 330 referring domains, including Shopify, Bluehost, and DHL, link to the site. Its made-up numbers have also ended up in an academic paper and in a bank's investment research. At Peec AI and in the industry, we talk about GEO and SEO every day, and we keep looking for new tactics. I’ve been working on this stats page one for a long time, sharing pieces of it publicly along the way. Of course, it’s experimental, but the results have been hard to ignore. Where the idea for publishing fake statistics came from The impetus to seed a site with statistics came out of long-running research I've been doing on LLMs, relevance engineering, and grounding (credit to the iPullRank team, Dan Petrovic, and Wil Reynolds). In the course of my work, I noticed a pattern: as more teams write time-sensitive and breaking content with LLMs, those LLMs have to look for (seemingly) reliable data during their research to fill the gaps in their knowledge. Statistics are often exactly what they’re looking for. Most GEO advice focuses on one moment: getting your b"
+      },
+      "verdict": {
+        "model": "jev-1.13.0",
+        "score": 2.02,
+        "category": "Blog",
+        "category_confidence": 0.58
+      }
+    },
+    {
       "canonical_url": "https://www.openbsd.org/80.html",
       "url": "https://www.openbsd.org/80.html",
       "found_at": "2026-10-20T10:02:10+00:00",
@@ -2801,6 +3212,37 @@
         "score": 2.01,
         "category": "Software Engineering",
         "category_confidence": 0.52
+      }
+    },
+    {
+      "canonical_url": "https://stevekrouse.com/ends",
+      "url": "https://stevekrouse.com/ends",
+      "found_at": "2026-10-21T10:06:44+00:00",
+      "sources": [
+        {
+          "name": "hn",
+          "id": "50169707",
+          "title": "What shall I teach my son?",
+          "discussion_url": "https://news.ycombinator.com/item?id=50169707",
+          "score": 403,
+          "comments": 469,
+          "created_at": "2026-10-20T17:25:07Z"
+        }
+      ],
+      "page": {
+        "final_url": "https://stevekrouse.com/ends",
+        "status": 200,
+        "title": "What Shall I Teach My Son?",
+        "description": "",
+        "og_image": "",
+        "favicon": "https://stevekrouse.com/favicon.svg",
+        "text_excerpt": "Skip to content Steve Krouse Essays Notes Podcasts Quotes Books What Shall I Teach My Son? What is the purpose of education in the age of AGI? October 19, 2026 Yesterday, the title The End of Education by Neil Postman called to me from my bookshelf, whispering that it might be the right book at the right time. It was. Published in 1995, it was surprisingly appropriate balm for the soul of a confused programmer and soon-to-be father. My wife and I are expecting our first child. My economically valuable skillset – programming – suddenly feels less valuable. What shall I teach my son? And to what end? Mr. Edison says That the radio will supplant the teacher. Already one may learn languages by means Of Victrola records. The moving picture will visualize What the radio fails to get across. Teachers will be relegated to the backwoods. With fire-horses, And long-haired women; Or, perhaps shown in museums. Education will become a matter Of pressing the button. Perhaps I can get a position at the switchboard. – Quoted in The End of Education by Neil Postman, quoting Teachers and Machines: The Use of Technology Since 1920 by Larry Cuban In Edison’s own words: Books will soon be obsolete in the public schools… Our school system will be completely changed inside of ten years. – Thomas Edison, The New York Dramatic Mirror, 1913 Back in 2013, I boldly predicted that MOOCs would upend education. Ah, my past self, you sweet summer child. Nassim Nicholas Taleb has helped me appreciate the staying power of staying power, sometimes called The Lindy Effect. Merely staying alive implies some anti-fragility to adapt and survive. Consider that Harvard, Yale, and Princeton were founded to educate the clergy. From The End of Education: In the Western world, beginning in the thirteenth century and for five hundred years afterward, that God was sufficient justification for the founding of institutions of learning, from grammar schools, where children were taught to read the Bible, to great un"
+      },
+      "verdict": {
+        "model": "jev-1.13.0",
+        "score": 1.96,
+        "category": "Blog",
+        "category_confidence": 0.83
       }
     },
     {
@@ -2944,6 +3386,99 @@
       }
     },
     {
+      "canonical_url": "https://mistral.ai/news/voxtral-3/",
+      "url": "https://mistral.ai/news/voxtral-3/",
+      "found_at": "2026-10-21T10:06:44+00:00",
+      "sources": [
+        {
+          "name": "hn",
+          "id": "50168396",
+          "title": "Voxtral 3",
+          "discussion_url": "https://news.ycombinator.com/item?id=50168396",
+          "score": 676,
+          "comments": 169,
+          "created_at": "2026-10-20T16:02:07Z"
+        }
+      ],
+      "page": {
+        "final_url": "https://mistral.ai/news/voxtral-3/",
+        "status": 200,
+        "title": "Voxtral 3: Voice Agent SDK & Speech Models in 50+ Languages",
+        "description": "Voxtral 3: Mistral's voice agent SDK for real-time speech in 50+ languages — accurate transcription, emotional TTS, deep tool use. EU-hosted or self-deployed.",
+        "og_image": "https://mistral.ai/cms-media/api/media/file/hero-blog-voxtral.png",
+        "favicon": "https://mistral.ai/favicon.ico",
+        "text_excerpt": "Research Sovereign AI Cloud Customers Company Get in touch Login Why Sovereign AI Products Method Sovereign AI in practice Inference Compute Energy & utilities Manufacturing Financial services Public sector All customers Blog Docs About us Careers Research Sovereign AI Cloud Customers Company Get in touch Login Studio Vibe Voxtral 3 Take the call Thinking Summary Voxtral 3 introduces a cutting-edge voice agent SDK and state-of-the-art speech models designed for real-time, multi-step conversations across 50+ languages. It combines accurate transcription, natural speech synthesis with emotional adaptability, and deep tool integration for seamless workflow automation. Available via Mistral’s EU-hosted API or self-deployment, it ensures data sovereignty while delivering low-latency, human-like interactions for contact centers, virtual assistants, and hands-free copilots. Speech transcription and voice generation have come a long way, but building end-to-end voice agents that can listen, reason, interact, and handle complex workflows remains difficult. A reliable voice agent needs to do four things very well (and simultaneously): Listen accurately across languages, accents, speakers, and interruptions, Reason deeply about what users mean in specific contexts, Speak naturally with emotion and expression, and Take action over multiple steps through connected systems. Getting all four to work together reliably in real time remains a challenge. To address this, we introduce Voxtral 3: a new family of state-of-the-art speech-to-text and text-to-speech models, alongside a voice agent SDK that brings listening, thinking, tool calling, and speaking into a single real-time streaming pipeline. Voxtral 3 is built to create natural conversational experiences, from contact-center agents and service desks to virtual assistants and hands-free copilots. With support for dozens of languages, expressive speech, complex reasoning, and deep integration with your own tools and data, agents b"
+      },
+      "verdict": {
+        "model": "jev-1.13.0",
+        "score": 1.86,
+        "category": "Developer Tools",
+        "category_confidence": 0.88
+      }
+    },
+    {
+      "canonical_url": "https://entropicthoughts.com/nixos-is-making-me-less-afraid",
+      "url": "https://entropicthoughts.com/nixos-is-making-me-less-afraid",
+      "found_at": "2026-10-21T10:06:44+00:00",
+      "sources": [
+        {
+          "name": "hn",
+          "id": "50165484",
+          "title": "NixOS is making me less afraid",
+          "discussion_url": "https://news.ycombinator.com/item?id=50165484",
+          "score": 180,
+          "comments": 121,
+          "created_at": "2026-10-20T12:43:05Z"
+        }
+      ],
+      "page": {
+        "final_url": "https://entropicthoughts.com/nixos-is-making-me-less-afraid",
+        "status": 200,
+        "title": "NixOS is making me less afraid",
+        "description": "",
+        "og_image": "",
+        "favicon": "https://entropicthoughts.com/image/favicon/favicon-48x48.png",
+        "text_excerpt": "Entropic Thoughts NixOS is making me less afraid Archive Tags About xkqr.org NixOS is making me less afraid by kqr, published 2026-10-20 Tags: nixossysadmin On the go? Listen to an ai-narrated version of this article. Confused? More about ai narration. Something funny happened a little while ago: I read about FreshRSS, and it sounded nice, so I installed it on a server and started using it. That would not have happened a year ago, but then again, a year ago I didn’t have any NixOS servers. For the past few years, my rss feeds have lived locally on my phone only. There was a good idea behind that1 1 I can mostly take time to read when I’m away from my computer anyway. , but it never quite worked in practice. For one, many things are easier to read on a larger screen. But it was also brittle to trust a phone app to manage the read/unread status of thousands of articles across a hundred feeds.2 2 In particular, when I switched to a different phone I could migrate all feeds to it, but the read/unread status was lost along the way. What I really wanted was a server-side feed aggregator. This is software that runs on a server, manages rss feeds, and then I can read the rss feeds either through a web interface, or through client applications. I’ve wanted that for a while, but I’ve never taken the step, because it would be yet another side project to maintain the deployment of. But now, with some NixOS experience, adding a working FreshRSS configuration (including backups) took 9 lines of Nix code3 3 Plus a dozen more lines for the nginx reverse proxy configuration. It got a little complicated because I wanted to proxy_pass from a specific location block which required rewriting cookie paths. But that’s a me problem, not a NixOS problem. . That installation has just hands-off worked for the past few months. If or when that server breaks, I can spin up a new one running the exact same configuration, probably in something like 15 minutes. When we can do something like that, t"
+      },
+      "verdict": {
+        "model": "jev-1.13.0",
+        "score": 1.84,
+        "category": "Blog",
+        "category_confidence": 0.65
+      }
+    },
+    {
+      "canonical_url": "https://heymaxwell.ai/",
+      "url": "https://heymaxwell.ai/",
+      "found_at": "2026-10-21T10:06:44+00:00",
+      "sources": [
+        {
+          "name": "hn",
+          "id": "50152466",
+          "title": "Maxwell: A new kind of model that sits between code and hardware",
+          "discussion_url": "https://news.ycombinator.com/item?id=50152466",
+          "score": 131,
+          "comments": 66,
+          "created_at": "2026-10-19T13:47:56Z"
+        }
+      ],
+      "page": {
+        "final_url": "https://heymaxwell.ai/",
+        "status": 200,
+        "title": "Maxwell: The first Code Execution Model, by doubleAI",
+        "description": "Maxwell improves code while it runs, adapting to hardware and data. Every improvement is formally proven equivalent to the original code.",
+        "og_image": "https://heymaxwell.ai/og/og-dark.jpg",
+        "favicon": "https://heymaxwell.ai/favicon.svg",
+        "text_excerpt": "Maxwell Manifesto Research ↗ Get early access Maxwell : The first Code Execution Model by doubleAI Maxwell understands and improves code while it runs, reasoning about hardware and data, not just code. Every improvement is formally proven equivalent to the original code. Read the manifesto → Get early access 38× faster data processing pipelines 4.25× faster AI inference kernels What is a code execution model? This video didn’t load. Reload the page to try again. A short animated film, with narration and captions, introducing Maxwell: most code never sees the hardware it runs on or the data it processes. Maxwell watches a program while it runs, rewrites the binary underneath to fit that exact machine and data, and formally proves every improvement equivalent to the original. It runs on CPUs and GPUs, speeding up data pipelines and AI inference kernels. Featured customer LTX-2.5 generates 4K video in half the time LTX built LTX-2.5 for efficiency from day one, compiled end to end, sequence-parallel across GPUs, decoding on a hand-written attention kernel. A pipeline built and optimized by top human experts. Maxwell made their 4K generation nearly twice as fast. (opens ltx.io) This video didn’t load. Reload the page to try again. Each run is labelled in the video. The original pipeline takes 4 minutes 9 seconds; with Maxwell, the same clip takes 2 minutes 14 seconds. The race plays sped up, then both finished clips play at their own speed. 1.87× faster 4K video generation 134s per 4K clip on two B200s, down from 250s Read the story → Maxwell’s Demonstration See Maxwell in action optimizing both GPU-based and CPU-based code. Once Maxwell has enough runtime data, it swaps in formally proven optimizations tailored to that exact machine while the program keeps running. GPU-based speech-to-text using Whisper This video didn’t load. Reload the page to try again. Two terminals run the same Python script on the same RTX 4090: 180 transcriptions with Whisper-small from a cold s"
+      },
+      "verdict": {
+        "model": "jev-1.13.0",
+        "score": 1.81,
+        "category": "Developer Tools",
+        "category_confidence": 0.66
+      }
+    },
+    {
       "canonical_url": "https://jrdsgl.com/if-you-dont-run-your-own-llm-proxy-how-the-fuck-do-you-even-know-whats-going-on/",
       "url": "https://jrdsgl.com/if-you-dont-run-your-own-llm-proxy-how-the-fuck-do-you-even-know-whats-going-on/",
       "found_at": "2026-10-19T13:29:24+00:00",
@@ -2976,6 +3511,37 @@
         "score": 1.77,
         "category": "Developer Tools",
         "category_confidence": 0.67
+      }
+    },
+    {
+      "canonical_url": "https://www.nber.org/papers/w35706",
+      "url": "https://www.nber.org/papers/w35706",
+      "found_at": "2026-10-21T10:06:44+00:00",
+      "sources": [
+        {
+          "name": "hn",
+          "id": "50167732",
+          "title": "Why do we have so many meetings?",
+          "discussion_url": "https://news.ycombinator.com/item?id=50167732",
+          "score": 103,
+          "comments": 156,
+          "created_at": "2026-10-20T15:19:19Z"
+        }
+      ],
+      "page": {
+        "final_url": "https://www.nber.org/papers/w35706",
+        "status": 200,
+        "title": "Meetings",
+        "description": "Founded in 1920, the NBER is a private, non-profit, non-partisan organization dedicated to conducting economic research and to disseminating research findings among academics, public policy makers, and business professionals.",
+        "og_image": "https://www.nber.org/sites/default/files/2022-06/NBER-FB-Share-Tile-1200.jpg",
+        "favicon": "https://www.nber.org/themes/custom/nber/favicon.ico",
+        "text_excerpt": "Your cookie choices We use cookies to make our Site work, to measure our Site’s performance, to improve your experience, and to show personalized content, depending on your settings. Indicate your preference below. By choosing Accept, you agree to such use and our Privacy Policy. Customize Reject Accept Skip to main content Subscribe Media Open Calls Login Research Programs & Projects Conferences Affiliated Scholars NBER News Career Resources About Search Home Research Working Papers Meetings Meetings David J. Deming, Katrine V. Løken, Alexander Willén & Yaling Xu X LinkedIn Facebook Bluesky Threads Email Link WORKING PAPER 35706 DOI 10.3386/w35706 ISSUE DATE September 2026 Why do we have so many meetings? Few workplace features are so scorned, yet seemingly so necessary. This paper provides the first large-scale economic evidence on workplace meetings using an original survey of more than 9,000 workers linked to matched employer–employee administrative data from Norway. We show that meetings are both common and costly, consuming an average of 12 percent of work hours and 14 percent of firm wage bills. Planning, problem solving, information sharing, and project coordination account for the majority of meeting activity. High-paying and high-revenue firms devote more resources to meetings despite facing a substantially higher opportunity cost of employee time. Meeting frequency and intensity are positively related to worker wage growth. Workers in meeting-intensive firms report greater on-the-job learning, and interactions with more senior colleagues are associated with stronger wage growth, suggesting that knowledge transmission within firms is an important mechanism. Meetings are the broccoli of work – widely disliked, but probably good for us anyway. You may have unlimited free access to working papers. Many colleges and universities have institutional subscriptions. If you are affiliated with a subscribing institution, please access this site through your on-campu"
+      },
+      "verdict": {
+        "model": "jev-1.13.0",
+        "score": 1.75,
+        "category": "Research",
+        "category_confidence": 1.0
       }
     },
     {
@@ -3094,6 +3660,37 @@
         "score": 1.66,
         "category": "Research",
         "category_confidence": 0.29
+      }
+    },
+    {
+      "canonical_url": "https://jackalsyn.com/posts/php-up-2026.html",
+      "url": "https://jackalsyn.com/posts/php-up-2026.html",
+      "found_at": "2026-10-21T10:06:44+00:00",
+      "sources": [
+        {
+          "name": "hn",
+          "id": "50176077",
+          "title": "PHP session.upload_progress heap UAF (CVE-2026-109618 / -109619)",
+          "discussion_url": "https://news.ycombinator.com/item?id=50176077",
+          "score": 178,
+          "comments": 57,
+          "created_at": "2026-10-21T04:26:56Z"
+        }
+      ],
+      "page": {
+        "final_url": "https://jackalsyn.com/posts/php-up-2026.html",
+        "status": 200,
+        "title": "Only for the curious...",
+        "description": "",
+        "og_image": "",
+        "favicon": "https://jackalsyn.com/assets/icon.png",
+        "text_excerpt": "⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣀⣤⣤⣤⣤⣤⣤⣄⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣠⣴⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣦⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⡾⠋⣽⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣆⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣼⡇⣸⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⡿⠀⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣿⡎⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠸⡇⢸⣿⠟⠉⠀⠀⠈⢻⣿⡿⠁⠀⠀⠈⢻⡟⢻⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣶⡦⠀⣇⣿⣦⡀⠙⠀⠠⡀⠀⠀⠀⠀⠀ ⠀⠀⠀⠘⣦⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⡇⢸⡇⠀⠀⠀⠀⠀⣾⡿⣇⠀⠀⠀⠀⢸⡅⠈⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⠟⢀⣀⡈⠻⣿⣿⣿⣷⣄⠁⢄⠀⠀⠀⠀ ⠀⠀⠀⠀⠘⣷⣄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣾⣷⣄⠀⠀⣀⣼⠃⠁⠘⣷⣄⣀⣠⣾⣷⡄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣰⣿⣿⣷⣦⡈⠉⢹⣿⣿⣧⠈⢿⡇⠀⠀ ⠀⠀⠀⠀⠀⠘⢿⣷⣄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢺⢿⣿⣿⣿⣿⣿⣿⠀⠀⠀⢸⣿⣿⣿⠿⠿⠃⠀⠀⠀⠀⠀⠀⠀⠀⠀⢇⠀⣿⣿⣿⣿⣿⣿⠀⣆⣿⣿⡿⠃⠀⢁⠄⠀ ⠀⠀⠀⠀⠀⠀⠈⢻⣿⣶⣄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠉⠀⠀⠈⠻⣿⣿⣦⣿⣦⣼⡿⠋⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠂⠉⠻⢿⣿⣿⡿⠀⣿⡟⠉⢀⣀⣴⡟⠀⠀ ⠀⠀⠀⠀⠀⠀⠀⠀⠙⣿⣿⣷⣄⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢹⣇⠀⠀⡈⢻⠋⡏⠛⢹⡇⠀⣴⡆⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⡇ ⠙⠋⣀⣤⣤⡄⠉⠉⠛⠛⠛⠀⠀ ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠻⣿⣿⣿⣦⡀⠀⠀⠀⠀⠀⠀⠀⠀⢸⣿⡀⠀⠁⠈⠀⠀⠀⠀⠀⠀⢸⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣠⠟⠋⠑⢤ ⠛⠋⠀⠀⠀⠀⠀⠀⠀⠀ ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠻⣿⣿⣿⣶⣄⠀⠀⠀⠀⠀⠀⠘⠻⣧⣄⣆⣰⣀⣲⣀⣦⣀⣤⣿⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⡴⠎⠁⠀⠀⠀⠀⠀⠈⠀⠒⠂⠀⠀⠀⠀⠀⠀⠀ ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠻⣿⣿⣿⣷⣦⡀⠀⠀⠀⠀⠀⠙⢿⣿⣿⣿⣿⣿⠿⠋⠁⠀⠀⠀⠀⠀⠀⢀⣤⣠⠶⠋⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ ⠀⠈⠙⢿⣿⡈⠻⢷⣦⣄⠀⠀⠀⠀⠀⠉⠉⠉⠉⠁⠀⠀⠀⠀⠀⠀⣀⣴⠿⠋⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠻⢶⣄⠙⠻⢿⣶⣤⡀⠀⠀⠀⠀⠀⠀⠀⡀⠀⣀⣤⡶⠟⠋⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠙⠿⣦⣄⡈⠙⠻⢷⣦⣄⡀⠀⠀⢠⣴⣿⠿⠛⠉⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠙⠿⣷⣦⣄⠈⠙⠻⢷⣦⣤⣀⣀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣰⣿⠿⠇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ ⠀⠀⠀⢀⣀⣀⣀⣠⣾⣧⣤⣤⣴⣶⣶⣶⣶⠦⠉⠻⢿⣷⣦⣄⣀⠉⠙⠛⠿⠿⢶⣶⣶⣤⣤⣤⣄⠀⢀⣠⣿⡏⠀⠀⠀⠀⢀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ ⠀⠀⠀⠀⠻⠿⠿⠿⠛⠛⠛⠛⠻⠏⠉⠀⠀⠀⠀⠀⠀⠈⠙⠛⠿⢿⣷⣶⣤⣤⣀⣀⣀⡉⠉⠉⠁⣠⣶⣿⣿⣿⣶⣦⣤⣤⣼⣿⣧⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ ⠉⠉⠛⠛⠿⠿⠿⠿⣧⠹⣿⣿⡟⠿⠿⠿⣿⣿⣿⣿⡏⠀⠀⠀ ⠀⠀⢀⣿⡟⠀⠀⠀⠀⠀⠀⠙⠟⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ ⠘⣷⣄⣀⣠⣾⡿⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ ⠉⠉⠉ ---------------------------- ☆ Steal Everything ☆ ☆ Leave Nothing ☆ ---------------------------- EST. 2014-2026 PHP-UP-2026 PHP session.upload_progress UAF CVE-2026-109618 / CVE-2026-109619 > [HOME] [OVERVIEW] [SOURCE] [MITIGATION] [USAGE] [DOWNLOAD] phpup@C4b1NKr3W:~ [active] [*] Stage: CVE-2026-109618 / -109619 (PHP session.upload_progress heap UAF) [*] Author: J4ck3LSyN (ATLAS) [>] research: Andrew Dorman (@acd421) · Arch&Yuki (@ArchKnight23) [>] language: python · status: weaponized (lab) █ OVERVIEW Two cached bucket pointers, one freed tree. A heap use-after-fr"
+      },
+      "verdict": {
+        "model": "jev-1.13.0",
+        "score": 1.65,
+        "category": "Software Engineering",
+        "category_confidence": 0.58
       }
     },
     {
@@ -3556,6 +4153,37 @@
       }
     },
     {
+      "canonical_url": "https://teddysvoronos.com/2026-10-19-apple-broke-an-essential-presentation-feature-of-ipads/",
+      "url": "https://teddysvoronos.com/2026-10-19-apple-broke-an-essential-presentation-feature-of-ipads/",
+      "found_at": "2026-10-21T10:06:44+00:00",
+      "sources": [
+        {
+          "name": "hn",
+          "id": "50165208",
+          "title": "Apple broke an essential presentation feature of iPads",
+          "discussion_url": "https://news.ycombinator.com/item?id=50165208",
+          "score": 560,
+          "comments": 274,
+          "created_at": "2026-10-20T12:17:28Z"
+        }
+      ],
+      "page": {
+        "final_url": "https://teddysvoronos.com/2026-10-19-apple-broke-an-essential-presentation-feature-of-ipads/",
+        "status": 200,
+        "title": "Apple broke an essential presentation feature of iPads | Teddy Svoronos",
+        "description": "If you teach or present with an iPad, avoid iPadOS 27.",
+        "og_image": "https://teddysvoronos.com/assets/img/headshot-nav.jpg",
+        "favicon": "https://teddysvoronos.com/favicon.ico",
+        "text_excerpt": "Teddy Svoronos Blog Teaching Publications Apple broke an essential presentation feature of iPads If you teach or present with an iPad, avoid iPadOS 27. October 19, 2026 A brief digression from my usual teaching posts to complain about a devastating regression in iPadOS 27. If you’ve followed my work up until now, you’ll know that I rely heavily on writing on handouts from my iPad, projected via AirPlay to an external screen that my students can see. When I’m doing this, my iPad is also doing many other things: controlling a PowerPoint presentation on my Mac, showing me notes that I’ve taken on points I want to mention and students I want to call on, and showing me the results of polls before I reveal them to the class. This ability to do other things on your iPad while the audience just sees your presentation or handout is an essential part of a variety of pedagogical moves that I use in my teaching. Unfortunately, Apple just completely broke it. The problem As of iPadOS 27, if you have multiple windows open while AirPlaying (whether or not Stage Manager is on), tapping on anything other than the presenting app will snap the external display into showing your whole iPad screen. This means that my students see all my notes on who I want to call on, or poll results that should be hidden from them. They also get distracted from what we’re learning by all these jarring windows popping up and disappearing. If you’re presenting at a big conference, it’s extremely embarrassing. In GoodNotes, the presenter view will return once you tap back on the app. In Keynote, it will just exit the presentation entirely. In PowerPoint, it will put the app in a limbo where you have to restart the presentation to proceed. Here’s a Reddit post illustrating the behavior in GoodNotes. But don’t just take my word for it; try it at home! I sort of understand why Apple did this. In iPadOS 26, which app could “control” the external display was hard to identify. Essentially, you had to swipe up a"
+      },
+      "verdict": {
+        "model": "jev-1.13.0",
+        "score": 1.38,
+        "category": "Blog",
+        "category_confidence": 0.56
+      }
+    },
+    {
       "canonical_url": "https://www.reelizer.com/",
       "url": "https://www.reelizer.com/",
       "found_at": "2026-10-19T13:29:24+00:00",
@@ -3722,6 +4350,37 @@
       }
     },
     {
+      "canonical_url": "https://fulcrumsec.vg/pingcap/",
+      "url": "https://fulcrumsec.vg/pingcap/",
+      "found_at": "2026-10-21T10:06:44+00:00",
+      "sources": [
+        {
+          "name": "hn",
+          "id": "50173716",
+          "title": "PingCap TiDB Leaks",
+          "discussion_url": "https://news.ycombinator.com/item?id=50173716",
+          "score": 113,
+          "comments": 15,
+          "created_at": "2026-10-20T22:45:39Z"
+        }
+      ],
+      "page": {
+        "final_url": "https://fulcrumsec.vg/pingcap/",
+        "status": 200,
+        "title": "The PingCAP TiDB Cloud Leaks - FulcrumSec",
+        "description": "",
+        "og_image": "",
+        "favicon": "https://fulcrumsec.vg/favicon.ico",
+        "text_excerpt": "← FULCRUMSEC THE LEAKS PingCAP Inc. / TiDB Cloud • Distributed databases • 10.6 TB total exfiltration • 200 GB stage one release DOWNLOADS 10.6 TB total exfil • 4,901,203 files • 88 consecutive six-hourly exports of the production control plane, undetected • ~50 GCP storage buckets • a 533.8-million-row BigQuery warehouse • 180,046 tenant organisations • 403,262 unique emails • 115,308 plaintext customer API keys, 42,612 active • 20,645,574 customer SQL statements • 102,003,766 gateway connections • 5,036,738 customer server IPs • 377,446 Jira issues • 433,928 CRM contacts • 92 GB of tenant-tagged AWS cost data • 413 private source repos Today we are making the PingCAP breach public. We possess the complete TiDB Cloud control plane, its billing and finance estate, its GCP storage estate and its AWS cost and billing estate, its Jira, its CRM, its analytics, its source code, and a four-year log of every connection every customer ever made to its product, from the IP addresses of their application servers. PingCAP sells TiDB Cloud, the managed version of the open-source TiDB database. Banks, game studios and e-commerce platforms hand over their production workloads; PingCAP operates the clusters in a shared, multi-tenant platform, and its entire business rests on the claim that doing so is safe and secure. The rest of this post is the evidence that it is neither. For one, they seem to have zero visibility into their own cloud services. This is sadly standard among companies we breach, who will invest millions in fancy EDRs but let half a thousand S3 buckets waltz out the door. But this is a cloud provider. It is horrendous and horrendously irresponsible to be seemingly incapable of detecting mass unsubtle compromise and exfiltration of each of their cloud services: AWS, GCP, Atlassian / Jira, Azure. We continued exfiltration over nearly two months, topping up regularly after the initial ~8 terabyte exfil. We even stood up a replication feed of their own control-plane d"
+      },
+      "verdict": {
+        "model": "jev-1.13.0",
+        "score": 1.26,
+        "category": "News",
+        "category_confidence": 0.39
+      }
+    },
+    {
       "canonical_url": "https://danieltemkin.com/esolangs/folders",
       "url": "https://danieltemkin.com/esolangs/folders",
       "found_at": "2026-10-19T13:29:24+00:00",
@@ -3745,6 +4404,37 @@
         "score": 1.25,
         "category": "Software Engineering",
         "category_confidence": 0.47
+      }
+    },
+    {
+      "canonical_url": "https://github.com/golang/go/issues/82345",
+      "url": "https://github.com/golang/go/issues/82345",
+      "found_at": "2026-10-21T10:06:44+00:00",
+      "sources": [
+        {
+          "name": "hn",
+          "id": "50160877",
+          "title": "Go will reject certificate chains containing eight distrusted SPKIs",
+          "discussion_url": "https://news.ycombinator.com/item?id=50160877",
+          "score": 137,
+          "comments": 78,
+          "created_at": "2026-10-20T03:05:07Z"
+        }
+      ],
+      "page": {
+        "final_url": "https://github.com/golang/go/issues/82345",
+        "status": 200,
+        "title": "crypto/x509: mitigation for security concerns with a specific Certificate Authority · Issue #82345 · golang/go",
+        "description": "We're blocking trust in a small set of intermediate certificates due to specific security concerns around their operation. Verify will now filter out chains which contain these intermediates, preve...",
+        "og_image": "https://opengraph.githubassets.com/83525df388cbc9c6cb5993830cf690febb2752ba188651f4daec6aa92df8b191/golang/go/issues/82345",
+        "favicon": "https://github.com/fluidicon.png",
+        "text_excerpt": "Skip to content Navigation Menu Platform Solutions Resources Open Source Enterprise Pricing Sign in Sign up golang go Repository navigation Code Issues 5k+ (5k+) Pull requests 599 (599) Discussions Actions Projects Wiki Security and quality Insights crypto/x509: mitigation for security concerns with a specific Certificate Authority #82345 New issue Closed Description thatnealpatel opened Last edited by thatnealpatel Member We're blocking trust in a small set of intermediate certificates due to specific security concerns around their operation. Verify will now filter out chains which contain these intermediates, preventing them from being returned to the caller. We highly recommend immediately upgrading to this release. This is CVE-2026-111943 and Go issue https://go.dev/issue/82345. This was an URGENT track issue originally tracked in http://b/575512169. 👍 React with 👍 12 Reacted by Grigorii Khvatskii, Oleksandr Smirnov, hkeide, Nikolay Dubina, Ellen Emilia Anna Zscheile, Gibran Iqbal, Phil Porada, S., Rory, surajtaghash and 2 more 👎 React with 👎 4 Reacted by gkgoat, inkeliz, minullin and surajtaghash ❤️ React with ❤️ 8 Reacted by Nikolay Dubina, Phil Porada, Stano Bocinec, S., Rory, surajtaghash, Michael Paepcke and Ovanes 👀 React with 👀 24 Reacted by Wavering Ana, Bas van den Wollenberg, Stephen Buttolph, gkgoat, 秀吉, Ville Vesilehto, lmerz1, Jaime Hablutzel, Henrik Thorsell, cv and 14 more Activity Next thatnealpatel added this to the Go1.28 milestone thatnealpatel added Security release-blocker thatnealpatel commented thatnealpatel Last edited by dmitshur Member Author @gopherbot Please open backports for this issue. gopherbot commented gopherbot Contributor Backport issue(s) opened: #82348 (for 1.26), #82349 (for 1.27). Remember to create the cherry-pick CL(s) as soon as the patch is submitted to master, according to https://go.dev/wiki/MinorReleases. 👍 React with 👍 1 Reacted by AriESQ gopherbot added 2 commits that reference this issue [release-branch.go1.26] c"
+      },
+      "verdict": {
+        "model": "jev-1.13.0",
+        "score": 1.25,
+        "category": "Software Engineering",
+        "category_confidence": 0.94
       }
     },
     {
@@ -4111,6 +4801,37 @@
       }
     },
     {
+      "canonical_url": "https://tyma.com/my-cringe-story/",
+      "url": "https://tyma.com/my-cringe-story/",
+      "found_at": "2026-10-21T10:06:44+00:00",
+      "sources": [
+        {
+          "name": "hn",
+          "id": "50166794",
+          "title": "My Friend Bob Cringely",
+          "discussion_url": "https://news.ycombinator.com/item?id=50166794",
+          "score": 197,
+          "comments": 51,
+          "created_at": "2026-10-20T14:13:49Z"
+        }
+      ],
+      "page": {
+        "final_url": "https://tyma.com/my-cringe-story/",
+        "status": 200,
+        "title": "My Friend Bob Cringely",
+        "description": "Bob Cringely died on Oct 3, 2026",
+        "og_image": "",
+        "favicon": "https://tyma.com/favicon.ico",
+        "text_excerpt": "Paul Tyma's Blog My Friend Bob Cringely Oct 20, 2026 In 1996, I was a Ph.D. student at Syracuse University. One evening I was sitting in my office and the phone rang,__ “Hello?” “Is this Paul Tyma?” “Yes?” Bob replied in very fast English. “This is Bob Cringely. I just read 7 Java books and yours is the best.” My first thought was “Huh. He actually said my last name correctly”. But my quick 2nd thought was that there were not, in fact, 7 Java books in existence. I did indeed write a Java book, but to my knowledge, mine was the 2nd on the market and even then, I’m not sure it was the best. My Ph.D. advisor, Doug Lea, had been an early member of the Java project at Sun Microsystems. He introduced Java (and the JVM) to all his grad students and I believe something like 4 of us wrote books piggybacking upon the hype at the time. In any case, as you might know, it is not common to get accolades or even much attention for writing a programming book1. I had no idea who this “Bob Cringely” person was, but, um, Thanks! So glad you liked it - let’s talk some more about how great it is! I didn’t know it then, but Bob was way ahead of me. It’s likely he pictured me as some lonely computer geek (or “nerd” in his parlance) sitting in a tiny office tip-tapping away at some code enjoying yesterday’s pizza. (He was right). He also knew computer nerds like me were typically a bit starved for attention, especially around anything related to computer-centric achievements. Again, Bob knew his audience. He continued, “Do you do Java programming too?” Writing a programming book in the 1990’s afforded many of the same benefits as today. In other words, nearly nothing. You sure weren’t getting rich off writing books. But it did get me invites to teach Java at some Software Conferences. Which then got me invites to train Java to teams inside different companies. Because of that, my friend and I started a company around Java training. We hadn’t done any contract programming until then, but we"
+      },
+      "verdict": {
+        "model": "jev-1.13.0",
+        "score": 1.04,
+        "category": "Blog",
+        "category_confidence": 1.0
+      }
+    },
+    {
       "canonical_url": "https://lwn.net/Articles/1101143/",
       "url": "https://lwn.net/Articles/1101143/",
       "found_at": "2026-10-19T13:29:24+00:00",
@@ -4142,6 +4863,68 @@
       }
     },
     {
+      "canonical_url": "https://www.thebeliever.net/the-other-epidemic/",
+      "url": "https://www.thebeliever.net/the-other-epidemic/",
+      "found_at": "2026-10-21T10:06:44+00:00",
+      "sources": [
+        {
+          "name": "hn",
+          "id": "50173891",
+          "title": "The Other Epidemic: Trying to get off benzodiazepines",
+          "discussion_url": "https://news.ycombinator.com/item?id=50173891",
+          "score": 199,
+          "comments": 147,
+          "created_at": "2026-10-20T23:04:09Z"
+        }
+      ],
+      "page": {
+        "final_url": "https://www.thebeliever.net/the-other-epidemic/",
+        "status": 200,
+        "title": "The Other Epidemic - Believer Magazine",
+        "description": "In April of 2021, I walked into Toronto’s Centre for Addiction and Mental Health (CAMH). I had been feeling increasingly unstable, and despite not having a plan, my fantasies of suicide were getting harder to ignore. After unburdening myself to a triage nurse, I was ushered into a windowless room, relieved of my belt, and […]",
+        "og_image": "https://www.thebeliever.net/wp-content/uploads/2026/09/the-believer-opener-FINAL-CMYK.jpg",
+        "favicon": "https://www.thebeliever.net/wp-content/uploads/2018/07/cropped-B-32x32.png",
+        "text_excerpt": "Skip to content Home Open Main Navigation Open Issue Navigation The Logger 0 Items in cart Open shop navigation Open search menu × Close menu LOG IN SUBSCRIBE ESSAYS INTERVIEWS COLUMNS POETRY REVIEWS COMICS DEPARTMENTS SCHEMA WEB EXCLUSIVES The Magazine ABOUT SHOP CONTACT MASTHEAD ADVERTISING NEWSLETTER From this Issue AN INTERVIEW WITH KURT VILE Melissa Locker A REVIEW OF THE FATHERSHIP Shruti Ravindran A MICROINTERVIEW WITH LUCA TURIN Sara Black McCulloch A REVIEW OF SLOW ELEPHANTS OF MILAN Pablo Calvi Latest Issues FALL 2026 SUMMER 2026 SPRING 2026 WINTER 2025 FALL 2025 MORE SUBSCRIBE NOW × Close menu Looking for something? TYPE SOMETHING TO SEE THE THING YOU'RE ACTUALLY LOOKING FOR THE SHOP VIEW CART(0) THE OTHER EPIDEMIC September 30th, 2026 | Issue One Hundred Fifty-Five For decades, benzodiazepines have been widely prescribed and marketed as safe, but what happens when you try to get off them? DISCUSSED Depersonalization, Brain Zaps, The Ashton Manual, GABA Receptors, BenzoBuddies, Purdue Pharma, Hoffmann–La Roche, Psychic Tension, The DSM, Hypnotherapy, Ketamine, The Maudsley Deprescribing Guidelines, A Small Matisse at the Met, Pruning Pills, Sensory Waterboarding, A Wedding, Another Drug, A New Self by Brad Phillips Illustration by Chris Kim SHARE SHARE VIA FACEBOOK SHARE VIA TWITTER COPY LINK TO CLIPBOARD The Other Epidemic BRAD PHILLIPS Share via Facebook Share via Twitter Copy link to clipboard In April of 2021, I walked into Toronto’s Centre for Addiction and Mental Health (CAMH). I had been feeling increasingly unstable, and despite not having a plan, my fantasies of suicide were getting harder to ignore. After unburdening myself to a triage nurse, I was ushered into a windowless room, relieved of my belt, and given paper slippers. The doctor who visited me said he thought I should stop taking Klonopin. I was open to suggestions. Examining my chart, he shook his head at my long-term, daily use. He said I shouldn’t have been taking Klonopin for so long"
+      },
+      "verdict": {
+        "model": "jev-1.13.0",
+        "score": 1.01,
+        "category": "Magazines, Newspapers & Newsletter",
+        "category_confidence": 0.92
+      }
+    },
+    {
+      "canonical_url": "https://blogs.lse.ac.uk/impactofsocialsciences/2026/10/19/academics-have-a-duty-to-defend-open-knowledge-systems-like-wikipedia/",
+      "url": "https://blogs.lse.ac.uk/impactofsocialsciences/2026/10/19/academics-have-a-duty-to-defend-open-knowledge-systems-like-wikipedia/",
+      "found_at": "2026-10-21T10:06:44+00:00",
+      "sources": [
+        {
+          "name": "hn",
+          "id": "50170917",
+          "title": "Academics have a duty to defend open knowledge systems like Wikipedia",
+          "discussion_url": "https://news.ycombinator.com/item?id=50170917",
+          "score": 202,
+          "comments": 118,
+          "created_at": "2026-10-20T18:51:40Z"
+        }
+      ],
+      "page": {
+        "final_url": "https://blogs.lse.ac.uk/impactofsocialsciences/2026/10/19/academics-have-a-duty-to-defend-open-knowledge-systems-like-wikipedia/",
+        "status": 200,
+        "title": "Academics have a duty to defend open knowledge systems like Wikipedia - LSE Impact",
+        "description": "Wikipedia faces existential challenges from generative AI companies. Do researchers and teachers in higher education have an ethical duty to defend it?",
+        "og_image": "https://blogsmedia.lse.ac.uk/blogs.dir/9/files/2026/10/Wikipedia-Academia-Animated-LSE-Impact.gif",
+        "favicon": "https://blogsmedia.lse.ac.uk/blogs.dir/9/files/2019/02/LSE_Linked_In_Logo_400x400_DR_e0112b.jpg",
+        "text_excerpt": "Politics Economics Business Technology Sustainability Society World Book Reviews Research Blogs Community Blogs LSE Impact Understanding impact and practice in academic research About Latest Submissions Follow Us Helen Choi October 19th, 2026 Academics have a duty to defend open knowledge systems like Wikipedia 0 comments | 6 shares Estimated reading time: 6 minutes 6 Shares Despite being the most widely consulted reference work ever created Wikipedia faces existential challenges from generative AI companies whose products divert traffic away from it. Helen Choi argues academics, by virtue of their responsibilities as researchers and teachers in higher education, have an ethical duty to defend and support open knowledge communities such as Wikipedia. When people use AI products like Google’s Gemini or ChatGPT, they are treated to immediate answers. Sometimes such answers include links to Wikipedia. However, most users of AI products do not click the links to Wikipedia, choosing instead to accept machine-generated outputs without further verification. If this practice continues, readership on Wikipedia will continue to decline. The AI threat to Wikipedia This is a problem for Wikipedia because it is run by a volunteer community that does everything from writing, coding, and administration, and this community comes from Wikipedia’s readers. A decline in the number of readers means fewer articles, updates, and corrections – and ultimately, a derelict and quite possibly defunct encyclopedia. This would be a loss for humanity as well as for the AI industry itself, as it is heavily reliant upon Wikipedia and its five billion words for training the systems that run their products. Wikipedia, of course, is more than training data for machines; it is a self-governing community of people that exists independently of commercial or governmental controls. This community of volunteers exists to produce and share knowledge for the common good. It is difficult to think of any other"
+      },
+      "verdict": {
+        "model": "jev-1.13.0",
+        "score": 1.01,
+        "category": "Blog",
+        "category_confidence": 0.73
+      }
+    },
+    {
       "canonical_url": "https://www.nytimes.com/2026/10/18/opinion/business-school-mba-harvard-cornell-cambridge.html?smid=nytcore-android-share",
       "url": "https://www.nytimes.com/2026/10/18/opinion/business-school-mba-harvard-cornell-cambridge.html?smid=nytcore-android-share",
       "found_at": "2026-10-19T13:29:24+00:00",
@@ -4165,6 +4948,37 @@
         "score": 1.0,
         "category": "Magazines, Newspapers & Newsletter",
         "category_confidence": 0.65
+      }
+    },
+    {
+      "canonical_url": "https://emudhra.we-have-a-problem.com/",
+      "url": "https://emudhra.we-have-a-problem.com/",
+      "found_at": "2026-10-21T10:06:44+00:00",
+      "sources": [
+        {
+          "name": "hn",
+          "id": "50166579",
+          "title": "eMudhra intermediate CA compromise",
+          "discussion_url": "https://news.ycombinator.com/item?id=50166579",
+          "score": 958,
+          "comments": 401,
+          "created_at": "2026-10-20T13:58:33Z"
+        }
+      ],
+      "page": {
+        "final_url": "https://emudhra.we-have-a-problem.com/",
+        "status": 200,
+        "title": "eMudhra Intermediate CA Compromise",
+        "description": "eMudhra Intermediate CA Compromise",
+        "og_image": "",
+        "favicon": "https://emudhra.we-have-a-problem.com/favicon.ico",
+        "text_excerpt": "eMudhra Intermediate CA Compromise 20th October 2026 The private keys of eight eMudhra intermediate CA certificates have been compromised. They chain to roots trusted by the Mozilla, Microsoft, Apple and Chrome root programs and by many downstream trust stores. How do we know? To demonstrate that the keys are compromised, the original reporter Wayne signed the following message with the private key of each of the eight intermediate CAs and reported it to the Root Program Teams on the 17th of October: We have a problem here - Wayne proof.zip contains the message, and for each intermediate the certificate, its public key and a signature on the message. To verify with OpenSSL: openssl x509 -in EM-DV-TLS-CA-G3B.crt.pem -noout -pubkey | diff - EM-DV-TLS-CA-G3B.pub.pem openssl dgst -sha384 -verify EM-DV-TLS-CA-G3B.pub.pem -signature EM-DV-TLS-CA-G3B.sig message.txt What actions have been taken? The root programs and many downstream trust stores have taken action to protect their users. The certificates have been blocked in Firefox and Chrome since the 17th of October, in Apple devices since the 19th and on Microsoft platforms since the 20th. The issue was responsibly disclosed to downstream trust stores on the 19th of October. Many have already released updates or are in the process of releasing updates. What are the consequences? An attacker with the private key of any of the compromised intermediate CAs could impersonate any website or service. This has already been remediated by Mozilla, Microsoft, Apple, and Chrome for their users through their tools for distributing revocation information such as OneCRL, CRLite and CRLSets. The CA has also revoked the compromised intermediate certificates. However, many other clients do not consume revocation information and require software updates to ensure they no longer trust the compromised intermediates. Does your client still trust the compromised intermediates? Intermediate CA Chains to Result CN=EM DV TLS CA - G3B, O=eMudhra"
+      },
+      "verdict": {
+        "model": "jev-1.13.0",
+        "score": 0.99,
+        "category": "News",
+        "category_confidence": 0.76
       }
     },
     {
@@ -4309,6 +5123,37 @@
         "score": 0.84,
         "category": "Blog",
         "category_confidence": 0.88
+      }
+    },
+    {
+      "canonical_url": "https://prestonbyrne.com/2026/10/20/ofcom-concedes-defeat/",
+      "url": "https://prestonbyrne.com/2026/10/20/ofcom-concedes-defeat/",
+      "found_at": "2026-10-21T10:06:44+00:00",
+      "sources": [
+        {
+          "name": "hn",
+          "id": "50167028",
+          "title": "Ofcom concedes defeat in 4chan case",
+          "discussion_url": "https://news.ycombinator.com/item?id=50167028",
+          "score": 392,
+          "comments": 307,
+          "created_at": "2026-10-20T14:30:31Z"
+        }
+      ],
+      "page": {
+        "final_url": "https://prestonbyrne.com/2026/10/20/ofcom-concedes-defeat/",
+        "status": 200,
+        "title": "Ofcom Concedes Defeat in the 4chan Case",
+        "description": "Insofar as a political organization like Ofcom is even capable of admitting defeat, it did so in the 4chan enforcement today. In testimony before the Commons Digital, Culture, Media, and Sport Comm…",
+        "og_image": "https://prestonbyrne.com/wp-content/uploads/2026/10/hamster.jpg",
+        "favicon": "https://s0.wp.com/i/webclip.png",
+        "text_excerpt": "Skip to content Preston Byrne HOME CONTACT THE FIRM ABOUT MEDIA FIGHTING INTERNET CENSORSHIP THE BACK OF THE ENVELOPE (A BLOG) FREE SPEECH Ofcom Concedes Defeat in the 4chan Case OCTOBER 20, 2026 Insofar as a political organization like Ofcom is even capable of admitting defeat, it did so in the 4chan enforcement today. In testimony before the Commons Digital, Culture, Media, and Sport Committee, Ofcom admitted it knows its jurisdiction ends where a foreign court’s jurisdiction begins. “We won’t be able to recover every single fine on online safety. If foreign courts decide to try and get in our way, there will be a point at which we have to accept that we won’t be able to recover that money.” – Dame Melanie Dawes, Chief Executive, Ofcom Guido Fawkes characterizes this admission thus: “Ofcom Admits Defeat.” Guido is right. American courts have, by now, provided their preliminary view on the likelihood of Ofcom’s enforcement powers being successful in U.S. courts – the obiter dicta in 4chan v. Ofcom, the opinion in the case we filed against Ofcom in the federal District Court for the District of Columbia a little over a year ago. Those dicta made it awfully clear that Ofcom can expect a very chilly reception in an American courtroom if it ever tries to enforce its fines in the United States. By way of reminder, the Court in 4chan said: Because Plaintiffs represent that they have “no presence, infrastructure, or operations abroad,” Pls.’ Opp’n at 5; Compl. paras. 20, 24, that likely means enforcing any judgment in the United States. At that point, Plaintiffs could avail themselves of the protection of American courts. Unless Ofcom is prepared to sail a British invasion fleet here and land ground troops, enforcement would indeed have to proceed through American courts. Which presents the following problem for Ofcom: American courts generally decline to enforce foreign judgments that violate the United States Constitution, if indeed Plaintiffs are correct in their const"
+      },
+      "verdict": {
+        "model": "jev-1.13.0",
+        "score": 0.83,
+        "category": "Blog",
+        "category_confidence": 0.71
       }
     },
     {
@@ -4530,6 +5375,37 @@
       }
     },
     {
+      "canonical_url": "https://arstechnica.com/security/2026/10/meta-muse-exposes-users-personal-and-business-secrets-when-they-share-conversations/",
+      "url": "https://arstechnica.com/security/2026/10/meta-muse-exposes-users-personal-and-business-secrets-when-they-share-conversations/",
+      "found_at": "2026-10-21T10:06:44+00:00",
+      "sources": [
+        {
+          "name": "hn",
+          "id": "50174687",
+          "title": "Muse exposes users' personal and business secrets when they share conversations",
+          "discussion_url": "https://news.ycombinator.com/item?id=50174687",
+          "score": 178,
+          "comments": 75,
+          "created_at": "2026-10-21T00:45:59Z"
+        }
+      ],
+      "page": {
+        "final_url": "https://arstechnica.com/security/2026/10/meta-muse-exposes-users-personal-and-business-secrets-when-they-share-conversations/",
+        "status": 200,
+        "title": "Meta Muse exposes users' personal and business secrets when they share conversations",
+        "description": "Meta is suspending the sharing feature while it investigates its privacy.",
+        "og_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/ai-robot-hand-caution-1152x648.jpg",
+        "favicon": "https://cdn.arstechnica.net/wp-content/uploads/2016/10/cropped-ars-logo-512_480-60x60.png",
+        "text_excerpt": "Skip to content ARS TECHNICA HOME SECTIONS FORUM SUBSCRIBE THEME SEARCH SIGN IN GHOSTSHARES Meta Muse exposes users’ personal and business secrets when they share conversations Meta is suspending the sharing feature while it investigates its privacy. DAN GOODIN – OCT 20, 2026 12:33 PM | 94 Credit: Getty Images Muse, the new general-purpose AI agent from Meta, can expose sensitive information when users share conversations through web links, researchers reported Monday. In response to questions from Ars about the behavior, Meta said it’s suspending the sharing feature while the company reviews it and considers making changes. Like many online services, Muse has allowed users to share searches, conversations, images, and similar content with other people. Such share features usually involve clicking an option to create a unique URL that anyone can use to load a page hosting the content. To keep potentially sensitive information from being accessible to unintended people, the URLs typically contain a long sequence of text that can’t be easily guessed. A single query is all that’s required Muse, which Meta CEO Mark Zuckerberg said last month was “built from the ground up for privacy and security,” seems to take the same precautions. But a central design decision for constructing URLs has made the links easy to discover. As a result, researchers from security firm Claroc said they were able to enumerate 6,800 links Muse users created for sharing conversations with others. After opening a few hundred of them, the researchers found information that was clearly not intended to be publicly available, including: a candidate’s notes preparing for a confidential executive-search call with a frontier AI lab, naming the lab’s internal contact and the meeting time a national marketing company’s internal revenue review, marked for its CEO a small-business owner’s loan application, with the amount requested a to-do list that included a bank fraud alert, with a partial account number"
+      },
+      "verdict": {
+        "model": "jev-1.13.0",
+        "score": 0.74,
+        "category": "News",
+        "category_confidence": 0.64
+      }
+    },
+    {
       "canonical_url": "https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web",
       "url": "https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web",
       "found_at": "2026-10-19T13:29:24+00:00",
@@ -4650,6 +5526,68 @@
         "score": 0.7,
         "category": "Science",
         "category_confidence": 0.86
+      }
+    },
+    {
+      "canonical_url": "https://www.php.net/archive/2026.php",
+      "url": "https://www.php.net/archive/2026.php",
+      "found_at": "2026-10-21T10:06:44+00:00",
+      "sources": [
+        {
+          "name": "hn",
+          "id": "50171528",
+          "title": "Upcoming Critical PHP Security Release",
+          "discussion_url": "https://news.ycombinator.com/item?id=50171528",
+          "score": 128,
+          "comments": 17,
+          "created_at": "2026-10-20T19:34:03Z"
+        }
+      ],
+      "page": {
+        "final_url": "https://www.php.net/archive/2026.php",
+        "status": 200,
+        "title": "PHP: News Archive - 2026",
+        "description": "PHP is a popular general-purpose scripting language that powers everything from your blog to the most popular websites in the world.",
+        "og_image": "https://www.php.net/images/meta-image.png",
+        "favicon": "https://www.php.net/favicon.svg?v=2",
+        "text_excerpt": "Downloads Documentation Get Involved Help Search docs Upcoming Critical PHP Security Release News Archive - 2026 Here are the most important news items we have published in 2026 on PHP.net. 20 Oct 2026 Upcoming Critical PHP Security Release The PHP security team would like to give advance notice of an upcoming security release. It is scheduled for Wednesday, 21 October 2026 at 14:00 UTC. It addresses two critical vulnerabilities, both rated CVSS v4.0 9.2. All PHP users are encouraged to prepare now so they can upgrade as soon as the release is available. We reserve the right to release earlier should details of either vulnerability become public, or should evidence of active exploitation appear in the wild. Full details, affected versions, and the fixed versions will be published with the release. Thank you for helping us keep PHP secure. 08 Oct 2026 PHP 8.6.0 RC3 available for testing The PHP team is pleased to announce the first release candidate of PHP 8.6.0, RC3. This continues the PHP 8.6 release cycle, whose rough outline is specified in the PHP Wiki. Source downloads of PHP 8.6.0 RC3 are available on the download page. Please carefully test this version and report any issues found in the GitHub Issues. Please DO NOT use this version in production, it is an early test version. For more information on the new features and other changes, you can read the NEWS file, or the UPGRADING file for a complete list of upgrading notes. These files can also be found in the release archive. The next release will be RC4, planned for 22 October 2026. The signatures for the release can be found in the manifest or on the pre-release builds page. Thank you for helping us make PHP better. 24 Sep 2026 PHP 8.4.26 Released! The PHP development team announces the immediate availability of PHP 8.4.26. This is a security release. All PHP 8.4 users are encouraged to upgrade to this version. For source downloads of PHP 8.4.26 please visit our downloads page, Windows source and binaries c"
+      },
+      "verdict": {
+        "model": "jev-1.13.0",
+        "score": 0.69,
+        "category": "Software Engineering",
+        "category_confidence": 0.52
+      }
+    },
+    {
+      "canonical_url": "https://krebsonsecurity.com/2026/10/feds-suspect-ransom-negotiator-ran-shinyhunters-extortion-site/",
+      "url": "https://krebsonsecurity.com/2026/10/feds-suspect-ransom-negotiator-ran-shinyhunters-extortion-site/",
+      "found_at": "2026-10-21T10:06:44+00:00",
+      "sources": [
+        {
+          "name": "hn",
+          "id": "50173487",
+          "title": "Feds suspect ransom negotiator ran ShinyHunters extortion site",
+          "discussion_url": "https://news.ycombinator.com/item?id=50173487",
+          "score": 203,
+          "comments": 94,
+          "created_at": "2026-10-20T22:21:05Z"
+        }
+      ],
+      "page": {
+        "final_url": "https://krebsonsecurity.com/2026/10/feds-suspect-ransom-negotiator-ran-shinyhunters-extortion-site/",
+        "status": 200,
+        "title": "Feds Suspect Ransom Negotiator Ran ShinyHunters Extortion Site – Krebs on Security",
+        "description": "",
+        "og_image": "",
+        "favicon": "https://krebsonsecurity.com/favicon.ico",
+        "text_excerpt": "Advertisement Skip to content HOMEABOUT THE AUTHOR ADVERTISING/SPEAKING Feds Suspect Ransom Negotiator Ran ShinyHunters Extortion Site October 19, 2026 9 Comments U.S. federal investigators pursuing the ShinyHunters hacking group that recently stole highly sensitive data from the FBI have identified executives at two different ransomware negotiation firms who maintained unusually close relations with the extortion group, KrebsOnSecurity has learned. Sources close to the investigation say one of the executives in the United States even helped ShinyHunters operate a website that pressured victims into paying a ransom. Hackers aligned with ShinyHunters have claimed credit for dozens of major data breaches since 2019, when the group was primarily operated by cybercriminals living in France. As those original members were arrested or jailed one by one, control over the ShinyHunters brand eventually passed to “Rey,” identified last year as a teenage hacker from Amman, Jordan. According to the FBI, ShinyHunters has extorted more than $70 million from victims so far this year. In late September, ShinyHunters hacked the FBI recruitment website fbijobs.gov and taunted the agency by threatening to publish the stolen files, which reportedly included medical and psychological records, Social Security numbers and home addresses, and information about each employee’s unit and specialization. The FBI jobs site hack has prompted the agency to move with uncommon speed to arrest, detain and question people who had any communications with Rey or other ShinyHunters suspects. Reuters reported on October 3 that Rey had been detained by Jordanian authorities and was cooperating with the FBI. Rey was able to assume control over the hacking group because one of its alleged senior members had just been nabbed. On the evening of September 15, 2026, authorities in the Netherlands arrested convicted hacker and ShinyHunters suspect Pepijn van der Stap. Dutch police reportedly used flash-bang gren"
+      },
+      "verdict": {
+        "model": "jev-1.13.0",
+        "score": 0.66,
+        "category": "News",
+        "category_confidence": 0.91
       }
     },
     {
@@ -4855,6 +5793,37 @@
       }
     },
     {
+      "canonical_url": "https://e360.yale.edu/digest/deepwater-horizon-deep-sea-recovery",
+      "url": "https://e360.yale.edu/digest/deepwater-horizon-deep-sea-recovery",
+      "found_at": "2026-10-21T10:06:44+00:00",
+      "sources": [
+        {
+          "name": "hn",
+          "id": "50168357",
+          "title": "Sixteen years after Deepwater Horizon, deep sea life shows few signs of recovery",
+          "discussion_url": "https://news.ycombinator.com/item?id=50168357",
+          "score": 281,
+          "comments": 161,
+          "created_at": "2026-10-20T15:59:06Z"
+        }
+      ],
+      "page": {
+        "final_url": "https://e360.yale.edu/digest/deepwater-horizon-deep-sea-recovery",
+        "status": 200,
+        "title": "Sixteen Years After Deepwater Horizon, Deep Sea Life Shows Few Signs of Recovery",
+        "description": "",
+        "og_image": "https://yale-threesixty.transforms.svdcdn.com/production/Deepwater-Horizon-Spill_Wikipedia.jpg?w=1200&q=60&auto=format&fit=max&dm=1792489301&s=ff36b6fd91e134824960f411e3836588",
+        "favicon": "https://e360.yale.edu/assets/img/favicons/apple-touch-icon-57x57.png",
+        "text_excerpt": "CLOSE / ← → Search SEARCH Yale Environment 360 Published at the Yale School of the Environment Explore Search About E360 E360 DIGEST OCTOBER 20, 2026 Sixteen Years After Deepwater Horizon, Deep Sea Life Shows Few Signs of Recovery An oil slick in the Gulf of Mexico after the Deepwater Horizon oil spill in 2010. KRIS KRÜG VIA WIKIPEDIA Sixteen years after an explosion on the Deepwater Horizon oil rig unleashed more than 4 million barrels of oil into the Gulf of Mexico, life in the deep sea has yet to recover. A new study finds that in the first few years after the 2010 disaster, populations of octopus, squid, krill, shrimp, and lanternfish declined by at least 60 percent. The research, based on acoustic surveys and thousands of netted samples across a broad swath of the Gulf of Mexico, found little evidence that life in the deep sea has bounced back. The study, published in the Proceedings of the National Academy of Sciences, described the losses as “the fastest and most severe” decline of animal life in the ocean layer that extends from about 600 feet deep to more than two miles down. While researchers stopped short of concluding that the oil spill had caused the declines, they said it was “the most parsimonious explanation.” Since the disaster, scientists have found oil-related compounds in the flesh of squid and octopus and in fish eggs deep underwater, contamination that they say can impair reproduction and development or lead to an early death. Lingering pollution may make it harder for deep-sea fish that are guided by their sense of smell to find mates. Beyond the drop in population numbers, the new study also found some declines in genetic diversity. The risk, authors say, is that populations may not harbor the genetic traits needed to survive in a rapidly changing world. ALSO ON YALE E360 The U.S. Public Is Losing Its Say on Environmental Policy Facebook Twitter LinkedIn Email RELATED ARTICLES Sargassum Superbloom: Seaweed Scourge or Ecological Boon? By FRED "
+      },
+      "verdict": {
+        "model": "jev-1.13.0",
+        "score": 0.58,
+        "category": "Science",
+        "category_confidence": 0.78
+      }
+    },
+    {
       "canonical_url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropics-proposed-ai-safety-bill-only-kicks-in-if-50-deaths-or-usd1-billion-in-damages-are-on-the-line-proposal-would-effectively-make-the-commerce-department-the-only-agency-capable-of-stopping-an-ai-model",
       "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropics-proposed-ai-safety-bill-only-kicks-in-if-50-deaths-or-usd1-billion-in-damages-are-on-the-line-proposal-would-effectively-make-the-commerce-department-the-only-agency-capable-of-stopping-an-ai-model",
       "found_at": "2026-10-19T13:29:24+00:00",
@@ -4938,6 +5907,37 @@
       }
     },
     {
+      "canonical_url": "https://www.ign.com/articles/steam-fans-are-begging-for-a-no-ai-filter-as-steam-next-fest-is-filled-with-slop",
+      "url": "https://www.ign.com/articles/steam-fans-are-begging-for-a-no-ai-filter-as-steam-next-fest-is-filled-with-slop",
+      "found_at": "2026-10-21T10:06:44+00:00",
+      "sources": [
+        {
+          "name": "hn",
+          "id": "50168190",
+          "title": "Steam Users Beg for \"No AI\" Filter as Vibecoders Flood Next Fest",
+          "discussion_url": "https://news.ycombinator.com/item?id=50168190",
+          "score": 177,
+          "comments": 210,
+          "created_at": "2026-10-20T15:48:26Z"
+        }
+      ],
+      "page": {
+        "final_url": "https://www.ign.com/articles/steam-fans-are-begging-for-a-no-ai-filter-as-steam-next-fest-is-filled-with-slop",
+        "status": 200,
+        "title": "Steam Fans Are Begging for a No-AI Filter as Steam Next Fest Is Filled With Slop",
+        "description": "Steam Next Fest, Valve's festival for indie games and demos, started earlier today, and while there are usually a ton of low-effort games, there seems to be more than usual this time around.",
+        "og_image": "https://assets-prd.ignimgs.com/2023/07/01/steam-blogroll-logos-1663887576752-1673156937925-1688244430676.jpg?width=1280&format=jpg&auto=webp&quality=80",
+        "favicon": "https://kraken.ignimgs.com/favicon.ico",
+        "text_excerpt": "Skip to content Shorts Daily Games Entertainment Reviews Guides Join for free HOME›NEWS›STEAM MACHINE Steam Fans Are Begging for a No-AI Filter as Steam Next Fest Is Filled With Slop Close the floodgates. BY JACQUELINE THOMAS UPDATED: OCT 19, 2026 9:38PM UTC 89 COMMENTS Add IGN on Google Steam Next Fest, Valve's festival for indie games and demos, started earlier today, and while there are usually a ton of low-effort games included, there seems to be more than usual this time around. Browsing through the Next Fest, it's easy to spot plenty of games with art that looks like it was generated with a quick ChatGPT prompt. And now that Claude Opus 5.5 is out and has been at the center of the decompilation and mashup mod explosion that's been happening over the last few weeks, it's not surprising that there'd be a deluge of games that are either being promoted using AI-generated images or were just flat-out generated with AI. Unsurprisingly, there are a lot of Steam fans who aren't exactly excited about having to dig through these AI games to find human-made material, with one user straight up begging Steam to filter out the slop. In a post on the Steam subreddit, user ScalesGhost wrote: \"I've been looking over the Next Fest, and I really enjoy the Discovery Queue feature, I just wish I could personalize it a bit more. Specifically, I would like the ability to filter out all games that have AI-Generated content in them (after all, steam already requires you to disclose it), and also I'd like to exclude certain tags, e.g. Incremental Games.\" Steam already has a robust tagging system, so this kind of filter wouldn't be a huge lift to implement, but Valve did cut down the amount of user-defined tags back in May. Iin order for that kind of filter to exist, Valve would have to add 'AI' as a tag. ScalesGhost is far from the only person who's noticed the amount of low-effort submissions in this Next Fest. In another thread about how AI has \"ruined Next Fest,\" user EmmaBooney sai"
+      },
+      "verdict": {
+        "model": "jev-1.13.0",
+        "score": 0.55,
+        "category": "Games",
+        "category_confidence": 0.88
+      }
+    },
+    {
       "canonical_url": "https://www.theguardian.com/society/2026/oct/17/39-pictures-that-changed-the-way-we-see-men-for-good-and-for-bad",
       "url": "https://www.theguardian.com/society/2026/oct/17/39-pictures-that-changed-the-way-we-see-men-for-good-and-for-bad",
       "found_at": "2026-10-19T13:29:24+00:00",
@@ -4987,6 +5987,37 @@
         "score": 0.54,
         "category": "News",
         "category_confidence": 0.66
+      }
+    },
+    {
+      "canonical_url": "https://unric.org/en/unep-emissions-gap-report-2026-1-5-degree-overshoot/",
+      "url": "https://unric.org/en/unep-emissions-gap-report-2026-1-5-degree-overshoot/",
+      "found_at": "2026-10-21T10:06:44+00:00",
+      "sources": [
+        {
+          "name": "hn",
+          "id": "50177911",
+          "title": "The 1.5°C goal of the Paris Agreement is no longer viable",
+          "discussion_url": "https://news.ycombinator.com/item?id=50177911",
+          "score": 125,
+          "comments": 103,
+          "created_at": "2026-10-21T09:07:49Z"
+        }
+      ],
+      "page": {
+        "final_url": "https://unric.org/en/unep-emissions-gap-report-2026-1-5-degree-overshoot/",
+        "status": 200,
+        "title": "Climate: The 1.5°C goal of the Paris Agreement is no longer viable",
+        "description": "UNEP's Emissions Gap Report 2026 warns that exceeding 1.5°C is inevitable and calls for urgent emissions cuts to limit warming and reverse the trend.",
+        "og_image": "https://e4k4c4x9.delivery.rocketcdn.me/en/wp-content/uploads/sites/15/2026/10/city-smog.jpg",
+        "favicon": "https://e4k4c4x9.delivery.rocketcdn.me/en/wp-content/uploads/sites/15/2024/05/un-favicon.png",
+        "text_excerpt": "Home About us UK | Ireland United Kingdom of Great Britain and Northern Ireland Republic of Ireland UN and the Nordic countries Contact UN in Brussels European Youth Event 2025 UN Brussels Team News Events The Week Ahead Ciné-ONU | UN Cinema UN-EU Partnership UN Trail – Sonian Forest UN Careers Employment and internships Brussels Vacancies Agenda 2030 17 Goals to transform our world ACTNOW Campaign ‘Go-Goals’ SDG Game Cycling for the Global Goals Digital Media Artificial intelligence Video Games Podcasts Mobile Apps UN Resources Far from the Headlines Backgrounders UN e-learning courses UN Competitions Newsletter Newsletters, Journals, Bulletins UN Awards UN and Me Databases UN Research Guides UN Depository Libraries, UN Sales Publications Publication List Fellowships, Scholarships, Grants and Talent programmes Welcome to the United Nations Language Regional Information Centre for Western Europe LIVE NOW Search A-Z Site Index Home About us UN in Brussels UN Careers Agenda 2030 Digital Media UN Resources Climate: The 1.5°C goal of the Paris Agreement is no longer viable 3 min. 21/10/2026 Climate: reducing emissions is an absolute urgency. © Léo Visions/Unsplash. Share The target set in 2015 by the Paris Agreement—to limit global warming to 1.5°C by 2100—has become unachievable within the span of a single decade, the United Nations Environment Programme (UNEP) notes in its 2026 Emissions Gap Report. “The opportunity to bridge the 1.5°C emissions gap with ‘no or limited’ overshoot has been lost,” states the report, titled “The Point of Return.” Exceeding the 1.5°C threshold above pre-industrial levels is now imminent and inevitable. New goal: not exceed 2°C, then bring the temperature back down to 1.5°C “Every additional fraction of a degree and additional year of warming above 1.5°C raises the risk of irreversible changes including in ice sheets, permafrost carbon, ocean circulation and coral systems, along with devastating human impacts,” the report states. The urgen"
+      },
+      "verdict": {
+        "model": "jev-1.13.0",
+        "score": 0.54,
+        "category": "News",
+        "category_confidence": 0.96
       }
     },
     {
@@ -5070,6 +6101,37 @@
         "score": 0.51,
         "category": "News",
         "category_confidence": 0.86
+      }
+    },
+    {
+      "canonical_url": "https://www.heistberlin.com/news/afd-leak-what-421-179-hacked-emails-show-about-the-german-far-right/",
+      "url": "https://www.heistberlin.com/news/afd-leak-what-421-179-hacked-emails-show-about-the-german-far-right/",
+      "found_at": "2026-10-21T10:06:44+00:00",
+      "sources": [
+        {
+          "name": "hn",
+          "id": "50163502",
+          "title": "AfD Leak: What 421,179 Hacked Emails Show about the German Far Right",
+          "discussion_url": "https://news.ycombinator.com/item?id=50163502",
+          "score": 380,
+          "comments": 537,
+          "created_at": "2026-10-20T09:35:40Z"
+        }
+      ],
+      "page": {
+        "final_url": "https://www.heistberlin.com/news/afd-leak-what-421-179-hacked-emails-show-about-the-german-far-right/",
+        "status": 200,
+        "title": "AfD Leak: What 421,179 Hacked Emails Show about the German Far Right",
+        "description": "Hackers have published 281 GB of AfD emails as AI summaries, showing widespread antisemitism, racism, violent fantasies and alleged financial misconduct.",
+        "og_image": "https://storage.ghost.io/c/98/53/98532a3a-3542-4bcd-a05e-a2672d5c28c1/content/images/size/w1200/2026/10/x-card--31--2.png",
+        "favicon": "https://storage.ghost.io/c/98/53/98532a3a-3542-4bcd-a05e-a2672d5c28c1/content/images/size/w256h256/2026/03/nefertit-8-bit.png",
+        "text_excerpt": "HEIST News Features Food Map Interviews Weekend Podcast Sign in Subscribe News AfD AfD Leak: What 421,179 Hacked Emails Show about the German Far Right Hackers have published 281 GB of AfD emails as AI summaries, showing widespread antisemitism, racism, violent fantasies and alleged financial misconduct. HEIST · Tuesday, October 20, 2026 Share Image: Hexane.cc A vast archive of hacked emails from the AfD was published online on Monday: 281 GB containing 421,179 internal party emails. And, for anyone who might have grown confused about claims of antisemitism while it was plastered over the German news media in the weeks following the Berlin election: here you can see what it really looks like. In email after email, party supporters use racist slurs and share antisemitic theories of Jewish world domination; there are jokes about turning refugees into handbags and boots, discussions of whether refugees should be shot at the border, a Christmas card sent with a swastika and “Heil Hitler”, and an email thread signed off with “Heil und Sieg”. YOU'VE READ 21% Give us your email to read the full story Sign Up for Free You'll be added to our newsletter. See our privacy policy and unsubscribe anytime. Already have an account? Sign in HEIST is a worker-owned online magazine, founded by writers and editors who after years working across Berlin's media landscape believed something essential was missing. Anyone living here has felt a growing gap between the city as it actually is and the version being served up by mainstream outlets. We experienced that disconnect firsthand. We saw political censorship shape coverage decisions and felt the weight of billionaire ownership land directly on our work. It reached a point where we could either keep going along with it, or try to build something better. That's why we created HEIST. And look at you: scrolling, clicking, squinting at blurred text just to get a little further. If you'll go to that much effort to read HEIST, you can surely "
+      },
+      "verdict": {
+        "model": "jev-1.13.0",
+        "score": 0.51,
+        "category": "News",
+        "category_confidence": 0.91
       }
     },
     {
@@ -5329,6 +6391,37 @@
         "score": 0.46,
         "category": "Developer Tools",
         "category_confidence": 0.74
+      }
+    },
+    {
+      "canonical_url": "https://www.reuters.com/business/anthropic-recorded-net-loss-over-80-billion-first-half-this-year-wsj-reports-2026-10-20/",
+      "url": "https://www.reuters.com/business/anthropic-recorded-net-loss-over-80-billion-first-half-this-year-wsj-reports-2026-10-20/",
+      "found_at": "2026-10-21T10:06:44+00:00",
+      "sources": [
+        {
+          "name": "hn",
+          "id": "50171966",
+          "title": "Anthropic logged net loss of over $80B in first half of 2026",
+          "discussion_url": "https://news.ycombinator.com/item?id=50171966",
+          "score": 150,
+          "comments": 69,
+          "created_at": "2026-10-20T20:09:46Z"
+        }
+      ],
+      "page": {
+        "final_url": "https://www.reuters.com/business/anthropic-recorded-net-loss-over-80-billion-first-half-this-year-wsj-reports-2026-10-20/",
+        "status": 401,
+        "title": "reuters.com",
+        "description": "",
+        "og_image": "",
+        "favicon": "https://www.reuters.com/favicon.ico",
+        "text_excerpt": ""
+      },
+      "verdict": {
+        "model": "jev-1.13.0",
+        "score": 0.45,
+        "category": "News",
+        "category_confidence": 0.84
       }
     },
     {
@@ -5700,6 +6793,37 @@
       }
     },
     {
+      "canonical_url": "https://mastodon.gamedev.place/@AshleyGullen/117473851565913919",
+      "url": "https://mastodon.gamedev.place/@AshleyGullen/117473851565913919",
+      "found_at": "2026-10-21T10:06:44+00:00",
+      "sources": [
+        {
+          "name": "hn",
+          "id": "50167536",
+          "title": "Facebook Pages require paid subscription to post more than two links per month",
+          "discussion_url": "https://news.ycombinator.com/item?id=50167536",
+          "score": 442,
+          "comments": 386,
+          "created_at": "2026-10-20T15:06:08Z"
+        }
+      ],
+      "page": {
+        "final_url": "https://mastodon.gamedev.place/@AshleyGullen/117473851565913919",
+        "status": 200,
+        "title": "Ashley Gullen (@AshleyGullen@mastodon.gamedev.place)",
+        "description": "Attached: 1 image\n\nFacebook achieving absurd new heights of enshittification by now charging a subscription of at least $50/mo to... post more than two links a month to your own Facebook page. Covers comments too. Subscription not even available in UK yet. Don't know why we bother with them.\n\nTheir documentation about this: https://www.facebook.com/help/1929252614431792",
+        "og_image": "https://cdn.masto.host/mastodongamedevplace/media_attachments/files/117/473/851/121/967/109/original/2fb667edf9ac327a.png",
+        "favicon": "https://mastodon.gamedev.place/packs/assets/favicon-16x16-74JBPGmr.png",
+        "text_excerpt": "Skip to main content Hotkey 1 Skip to main navigation Hotkey 2 mastodon.gamedev.place is one of the many independent Mastodon servers you can use to participate in the fediverse. Mastodon server focused on game development and related topics. ADMINISTERED BY: Aras Pranckevičius @aras SERVER STATS: 4.3K active users mastodon.gamedev.place:About mastodon.gamedev.place Profiles directoryPrivacy policy Mastodon:About Mastodon Get the appKeyboard shortcutsView source codev4.7.3 Back Ashley Gullen @AshleyGullen@mastodon.gamedev.place Facebook achieving absurd new heights of enshittification by now charging a subscription of at least $50/mo to... post more than two links a month to your own Facebook page. Covers comments too. Subscription not even available in UK yet. Don't know why we bother with them. Their documentation about this: https://www. facebook.com/help/192925261443 1792 Hide Oct 20, 2026, 03:05 PM · 20 boosts · 1 quote · 20 favorites julian @julian@activitypub.space 18h @ashleygullen@mastodon.gamedev.place this is actually actively harming the creators themselves (the businesses and groups)... I can't fathom why they would do something like this. All the same, it just gives additional reason to migrate over to something not locked-in, like a federated forum for group discussions? 1 Paolo Amoroso @amoroso@oldbytes.space 16h @julian Meta knows they can get away with this because users have essentially infinite tolerance to abuse. @AshleyGullen 0 John Doe @abhiyantrik@mastodon.social 17h @AshleyGullen Facebook is just cashcow for Meta. They wil milk it as long as non-business people are hooked to it. 0 John Doe @abhiyantrik@mastodon.social 17h * @AshleyGullen Funny that this orginal post was posted in Hacker news and that repost has more than 150 comments, whereas the original post has barely any comments. 0 Petra van Cronenburg @NatureMC@mastodon.online 16h @AshleyGullen 0 Nothin_left_to_do @Nothin_left_to_do@mathstodon.xyz 16h @AshleyGullen Not surprised, they "
+      },
+      "verdict": {
+        "model": "jev-1.13.0",
+        "score": 0.36,
+        "category": "Social Networking",
+        "category_confidence": 0.92
+      }
+    },
+    {
       "canonical_url": "https://cooking.nytimes.com/recipes/790784899-sausage-orzo-with-sage-bread-crumbs",
       "url": "https://cooking.nytimes.com/recipes/790784899-sausage-orzo-with-sage-bread-crumbs",
       "found_at": "2026-10-19T13:29:24+00:00",
@@ -5994,6 +7118,37 @@
       }
     },
     {
+      "canonical_url": "https://news-web.php.net/php.announce/509",
+      "url": "https://news-web.php.net/php.announce/509",
+      "found_at": "2026-10-21T10:06:44+00:00",
+      "sources": [
+        {
+          "name": "hn",
+          "id": "50172041",
+          "title": "Upcoming critical PHP security release (CVE-2026-109618 / -109619)",
+          "discussion_url": "https://news.ycombinator.com/item?id=50172041",
+          "score": 868,
+          "comments": 352,
+          "created_at": "2026-10-20T20:15:50Z"
+        }
+      ],
+      "page": {
+        "final_url": "https://news-web.php.net/php.announce/509",
+        "status": 502,
+        "title": "502 Bad Gateway",
+        "description": "",
+        "og_image": "",
+        "favicon": "https://bunnynetassets.b-cdn.net/error.png",
+        "text_excerpt": "ERROR 502 Bad Gateway We could not establish a connection to news-web.php.net You IP: 172.214.45.240 bunny.net Edge Network news-web.php.net Your Destination What happened? There was a problem that occured while connecting to news-web.php.net origin server. The server hosting the website might be unavailable. What can I do? If you are a visitor, please try again in a few minutes. If you are the administrator, please check your origin server status."
+      },
+      "verdict": {
+        "model": "jev-1.13.0",
+        "score": 0.26,
+        "category": "News",
+        "category_confidence": 0.42
+      }
+    },
+    {
       "canonical_url": "http://www.boredhackerblog.info/2026/10/plex-vulnerabilities-being-exploited-in.html",
       "url": "http://www.boredhackerblog.info/2026/10/plex-vulnerabilities-being-exploited-in.html",
       "found_at": "2026-10-20T10:02:10+00:00",
@@ -6022,6 +7177,37 @@
         "score": 0.25,
         "category": "Blog",
         "category_confidence": 0.34
+      }
+    },
+    {
+      "canonical_url": "https://www.neowin.net/news/google-cloud-outage-takes-down-hsbc-revolut-bank-of-scotland-llyods-equifax-more/",
+      "url": "https://www.neowin.net/news/google-cloud-outage-takes-down-hsbc-revolut-bank-of-scotland-llyods-equifax-more/",
+      "found_at": "2026-10-21T10:06:44+00:00",
+      "sources": [
+        {
+          "name": "hn",
+          "id": "50163961",
+          "title": "Google Cloud outage affects almost all banking and other operations in Europe",
+          "discussion_url": "https://news.ycombinator.com/item?id=50163961",
+          "score": 389,
+          "comments": 195,
+          "created_at": "2026-10-20T10:26:02Z"
+        }
+      ],
+      "page": {
+        "final_url": "https://www.neowin.net/news/google-cloud-outage-takes-down-hsbc-revolut-bank-of-scotland-llyods-equifax-more/",
+        "status": 403,
+        "title": "Just a moment...",
+        "description": "",
+        "og_image": "",
+        "favicon": "https://www.neowin.net/favicon.ico",
+        "text_excerpt": "www.neowin.net Performing security verification This website uses a security service to protect against malicious bots. This page is displayed while the website verifies you are not a bot. Ray ID: a4df74ecabce165c Performance and Security by Cloudflare Privacy"
+      },
+      "verdict": {
+        "model": "jev-1.13.0",
+        "score": 0.25,
+        "category": "News",
+        "category_confidence": 0.94
       }
     },
     {
