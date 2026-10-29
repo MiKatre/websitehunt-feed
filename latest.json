@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-28T11:19:50+00:00",
+  "updated_at": "2026-10-29T11:30:10+00:00",
   "coverage_gaps": [],
   "items": [
     {
@@ -1247,6 +1247,38 @@
       "screenshot": "shots/2026/10-23/github-com-raine-workmux.jpg"
     },
     {
+      "canonical_url": "https://divagr.com/blog/qwenputer",
+      "url": "https://divagr.com/blog/qwenputer",
+      "found_at": "2026-10-29T11:30:10+00:00",
+      "sources": [
+        {
+          "name": "hn",
+          "id": "50282838",
+          "title": "Qwenputer: A functioning, deterministic RISC-V CPU inside Qwen3.5",
+          "discussion_url": "https://news.ycombinator.com/item?id=50282838",
+          "score": 514,
+          "comments": 106,
+          "created_at": "2026-10-29T00:25:45Z"
+        }
+      ],
+      "page": {
+        "final_url": "https://divagr.com/blog/qwenputer",
+        "status": 200,
+        "title": "Qwenputer: a fully functioning, deterministic RISC-V CPU inside Qwen3.5",
+        "description": "I compiled a RISC-V CPU into Qwen 3.5 4B's weights, using its Gated DeltaNet layers as RAM. It runs C and MicroPython inside the forward passes, and Qwen uses it for exact arithmetic.",
+        "og_image": "https://divagr.com/qwenputer/og.png",
+        "favicon": "https://divagr.com/favicon.svg",
+        "text_excerpt": "d ↗ My writing Series Lab Chipformer My work About Résumé ↗ Let's talk ↗ ← My writing COMPILED WEIGHTS Qwenputer: a fully functioning, deterministic RISC-V CPU inside Qwen3.5 A stock Qwen 3.5 4B with a RISC-V CPU compiled into its weights, running on its own Gated DeltaNet layers as RAM. BY DIVYANSH AGRAWAL 22 OCTOBER 2026 9 MIN READ MARKDOWN VERSION 👏 86 Save 8,447 ENGAGED READS ON THIS PAGE I can't believe it's not silicon The RNN inside Qwen3.5 can be exact RAM Compiling a computer into layers The CPU How Qwen uses it Does it work? A hard drive? In this economy? Limits and what's next Beyond arithmetic Try it I can't believe it's not silicon Qwenputer is a pretty fun experimental model. It's a stock Qwen 3.5 4B with one addition: a RISC-V CPU embedded within the weights that uses the model's own Gated DeltaNet attention layers as RAM. (To learn how GDN works, here's a handy guide.) This 'CPU' runs completely within the forward passes of the model, and can run arithmetic operations, C and MicroPython code without any external runtime or tool usage whatsoever. To be very clear, it is not a plugin, a tool or a sandbox. This blog will explain exactly how this model works, and how the model utilises GDN layers as RAM, and how I also slotted in an experimental in-model file storage. I also wrote up two follow-ups built on top of Qwenputer: how hybrid models can learn to hide their reasoning in their RNN state and evade CoT monitoring, and how compiled weights like these can work as inbuilt monitoring tools that the model itself can't tamper with. QWEN HANDS A MULTIPLICATION TO THE RISC-V CPU INSIDE ITS OWN WEIGHTS; THE CPU'S RAM IS GATED DELTANET STATE You can grab Qwenputer from Hugging Face or ModelScope, and the code is on GitHub. The RNN inside Qwen3.5 can be exact RAM Qwen3-Next and Qwen 3.5 (the model Qwenputer is built on) use a pretty neat trick. 3 out of 4 attention layers in the model use Gated DeltaNet, a linear RNN, as the attention mechanism (more on that "
+      },
+      "verdict": {
+        "model": "jev-1.13.0",
+        "score": 3.28,
+        "category": "Software Engineering",
+        "category_confidence": 0.36
+      },
+      "screenshot": "shots/2026/10-29/divagr-com-blog-qwenputer.jpg"
+    },
+    {
       "canonical_url": "https://thishueshallpass.clearleft.com/?colors=23202c%2Cdae1e2%2Cffffff%2Ce1673e%2C4d3e74",
       "url": "https://thishueshallpass.clearleft.com/?colors=23202c%2Cdae1e2%2Cffffff%2Ce1673e%2C4d3e74",
       "found_at": "2026-10-23T10:02:05+00:00",
@@ -1331,6 +1363,48 @@
         "category_confidence": 0.82
       },
       "screenshot": "shots/2026/10-28/cfsg-axiommath-ai.jpg"
+    },
+    {
+      "canonical_url": "https://github.com/tractordev/webframe",
+      "url": "https://github.com/tractordev/webframe",
+      "found_at": "2026-10-29T11:30:10+00:00",
+      "sources": [
+        {
+          "name": "pinboard",
+          "title": "tractordev/webframe: Run a web page like a program"
+        }
+      ],
+      "github": {
+        "repo_url": "https://github.com/tractordev/webframe",
+        "homepage": "",
+        "description": "Run a web page like a program",
+        "topics": [
+          "cross-platform",
+          "golang",
+          "headless-browser",
+          "purego"
+        ],
+        "stars": 204,
+        "created_at": "2026-10-24T14:18:15Z",
+        "pushed_at": "2026-10-29T06:12:52Z",
+        "owner_avatar": "https://avatars.githubusercontent.com/u/65003157?v=4"
+      },
+      "page": {
+        "final_url": "https://github.com/tractordev/webframe",
+        "status": 200,
+        "title": "GitHub - tractordev/webframe: Run a web page like a program",
+        "description": "Run a web page like a program. Contribute to tractordev/webframe development by creating an account on GitHub.",
+        "og_image": "https://opengraph.githubassets.com/7ca73a213ac4fe72d4a1c5d00c682a8bd9e655ad995f57e884cd01599b5d20f6/tractordev/webframe",
+        "favicon": "https://github.com/fluidicon.png",
+        "text_excerpt": "Skip to content Navigation Menu Products Developers Businesses Resources Pricing Search / Sign in Sign up tractordev webframe Repository navigation Code Issues 9 (9) Pull requests Discussions Actions Projects Security and quality Insights webframe Public Notifications Fork2 (2) Star204 (204) main 3 Branches 1 Tag Code Latest commit progrium examples: add timers 4ed952b · History 9 Commits Folders and files Name Last commit message Last commit date .dev dev: replace powershell scripts with go program to speed up windows o… cmd/webframe webframe: add -p private mode for ephemeral website data (#11) examples examples: add timers .dockerignore initial commit .gitignore dev: replace powershell scripts with go program to speed up windows o… Dockerfile initial commit LICENSE Initial commit Makefile webframe: add -p private mode for ephemeral website data (#11) README.md examples: add timers go.mod bump glaze fork to fix crash on alpine go.sum bump glaze fork to fix crash on alpine hooks.js webframe: evaluate code on pages whose CSP blocks eval (#12) webframe.go webframe: evaluate code on pages whose CSP blocks eval (#12) Repository files navigation README MIT license webframe Run a web page like a program. webframe loads a URL in a hidden webview, keeps it running at full speed, and connects the page to your terminal: the console goes to stdout, exceptions go to stderr, and you can evaluate JavaScript in the page from stdin. $ webframe examples/hello.html Hello, world! It uses the webview the OS already has (WebKit on macOS, WebKitGTK on Linux, WebView2 on Windows) through glaze, so it is a small single binary with no bundled browser and, on most platforms, no cgo. Uses Run browser-only code (WASM, WebGPU, Web Audio, DOM libraries) from scripts, CI, or cron without a full browser automation stack. Keep a page running in the background as a long-lived process, like a daemon or worker. Poke at a live page from a REPL with -c. Run a single-page app or emulator headless, such "
+      },
+      "verdict": {
+        "model": "jev-1.13.0",
+        "score": 3.25,
+        "category": "Developer Tools",
+        "category_confidence": 1.0
+      },
+      "screenshot": "shots/2026/10-29/github-com-tractordev-webframe.jpg"
     },
     {
       "canonical_url": "https://github.com/vladocar/Sumi.css",
@@ -1446,6 +1520,38 @@
         "category_confidence": 1.0
       },
       "screenshot": "shots/2026/10-26/github-com-jetbrains-thinkrail.jpg"
+    },
+    {
+      "canonical_url": "https://gist.github.com/flamerix-ai/c3905705cc4205e5de3011fa2e74efce",
+      "url": "https://gist.github.com/flamerix-ai/c3905705cc4205e5de3011fa2e74efce",
+      "found_at": "2026-10-29T11:30:10+00:00",
+      "sources": [
+        {
+          "name": "hn",
+          "id": "50284255",
+          "title": "Claude Code regularly sends each background agent’s transcript to its model",
+          "discussion_url": "https://news.ycombinator.com/item?id=50284255",
+          "score": 415,
+          "comments": 153,
+          "created_at": "2026-10-29T03:33:42Z"
+        }
+      ],
+      "page": {
+        "final_url": "https://gist.github.com/flamerix-ai/c3905705cc4205e5de3011fa2e74efce",
+        "status": 200,
+        "title": "Claude Code burns ~15-20% of your tokens on a 3-word status line: a Bun preload that turns agent_summary off · by Flamerix AI, flamerix.ai · MIT",
+        "description": "Claude Code burns ~15-20% of your tokens on a 3-word status line: a Bun preload that turns agent_summary off · by Flamerix AI, flamerix.ai · MIT - README.md",
+        "og_image": "https://github.githubassets.com/assets/gist-og-image-54fd7dc0713e.png",
+        "favicon": "https://gist.github.com/fluidicon.png",
+        "text_excerpt": "Skip to content Search Gists All gists Back to GitHub Sign in Sign up Instantly share code, notes, and snippets. flamerix-ai/README.md Last active Star 56 (56) Fork 0 (0) Code Revisions 2 Stars 56 Embed Clone this repository at &lt;script src=&quot;https://gist.github.com/flamerix-ai/c3905705cc4205e5de3011fa2e74efce.js&quot;&gt;&lt;/script&gt; Download ZIP Claude Code burns ~15-20% of your tokens on a 3-word status line: a Bun preload that turns agent_summary off · by Flamerix AI, flamerix.ai · MIT Raw README.md Claude Code burns ~15–20% of your tokens on a 3-word status line. Here's how to turn it off by Flamerix AI · MIT License Tested on Linux, Claude Code 2.1.257–2.1.312 (see Tested versions). The binary is not modified (BUN_OPTIONS=--preload). An update can silently undo it, so see Verify. TL;DR curl -fsSL https://gist.githubusercontent.com/flamerix-ai/c3905705cc4205e5de3011fa2e74efce/raw/no-agent-summary.js -o ~/.local/share/no-agent-summary.js claude daemon stop --any BUN_OPTIONS=\"${BUN_OPTIONS:+$BUN_OPTIONS }--preload $HOME/.local/share/no-agent-summary.js\" claude To make it permanent for every Claude Code process, see Install. The problem Every ~30 seconds, for every background agent, Claude Code sends that agent's entire transcript to the agent's own model (usually Opus) and asks it to \"describe your most recent action in 3-5 words\". The answer only updates the agent's status line in the agents panel; it never reaches the model or your conversation. There is no setting that turns it off, and since 2.1.232 (August 2026) it has been on by default. The anomaly was detected by DRIM in Claude Code's OpenTelemetry export: grouping claude_code.api_request events by query_source showed agent_summary costing more than the main conversation itself. query_source = agent_summary week before the hook 2 days after share of all Claude Code spend 16.4 % (main conversation: 15.7 %) 0 % share of all API requests 19.7 %, about 1 in 5 0 % part of that spend on Opus 96 % — inp"
+      },
+      "verdict": {
+        "model": "jev-1.13.0",
+        "score": 3.24,
+        "category": "Developer Tools",
+        "category_confidence": 0.97
+      },
+      "screenshot": "shots/2026/10-29/gist-github-com-flamerix-ai-c3905705cc4205e5de3011fa2e74efce.jpg"
     },
     {
       "canonical_url": "https://cicero.maximilianinzinger.com/",
@@ -2596,6 +2702,33 @@
       "screenshot": "shots/2026/10-28/getartcraft-com-apps-photocraft.jpg"
     },
     {
+      "canonical_url": "https://charliegerard.dev/blog/overgrown-extension/",
+      "url": "https://charliegerard.dev/blog/overgrown-extension/",
+      "found_at": "2026-10-29T11:30:10+00:00",
+      "sources": [
+        {
+          "name": "pinboard",
+          "title": "Overgrown � Charlie Gerard"
+        }
+      ],
+      "page": {
+        "final_url": "https://charliegerard.dev/blog/overgrown-extension/",
+        "status": 200,
+        "title": "Overgrown, when plants invade your abandoned tabs | Charlie Gerard | Senior research engineer & Creative Technologist",
+        "description": "A fun little project that came out of a creative exercise around the word 'Overgrowth'.",
+        "og_image": "https://res.cloudinary.com/devdevcharlie/image/upload/v1792518914/overgrown-thumbnail_q5tzrs.png",
+        "favicon": "https://charliegerard.dev/favicon-32x32.png?v=c69b5c54f6a9df43dab6486c5e8cc25b",
+        "text_excerpt": "Charlie Gerard Projects Speaking Blog Overgrown, when plants invade your abandoned tabs 20/10/2026 I was doing a little creative exercise the other day around the word \"Overgrowth\". The first thing that came to mind was an apocalyptic scene, something like The Walking Dead or The Last of Us, where plants tend to overgrow abandoned buildings. I then wanted to apply this idea to the digital world, and the word \"abandoned\" made me think of my browser tabs... What if my tabs were slowly taken over by plants the longer I left them unread? What if I had to clear away these invasive plants to access my tabs again? A bit like trying to open a door that's been overgrown... So I built this fun little Chrome extension that does just that. It won't necessarily make me read my tabs more but it's ok. Demo Link to the repository The idea Every tab has a neglect clock. It runs while the tab is out of view and stops while you're looking at it. The longer a tab is neglected, the more plants grow over it, from the edges towards the middle. Once a tab is more than 5% overgrown, the page behind the vines is walled off: you can scroll, but you can't click, select or drag anything. To free it, you have to slash through the vines by dragging your mouse across them. Get it down to 5% and the last bits fall off. If you abandon your tab once more, the jungle starts growing again. Just for fun, you can pick your weapon of choice between the rusty machete, the chainsaw and the flamethrower. You can also change how long it takes for your tabs to be fully overgrown. Originally, I was thinking about blocking users from closing their overgrown tabs until they slash all plants, but I thought it would be too annoying... 😅 The extension The code is organised in 3 main parts: the background logic, the content script to display the plants and animation on the tabs and the popup folder that handles the UI of the extension itself. Background worker The background.js file starts the jungle on each open tab"
+      },
+      "verdict": {
+        "model": "jev-1.13.0",
+        "score": 3.08,
+        "category": "Blog",
+        "category_confidence": 0.35
+      },
+      "screenshot": "shots/2026/10-29/charliegerard-dev-blog-overgrown-extension.jpg"
+    },
+    {
       "canonical_url": "https://contextfirst.blog/superlite-hand-an-agent-a-spec/",
       "url": "https://contextfirst.blog/superlite-hand-an-agent-a-spec/",
       "found_at": "2026-10-19T13:29:24+00:00",
@@ -3286,6 +3419,38 @@
       "screenshot": "shots/2026/10-28/tiny-london.jpg"
     },
     {
+      "canonical_url": "https://v12.sh/blog/the-case-of-the-9bit-aes-key",
+      "url": "https://v12.sh/blog/the-case-of-the-9bit-aes-key",
+      "found_at": "2026-10-29T11:30:10+00:00",
+      "sources": [
+        {
+          "name": "hn",
+          "id": "50280722",
+          "title": "The case of the 9 bit AES key",
+          "discussion_url": "https://news.ycombinator.com/item?id=50280722",
+          "score": 112,
+          "comments": 61,
+          "created_at": "2026-10-28T20:51:44Z"
+        }
+      ],
+      "page": {
+        "final_url": "https://v12.sh/blog/the-case-of-the-9bit-aes-key",
+        "status": 200,
+        "title": "The case of the 9 bit AES key",
+        "description": "Several PDF implementations advertise AES-256, but generate the 256-bit key from either a very small state space, or from insecure random sources.",
+        "og_image": "https://v12.sh/static/opengraph-image.png",
+        "favicon": "https://v12.sh/favicon.ico?v=2",
+        "text_excerpt": "Skip to content Book a call Start a run Oct 27, 2026 The case of the 9 bit AES key Several PDF implementations advertise AES-256, but generate the 256-bit key from either a very small state space, or from insecure random sources. Rick de Jager, V12 We found that several PDF implementations generate their AES-256 file keys from state spaces small enough to enumerate. In MuPDF, only 9 bits of random state affect the actual AES-256 key. Other PDF editors like Foxit base their AES-256 key on time based randomness and thus also lead to keys that are trivial to recover. Introduction PDF encryption protects the strings and datastreams in a PDF document, including metadata unless it is explicitly left unencrypted. The password protection mechanism has gone through a bunch of revisions over the years, moving from RC4 to AES and hardening password hashing against brute force attacks. The current version, revision 6, uses AES-256. When a PDF is encrypted with AES-256, the password does not encrypt the document directly. The implementation generates a random 32-byte file key, which encrypts the content. The password and a salt are then hashed to derive a separate key, which encrypts this random 32-byte file key. Revision 6 makes this hashing deliberately slow; the older AES-256 revision 5 does not. A PDF can have a user password for viewing and an owner password for changing permissions. Either unlocks the same file key, so the restrictions are up to the reader: with the viewing password, you can also make an unrestricted copy. We found that this randomness is often generated very insecurely, allowing passwordless decryption of protected PDFs. MuPDF MuPDF versions before 1.28.5 use an implementation of the drand48 family to generate their random numbers. This generator is seeded once, using the current epoch in seconds: 1 static void fz_init_random_context(fz_context *ctx) 2 { 3 /* ... */ 4 fz_srand48(ctx, (uint32_t)time(NULL)); 5 } The generator is a 48-bit linear congruential"
+      },
+      "verdict": {
+        "model": "jev-1.13.0",
+        "score": 3.0,
+        "category": "Software Engineering",
+        "category_confidence": 0.76
+      },
+      "screenshot": "shots/2026/10-29/v12-sh-blog-the-case-of-the-9bit-aes-key.jpg"
+    },
+    {
       "canonical_url": "https://github.com/SaarthurR/atticus-mac",
       "url": "https://github.com/SaarthurR/atticus-mac",
       "found_at": "2026-10-19T13:29:24+00:00",
@@ -3466,6 +3631,37 @@
       }
     },
     {
+      "canonical_url": "https://nullpt.rs/fingerprinting-bioweapons",
+      "url": "https://nullpt.rs/fingerprinting-bioweapons",
+      "found_at": "2026-10-29T11:30:10+00:00",
+      "sources": [
+        {
+          "name": "hn",
+          "id": "50276998",
+          "title": "Why is this fingerprinting script creating bioweapons?",
+          "discussion_url": "https://news.ycombinator.com/item?id=50276998",
+          "score": 1295,
+          "comments": 241,
+          "created_at": "2026-10-28T17:13:29Z"
+        }
+      ],
+      "page": {
+        "final_url": "https://nullpt.rs/fingerprinting-bioweapons",
+        "status": 200,
+        "title": "nullpt.rs • Why Is This Fingerprinting Script Creating Bioweapons?",
+        "description": "",
+        "og_image": "https://nullpt.rs/opengraph-image.jpg",
+        "favicon": "https://nullpt.rs/favicon.ico",
+        "text_excerpt": "../ Preamble A work of art A peek inside Inside the script What does it actually do? Who's behind this? What's next Special Thanks ../ Why Is This Fingerprinting Script Creating Bioweapons?| Wed Oct 28 2026 authored by veritas Preamble I've always had a fascination with reverse-engineering browser fingerprinting scripts. Most of my time has been spent looking at the usual suspects (popular fingerprinting libraries like FingerprintJS and more sophisticated scripts used by anti-bots like Cloudflare Turnstile, Akamai, and others). At some point, I wanted to know what else was out there. I had an idea: What if I crawled the web and intercepted fingerprinting-related browser API calls and mapped it all? To do this, I used the Tranco Top Sites list and began crawling using Playwright. I would hook canvas toDataURL calls and common fingerprinting/anti-bot properties like navigator.webdriver to filter out benign canvases. For those unfamiliar, canvas fingerprinting generally involves drawing text, shapes, or other graphics onto an HTML <canvas> and extracting the resulting pixel data. Subtle differences in how browsers, operating systems, graphics drivers, and hardware render those graphics can help distinguish one browser environment from another. Most implementations are pretty boring to look at. A few shapes, some colored rectangles, and the occasional pangram. After crawling 10,000 websites, I had accumulated a surprisingly diverse collection of canvases. I decided to put them all in one place: fingerprint.garden. As I looked through the results, I recognized some familiar faces. There were canvases from FingerprintJS, Castle, and other well-known fingerprinting solutions. There were also quite a few I didn't recognize. Some were incredibly simple. Others were surprisingly elaborate. And a handful were, in my opinion, works of art. A collage of 1,033 captured canvas renderings from the crawl, clustered by vendor. I set out to find my favorite. A work of art One canvas i"
+      },
+      "verdict": {
+        "model": "jev-1.13.0",
+        "score": 2.97,
+        "category": "Blog",
+        "category_confidence": 0.42
+      }
+    },
+    {
       "canonical_url": "https://philipotoole.com/twelve-years-of-distributed-sqlite/",
       "url": "https://philipotoole.com/twelve-years-of-distributed-sqlite/",
       "found_at": "2026-10-24T09:31:26+00:00",
@@ -3606,6 +3802,32 @@
         "score": 2.95,
         "category": "Utilities & Tools",
         "category_confidence": 1.0
+      }
+    },
+    {
+      "canonical_url": "https://vertex.degree/",
+      "url": "https://vertex.degree/",
+      "found_at": "2026-10-29T11:30:10+00:00",
+      "sources": [
+        {
+          "name": "pinboard",
+          "title": "Start Doing Graph Theory"
+        }
+      ],
+      "page": {
+        "final_url": "https://vertex.degree/",
+        "status": 200,
+        "title": "Start Doing Graph Theory",
+        "description": "An introductory textbook about using graph theory to solve puzzles, prove theorems, and everything in between.",
+        "og_image": "https://vertex.degree/images/link.png",
+        "favicon": "https://vertex.degree/images/volcano.ico",
+        "text_excerpt": "Start Doing Graph Theory by Mikhail Lavrov Start Doing Graph Theory is an introductory textbook about using graph theory to solve puzzles, prove theorems, and everything in between. It is freely available (under a Creative Commons license) to read online or to download as a PDF file. Start reading from Chapter 1, or click on one of the links below. Table of contents About the textbook About the author Version history Download PDF Start Doing Graph Theory © 2025 by Mikhail Lavrov is licensed under CC BY-SA 4.0"
+      },
+      "verdict": {
+        "model": "jev-1.13.0",
+        "score": 2.95,
+        "category": "Education",
+        "category_confidence": 0.73
       }
     },
     {
@@ -4530,6 +4752,37 @@
         "score": 2.83,
         "category": "Developer Tools",
         "category_confidence": 0.93
+      }
+    },
+    {
+      "canonical_url": "https://huggingface.co/blog/nvidia/nemotron-transcribe-granary",
+      "url": "https://huggingface.co/blog/nvidia/nemotron-transcribe-granary",
+      "found_at": "2026-10-29T11:30:10+00:00",
+      "sources": [
+        {
+          "name": "hn",
+          "id": "50275128",
+          "title": "Nvidia Nemotron 3.5 Transcribe: open ASR for 40 languages",
+          "discussion_url": "https://news.ycombinator.com/item?id=50275128",
+          "score": 124,
+          "comments": 21,
+          "created_at": "2026-10-28T15:17:53Z"
+        }
+      ],
+      "page": {
+        "final_url": "https://huggingface.co/blog/nvidia/nemotron-transcribe-granary",
+        "status": 200,
+        "title": "NVIDIA Nemotron 3.5 Transcribe and Granary v2: Intelligent Multilingual Transcription You Can Prompt and Adapt",
+        "description": "A Blog post by NVIDIA on Hugging Face",
+        "og_image": "https://cdn-uploads.huggingface.co/production/uploads/68127936de624fb6f57d9989/3vFxCEUXz_xJVrTBr4hNr.jpeg",
+        "favicon": "https://huggingface.co/favicon.ico",
+        "text_excerpt": "Hugging Face Models Datasets Spaces Buckets Docs Pricing Website Tasks HuggingChat Collections Languages Organizations Community Blog Posts Daily Papers Hardware Learn Discord Forum GitHub Solutions Team & Enterprise Hugging Face PRO Enterprise Support Inference Providers Inference Endpoints Storage Buckets Log In Sign Up Back to Articles NVIDIA Nemotron 3.5 Transcribe and Granary v2: Intelligent Multilingual Transcription You Can Prompt and Adapt Enterprise + Article Published October 28, 2026 Maryam Motamedi maryameee Follow nvidia Piotr Żelasko piotrzelasko Follow nvidia Kunal Dhawan kunaldhawan Follow nvidia Nikolay Karpov nkarpov Follow nvidia Nune Tadevosyan nunetadevosyan Follow nvidia Meline Mkrtchyan mmkrtchyan Follow nvidia Nithin Rao Koluguri nithinraok Follow nvidia Francesco fciannella Follow nvidia One open model for multilingual transcription, speaker attribution, translation, and audio Q&A, with top leaderboard results, plus the open Granary v2 data pipeline and fine-tuning recipes to adapt it. A transcript can capture every spoken word and still leave users or applications wondering who said what, how to translate it, or how to format domain-specific jargon. Multilingual calls, fast-paced meetings, and medical dictation each need different output: a translation, speaker labels, or correctly spelled medical terms. NVIDIA Nemotron 3.5 Transcribe is an open-weight, promptable model that turns recorded speech into useful text, now available on Hugging Face and ModelScope. It brings transcription, speaker attribution (diarization), translation, and audio question answering into one checkpoint: it transcribes 40 languages, translates 31 of them to or from English, and attributes speakers in 13. It handles recordings up to an hour long and labels up to eight speakers. Developers can guide output with natural language, choose where their audio is processed, and adapt recognition to domain vocabulary and accents. Transcribe is first among open-weight models "
+      },
+      "verdict": {
+        "model": "jev-1.13.0",
+        "score": 2.83,
+        "category": "Developer Tools",
+        "category_confidence": 0.8
       }
     },
     {
@@ -5536,6 +5789,32 @@
       }
     },
     {
+      "canonical_url": "https://axiommath.ai/research/the-enormous-theorem-formalized/",
+      "url": "https://axiommath.ai/research/the-enormous-theorem-formalized/",
+      "found_at": "2026-10-29T11:30:10+00:00",
+      "sources": [
+        {
+          "name": "pinboard",
+          "title": "Formalizing the Enormous Theorem | Axiom"
+        }
+      ],
+      "page": {
+        "final_url": "https://axiommath.ai/research/the-enormous-theorem-formalized/",
+        "status": 200,
+        "title": "Formalizing the Enormous Theorem",
+        "description": "Axiom has formalized in Lean the classification of finite simple groups, the longest proof in the history of mathematics.",
+        "og_image": "https://axiommath.ai/api/media/file/cfsg-blueprint-thumbnail-2.png?v=2026-10-27T14%3A17%3A26.155Z",
+        "favicon": "https://axiommath.ai/favicon.ico",
+        "text_excerpt": "Mission Research Formalizations Engineering Press Careers ← View all blog posts Share October 26, 2026 by Axiom Formalizing the Enormous Theorem Axiom has formalized in Lean the classification of finite simple groups, the longest proof in the history of mathematics. Today, we are releasing the first complete computer-checked proof of the Classification of Finite Simple Groups (CFSG). One of the major achievements of twentieth-century mathematics, the classification identifies the basic building blocks of finite groups. Widely considered to be the longest mathematical proof ever written by humans, the original proof of CFSG extends across roughly 15,000 pages in more than 500 articles by about 100 mathematicians, earning CFSG the nickname “the enormous theorem.” For his crucial work on the classification, John Thompson was awarded the Fields Medal (1970) and the Abel Prize (2008). Over 24 days, engineers and mathematicians at Axiom Math directed swarms of dozens of AI agents in a project that produced approximately 43.1 million lines of code in the Lean proof assistant. Groups are fundamental objects that describe symmetry, introduced early in undergraduate mathematics. Take a cube. There are 24 ways to rotate it so that it looks exactly as it did before: any of its 6 faces can end up on top, in any of four orientations. Applying two of these rotations gives another of the 24, and any rotation has an inverse. A group is a collection of transformations with these two properties. The permutations of a deck of cards provide a much larger example of a finite group. Finite groups can be broken down into indecomposable factors, in a sense given by the Jordan–Hölder theorem. These factors, the “atoms” of finite groups, are the finite simple groups. The classification gives a complete list of these building blocks: a periodic table of finite symmetry. To formalize the proof, we rewrote it in Lean, a programming language in which mathematical definitions, statements, and proo"
+      },
+      "verdict": {
+        "model": "jev-1.13.0",
+        "score": 2.67,
+        "category": "Research",
+        "category_confidence": 0.81
+      }
+    },
+    {
       "canonical_url": "https://block.xyz/dessa",
       "url": "https://block.xyz/dessa",
       "found_at": "2026-10-24T09:31:26+00:00",
@@ -6431,6 +6710,32 @@
       }
     },
     {
+      "canonical_url": "https://research.google/blog/the-sleep-framework-a-new-way-for-llms-to-retain-knowledge-in-continual-learning/",
+      "url": "https://research.google/blog/the-sleep-framework-a-new-way-for-llms-to-retain-knowledge-in-continual-learning/",
+      "found_at": "2026-10-29T11:30:10+00:00",
+      "sources": [
+        {
+          "name": "pinboard",
+          "title": "The sleep framework: A new way for LLMs to retain knowledge in continual learning"
+        }
+      ],
+      "page": {
+        "final_url": "https://research.google/blog/the-sleep-framework-a-new-way-for-llms-to-retain-knowledge-in-continual-learning/",
+        "status": 200,
+        "title": "The sleep framework: A new way for LLMs to retain knowledge in continual learning",
+        "description": "",
+        "og_image": "https://storage.googleapis.com/gweb-research2023-media/images/HO_previewImage1.width-800.format-jpeg.jpg",
+        "favicon": "https://www.gstatic.com/images/branding/googleg_gradient/1x/googleg_gradient_standard_20dp.png",
+        "text_excerpt": "Skip to main content Google Research Research Resources Conferences & events Careers Blog About Search Home Blog The sleep framework: A new way for LLMs to retain knowledge in continual learning October 27, 2026 Ali Behrouz and Vahab Mirrokni, Google Research We introduce a sleep phase in continual learning, enabling large language models to continuously integrate new facts and enhance reasoning while mitigating catastrophic forgetting or static knowledge cutoffs. Modern LLMs achieve impressive performance via pre-training and in-context learning (ICL). However, once deployed, they remain largely static, operating with a fixed knowledge cutoff date that leaves them unable to acquire long-term capabilities or adapt to new information. While updating models with new data seems like the obvious solution, continual parameter updates often trigger catastrophic forgetting, a fundamental issue where learning new tasks severely degrades performance on previously learned ones. Alternatively, relying strictly on ICL limits knowledge retention to the immediate context window: once the context session ends, the acquired short-term information is forgotten. Inspired by how the human brain processes and stabilizes memory during rest, we introduce a sleep framework in continual learning: a learning paradigm that equips large language models (LLMs) with a continuous periodic lifecycle, enabling them to continually learn, consolidate fragile short-term context into stable long-term parameters. With this framework, we demonstrate that alternating between active interaction and offline memory consolidation allows LLMs to continuously acquire new facts, retain long-context knowledge up to 10M tokens, and improve complex reasoning. Rethinking machine learning: Active (wake) vs. sleep phases Traditional machine learning relies on a strict separation between training and inference. In a continual learning framework, this distinction becomes artificial; an intelligent agent must constantly"
+      },
+      "verdict": {
+        "model": "jev-1.13.0",
+        "score": 2.57,
+        "category": "Research",
+        "category_confidence": 0.95
+      }
+    },
+    {
       "canonical_url": "https://jsdev.space/30-agent-skills/",
       "url": "https://jsdev.space/30-agent-skills/",
       "found_at": "2026-10-24T09:31:26+00:00",
@@ -7138,6 +7443,41 @@
       }
     },
     {
+      "canonical_url": "https://surgehq.ai/blog/dayjob-tax",
+      "url": "https://surgehq.ai/blog/dayjob-tax",
+      "found_at": "2026-10-29T11:30:10+00:00",
+      "sources": [
+        {
+          "name": "hn",
+          "id": "50275626",
+          "title": "Dayjob: Tax – evaluating AI agents on 50 professional tax assignments",
+          "discussion_url": "https://news.ycombinator.com/item?id=50275626",
+          "score": 241,
+          "comments": 154,
+          "created_at": "2026-10-28T15:46:30Z"
+        },
+        {
+          "name": "pinboard",
+          "title": "DAYJOB: Tax — Benchmarking AI Agents on Professional Tax Work | Surge AI"
+        }
+      ],
+      "page": {
+        "final_url": "https://surgehq.ai/blog/dayjob-tax",
+        "status": 200,
+        "title": "DAYJOB: Tax — Benchmarking AI Agents on Professional Tax Work | Surge AI",
+        "description": "DAYJOB: Tax evaluates AI agents across 50 realistic tax environments, testing their ability to navigate messy records, exercise professional judgment, and deliver reliable tax work.",
+        "og_image": "https://cdn.prod.website-files.com/68dcd2ceb173c46fa029931c/6ae0beffc0ef7d2c805991ec_6ae0bef7bc59db92222e060b_dayjob-tax-cover-v3.png",
+        "favicon": "https://cdn.prod.website-files.com/68dc970bd6e945ea3fb0f426/6a5b7e19105f4fce18c0625c_surge-favicon.png",
+        "text_excerpt": "DAYJOB: Tax A benchmark for AI tax agents BLOG BENCHMARKS OFF-THE-SHELF TRAINING EXPERTS PRODUCTS ENTERPRISE RESEARCH CAREERS CONTACT LOGIN THE SURGE AI BLOG DAYJOB: Tax — Benchmarking AI Agents on Professional Tax Work OCTOBER 27, 2026 TL;DR Real-world tax work is messy. Instructions are incomplete, records conflict, and the most important problems aren't always the ones explicitly assigned. DAYJOB: Tax evaluates whether AI agents can handle that reality, taking ownership of a tax professional's work from an initial client request to a finished deliverable. Across 50 environments and 1,789 files, agents must navigate complex tax records, uncover issues clients may not know to raise, and make consequential judgments with incomplete information. Success requires more than tax knowledge and accurate calculations. It demands the initiative and professional judgment to figure out what needs to be done, investigate what matters, and deliver work that meets professional standards. LEADERBOARD HUGGING FACE TABLE OF CONTENTS Introducing DAYJOB: Tax Results: Leaderboard and Pareto Frontiers The breadth of professional tax work What's inside the assignments? Created and reviewed by tax experts A retirement plan built on an unverified assumption Where DAYJOB: Tax fits What DAYJOB: Tax measures Anna was planning to sell her condo. She had moved out in August 2024 and wanted to know whether closing in October 2026 or January 2027 would be better for taxes. An AI agent reviewed both options and correctly concluded that either date would satisfy the residence requirement for a tax break worth up to $250,000 in excluded gains. But it left out an important deadline. Under the usual rules, homeowners must have lived in a property for at least two of the five years before selling it to qualify for the exclusion. Because Anna moved out in August 2024, she would stop satisfying that requirement around the end of August 2027. If her sale was delayed beyond August 2027, she could lose eli"
+      },
+      "verdict": {
+        "model": "jev-1.13.0",
+        "score": 2.46,
+        "category": "Blog",
+        "category_confidence": 0.38
+      }
+    },
+    {
       "canonical_url": "https://hoaspy.com/hoa/fl/florida-hoa-housing-crisis.html",
       "url": "https://hoaspy.com/hoa/fl/florida-hoa-housing-crisis.html",
       "found_at": "2026-10-19T13:29:24+00:00",
@@ -7259,6 +7599,32 @@
         "score": 2.45,
         "category": "Software Engineering",
         "category_confidence": 0.48
+      }
+    },
+    {
+      "canonical_url": "https://jared.xyz/deal-feelings",
+      "url": "https://jared.xyz/deal-feelings",
+      "found_at": "2026-10-29T11:30:10+00:00",
+      "sources": [
+        {
+          "name": "pinboard",
+          "title": "Deal Feelings"
+        }
+      ],
+      "page": {
+        "final_url": "https://jared.xyz/deal-feelings",
+        "status": 200,
+        "title": "Deal Feelings",
+        "description": "In my experience building and selling companies, the time between signing an LOI and closing the deal were some of the most emotionally turbulent mom...",
+        "og_image": "https://paragraph.com/api/og?title=Deal+Feelings&blogName=Ride+It+to+the+Sky&publishedDate=1690213821000",
+        "favicon": "https://jared.xyz/icon0.svg?icon0.079jfqiqiyz0x.svg",
+        "text_excerpt": "Search... Ctrl + K Ride It to the Sky Sign in Subscribe Deal Feelings Jared Hecht 4 min read · July 24, 2023 Share Dialog Share In my experience building and selling companies, the time between signing an LOI and closing the deal were some of the most emotionally turbulent moments of my life. It's an extraordinarily stressful period. One of the things Emil Michael taught me early in my career is that time kills all deals, and that you need to diligently compress the time between signing a term sheet and closing as much as humanly possible. One of the reasons is that as more time elapses you increase the likelihood that things can fall apart. In my opinion an equally important reason is that you need to minimize the mental anguish the process imposes on yourself and the team. Pre-LOI you experience a honeymoon period. You fall in absolute love with your counterpart. Your shared vision is going to take over the world. You'll manifest your mission in a way you never dreamed of before. Teammates you care about deeply are going to make life-changing amounts of money (including yourself and your family). And all of the hard work everyone has put in over the previous years is going to be rewarded. Then you sign a term sheet and everything changes on a dime. As they always do, incentives explain part of the story. As a seller, you want to make sure you quickly realize the terms in the LOI you happily signed. But as a buyer, you need to make sure you know precisely what you are getting and that you're mitigating any unnecessary risk. Even though both parties want to close, their respective priorities are inherently in conflict with one another. This creates a tremendous amount of emotional volatility. In many instances, things that seem impossibly small and insignificant in retrospect come dangerously close to blowing up a deal. Esoteric indemnity clauses that protect against .001% catastrophic scenarios feel completely insurmountable. The feelings of love, respect, and exci"
+      },
+      "verdict": {
+        "model": "jev-1.13.0",
+        "score": 2.45,
+        "category": "Business",
+        "category_confidence": 0.69
       }
     },
     {
@@ -7425,6 +7791,41 @@
         "score": 2.41,
         "category": "Research",
         "category_confidence": 0.47
+      }
+    },
+    {
+      "canonical_url": "https://felixrieseberg.com/hunger-beats-tenure-advice-for-junior-engineers/",
+      "url": "https://felixrieseberg.com/hunger-beats-tenure-advice-for-junior-engineers/",
+      "found_at": "2026-10-29T11:30:10+00:00",
+      "sources": [
+        {
+          "name": "hn",
+          "id": "50266719",
+          "title": "Hunger beats tenure: Advice for junior engineers",
+          "discussion_url": "https://news.ycombinator.com/item?id=50266719",
+          "score": 120,
+          "comments": 96,
+          "created_at": "2026-10-27T22:25:23Z"
+        },
+        {
+          "name": "pinboard",
+          "title": "Hunger beats tenure: Advice for junior engineers"
+        }
+      ],
+      "page": {
+        "final_url": "https://felixrieseberg.com/hunger-beats-tenure-advice-for-junior-engineers/",
+        "status": 200,
+        "title": "Hunger beats tenure: Advice for junior engineers",
+        "description": "The coding interview is dead, at least for my team at Anthropic. I've seen enough to know that it no longer provides signal. I have a spicily optimistic take: I think there's a huge opportunity for junior engineers.",
+        "og_image": "https://storage.ghost.io/c/89/e0/89e08557-681a-40be-8264-278bf46d6b25/content/images/size/w1200/2026/10/IMG_8925.jpeg",
+        "favicon": "https://felixrieseberg.com/favicon.ico",
+        "text_excerpt": "FELIX RIESEBERG About Work Posts Online AUTO ◂ POSTS Hunger beats tenure: Advice for junior engineers PART 1/4 CONTENTS Start All vision, no voice What to do The future is bright Hunger beats tenure: Advice for junior engineers PUBLISHED 27 October 2026 READING TIME 5 min TOPICS management This month, I laid the traditional coding interview to rest. As a hiring manager at Anthropic, I stopped asking candidates to do them. It had a good run: Being able to quickly define problems and find elegant solutions was a weak but useful predictor for how successful you’d be on my teams. Small coding challenges in real code did tell us something meaningful about candidates. That’s no longer true. There’s no more point in giving you a little React challenge than there is in quizzing people about assembly; Claude is now better at both. Our most impactful builders are successful regardless of how good they are at these tests. The coding interview was, despite its ubiquity, never popular. I suspect that established engineers will still have strong reactions to its disappearance — if only for what it says about the evolution of our roles. Plenty of ink has been spilled to describe how AI is a challenge for junior developers, especially those trying to land a job. Now that I’ve seen junior people work with AI for a bit, I have a more hopeful take: Impact is less bounded by how many years of accumulated knowledge in frameworks and libraries you’ve gathered. I’m seeing engineers who are comparatively new fly past people who are probably better coders and have been around much longer. Hunger beats tenure. This post is my best advice for junior engineers, though “junior” is the wrong word. It’s really for engineers without social capital, status, or power. All vision, no voice First, know both your advantage and handicap. Fresh eyes, even naive ones, have long been considered powerful. When I joined Stripe, founder Patrick Collison implored us newcomers to pay close attention to things t"
+      },
+      "verdict": {
+        "model": "jev-1.13.0",
+        "score": 2.41,
+        "category": "Software Engineering",
+        "category_confidence": 0.51
       }
     },
     {
@@ -8095,6 +8496,37 @@
       }
     },
     {
+      "canonical_url": "https://cursor.com/blog/agent-sdk",
+      "url": "https://cursor.com/blog/agent-sdk",
+      "found_at": "2026-10-29T11:30:10+00:00",
+      "sources": [
+        {
+          "name": "hn",
+          "id": "50273731",
+          "title": "The Agent SDK",
+          "discussion_url": "https://news.ycombinator.com/item?id=50273731",
+          "score": 132,
+          "comments": 127,
+          "created_at": "2026-10-28T14:02:20Z"
+        }
+      ],
+      "page": {
+        "final_url": "https://cursor.com/blog/agent-sdk",
+        "status": 200,
+        "title": "Introducing the Agent SDK · Cursor",
+        "description": "The Agent SDK is the framework we use to build our own managed agents like Bugbot, Security Reviewer, and Rollouts. Define agents in code and deploy them with one command.",
+        "og_image": "https://ptht05hbb1ssoooe.public.blob.vercel-storage.com/OG%20Images/agent-sdk-blog-og-WlJMIsDgzkUUfvyf1R9PJSIfytr7Sx.png",
+        "favicon": "https://cursor.com/marketing-static/favicon-light.ico",
+        "text_excerpt": "Skip to content Cursor Models ↓ Product ↓ Enterprise Pricing Resources ↓ Sign in Contact sales Download Blog / Product Oct 20, 2026 Introducing the Agent SDK Rustam Lalkaka · 5 min read Table of Contents ↑ Build around your workflow Define everything in code Deploy agents wherever you need them Get started Software teams use agents defined as code to handle recurring work across the development lifecycle. These agents connect to the places where a team works and act when relevant events occur, whether that means reviewing a pull request, executing a compliance workflow, or investigating an incident. The most useful agents are tailored to how a particular team operates. Until now, building one has generally meant adopting a product designed around someone else's workflow or starting from scratch. Today, we're releasing the Agent SDK, the framework we use to build our own managed agents like Bugbot, Security Reviewer, and Rollouts. Agent SDK allows you to define agents in code and manage them like any other software project. Start from a template or point your coding agent at our docs. When the agent is ready, agent-sdk deploy it to Cursor infrastructure with one command. # Build around your workflow The Agent SDK lets you quickly build and deploy agents that work the way your team does. They respond to the events your team already handles and follow policies your team can inspect and change. Code review is one example. Each team has its own standards for what requires attention and who should review it. With the Agent SDK, you can build an agent that responds to pull request events from GitHub, GitLab, or Bitbucket. The agent can assess the risk of a change, route it to the right team, and approve changes that meet your policy. As an example, a team within Cursor had built a large, fast-growing knowledge base of lessons learned and wanted every pull request checked against it. This way, the team's past decisions would hold even as the codebase changed. With the Agent"
+      },
+      "verdict": {
+        "model": "jev-1.13.0",
+        "score": 2.33,
+        "category": "Developer Tools",
+        "category_confidence": 0.96
+      }
+    },
+    {
       "canonical_url": "https://korindiehacker.bloffy.blog/en/removing-nextjs-got-my-blog-to-100-on-every-lighthouse-category",
       "url": "https://korindiehacker.bloffy.blog/en/removing-nextjs-got-my-blog-to-100-on-every-lighthouse-category",
       "found_at": "2026-10-26T11:15:55+00:00",
@@ -8175,6 +8607,37 @@
         "score": 2.31,
         "category": "Blog",
         "category_confidence": 0.43
+      }
+    },
+    {
+      "canonical_url": "https://smsofdeath.com/",
+      "url": "https://smsofdeath.com/",
+      "found_at": "2026-10-29T11:30:10+00:00",
+      "sources": [
+        {
+          "name": "hn",
+          "id": "50285452",
+          "title": "Zero click, silent, remote Android DoS",
+          "discussion_url": "https://news.ycombinator.com/item?id=50285452",
+          "score": 122,
+          "comments": 71,
+          "created_at": "2026-10-29T07:08:50Z"
+        }
+      ],
+      "page": {
+        "final_url": "https://smsofdeath.com/",
+        "status": 200,
+        "title": "SMS of Death",
+        "description": "A single malformed WAP Push SMS crashes com.android.phone on Android. Zero-click, remote, drops emergency calls.",
+        "og_image": "",
+        "favicon": "https://smsofdeath.com/favicon.ico",
+        "text_excerpt": "SMS OF DEATH Vulnerability Impact Why it matters Timeline PoC ANDROID TELEPHONY · ZERO-CLICK · REMOTE DOS SMS of Death A single malformed WAP Push SMS crashes com.android.phone on Android, dropping active calls (including emergency calls), with zero interaction from the victim. Download APK Source Google Issue Tracker ⚠ Working proof-of-concept, authorised testing only. Read the warning & license before downloading. COMPONENT WapPushOverSms frameworks/opt/telephony INTERACTION None zero-click, silent VECTOR Remote SMS WAP Push, port 2948 VENDOR STATUS ● Won't Fix classified Non-Security REPORTER Mark Blaszczyk independent REPORTED 5 May 2026 Android & Devices VRP DISCLOSED 29 Oct 2026 after 90-day timeline CVE None no CVE issued 01 / The vulnerability An unchecked cast turns a 5-byte header into a negative array size When Android receives a WAP Push message, WapPushOverSms.decodeWapPdu() reads the WSP header length as a uintvar. The value comes back as a long, is cast to int with no range check, and is then used directly as the size of a new byte array: // WapPushOverSms.java:217 header length read as long, cast with no bounds check int headerLength = (int) pduDecoder.getValue32(); ... // WapPushOverSms.java:244 the cast value is used as an array size byte[] header = new byte[headerLength]; A 5-byte uintvar of 88 80 80 80 00 decodes to 0x80000000. Cast to a signed 32-bit int, that is -2147483648. Allocating new byte[-2147483648] throws an uncaught NegativeArraySizeException on the telephony main thread, killing com.android.phone: E AndroidRuntime: FATAL EXCEPTION: main E AndroidRuntime: Process: com.android.phone E AndroidRuntime: java.lang.NegativeArraySizeException: -2147483648 E AndroidRuntime: at ...WapPushOverSms.decodeWapPdu(WapPushOverSms.java:244) E AndroidRuntime: at ...WapPushOverSms.dispatchWapPdu(WapPushOverSms.java:339) E AndroidRuntime: at ...InboundSmsHandler.processMessagePart(InboundSmsHandler.java:1169) E AndroidRuntime: at ...InboundSmsHandler$Del"
+      },
+      "verdict": {
+        "model": "jev-1.13.0",
+        "score": 2.31,
+        "category": "Software Engineering",
+        "category_confidence": 0.68
       }
     },
     {
@@ -9091,6 +9554,32 @@
         "score": 2.17,
         "category": "Blog",
         "category_confidence": 0.43
+      }
+    },
+    {
+      "canonical_url": "https://simonwillison.net/2026/Oct/28/vibe-game-development/",
+      "url": "https://simonwillison.net/2026/Oct/28/vibe-game-development/",
+      "found_at": "2026-10-29T11:30:10+00:00",
+      "sources": [
+        {
+          "name": "pinboard",
+          "title": "The October inflection point for vibe game development"
+        }
+      ],
+      "page": {
+        "final_url": "https://simonwillison.net/2026/Oct/28/vibe-game-development/",
+        "status": 200,
+        "title": "The October inflection point for vibe game development",
+        "description": "I’ve written before about how November 2025 was an inflection point for coding agents—the point where Opus 4.5 and GPT-5.1 crossed a tipping point that meant their respective coding agents …",
+        "og_image": "https://static.simonwillison.net/static/2026/pumpkin-farmer.webp",
+        "favicon": "https://simonwillison.net/favicon.ico",
+        "text_excerpt": "Simon Willison’s Weblog Newsletter Sponsored by: WorkOS Airlock — intent-based access control for AI agents. Request early access The October inflection point for vibe game development I’ve written before about how November 2025 was an inflection point for coding agents—the point where Opus 4.5 and GPT-5.1 crossed a tipping point that meant their respective coding agents became reliable daily drivers for software engineers. I think we’ve reached a new inflection point in October 2026, and this time it’s for vibe coding computer games. Tree Appreciator Emberwick Battle Drones Pumpkin Farmer, aka Quarter Sun Cove Four times as insulting What happens if someone actually puts the work in? You should build a game! Claude Opus 5.5 in particular exhibits meaningful improvements in several areas needed to build a compelling game: 3D modeling Music generation (see Scrimshaw Jukebox) Game design (!) That last one is particularly important. Models have been able to create something that looks like a game for quite a while now, as seen in my previous experiments. The challenge has been getting to a game that’s actually fun to play. Game design is a deep subject area. I won’t pretend to be well versed in it—I know enough to have respect for it as a craft. Creating a novel, compelling gameplay loop which challenges players at the right level and provides a satisfying learning curve is a fine art. I didn’t think the models could do it. Then I tried telling Claude Opus 5.5 to “Make it a LOT more fun”... and it did. In the past few weeks I’ve vibe coded (in the classic sense of the term—no looking at the code at all) four games that I’ve genuinely enjoyed playing. I attended Foo Camp in Berkeley over the weekend and met several people who were having similar experiences. Building games that play well is shockingly easy now. The new challenge is coming up with concepts for games that are novel and delightful and that wouldn’t exist without AI assistance. I haven’t done an exhaustive "
+      },
+      "verdict": {
+        "model": "jev-1.13.0",
+        "score": 2.16,
+        "category": "Blog",
+        "category_confidence": 0.64
       }
     },
     {
@@ -10565,6 +11054,32 @@
       }
     },
     {
+      "canonical_url": "https://brennan.day/a-love-letter-to-the-super-dimension-fortress/",
+      "url": "https://brennan.day/a-love-letter-to-the-super-dimension-fortress/",
+      "found_at": "2026-10-29T11:30:10+00:00",
+      "sources": [
+        {
+          "name": "pinboard",
+          "title": "A Love Letter to the Super Dimension Fortress · brennan.day"
+        }
+      ],
+      "page": {
+        "final_url": "https://brennan.day/a-love-letter-to-the-super-dimension-fortress/",
+        "status": 200,
+        "title": "A Love Letter to the Super Dimension Fortress",
+        "description": "I've finally became an ARPA member of SDF, a non-profit public-access UNIX system running continuously since 1987. I give a history from Ted Uhlemann's 300…",
+        "og_image": "https://brennan.day/assets/images/blog/sdf.jpg",
+        "favicon": "https://brennan.day/assets/images/favicon/favicon.ico",
+        "text_excerpt": "Skip to main content brennan.day Now About Pages Guestbook Search RSS Home A Love Letter to the Super Dimension Fortress The SDF Travelling AT&T 605 UNIX Terminal | SDF (edited by the author) issue #291 of brennan.day A Love Letter to the Super Dimension Fortress Brennan Kenneth Brown September 24, 2026 12 min read Last modified: September 28, 2026 1 comment Plain-text Version ATProto Record The more I learn about the web, the more appreciative I become of what came before. We truly are standing on the shoulders of giants. In the past week, I've had the pleasure of (finally) becoming an ARPA member on SDF, a non-profit public-access UNIX system and online community that has been in continuous operation since 1987. But what is SDF? Well, to answer that, we need to go back four decades and talk about the BBS era. Bulletin Board Systems It's June 16, 1987. Ted Uhlemann (\"iczer\") plugs an Apple IIe's 300-baud[1] modem into a phone line his mother had just given him for his birthday, running Magic City Micro-BBS (written in Applesoft BASIC). He names it SDF-1 after his favorite anime, hoping to attract fans of \"anime, industrial music and the Church of the SubGenius,\" per a 30th-anniversary retrospective by Stephen Jones. The original hardware is one 1200bps modem and two floppy drives holding 280 kilobytes each. This was the very beginning of SDF. SDF is self-described as \"a community platform for inspiring, facilitating and implementing new ideas\". It's a multi-user NetBSD machine, funded solely by its members as a 501(c)(7) nonprofit, where tens of thousands of people hold accounts. The name comes from the anime Super Dimension Fortress Macross (known in the West as part of Robotech), and the system began as a BBS for Japanese anime fans. The BBS-era of SDF was can be witnessed in the eight-part 2004 documentary on YouTube titled BBS: The Documentary, which includes a recorded interview with Stephen Jones, SDF's longtime sysadmin. Bulletin board systems predate the mo"
+      },
+      "verdict": {
+        "model": "jev-1.13.0",
+        "score": 1.89,
+        "category": "Blog",
+        "category_confidence": 0.79
+      }
+    },
+    {
       "canonical_url": "https://viceconsole.fyi/blog/2026/10/10/what-i-self-host/",
       "url": "https://viceconsole.fyi/blog/2026/10/10/what-i-self-host/",
       "found_at": "2026-10-19T13:29:24+00:00",
@@ -10629,6 +11144,32 @@
         "score": 1.88,
         "category": "Software Engineering",
         "category_confidence": 0.59
+      }
+    },
+    {
+      "canonical_url": "https://outerweb.org/",
+      "url": "https://outerweb.org/",
+      "found_at": "2026-10-29T11:30:10+00:00",
+      "sources": [
+        {
+          "name": "pinboard",
+          "title": "The Outer Web"
+        }
+      ],
+      "page": {
+        "final_url": "https://outerweb.org/",
+        "status": 200,
+        "title": "The Outer Web",
+        "description": "The Outer Web is an index of authentic, informative web pages. Explore it using search, tags, full page matching, or random wandering.",
+        "og_image": "",
+        "favicon": "https://outerweb.org/static/favicon.ico",
+        "text_excerpt": "The Outer Web An index of authentic and informative web content go connect Full-page search to discover and connect the authentic web tags Search the Outer Web using keywords random Point to the sky and go explore Choose a category and wander the web about/faq blog mcp contact updated: 2026-10-26"
+      },
+      "verdict": {
+        "model": "jev-1.13.0",
+        "score": 1.88,
+        "category": "Reference & Search",
+        "category_confidence": 0.99
       }
     },
     {
@@ -11415,6 +11956,37 @@
       }
     },
     {
+      "canonical_url": "https://emudhra.we-have-a-problem.com/apple.html",
+      "url": "https://emudhra.we-have-a-problem.com/apple.html",
+      "found_at": "2026-10-29T11:30:10+00:00",
+      "sources": [
+        {
+          "name": "hn",
+          "id": "50271640",
+          "title": "Apple's git still trusts the compromised eMudhra certificates",
+          "discussion_url": "https://news.ycombinator.com/item?id=50271640",
+          "score": 1144,
+          "comments": 398,
+          "created_at": "2026-10-28T11:03:40Z"
+        }
+      ],
+      "page": {
+        "final_url": "https://emudhra.we-have-a-problem.com/apple.html",
+        "status": 200,
+        "title": "Apple's git still trusts the compromised eMudhra certificates",
+        "description": "Eleven days after Apple was notified of the eMudhra CA compromise, the git, curl and python3 that Apple ships with macOS still trust the compromised certificates.",
+        "og_image": "",
+        "favicon": "https://emudhra.we-have-a-problem.com/favicon.ico",
+        "text_excerpt": "← Main Page Apple's git still trusts the compromised eMudhra certificates 28th October 2026 Apple was notified of the eMudhra incident on 17th October. As of 28th October, the developer tools Apple ships with macOS, including git, curl and python3, still trust the compromised certificates. Worse, macOS 27.2, released on 26th October, did not fix the issue and undid the workaround that users had applied by hand, leaving them vulnerable again. Meanwhile, dozens of other projects, many run by volunteers, shipped fixes days ago. Why does this matter? Anyone can intercept any HTTPS connection these tools make. For git, that means clones and pulls from https:// remotes can deliver attacker-chosen code, pushes can be altered in transit, and your credentials, such as GitHub tokens, can be intercepted. To check whether your git is affected, run: git ls-remote https://git-emudhra.we-have-a-problem.com/check.git A certificate error means your git is protected. If git lists a commit, your git is affected. Your connections to GitHub, or any other https:// git remote, can be intercepted and tampered with. To see an attack end to end, run the command below in a temporary directory. It clones a repository from a test server impersonating GitHub. The -c option redirects github.com to our test server for this one command only. The server presents a github.com certificate issued by one of the compromised eMudhra intermediates. git -c http.curloptResolve=github.com:443:15.235.19.186 clone https://fake-user@github.com/galadran/emudhra-git-test A patched git will refuse with a certificate error. If the clone succeeds, you'll see a README.md starting with INTERCEPTED. A real attacker would not need the extra option. Anyone on the network path between you and GitHub can redirect your traffic themselves. You can replace the demo repository with any other, public or private. Keep the fake-user@ prefix. Without it, git would send your GitHub credentials to the test server. For example: git -c"
+      },
+      "verdict": {
+        "model": "jev-1.13.0",
+        "score": 1.69,
+        "category": "Software Engineering",
+        "category_confidence": 0.44
+      }
+    },
+    {
       "canonical_url": "https://security.apple.com/research-device/",
       "url": "https://security.apple.com/research-device/",
       "found_at": "2026-10-25T09:48:11+00:00",
@@ -11509,6 +12081,37 @@
         "score": 1.66,
         "category": "Research",
         "category_confidence": 0.29
+      }
+    },
+    {
+      "canonical_url": "https://wiki.alpinebsd.org/",
+      "url": "https://wiki.alpinebsd.org",
+      "found_at": "2026-10-29T11:30:10+00:00",
+      "sources": [
+        {
+          "name": "hn",
+          "id": "50274251",
+          "title": "AlpineBSD",
+          "discussion_url": "https://news.ycombinator.com/item?id=50274251",
+          "score": 227,
+          "comments": 213,
+          "created_at": "2026-10-28T14:30:26Z"
+        }
+      ],
+      "page": {
+        "final_url": "https://wiki.alpinebsd.org/",
+        "status": 200,
+        "title": "AlpineBSD wiki",
+        "description": "",
+        "og_image": "",
+        "favicon": "https://wiki.alpinebsd.org/.static/AlpineBSD_1_cropped.svg",
+        "text_excerpt": "AlpineBSD packages source mailing lists irc › ai policy › art › contributing/ › installation/ › non free Welcome to AlpineBSD! AlpineBSD is an operating system based on the NetBSD kernel with a userspace inspired by Alpine Linux and the objective of making it possible to use as little AI-generated software as possible. There is no LLM output included in the base system or main package repository (AlpineBSD AI policy). AlpineBSD is a work in progress. There is currently no installer available. For the adventurous, a very high-level installation guide is available here. Compared to NetBSD AlpineBSD ships the NetBSD kernel, libc, and essential platform-specific tools like mount. NOTICE: The NetBSD kernel has spotty hardware support, much less so than Linux. You cannot necessarily expect AlpineBSD to work on any random computer you have lying around. Consult the NetBSD supported hardware list for more information, particularly for laptops. Compared to Alpine Linux AlpineBSD ships with the apk-tools package manager and busybox, and a slightly more GNU-oriented userspace, preferring e.g. GNU make over BSD make. AlpineBSD is not a fork of Alpine Linux, its package collection is original (though many packages are ultimately based on aports). Alpine Linux uses the OpenRC init system. Currently, AlpineBSD uses s6 and we intend to add OpenRC as an alternative. Powered by werc and AlpineBSD • AlpineBSD logo by tomosh"
+      },
+      "verdict": {
+        "model": "jev-1.13.0",
+        "score": 1.66,
+        "category": "Software Engineering",
+        "category_confidence": 0.44
       }
     },
     {
@@ -11689,6 +12292,37 @@
         "score": 1.63,
         "category": "Developer Tools",
         "category_confidence": 0.96
+      }
+    },
+    {
+      "canonical_url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/",
+      "found_at": "2026-10-29T11:30:10+00:00",
+      "sources": [
+        {
+          "name": "hn",
+          "id": "50276792",
+          "title": "Gemini 4 Carbon",
+          "discussion_url": "https://news.ycombinator.com/item?id=50276792",
+          "score": 951,
+          "comments": 761,
+          "created_at": "2026-10-28T17:01:23Z"
+        }
+      ],
+      "page": {
+        "final_url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/",
+        "status": 200,
+        "title": "Gemini 4 Carbon: our next frontier model",
+        "description": "Gemini 4 Carbon is our strongest model with state-of-the-art cybersecurity and long horizon capabilities.",
+        "og_image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini_carbon_102726_social_share.width-1300.png",
+        "favicon": "https://blog.google/static/blogv2/images/favicon.ico?version=pr20261009-1701",
+        "text_excerpt": "Skip to main content Innovation & AI Products & platforms Company news Feed Newsletter Home Innovation & AI Models & research Gemini Models Gemini 4 Carbon: our next frontier model Oct 28, 2026 6 min read Gemini 4 Carbon is our strongest model with state-of-the-art cybersecurity and long horizon capabilities. Koray Kavukcuoglu SVP, Google DeepMind and Chief AI Architect, Google Share Today, we’re announcing the next frontier model: Gemini 4 Carbon, our strongest model with state-of-the-art cybersecurity and long horizon capabilities. Carbon ranks #1 on the recently updated v5.0 of Artificial Analysis Intelligence Index at 59. It shows significant gains across coding and agentic tasks as well as across key capabilities critical for cybersecurity defense, landing a firm lead in SEC-bench Pro (88.2%) for finding vulnerabilities, ExploitGym (54.8%) for exploitation, and CWE-bench (71.0%) for patching. On internal benchmarks, Carbon drives a strong uplift in generating secure code, and in live coding environments with our own teams it shows reduced misalignment and fabrication rates. Building on Gemini 4 Argon, which was launched two weeks ago, Carbon illustrates the pace at which we’re pushing the frontier forward. Our researchers and models are working hand in hand to advance capabilities faster, while strengthening our safeguards in tandem. We're taking a deliberate approach to rollout and are actively engaged in the U.S. government’s voluntary process for pre-release model testing. Starting this week, we will make Carbon available to a subset of cyber defenders and will gradually phase access to additional trusted partners through our Fairwind Program. We’re continuing to gather feedback and iterate on guardrails before making Carbon available to developers, businesses, and consumers via our product surfaces as soon as possible. Gemini 4 Carbon will launch at the same introductory price 1 as Argon at $2 per million input tokens and $10 per million output tokens, with"
+      },
+      "verdict": {
+        "model": "jev-1.13.0",
+        "score": 1.63,
+        "category": "Technology",
+        "category_confidence": 0.61
       }
     },
     {
@@ -11906,6 +12540,32 @@
         "score": 1.59,
         "category": "Software Engineering",
         "category_confidence": 0.53
+      }
+    },
+    {
+      "canonical_url": "https://colossus.com/article/sane-asylum-turbopuffer/",
+      "url": "https://colossus.com/article/sane-asylum-turbopuffer/",
+      "found_at": "2026-10-29T11:30:10+00:00",
+      "sources": [
+        {
+          "name": "pinboard",
+          "title": "[no title]"
+        }
+      ],
+      "page": {
+        "final_url": "https://colossus.com/article/sane-asylum-turbopuffer/",
+        "status": 200,
+        "title": "The Sane Asylum",
+        "description": "A love letter to turbopuffer, a new kind of AI company",
+        "og_image": "https://colossus.com/wp-content/uploads/2026/10/turbopuffer-preview-card.png",
+        "favicon": "https://colossus.com/wp-content/themes/colossus/assets/images/icons/favicon-96x96.png",
+        "text_excerpt": "Search Podcasts Magazine Newsletter About Us Sponsors SUBSCRIBE LOG IN Copyright © 2026 Colossus. All rights reserved. SUBSCRIBE LOG IN Essay The Sane Asylum A love letter to a new kind of company By Brie Wolfson October 2026 PHOTOS BY NICK IWANYSHYN 1.0x 0:00 36:32 LISTEN ON: Apple Podcasts Spotify Link copied SHARE Subscribe to print for your office or home. The people of Silicon Valley are unwell. Too many of my friends are spiraling. I don’t know how we’re supposed to live and work like this. If you work at a frontier lab or decacorn that’s still 10x’ing every six months, you’ve actually got it bad. You may be the chosen ones—the permanent upper class—but that doesn’t mean you aren’t worse for wear. You haven’t seen your kids, your girlfriend’s annoyed, and invites from friends to hang out are waning. I’ve heard reports of weddings and starting families being put on hold. You’d do the same if you saw what they saw. Knowledge workers probably won’t have jobs in two years. We may be dead in 10. This is the time to make your mark and make your money. I overheard someone at an SF coffee shop begging for a referral to Anthropic from his friend, who repeatedly replied, “There’s nothing I can do, man.” I was so uncomfortable I had to put my headphones on so I couldn’t hear them anymore. A “perk” of being the chosen one is being surrounded by the most talented people in tech. But you’re finding elbows are sharp in a roomful of people used to being the most important in the room. You’ve been advised not to wear company swag in public: security risk. People treat you differently now. Or maybe it’s you that sees them differently. If you’re building a startup that’s trying to compete with or be one of these companies, you’ve also got it bad. Maybe you passed up a job offer at one a couple years back, which means you left $100mn on the table, you fucking idiot. Can’t miss your chance to get rich or get your fingerprints on the next great product this time. For the ones that "
+      },
+      "verdict": {
+        "model": "jev-1.13.0",
+        "score": 1.58,
+        "category": "Magazines, Newspapers & Newsletter",
+        "category_confidence": 0.68
       }
     },
     {
@@ -12362,6 +13022,32 @@
         "score": 1.46,
         "category": "Technology",
         "category_confidence": 0.58
+      }
+    },
+    {
+      "canonical_url": "https://restofworld.org/2026/ai-tokenizer-tax-non-english-languages-cost-inequity/",
+      "url": "https://restofworld.org/2026/ai-tokenizer-tax-non-english-languages-cost-inequity/",
+      "found_at": "2026-10-29T11:30:10+00:00",
+      "sources": [
+        {
+          "name": "pinboard",
+          "title": "The Tokenizer Tax: Why non-english AI users pay more for tokens - Rest of World"
+        }
+      ],
+      "page": {
+        "final_url": "https://restofworld.org/2026/ai-tokenizer-tax-non-english-languages-cost-inequity/",
+        "status": 200,
+        "title": "AI models cost more when you don’t use English",
+        "description": "Some languages require far more tokens for AI models to process, raising costs and reducing context for the people who use them.",
+        "og_image": "https://restofworld.org/wp-content/uploads/2026/10/Ai-Cost-Languages-3-scaled.png",
+        "favicon": "https://restofworld.org/wp-content/themes/orbis/static-assets/media/favicon-32.png",
+        "text_excerpt": "Skip to content Reporting Global Tech Stories GlobalInnovation SIGN IN INNOVATION AI models cost more when you don’t use English Some languages require far more tokens for AI models to process, raising costs and reducing context for the people who use them. Rest of World/iStock By ANANYA BHATTACHARYA + 26 OCTOBER 2026 TRANSLATE ESPAÑOL PORTUGUÊS 中文 (简体字) 中文 (繁體字) DEUTSCH FRANÇAIS People who use less widely spoken languages could end up paying more to use artificial intelligence than those who speak English or other dominant languages. A new study published last month by the Coalition for Language Equity in AI Research found AI models require far more tokens for some languages than others. Tokens are the units of text or data that the models process. The researchers have called this a hidden “tokenizer tax,” which can make AI more expensive in languages with smaller online presence. A tokenizer is a tool that breaks down raw text, images, or audio into tokens. Tokenization example. A graphic representation of the tokenization of the sentence “People should benefit from AI, regardless of the language they speak.”in English and Malayalam using The OpenAI tokenizer API (https://platform.openai.com/tokenizer) . The English sentence gets split into recognizable words, while the Malayalam sentence gets multiple fragments per word without respect for multi-byte characters. CLEAR Even within the 20 most popular languages on the internet, there is a gap in token usage, the research found. The most expensive of the languages used between 1.5 and 5 times more tokens than the cheapest. This gap widened when researchers expanded the set to 200 languages, with the token cost gap in one AI model growing by 17 times. “A startup in [Bengaluru] may pay a surcharge on every prompt and completion while its competitor in Austin does not,” the study said. “The tokenizer tax also has implications beyond cost. Higher token counts translate into higher latency and reduced effective context c"
+      },
+      "verdict": {
+        "model": "jev-1.13.0",
+        "score": 1.46,
+        "category": "News",
+        "category_confidence": 0.61
       }
     },
     {
@@ -13232,6 +13918,37 @@
       }
     },
     {
+      "canonical_url": "https://alpinelinux.org/posts/GitLab-security-incident-CVE-2026-97229.html",
+      "url": "https://alpinelinux.org/posts/GitLab-security-incident-CVE-2026-97229.html",
+      "found_at": "2026-10-29T11:30:10+00:00",
+      "sources": [
+        {
+          "name": "hn",
+          "id": "50282544",
+          "title": "GitLab Security Incident: Attempted Exploitation of CVE-2026-97229",
+          "discussion_url": "https://news.ycombinator.com/item?id=50282544",
+          "score": 190,
+          "comments": 89,
+          "created_at": "2026-10-28T23:45:46Z"
+        }
+      ],
+      "page": {
+        "final_url": "https://alpinelinux.org/posts/GitLab-security-incident-CVE-2026-97229.html",
+        "status": 200,
+        "title": "GitLab security incident: attempted exploitation of CVE-2026-97229 | Alpine Linux",
+        "description": "Alpine Linux",
+        "og_image": "",
+        "favicon": "https://alpinelinux.org/alpine-logo.ico",
+        "text_excerpt": "About Downloads Releases Community Sponsors Donate docs wiki git issues packages mirrors security Small. Simple. Secure. Alpine Linux is a security-oriented, lightweight Linux distribution based on musl libc and busybox. 2026-10-28 GITLAB SECURITY INCIDENT: ATTEMPTED EXPLOITATION OF CVE-2026-97229 On October 20 and 21, an attacker tried to exploit a GitLab vulnerability (CVE-2026-97229) on our instance, a week after the fix was released. The attack came close to working. We have found no evidence that it succeeded, but we cannot rule it out, so we treated the instance as compromised and rebuilt it from scratch. Our checks show that the aports repository, packages, and the October 21 releases were not tampered with. GitLab is being tested before we open it to the public again. All passwords have been reset, so when it is back you will need to set a new one with “Forgot your password?” on the sign-in page. We will post exactly what you need to do when it reopens. In the meantime: if you used the same password for your gitlab.alpinelinux.org account anywhere else, change it there. We have seen automated login attempts against our GitLab with passwords leaked from other sites. If you have questions or concerns please reach out to us at infra@alpinelinux.org. WHAT HAPPENED The vulnerability: CVE-2026-97229 is a critical (CVSS 10.0) vulnerability in how GitLab evaluates regular expressions in CI configuration. The underlying bug is in Onigmo, the regular expression engine built into Ruby. GitLab published fixed releases on October 12, but the fix itself is a set of patches to the Ruby that GitLab bundles in its own packages and container images. Upstream Ruby shipped the fix on October 23, in Ruby 3.3.13, 3.4.12 and 4.0.9. The attack: On October 20 and 21, a newly registered account sent crafted CI configurations to our GitLab instance, which was still running 19.3.4 and did not have the October 12 fix. This crashed GitLab worker processes 8 times. In 4 of those crashes t"
+      },
+      "verdict": {
+        "model": "jev-1.13.0",
+        "score": 1.31,
+        "category": "Software Engineering",
+        "category_confidence": 0.56
+      }
+    },
+    {
       "canonical_url": "https://daringfireball.net/2026/10/the_iphone_duo",
       "url": "https://daringfireball.net/2026/10/the_iphone_duo",
       "found_at": "2026-10-23T10:02:05+00:00",
@@ -13405,6 +14122,41 @@
         "score": 1.28,
         "category": "Blog",
         "category_confidence": 0.97
+      }
+    },
+    {
+      "canonical_url": "https://www.technologyreview.com/2026/10/20/1145399/emacs-turns-50/",
+      "url": "https://www.technologyreview.com/2026/10/20/1145399/emacs-turns-50/",
+      "found_at": "2026-10-29T11:30:10+00:00",
+      "sources": [
+        {
+          "name": "hn",
+          "id": "50273171",
+          "title": "Emacs Turns 50",
+          "discussion_url": "https://news.ycombinator.com/item?id=50273171",
+          "score": 489,
+          "comments": 210,
+          "created_at": "2026-10-28T13:25:11Z"
+        },
+        {
+          "name": "pinboard",
+          "title": "EMACS turns 50 | MIT Technology Review"
+        }
+      ],
+      "page": {
+        "final_url": "https://www.technologyreview.com/2026/10/20/1145399/emacs-turns-50/",
+        "status": 200,
+        "title": "EMACS turns 50",
+        "description": "How the MIT AI Lab’s text editor gave birth to the free software movement.",
+        "og_image": "https://wp.technologyreview.com/wp-content/uploads/2026/09/cover-mockup-thumb.jpg?resize=1200,600",
+        "favicon": "https://www.technologyreview.com/static/media/favicon.1cfcdb44759a0f93ddf5feb5405dd4cc.ico",
+        "text_excerpt": "SKIP TO CONTENT Menu MIT Technology Review Sign in SUBSCRIBE The Big Story Artificial intelligence Biotech & health Climate & energy 10 Breakthrough Technologies AI Hype Index The Impossible issue Menu MIT Technology Review Sign in SUBSCRIBE The Big Story Artificial intelligence Biotech & health Climate & energy 10 Breakthrough Technologies AI Hype Index The Impossible issue MIT ALUMNI NEWS: 1865 EMACS turns 50 How the MIT AI Lab’s text editor gave birth to the free software movement. By Simson Garfinkel ’87, PhD ’05 archive page October 20, 2026 Artwork from Richard Stallman’s 1981 EMACS manual. Later iterations of the manual featured cover art of a medieval knight riding a yak. The complex yet playful illustrations captured the hacker culture of the era. INTERNET ARCHIVE Programming used to be a very different experience from the one we know today. In fact, the first programmers didn’t write code at all; the six women who worked on the ENIAC, one of the world’s first computers, at the University of Pennsylvania in 1946 did it by physically configuring switches, cables, and plugboards. A few years later, MIT engineers programmed the Whirlwind by punching code onto paper tape that was then loaded into the computer’s memory—making it among the first “stored-program” machines. Later, they and others moved on to punch cards, one for each line of code. By the early 1960s, programmers with interactive computers could use a “line editor” to type their code on teletypes—large, noisy keyboard-and-printer machines. They’d type one line of code at a time, and their work would be saved on a spinning hard disk the size of a modern washing machine. But there was still no such thing as the now-familiar full-screen text editors that allow programmers to see and modify many lines at a time on a display. One of the first such tools, EMACS, turns 50 this year, and it is still widely used. EMACS first ran on the early video terminals at the MIT Artificial Intelligence Laboratory in 19"
+      },
+      "verdict": {
+        "model": "jev-1.13.0",
+        "score": 1.28,
+        "category": "Technology",
+        "category_confidence": 0.34
       }
     },
     {
@@ -13854,6 +14606,32 @@
       }
     },
     {
+      "canonical_url": "https://kltype.com/",
+      "url": "https://kltype.com/",
+      "found_at": "2026-10-29T11:30:10+00:00",
+      "sources": [
+        {
+          "name": "pinboard",
+          "title": "Kent Lew — crafting extraordinarily ordinary typefaces since 2001"
+        }
+      ],
+      "page": {
+        "final_url": "https://kltype.com/",
+        "status": 200,
+        "title": "Kent Lew — crafting extraordinarily ordinary typefaces since 2001",
+        "description": "Kent Lew — crafting extraordinarily ordinary typefaces since 2001.",
+        "og_image": "https://kltype.com/media/pages/home/aa9ed0ba07-1792961613/kltype-og-2.png",
+        "favicon": "https://kltype.com/assets/icons/favicon.svg",
+        "text_excerpt": "Skip to main content Kent Lew Fonts In the Works Journal About SIGN IN CART Kent Lew — crafting extraordinarily ordinary typefaces since 2001. Latest Entries VIEW ALL 10/23/26 Slow Fonts 10/20/26 On Becoming a Foundry Haffner Text 6 Styles Parling 18 Styles Whitman Display 14 Styles Whitman Text 10 Styles FONTS Haffner Text Parling Whitman Display Whitman Text Trial Fonts In the Works Journal RSS Feed About License EMAIL LIST — Sign up for infrequent announcements. Believe me, I have no interest in spamming folks. And I’m certainly not going to share or sell your info. Promise. Email address SIGN UP Kent Lew on Mastodon ©2026 Kent Lew. All rights reserved."
+      },
+      "verdict": {
+        "model": "jev-1.13.0",
+        "score": 1.19,
+        "category": "Art & Design",
+        "category_confidence": 0.97
+      }
+    },
+    {
       "canonical_url": "https://www.niemanlab.org/2026/10/the-ringer-bets-on-substacks-network-over-its-own-website/",
       "url": "https://www.niemanlab.org/2026/10/the-ringer-bets-on-substacks-network-over-its-own-website/",
       "found_at": "2026-10-25T09:48:11+00:00",
@@ -14020,6 +14798,58 @@
       }
     },
     {
+      "canonical_url": "https://www.apple.com/newsroom/2026/10/apple-creator-studio-adds-powerful-new-ai-features-and-even-more-creative-tools/",
+      "url": "https://www.apple.com/newsroom/2026/10/apple-creator-studio-adds-powerful-new-ai-features-and-even-more-creative-tools/",
+      "found_at": "2026-10-29T11:30:10+00:00",
+      "sources": [
+        {
+          "name": "pinboard",
+          "title": "Apple Creator Studio adds powerful new AI features and even more creative tools - Apple"
+        }
+      ],
+      "page": {
+        "final_url": "https://www.apple.com/newsroom/2026/10/apple-creator-studio-adds-powerful-new-ai-features-and-even-more-creative-tools/",
+        "status": 200,
+        "title": "Apple Creator Studio adds powerful new AI features and even more creative tools",
+        "description": "Apple introduces updates to Apple Creator Studio, the collection of creative apps designed to put studio-grade tools into the hands of creators.",
+        "og_image": "https://www.apple.com/newsroom/images/2026/10/apple-creator-studio-adds-powerful-new-ai-features-and-even-more-creative-tools/tile/Apple-Creator-Studio-hero-261027-lp.jpg.og.jpg?202610281720",
+        "favicon": "https://www.apple.com/favicon.ico",
+        "text_excerpt": "Apple Store Mac iPad iPhone Watch Vision AirPods TV & Home Entertainment Accessories Support 0 + Newsroom Apple Services Apple Stories Search Newsroom PRESS RELEASE October 27, 2026 Apple Creator Studio adds powerful new AI features and even more creative tools Updates bring built-in MotionVFX content to Final Cut Pro, video assets in the Content Hub, expanded music creation tools to Logic Pro, and new intelligence features to Logic Pro, Keynote, Pages, and Numbers Apple Creator Studio gets transformative updates, including built-in MotionVFX content for Final Cut Pro, video assets in the Content Hub, expanded music creation tools in Logic Pro, and new intelligence features in Logic Pro, Keynote, Pages, and Numbers. CUPERTINO, CALIFORNIA Apple today introduced transformative updates to Apple Creator Studio, the powerful collection of creative apps designed to put studio-grade tools into the hands of modern creators across Mac, iPad, and iPhone. Final Cut Pro for Mac now includes built-in MotionVFX — an expansive collection of visual effects, plug-ins, transitions, templates, and motion graphics tools — as well as seamless editing in Pixelmator Pro. Apple’s curated Content Hub now includes video assets and is available in Final Cut Pro. Music creators using Logic Pro for Mac gain a new intelligent assistant in beta,1 an enhanced Stem Splitter that now separates drums, and a redesigned Browser that incorporates all sounds, with music understanding and even a Splice library. Pixelmator Pro introduces Generate Fill, which lets creators transform selected areas of an image using natural language. Keynote, Pages, and Numbers introduce new AI features in beta, including assistants2 that understand document context and new Model Context Protocol (MCP) support for workflow automation.3 They also add stock video in the Content Hub and new premium themes and templates. Apple Creator Studio updates will be available on the App Store this November as a free update for existing s"
+      },
+      "verdict": {
+        "model": "jev-1.13.0",
+        "score": 1.13,
+        "category": "News",
+        "category_confidence": 0.67
+      }
+    },
+    {
+      "canonical_url": "https://www.theverge.com/tech/1019484/super-mouse-touchscreen-shortcuts-macros-kickstarter",
+      "url": "https://www.theverge.com/tech/1019484/super-mouse-touchscreen-shortcuts-macros-kickstarter",
+      "found_at": "2026-10-29T11:30:10+00:00",
+      "sources": [
+        {
+          "name": "pinboard",
+          "title": "The Super Mouse puts a touchscreen macro pad under your hand | The Verge"
+        }
+      ],
+      "page": {
+        "final_url": "https://www.theverge.com/tech/1019484/super-mouse-touchscreen-shortcuts-macros-kickstarter",
+        "status": 200,
+        "title": "The Super Mouse puts a touchscreen macro pad under your hand",
+        "description": "It’s a bird, it’s a plane — no, it’s a mouse with a touchscreen.",
+        "og_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/supermouse1.jpg?quality=90&strip=all&crop=0%2C10.719133494003%2C100%2C78.561733011995&w=1200",
+        "favicon": "https://www.theverge.com/static-assets/icons/favicon.ico",
+        "text_excerpt": "SKIP TO MAIN CONTENT The homepage SUBSCRIBE SIGN IN Tech Reviews Science Entertainment AI Policy The Super Mouse puts a touchscreen macro pad under your hand 7 TECH GADGETS NEWS The Super Mouse puts a touchscreen macro pad under your hand You can launch and control apps, check your calendar, scroll, and even type using the mouse’s 3-inch screen. by Andrew Liszewski Oct 27, 2026, 5:00 PM UTC 7 7 Comments (All New) Image: Arctic Fox Technologies Andrew Liszewski is a senior reporter who’s been covering and reviewing the latest gadgets and tech since 2006, but has loved all things electronic since he was a kid. A company called Arctic Fox Technologies has announced a new multifunction mouse that forgoes a myriad of customizable shortcut buttons peppered across its surface for a compact touchscreen sitting beneath your hand. The Super Mouse may not prioritize ergonomics with its boxy design, but it can replace other peripherals on your desk, like a trackpad, macro pad, or streaming controller. If you’re faster at typing on your phone, the Super Mouse could potentially even replace a full-size keyboard with a smartphone-sized alternative that even includes swipe typing. The Super Mouse is now available for preorder through a Kickstarter crowdfunding campaign in which it’s discounted to $199 for backers, while full retail pricing will be $249. Delivery is expected to start in February 2027, but take that estimate with a grain of salt, as many Kickstarter campaigns have faced unforeseen delays. That price makes the Super Mouse more expensive than other companies’ attempts to merge mice and touchscreens. But while alternatives like Turtle Beach’s Command Series MC7 has just a 2.25-inch narrow display on the side, the Super Mouse features a 3.1-inch, 720 x 720 touchscreen positioned front and center beneath a pair of standard mouse buttons, a scroll wheel, and two customizable “hyper keys.” The Super Mouse doesn’t include a rechargeable battery and draws all the power it nee"
+      },
+      "verdict": {
+        "model": "jev-1.13.0",
+        "score": 1.12,
+        "category": "Technology",
+        "category_confidence": 0.87
+      }
+    },
+    {
       "canonical_url": "https://www.themarginalian.org/2026/10/24/20-books/",
       "url": "https://www.themarginalian.org/2026/10/24/20-books/",
       "found_at": "2026-10-26T11:15:55+00:00",
@@ -14043,6 +14873,32 @@
         "score": 1.11,
         "category": "Books",
         "category_confidence": 0.5
+      }
+    },
+    {
+      "canonical_url": "https://eternal.tv/",
+      "url": "https://eternal.tv/",
+      "found_at": "2026-10-29T11:30:10+00:00",
+      "sources": [
+        {
+          "name": "pinboard",
+          "title": "Eternal Family | The Hidden-Gem Media Service"
+        }
+      ],
+      "page": {
+        "final_url": "https://eternal.tv/",
+        "status": 200,
+        "title": "Eternal Family | The Hidden-Gem Media Service",
+        "description": "Eternal Family is an offbeat streaming platform presenting hidden gems from the past and surreal entertainment.",
+        "og_image": "",
+        "favicon": "https://eternal.tv/images/favicontypes/8520/l6.1768445044.png",
+        "text_excerpt": "HOME WATCH READ SHOP HELP SIGN IN JOIN Bloody Muscle Body Builder in Hell (1995) WATCH FILM ▶ The Hidden-Gem Video Store Join the family to discover unique films, rare finds and forgotten treasures, Ad-free. Email address TRY A FREE WEEK or browse our full catalogue NOW PLAYING ON 01 Starter Packs CURATED COLLECTIONS TO GET YOU STARTED BROWSE ALL STARTER PACKS → ‹ CANADIAN CULT CLASSICS STARTER PACK HUNGARIAN ANIMATION STARTER PACK MONSTER MOVIES STARTER PACK STOP MOTION ANIMATION STARTER PACK EAST GERMAN FAIRYTALE STARTER PACK LATVIAN ANIMATION STARTER PACK CZECH SURREALISM STARTER PACK JAPANESE CULT CLASSICS STARTER PACK SHAW BROTHERS STARTER PACK EXPERIMENTAL VIDEO ART STARTER PACK SLOW CINEMA STARTER PACK FANTASY AND ADVENTURE STARTER PACK › 02 Staff Picks HAND-PICKED GEMS & OBSESSIONS BROWSE ALL STAFF PICKS → STAFF PICK QUEEN OF DIAMONDS (1991) A film by Nina Menkes A blackjack dealer navigates Vegas lights, desert decay and a looping drum of buried rage. WATCH NOW ▶ ‹ › 03 24/7 Eternal TV Channels ALWAYS ON. DISCOVER SOMETHING NEW. WATCH NOW → ‹ › ‹ “Eternal Family is refreshingly different than any other streaming service I've used. The content is weird, obscure, rare, independent and so new-to-me feeling. If you're craving something different than the average I definitely recommend a subscription.” - App Store Review “Beyond hyped with their whole catalog. If you're going to subscribe to only one streaming service it HAS to be this one.” - App Store Review “Strange and entertaining shows from across the decades. Their catalog is always growing and changing. My girlfriend and I are always able to find something interesting, trippy, creative, and captivating.” - App Store Review › 04 The Eternal Reader ARTICLES, INTERVIEWS AND MORE FROM THE FAMILY READ MORE → LATEST 01 · OCT 23, 2026 How to Grow Blood Sucking Flesh Fruit Wander into the funkiest of forests, dive into Argento’s plane of existence, and cozy up with five monster movies for the final weekend befor"
+      },
+      "verdict": {
+        "model": "jev-1.13.0",
+        "score": 1.11,
+        "category": "Entertainment",
+        "category_confidence": 0.91
       }
     },
     {
@@ -14252,6 +15108,41 @@
       }
     },
     {
+      "canonical_url": "https://carmelitegothic.com/cnc-stone-carving/",
+      "url": "https://carmelitegothic.com/cnc-stone-carving/",
+      "found_at": "2026-10-29T11:30:10+00:00",
+      "sources": [
+        {
+          "name": "hn",
+          "id": "50274409",
+          "title": "CNC Stone Carving",
+          "discussion_url": "https://news.ycombinator.com/item?id=50274409",
+          "score": 480,
+          "comments": 132,
+          "created_at": "2026-10-28T14:38:22Z"
+        },
+        {
+          "name": "pinboard",
+          "title": "CNC Stone Carving - Carmelite Gothic"
+        }
+      ],
+      "page": {
+        "final_url": "https://carmelitegothic.com/cnc-stone-carving/",
+        "status": 200,
+        "title": "CNC Stone Carving - Carmelite Gothic",
+        "description": "CNC Stone Carving In a form of architecture so ancient, CNC machines may seem a little out of place.  However, when one considers that the medieval builders were always on the forefront of the technology of their day, it no longer seems so strange.  To build Gothic today, it must become a reality, not a […]",
+        "og_image": "https://carmelitegothic.com/wp-content/uploads/2022/05/carmelite-gothic-cnc1.jpg",
+        "favicon": "https://i0.wp.com/carmelitegothic.com/wp-content/uploads/2022/05/cropped-android-chrome-512x512-1.png?fit=32%2C32&ssl=1",
+        "text_excerpt": "CARMELITE MONKS OF WYOMING GOTHIC GOTHIC OUR DESIGN PROGRESS THE MONKS CNC STONE CARVING Home » CNC Stone Carving CNC Stone Carving In a form of architecture so ancient, CNC machines may seem a little out of place. However, when one considers that the medieval builders were always on the forefront of the technology of their day, it no longer seems so strange. To build Gothic today, it must become a reality, not a romantic idea locked up forever in one’s head. (The Carmelite Monks spend their allotted work time on construction. See their Horarium here.) CNC carving of a Gothic pinnacle by the Carmelite Monks CNC machines and robots have unlocked the ability to relatively quickly carve the intense details of a Gothic church. Ornate pieces that used to take months for a skilled carver, now can be accomplished in a matter of days. Instead of cutting out the beauty, using the excuse that it takes too long, thus doesn’t fit into the budget, modern technology can be used to make true Gothic in all its beauty a reality again today. The use of modern technologies in stone carving unlock the potential of modern youth. Though they may be untrained in the use of a hammer and chisel, young men and women have grown up in a world of computers. The skills they possess can now be channeled towards a higher end, the building of a church for the glory of God. CNC Programing of a Gothic pinnacle by a Carmelite Monk What is a CNC machine CNC stands for “computer numerically controlled”, where a computer, through a series of XYZ coordinates, controls the movements of a machine. The first CNC was invented for the manufacturing of airplane parts. Stone cutting CNC machines are a relatively new invention. Stone carving CNC machines typically use diamond tipped blades and milling bits, not water or laser, to carve the stone. The diamonds, harder than the stone, grind away at the stone and wear it away. The water is simply to keep the diamond tool from heating up from the friction and to wash"
+      },
+      "verdict": {
+        "model": "jev-1.13.0",
+        "score": 1.09,
+        "category": "Art & Design",
+        "category_confidence": 0.38
+      }
+    },
+    {
       "canonical_url": "https://www.theverge.com/ai-artificial-intelligence/1018434/cobol-migration-legacy-code-openai-anthropic",
       "url": "https://www.theverge.com/ai-artificial-intelligence/1018434/cobol-migration-legacy-code-openai-anthropic",
       "found_at": "2026-10-27T10:31:46+00:00",
@@ -14275,6 +15166,32 @@
         "score": 1.08,
         "category": "Software Engineering",
         "category_confidence": 0.52
+      }
+    },
+    {
+      "canonical_url": "https://www.theverge.com/tech/1019076/google-genie-4-ai-model",
+      "url": "https://www.theverge.com/tech/1019076/google-genie-4-ai-model",
+      "found_at": "2026-10-29T11:30:10+00:00",
+      "sources": [
+        {
+          "name": "pinboard",
+          "title": "Google’s next Genie AI model generates more realistic experiences | The Verge"
+        }
+      ],
+      "page": {
+        "final_url": "https://www.theverge.com/tech/1019076/google-genie-4-ai-model",
+        "status": 200,
+        "title": "Google’s next Genie AI model generates more realistic experiences",
+        "description": "Do you want to explore a realistic AI-generated world?",
+        "og_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Screenshot-2026-10-26-at-3.00.35-PM.png?quality=90&strip=all&crop=0%2C3.0468973306098%2C100%2C93.90620533878&w=1200",
+        "favicon": "https://www.theverge.com/static-assets/icons/favicon.ico",
+        "text_excerpt": "SKIP TO MAIN CONTENT The homepage SUBSCRIBE SIGN IN Tech Reviews Science Entertainment AI Policy Google’s next Genie AI model generates more realistic experiences 8 TECH AI NEWS Google’s next Genie AI model generates more realistic experiences The Genie 4 world model offers more realism and can create audio to accompany its interactive worlds. by Jay Peters Oct 27, 2026, 4:00 PM UTC 8 8 Comments (All New) Image: Google Jay Peters is a senior reporter covering technology, gaming, and more. He joined The Verge in 2019 after nearly two years at Techmeme. Google announced today its Genie 4 world model for generating interactive experiences using AI. The company says the model has four main updates: It allows for more realistic worlds, lets users update an experience in real time with a natural language prompt, can generate audio, and uses Gemini 3.8 Flash under the hood to help with its simulations. It also can create experiences that are about two minutes long, up from one minute for the previous Genie 3 model. Google is pitching Genie 4 as a tool that could be helpful for things like pre-visualization for filmmakers, prototyping game ideas, and making training scenarios for robots. But the company warns that, as simulations run longer, details and object permanence can shift over time. I haven’t been able to try Genie 4 for myself — it’s launching first as a “research preview” to “trusted testers” — so I can’t tell you how it compares to the Genie 3-powered Project Genie, which I used to generate bad Nintendo knockoffs. But here are some examples from Google demonstrating what’s possible with the new model. Genie 4 will be “coming soon” to Google AI Ultra subscribers, Google says, and the company has opened a waitlist where you can apply to be able to try it in Project Genie. 8 COMMENTS Follow topics and authors from this story to see more like this in your personalized homepage feed and to receive email updates. JAY PETERS AI GOOGLE NEWS TECH Subscribe to The Verge t"
+      },
+      "verdict": {
+        "model": "jev-1.13.0",
+        "score": 1.08,
+        "category": "Technology",
+        "category_confidence": 0.54
       }
     },
     {
@@ -15424,6 +16341,32 @@
         "score": 0.91,
         "category": "News",
         "category_confidence": 0.41
+      }
+    },
+    {
+      "canonical_url": "https://www.wired.com/story/the-inside-story-of-why-apple-finally-brought-a-touch-display-to-the-mac/",
+      "url": "https://www.wired.com/story/the-inside-story-of-why-apple-finally-brought-a-touch-display-to-the-mac/",
+      "found_at": "2026-10-29T11:30:10+00:00",
+      "sources": [
+        {
+          "name": "pinboard",
+          "title": "The Inside Story of Why Apple Finally Brought a Touch Display to the Mac | WIRED"
+        }
+      ],
+      "page": {
+        "final_url": "https://www.wired.com/story/the-inside-story-of-why-apple-finally-brought-a-touch-display-to-the-mac/",
+        "status": 200,
+        "title": "The Inside Story of Why Apple Finally Brought a Touch Display to the Mac",
+        "description": "An exclusive early look at Apple’s new touchscreen MacBook Pro—the computer Apple said would never happen.",
+        "og_image": "https://media.wired.com/photos/6ae20ca456ee4dcb93f11044/191:100/w_1280,c_limit/1027_AppleNF_Illustration_v1.jpg",
+        "favicon": "https://www.wired.com/verso/static/wired-us/assets/favicon.ico",
+        "text_excerpt": "Skip to main content THE WIRED APP IS HERE DOWNLOAD NOW » SECURITY POLITICS THE BIG STORY BUSINESS SCIENCE CULTURE REVIEWS NEWSLETTERS Security Politics The Big Story Business Science Culture Reviews More Newsletters Podcasts Video Livestreams WIRED Store Search Sign In STEVEN LEVY THE BIG STORY OCT 28, 2026 1:15 PM The Inside Story of Why Apple Finally Brought a Touch Display to the Mac An exclusive early look at Apple’s new touchscreen MacBook Pro—the computer Apple said would never happen. PHOTO-ILLUSTRATION: JOBANNY CABRERA; GETTY IMAGES IT’S A BRIGHT day in Cupertino. Apple’s new CEO strolls to an outdoor seating area within the company’s otherworldly ring-shaped headquarters and pulls up a chair. An employee notes the angle and asks if he minds the sun. John Ternus doesn’t mind at all. Nearly two months into his tenure, he’s been busy. While the tech world buzzes about AI agents and the upcoming IPO of a company reporting spectacular losses, Ternus’ leadership of a ridiculously profitable firm has so far been defined by a sequence of significant launches—the long-awaited foldable iPhone, a household device that can control digital appliances, new Mac Minis, and AirPods. Intentionally or not, all that activity sends a message that, even as AI dominates the public imagination, hardware products still rule. PHOTOGRAPH: SHOT ON IPHONE 18 PRO MAX BY PETER HAPAK/COURTESY OF APPLE Ternus doesn’t endorse that take, but he doesn’t object when I suggest it. “We’ve been working on these products for quite some time,” he says. “It feels like everyone here is just kind of riding high right now, enjoying it.” I ask if Apple is about to break a long-imposed taboo and introduce a Macintosh with a touch screen. Ternus beams. “Who knew?” We are referring to the new MacBook Pro with PROLED XDR Display that Apple is releasing today at an event in Los Angeles. It’s got a mighty M5 Pro or M5 Max chip and a show-stopping tandem OLED screen. (A tandem screen has multiple light-emitti"
+      },
+      "verdict": {
+        "model": "jev-1.13.0",
+        "score": 0.91,
+        "category": "Technology",
+        "category_confidence": 0.54
       }
     },
     {
@@ -16840,6 +17783,32 @@
       }
     },
     {
+      "canonical_url": "https://simonwillison.net/2026/Oct/28/terk-terkowitz/",
+      "url": "https://simonwillison.net/2026/Oct/28/terk-terkowitz/",
+      "found_at": "2026-10-29T11:30:10+00:00",
+      "sources": [
+        {
+          "name": "pinboard",
+          "title": "A quote from Terk Terkowitz"
+        }
+      ],
+      "page": {
+        "final_url": "https://simonwillison.net/2026/Oct/28/terk-terkowitz/",
+        "status": 200,
+        "title": "A quote from Terk Terkowitz",
+        "description": "If your work does not benefit from current AI tooling, that is a finding, not a failing. Document why, share it with your community of peers, bring it to your …",
+        "og_image": "",
+        "favicon": "https://simonwillison.net/favicon.ico",
+        "text_excerpt": "Simon Willison’s Weblog Newsletter Sponsored by: WorkOS Airlock — intent-based access control for AI agents. Request early access If your work does not benefit from current AI tooling, that is a finding, not a failing. Document why, share it with your community of peers, bring it to your manager, and work to find solutions. An engineer who can explain where AI does not yet help their work is demonstrating the judgement we are asking for. — Terk Terkowitz, An update from Amazon engineering leadership on the role of the developer in the age of AI Posted 28th October 2026 at 10:09 am Recent articles The October inflection point for vibe game development - 28th October 2026 Battle Drones - a vibe coded RTS with audio-based multiplayer - 20th October 2026 Hello Python 3.15, goodbye 3.10, and now I can use 3.11 - 12th October 2026 A new feature for my blog, built using my voice - 9th October 2026 This is a quotation collected by Simon Willison, posted on 28th October 2026. amazon 71 ai 2,300 generative-ai 2,041 llms 2,006 agentic-engineering 69 Disclosures Colophon © 2002 2003 2004 2005 2006 2007 2008 2009 2010 2011 2012 2013 2014 2015 2016 2017 2018 2019 2020 2021 2022 2023 2024 2025 2026"
+      },
+      "verdict": {
+        "model": "jev-1.13.0",
+        "score": 0.73,
+        "category": "Blog",
+        "category_confidence": 0.62
+      }
+    },
+    {
       "canonical_url": "https://www.theregister.com/systems/2026/10/22/ibm-ceo-says-open-weight-models-are-now-irresistibly-good-and-cheap-on-prem/5304640",
       "url": "https://www.theregister.com/systems/2026/10/22/ibm-ceo-says-open-weight-models-are-now-irresistibly-good-and-cheap-on-prem/5304640",
       "found_at": "2026-10-26T11:15:55+00:00",
@@ -17279,6 +18248,32 @@
       }
     },
     {
+      "canonical_url": "https://www.modernretail.co/ai-strategies/ai-boosts-discovery-but-reviews-still-seal-the-deal-new-research-shows/",
+      "url": "https://www.modernretail.co/ai-strategies/ai-boosts-discovery-but-reviews-still-seal-the-deal-new-research-shows/",
+      "found_at": "2026-10-29T11:30:10+00:00",
+      "sources": [
+        {
+          "name": "pinboard",
+          "title": "AI boosts discovery but reviews still seal the deal"
+        }
+      ],
+      "page": {
+        "final_url": "https://www.modernretail.co/ai-strategies/ai-boosts-discovery-but-reviews-still-seal-the-deal-new-research-shows/",
+        "status": 200,
+        "title": "AI boosts discovery but reviews still seal the deal, new research shows",
+        "description": "Consumer surveys show AI helps shoppers find gifts, but most check reviews, compare prices and review retailers' policies before buying.",
+        "og_image": "https://www.modernretail.co/wp-content/uploads/sites/5/2025/10/ai-compensation-digiday.webp",
+        "favicon": "https://www.modernretail.co/wp-content/uploads/sites/5/2019/05/cropped-modern-retail-favicon.png?w=32",
+        "text_excerpt": "SUBSCRIBE LOGIN TECHNOLOGY MARKETING OPERATIONS MODERN RETAIL+ PODCASTS EVENTS AWARDS STORE OF THE FUTURE // OCTOBER 22, 2026 AI boosts discovery but reviews still seal the deal, new research shows By Gabriela Barkho LinkedIn Facebook X Ivy Liu This holiday season, shoppers aren’t blindly trusting AI assistants to do their shopping on their behalf. According to a new Feedvisor survey, ChatGPT is where 16% of shoppers start looking for products. However, only 9% go there to actually buy something. And when an AI assistant recommends a product, only 5% of respondents say they buy it on the spot, with the rest checking other platforms like Google and Amazon first for better prices. For experts, this customer behavior signals that AI recommendations are a starting point, not the final word. Shoppers still check reviews, compare prices, visit retailer and brand sites, and look at shipping and return policies, for example, before deciding. The challenge for brands is to ensure these touchpoints reflect an accurate image of their offerings and ultimately convert customers. PartnerCentric’s latest survey-based findings show that, following an AI suggestion, 33% of shoppers go to check existing reviews, 22.3% compare prices, and 18.8% search Amazon or another retailer. Only 14.8% visit the brand’s website, while 7.6% look for creator content about the product. When it comes to brands’ holiday marketing reach, 33% of shoppers say shipping and return policies often or always change what they buy. “AI is a starting point, not a final verdict,” said Stephanie Harris, founder and CEO of PartnerCentric. “The shoppers who trust it most are still checking the work.” In PartnerCentric’s data, 42.2% of shoppers in the top two AI-trust categories still want reviews before acting, while 31.2% go to actually check the reviews right away. “So the recommendation has to survive the next question the shopper asks,” Harris said. “And that question usually gets answered in the reviews, on the "
+      },
+      "verdict": {
+        "model": "jev-1.13.0",
+        "score": 0.69,
+        "category": "Marketing",
+        "category_confidence": 0.77
+      }
+    },
+    {
       "canonical_url": "https://aws.amazon.com/security/security-bulletins/2026-143-aws/",
       "url": "https://aws.amazon.com/security/security-bulletins/2026-143-aws/",
       "found_at": "2026-10-22T10:11:48+00:00",
@@ -17516,6 +18511,32 @@
       }
     },
     {
+      "canonical_url": "https://therecord.media/uk-budget-proposal-software-companies-liable-cyber-breaches",
+      "url": "https://therecord.media/uk-budget-proposal-software-companies-liable-cyber-breaches",
+      "found_at": "2026-10-29T11:30:10+00:00",
+      "sources": [
+        {
+          "name": "pinboard",
+          "title": "UK to look at making software companies liable for cyber breaches • The Record"
+        }
+      ],
+      "page": {
+        "final_url": "https://therecord.media/uk-budget-proposal-software-companies-liable-cyber-breaches",
+        "status": 200,
+        "title": "UK to look at making software companies liable for cyber breaches",
+        "description": "The new U.K. budget says the government will \"consider where liability for cyber breaches should sit,\" potentially a landmark shift for a country that has relied on voluntary codes to encourage software vendors to improve security.",
+        "og_image": "https://cms.therecord.media/uploads/55617410424_5ed596a9f2_o_819ef85e39.jpg",
+        "favicon": "https://therecord.media/favicon.ico",
+        "text_excerpt": "Leadership Cybercrime Nation-state Influence Operations Technology Cyber Daily® Click Here Podcast ✉️ Free Newsletter U.K. CHANCELLOR OF THE EXCHEQUER JOHN HEALEY, HOLDING THE TRADITIONAL RED BOX FOR BUDGET DAY, HEADS TO PARLIAMENT ON OCTOBER 28, 2026. IMAGE: HM TREASURY / FLICKR Alexander Martin October 28th, 2026 Government News UK to look at making software companies liable for cyber breaches The British government will consult on how to hold technology companies liable for cyber breaches caused by insecure products — potentially a landmark shift for a country that has for years relied on voluntary codes to encourage software vendors to improve security. The commitment, made in budget documents published on Wednesday, comes amid growing alarm in Westminster over the economic damage caused by cyberattacks. Last year's hack of Jaguar Land Rover alone is estimated to have cost the British economy £1.9 billion ($2.5 billion). According to the budget, the government “will consult next year on how to tackle insecure technology at source and consider where liability for cyber breaches should sit.” The work will build on an ongoing review of product liability law by the Law Commission of England and Wales. Although the pledge occupies just one bullet point in the 166-page document, it marks the first formal pledge by a British government to examine where liability for cyber breaches should sit. Significant questions remain, including which department will lead the consultation, when it will begin and whether ministers envisage a civil liability regime, statutory obligations on vendors, or both. HM Treasury did not respond to a request for comment. One option likely to be considered internally is expanding the Product Security and Telecommunications Infrastructure (PSTI) Act, which since 2024 has imposed basic security requirements on manufacturers of consumer smart devices. Officials are expected to ensure any new rules are compatible with the European Union’s own softwa"
+      },
+      "verdict": {
+        "model": "jev-1.13.0",
+        "score": 0.66,
+        "category": "News",
+        "category_confidence": 0.9
+      }
+    },
+    {
       "canonical_url": "https://www.pv-magazine.com/2026/09/29/solar-surpasses-nuclear-power-globally-for-first-time/",
       "url": "https://www.pv-magazine.com/2026/09/29/solar-surpasses-nuclear-power-globally-for-first-time/",
       "found_at": "2026-10-19T13:29:24+00:00",
@@ -17596,6 +18617,32 @@
         "score": 0.65,
         "category": "Magazines, Newspapers & Newsletter",
         "category_confidence": 0.48
+      }
+    },
+    {
+      "canonical_url": "https://www.apple.com/newsroom/2026/10/apple-unveils-new-imac-with-m6/",
+      "url": "https://www.apple.com/newsroom/2026/10/apple-unveils-new-imac-with-m6/",
+      "found_at": "2026-10-29T11:30:10+00:00",
+      "sources": [
+        {
+          "name": "pinboard",
+          "title": "Apple unveils new iMac with M6 - Apple"
+        }
+      ],
+      "page": {
+        "final_url": "https://www.apple.com/newsroom/2026/10/apple-unveils-new-imac-with-m6/",
+        "status": 200,
+        "title": "Apple unveils new iMac with M6",
+        "description": "Apple today announced the new iMac featuring the superfast M6, delivering even more performance and powerful AI capabilities.",
+        "og_image": "https://www.apple.com/newsroom/images/2026/10/apple-unveils-new-imac-with-m6/tile/Apple-iMac-with-M6-hero-261027-lp.jpg.og.jpg?202610281720",
+        "favicon": "https://www.apple.com/favicon.ico",
+        "text_excerpt": "Apple Store Mac iPad iPhone Watch Vision AirPods TV & Home Entertainment Accessories Support 0 + Newsroom Apple Services Apple Stories Search Newsroom PRESS RELEASE October 27, 2026 Apple unveils new iMac with M6, delivering a major boost in performance and AI capabilities With blazing-fast performance, enhanced connectivity, Siri AI, and macOS 27, all in a stunning design in seven vibrant colors, the world’s best all-in-one gets even better Powered by M6, the new iMac delivers a massive leap in performance and AI capabilities — all in its strikingly thin all-in-one design, available in seven vibrant colors. CUPERTINO, CALIFORNIA Apple today announced the new iMac featuring the superfast M6, delivering even more performance and powerful AI capabilities in its strikingly thin all-in-one design. From families and aspiring creators to small businesses, users will experience the speed and power of M6 in everything they do. Featuring a faster CPU and GPU with Neural Accelerators in each core, it blazes through everyday apps and multitasking while delivering powerful performance for creative workflows like photo and video editing. For Intel-based upgraders, the leap is even greater, with up to 18x faster performance than the most popular Intel-based iMac.1 And together with the Dual 16-core Neural Engine, the new iMac delivers up to 5x faster on-device AI performance than M4.1 Whether users are taking advantage of Siri AI and Apple Intelligence features across apps and macOS, running local AI models, or vibe coding, iMac is a powerful platform for AI while preserving user privacy.2 Connectivity gets even better with Wi-Fi 7 and Bluetooth 6, along with available 2.5 Gigabit Ethernet and storage that is up to 2x faster, so apps and large projects launch in an instant.3 Completing the iMac experience is an expansive 24-inch 4.5K Retina display; an industry-leading camera, speakers, and mics; up to four Thunderbolt 4 ports; color-matched accessories; and the power of macOS 27"
+      },
+      "verdict": {
+        "model": "jev-1.13.0",
+        "score": 0.65,
+        "category": "News",
+        "category_confidence": 0.7
       }
     },
     {
@@ -17827,6 +18874,32 @@
       }
     },
     {
+      "canonical_url": "https://www.wsj.com/tech/ai/demis-hassabis-ai-deepmind-google-isomorphic-2b4e3153",
+      "url": "https://www.wsj.com/tech/ai/demis-hassabis-ai-deepmind-google-isomorphic-2b4e3153",
+      "found_at": "2026-10-29T11:30:10+00:00",
+      "sources": [
+        {
+          "name": "pinboard",
+          "title": "https://www.wsj.com/tech/ai/demis-hassabis-ai-deepmind-google-isomorphic-2b4e3153"
+        }
+      ],
+      "page": {
+        "final_url": "https://www.wsj.com/tech/ai/demis-hassabis-ai-deepmind-google-isomorphic-2b4e3153",
+        "status": 401,
+        "title": "wsj.com",
+        "description": "",
+        "og_image": "",
+        "favicon": "https://www.wsj.com/favicon.ico",
+        "text_excerpt": ""
+      },
+      "verdict": {
+        "model": "jev-1.13.0",
+        "score": 0.63,
+        "category": "News",
+        "category_confidence": 0.53
+      }
+    },
+    {
       "canonical_url": "https://www.theverge.com/tech/1013409/meta-removes-language-that-may-have-allowed-it-to-scrape-news-sites",
       "url": "https://www.theverge.com/tech/1013409/meta-removes-language-that-may-have-allowed-it-to-scrape-news-sites",
       "found_at": "2026-10-19T13:29:24+00:00",
@@ -17990,6 +19063,37 @@
         "score": 0.6,
         "category": "News",
         "category_confidence": 0.64
+      }
+    },
+    {
+      "canonical_url": "https://formlabs.com/products/form-studio-1-basic-founders-edition/",
+      "url": "https://formlabs.com/products/form-studio-1-basic-founders-edition/",
+      "found_at": "2026-10-29T11:30:10+00:00",
+      "sources": [
+        {
+          "name": "hn",
+          "id": "50281044",
+          "title": "Formlabs Studio 1 $699 Resin Printer",
+          "discussion_url": "https://news.ycombinator.com/item?id=50281044",
+          "score": 194,
+          "comments": 130,
+          "created_at": "2026-10-28T21:19:30Z"
+        }
+      ],
+      "page": {
+        "final_url": "https://formlabs.com/products/form-studio-1-basic-founders-edition/",
+        "status": 200,
+        "title": "Form Studio 1 | Professional Desktop 3D Printer for Anyone",
+        "description": "Form Studio 1: the professional desktop 3D printer for hobbyists. Print razor-sharp minis, models & props in under 2 hours with mess-free resin handling.",
+        "og_image": "https://formlabs.com/default_seo_image.jpg",
+        "favicon": "https://formlabs.com/favicon.ico",
+        "text_excerpt": "We use essential cookies to make our site work. With your consent, we may also use non-essential cookies to improve user experience and analyze website traffic. By clicking “Accept,” you agree to our website's cookie use as described in our Cookie Policy and Privacy Policy. You can change your cookie settings at any time by clicking “Preferences.” Preferences Accept Skip to Main Content 3D Printers Materials Software Applications Learn Support Contact US STORE All Products 3D Printers FORM STUDIO 1 - FOUNDERS EDITION Free Shipping SKU: FST1-FLEX-US $749 excl. sales tax Form Studio 1 is the first affordable, professional-grade resin 3D printer with a powerful, long-lasting print engine and an open platform. Print most parts in under two hours with razor-sharp detail and a workflow that's safe, reliable, and mess-free from start to finish. Paired with Alpha Resins and the Formlabs VOC Extractor, Form Studio 1 is the first and only resin printer with UL GREENGUARD Certification for low chemical emissions. Specs Tech specs Print Technology SLA Technology Masked Stereolithography (MSLA) Materials 9 industry-leading Formlabs materials or third-party materials using Open Material Mode (included). More exciting new materials are currently in development. Explore Materials Build Volume (W x D x H)⁵ 20.0 x 12.5 x 23.5 cm 7.9 x 4.9 x 9.3 in 5.9 liters Open Material Mode Included 1 Select a package Form Studio 1 Base From $699 Get it by Nov 24 · Printer · Resin Tank · Build Platform Form Studio 1 Complete From $948 Get it by Dec 23 · Printer · Resin Tank · Build Platform Flex Also Includes: · Form Studio Wash+Cure Form Studio 1 Professional From $2,447 Get it by Jan 15 · Printer · Resin Tank · Build Platform Flex Also Includes: · Form Wash V2 · Form Cure V2 All Founders' Edition packages include: · Limited Edition Colors · Founders Edition Plushie · First bottle of Alpha Resin for $29 · 30% off up to $200 at Form Now (US only) · Accessories Box containing gloves, scraper, USB c"
+      },
+      "verdict": {
+        "model": "jev-1.13.0",
+        "score": 0.6,
+        "category": "Shopping",
+        "category_confidence": 0.5
       }
     },
     {
@@ -18363,6 +19467,37 @@
         "score": 0.56,
         "category": "Technology",
         "category_confidence": 0.67
+      }
+    },
+    {
+      "canonical_url": "https://furbo.org/2026/10/28/a-health-update/",
+      "url": "https://furbo.org/2026/10/28/a-health-update/",
+      "found_at": "2026-10-29T11:30:10+00:00",
+      "sources": [
+        {
+          "name": "hn",
+          "id": "50280974",
+          "title": "A Health Update",
+          "discussion_url": "https://news.ycombinator.com/item?id=50280974",
+          "score": 280,
+          "comments": 43,
+          "created_at": "2026-10-28T21:13:21Z"
+        }
+      ],
+      "page": {
+        "final_url": "https://furbo.org/2026/10/28/a-health-update/",
+        "status": 200,
+        "title": "A Health Update • furbo.org",
+        "description": "I’m writing this post from a hospital bed. And I couldn’t be happier. You hear folks say chemotherapy sucks, but until you go through it yourself, you don’t really know how bad it can be. It remains a popular activity only because it’s better than the alternative. My first exposure to chemotherapy was with this […]",
+        "og_image": "https://furbo.org/wp-content/themes/furbo/images/share.png",
+        "favicon": "https://furbo.org/wp-content/uploads/2023/04/furbo.png",
+        "text_excerpt": "furbo.org ABOUT ME I'm Craig Hockenberry and this is where I write for the web. I make apps and run websites. You can learn more about me, view my résumé, check out my source code, or follow me. RECENT WRITING A Health Update TipKit for the Real World Spotlight: Not Right Pico Names Your Mac and a Canon Printer The Year That Kicked My Ass Tahoe Electron Detector One Size Does Not Fit All FB19914338 UITabAccessory Backward Compatibility ARCHIVES 2026 2025 2024 2023 2022 2021 2020 2019 2018 2017 2016 2015 2014 2013 2012 2011 2010 2009 2008 2007 RSS in XML or JSON © 2026 Craig Hockenberry All rights reserved A Health Update I’m writing this post from a hospital bed. And I couldn’t be happier. You hear folks say chemotherapy sucks, but until you go through it yourself, you don’t really know how bad it can be. It remains a popular activity only because it’s better than the alternative. My first exposure to chemotherapy was with this contraption: a fluoroscope. Lovely to look at, less lovely to lie on. Every week, they used this machine to tap into my spine, extract 5 mg of fluid for analysis, and replace it with 5 mg of methotrexate. There was only a local anesthetic during the procedure and the hardest part was knowing that there was a needle, turned up to eleven, going into my back. It was afterwards that things got dicey: the nerves in your spine float in a thecal sac filled with spinal fluid that acts as a kind of insulator. Since we were exchanging the fluids, it was easy for the levels to get out of balance and for the nerves to react. The result were the worst headaches I’ve ever experienced. The good news is that the remedy was simple: to lie flat on my back to ease the pressure gravity was putting on my spine. That was also the bad news: many days were spent lying prone and trying to avoid boredom. Watching shows and scrolling timelines just doesn’t cut it when that’s all you can do. Thankfully, the spinal headaches subsided quickly when the six-week course of l"
+      },
+      "verdict": {
+        "model": "jev-1.13.0",
+        "score": 0.56,
+        "category": "Blog",
+        "category_confidence": 0.94
       }
     },
     {
@@ -18814,6 +19949,63 @@
         "score": 0.53,
         "category": "News",
         "category_confidence": 0.68
+      }
+    },
+    {
+      "canonical_url": "https://www.apple.com/macbook-pro/proled-xdr-display/",
+      "url": "https://www.apple.com/macbook-pro/proled-xdr-display/",
+      "found_at": "2026-10-29T11:30:10+00:00",
+      "sources": [
+        {
+          "name": "hn",
+          "id": "50276940",
+          "title": "MacBook Pro with PROLED XDR Display and Touch",
+          "discussion_url": "https://news.ycombinator.com/item?id=50276940",
+          "score": 589,
+          "comments": 989,
+          "created_at": "2026-10-28T17:10:37Z"
+        }
+      ],
+      "page": {
+        "final_url": "https://www.apple.com/macbook-pro/proled-xdr-display/",
+        "status": 200,
+        "title": "MacBook Pro with PROLED XDR Display",
+        "description": "MacBook Pro with PROLED XDR Display has the world’s best laptop display. Featuring the M5 Pro or M5 Max chip, it’s a powerful platform for AI.",
+        "og_image": "https://www.apple.com/v/macbook-pro/proled-xdr-display/a/images/meta/mbp_proled_xdr__f7755bx607yq_og.png?202610271513",
+        "favicon": "https://www.apple.com/favicon.ico",
+        "text_excerpt": "Apple Store Mac iPad iPhone Watch Vision AirPods Home Entertainment Accessories Support 0 + MacBook Pro PROLED XDR Display Overview Tech Specs Compare Switch from PC to Mac Pre-order MacBook Pro PROLED XDR Lease a new Mac with low monthly payments for 24 or 36 months and upgrade at the end of your term with Apple Upgrade.§ Learn more MacBook Pro with PROLED XDR Display A screen come true. Available starting 11.6 November 6th From $2899 or $241.58/mo. for 12 mo.* Lease from $55.99/mo. for 36 mo. with Apple Upgrade◊ Pre-order Get the highlights. Watch the film PROLED XDR display Touch M5 Pro and M5 Max chips AI Battery life Dynamic Island PROLED XDR. The world’s best laptop display. With true-to-life color and unparalleled brightness and contrast. Touch. A new dimension for pro workflows. Design Everything to see here. Introducing MacBook Pro with PROLED XDR Display. Featuring a groundbreaking tandem OLED display with Touch, Dynamic Island, a redesigned thermal system, an enhanced audio system, and slimmer display borders — all in a lighter design. It’s the pinnacle of pro. Compare MacBook Pro models PROLED XDR PROLED XDR Display Brilliance within reach. PROLED XDR combines breakthrough tandem OLED technology with advanced algorithms in the display engine, delivering Extreme Dynamic Range and stunning visual fidelity for the ultimate front-of-screen performance. As a reference-caliber display, it delivers outstanding precision for filmmaking, design, and even medical imaging.6 With unparalleled brightness and contrast, deeper blacks, and an exceptionally wide color gamut, you’ll immediately see why it’s the world’s best laptop display. View the PROLED XDR Display Technical Paper (PDF) , opens in new tab Strength in numbers. Up to 1000 nits sustained full-screen brightness4 Up to 2000 nits peak HDR and SDR brightness 10,000,000:1 contrast ratio True Tone technology P3 + Adobe RGB wide color ProMotion adaptive 10–120Hz refresh rate Tandem OLED. PROLED XDR combines two s"
+      },
+      "verdict": {
+        "model": "jev-1.13.0",
+        "score": 0.53,
+        "category": "Technology",
+        "category_confidence": 0.71
+      }
+    },
+    {
+      "canonical_url": "https://www.theverge.com/policy/1020012/meta-jonathan-haidt-social-media-mental-health",
+      "url": "https://www.theverge.com/policy/1020012/meta-jonathan-haidt-social-media-mental-health",
+      "found_at": "2026-10-29T11:30:10+00:00",
+      "sources": [
+        {
+          "name": "pinboard",
+          "title": "Meta considered a ‘whisper strategy’ to turn academics against Jonathan Haidt | The Verge"
+        }
+      ],
+      "page": {
+        "final_url": "https://www.theverge.com/policy/1020012/meta-jonathan-haidt-social-media-mental-health",
+        "status": 200,
+        "title": "Meta considered a ‘whisper strategy’ to turn academics against Jonathan Haidt",
+        "description": "The company considered how to undermine The Anxious Generation author.",
+        "og_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/STKS507_FTCxMETA_ANTITRUST_CVIRGINIA_4_E.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+        "favicon": "https://www.theverge.com/static-assets/icons/favicon.ico",
+        "text_excerpt": "SKIP TO MAIN CONTENT The homepage SUBSCRIBE SIGN IN Tech Reviews Science Entertainment AI Policy Meta considered a ‘whisper strategy’ to turn academics against Jonathan Haidt POLICY REPORT TECH Meta considered a ‘whisper strategy’ to turn academics against Jonathan Haidt A new filing reveals how Meta considered swaying public opinion about social media research.﻿ by Lauren Feiner Oct 28, 2026, 11:30 AM UTC Image: Cath Virginia / The Verge, Getty Images Part Of Social media on trial: tech giants face lawsuits over addiction, safety, and mental health SEE ALL UPDATES Lauren Feiner is a senior policy reporter at The Verge, covering the intersection of Silicon Valley and Capitol Hill. She spent 5 years covering tech policy at CNBC, writing about antitrust, privacy, and content moderation reform. As Meta was feeling public pressure over teen mental health, and facing an impending onslaught of kids safety trials, the company considered a campaign to discredit a key critic: social psychologist Jonathan Haidt. Newly filed court documents show that in March 2023, Meta discussed a “Whisper strategy” to “turn academics against Haidt,” a thought leader who blamed social media for rising adolescent depression and anxiety. Haidt hadn’t yet published his bestselling book, The Anxious Generation, but he testified about his conclusions before Congress in 2022, and in February 2023, he began posting more of his theories and research to Substack. Meta, knowing that a mountain of legal cases brought were set to go to trial within a few years, seemed particularly sensitive to Haidt’s potential to sway the cultural narrative. In multiple meetings, Meta employees appear to have discussed ways to undermine Haidt, according to a recent filing in federal litigation against the company over its product safety claims for teens. The notes appear in a document labeled, “Well-being Meeting Sound-check Notes,” with bulleted items under various dates. The document is riddled with typos and shorthan"
+      },
+      "verdict": {
+        "model": "jev-1.13.0",
+        "score": 0.53,
+        "category": "News",
+        "category_confidence": 0.94
       }
     },
     {
@@ -19793,6 +20985,155 @@
         "score": 0.49,
         "category": "News",
         "category_confidence": 0.52
+      }
+    },
+    {
+      "canonical_url": "https://www.wired.com/story/massive-leak-exposes-41000-homeland-security-workers-including-undercover-ice-agents/",
+      "url": "https://www.wired.com/story/massive-leak-exposes-41000-homeland-security-workers-including-undercover-ice-agents/",
+      "found_at": "2026-10-29T11:30:10+00:00",
+      "sources": [
+        {
+          "name": "hn",
+          "id": "50280864",
+          "title": "Leak Exposes 41,000 Homeland Security Workers–Including Undercover ICE Agents",
+          "discussion_url": "https://news.ycombinator.com/item?id=50280864",
+          "score": 322,
+          "comments": 179,
+          "created_at": "2026-10-28T21:03:24Z"
+        }
+      ],
+      "page": {
+        "final_url": "https://www.wired.com/story/massive-leak-exposes-41000-homeland-security-workers-including-undercover-ice-agents/",
+        "status": 200,
+        "title": "Massive Leak Exposes 41,000 Homeland Security Workers—Including Undercover ICE Agents",
+        "description": "The leaked records include the locations of ICE and CBP facilities, workers’ cell phone numbers, and the members of groups tied to wiretap programs, Palantir software, and xAI’s Grok chatbot.",
+        "og_image": "https://media.wired.com/photos/6ae126cfb5fdd6fa181bb24f/191:100/w_1280,c_limit/Security_Massive%20Leak%20Exposes%2041,000%20DHS%20Employees_v1.jpg",
+        "favicon": "https://www.wired.com/verso/static/wired-us/assets/favicon.ico",
+        "text_excerpt": "Skip to main content THE WIRED APP IS HERE DOWNLOAD NOW » SECURITY POLITICS THE BIG STORY BUSINESS SCIENCE CULTURE REVIEWS NEWSLETTERS Security Politics The Big Story Business Science Culture Reviews More Newsletters Podcasts Video Livestreams WIRED Store Search Sign In DHRUV MEHROTRA MADDY VARNER DELL CAMERON SECURITY OCT 28, 2026 4:00 PM Massive Leak Exposes 41,000 Homeland Security Workers—Including Undercover ICE Agents The leaked records include the locations of ICE and CBP facilities, workers’ cell phone numbers, and the members of groups tied to wiretap programs, Palantir software, and xAI’s Grok chatbot. PHOTO-ILLUSTRATION: JOBANNY CABRERA; GETTY IMAGES AN UNPRECEDENTED LEAK of Department of Homeland Security records has exposed details of more than 41,000 employees or contractors who work for the department and its constituent agencies. The records include email addresses, phone numbers, and office addresses, but also references to internal systems and sensitive information on undercover and surveillance programs. In all, the leak provides a map of how DHS is organized and how it operates. The records, which span DHS itself as well as seven component agencies, including Immigration and Customs Enforcement and US Customs and Border Protection, were last updated on August 19, 2026. The transparency nonprofit Distributed Denial of Secrets and cybersecurity researcher and journalist maia arson crimew previewed the data for WIRED, which they say they obtained from a group calling itself the Department of Peace. DDoSecrets published the archive, which it calls “Icepick,” on Wednesday. In a press release, DDoSecrets says the data is from DHS's Okta login system. In a note with the files, the hackers wrote, “They have our information, so it’s only fair that we have theirs.” An Okta spokesperson tells WIRED that it is unaware of any breach of its systems. “We are aware of this report. Okta is secure, and we have no evidence our data or systems were compromised,” the"
+      },
+      "verdict": {
+        "model": "jev-1.13.0",
+        "score": 0.49,
+        "category": "News",
+        "category_confidence": 0.96
+      }
+    },
+    {
+      "canonical_url": "https://www.wired.com/story/ice-is-running-one-of-the-largest-anti-left-surveillance-operations-in-us-history/",
+      "url": "https://www.wired.com/story/ice-is-running-one-of-the-largest-anti-left-surveillance-operations-in-us-history/",
+      "found_at": "2026-10-29T11:30:10+00:00",
+      "sources": [
+        {
+          "name": "hn",
+          "id": "50272749",
+          "title": "Evidence of a spying operation by ICE against left-wing social movements",
+          "discussion_url": "https://news.ycombinator.com/item?id=50272749",
+          "score": 1145,
+          "comments": 945,
+          "created_at": "2026-10-28T12:49:45Z"
+        },
+        {
+          "name": "pinboard",
+          "title": "ICE Is Running One of the Largest Anti-Left Surveillance Operations in US History | WIRED"
+        }
+      ],
+      "page": {
+        "final_url": "https://www.wired.com/story/ice-is-running-one-of-the-largest-anti-left-surveillance-operations-in-us-history/",
+        "status": 200,
+        "title": "ICE Is Running One of the Largest Anti-Left Surveillance Operations in US History",
+        "description": "ICE’s Homeland Security Investigations is engaged in far-reaching spying against left-wing activists that rivals the FBI and CIA crackdowns on the Civil Rights and anti-war movements.",
+        "og_image": "https://media.wired.com/photos/6adf8486990ea20354efad62/191:100/w_1280,c_limit/Security_ICE%20Is%20Carrying%20Out%20%E2%80%98Cointelpro%202.0%E2%80%99_v2.jpg",
+        "favicon": "https://www.wired.com/verso/static/wired-us/assets/favicon.ico",
+        "text_excerpt": "Skip to main content THE WIRED APP IS HERE DOWNLOAD NOW » SECURITY POLITICS THE BIG STORY BUSINESS SCIENCE CULTURE REVIEWS NEWSLETTERS Security Politics The Big Story Business Science Culture Reviews More Newsletters Podcasts Video Livestreams WIRED Store Search Sign In ALI WINSTON SECURITY OCT 28, 2026 5:30 AM ICE Is Running One of the Largest Anti-Left Surveillance Operations in US History ICE’s Homeland Security Investigations is engaged in far-reaching spying against left-wing activists that rivals the FBI and CIA crackdowns on the Civil Rights and anti-war movements. PHOTO-ILLUSTRATION: JOBANNY CABRERA; GETTY IMAGES ATTORNEYS FOR 15 Minnesota residents facing federal conspiracy charges have obtained evidence of a sweeping, possibly unconstitutional spying operation carried out by Immigration and Customs Enforcement against left-wing social movements in Minnesota and beyond. The high-profile Minnesota 15 prosecution makes clear that the Department of Homeland Security (DHS), flush with federal funds and newly hired personnel, is now President Donald Trump’s primary tool against dissent, with a powerful array of post-9/11 investigative authorities brought to bear against everyday Americans organizing their communities. Nothing of this scale has been seen in the United States, experts say, since the federal government’s counterinsurgency against the New Left and the anti-war movement in the 1960s and 1970s. Among the records revealed during the discovery process in these cases are dozens of reports, audio transcripts, emails, intercepted Signal chats, photographs, database queries, and more. They reveal the inner workings of the domestic terrorism investigations, running under the names Project Whipple Shield and Operation Puppet Master, authorized by the controversial National Security Presidential Memorandum 7. Published following Charlie Kirk’s assassination in September of last year, NSPM 7 instructs federal law enforcement to use every tool available against "
+      },
+      "verdict": {
+        "model": "jev-1.13.0",
+        "score": 0.49,
+        "category": "News",
+        "category_confidence": 0.94
+      }
+    },
+    {
+      "canonical_url": "https://www.reuters.com/business/media-telecom/us-agency-approves-amazon-leos-115-billion-acquisition-globalstar-2026-10-27/",
+      "url": "https://www.reuters.com/business/media-telecom/us-agency-approves-amazon-leos-115-billion-acquisition-globalstar-2026-10-27/",
+      "found_at": "2026-10-29T11:30:10+00:00",
+      "sources": [
+        {
+          "name": "hn",
+          "id": "50272145",
+          "title": "US agency approves Amazon Leo’s $11.5B acquisition of Globalstar",
+          "discussion_url": "https://news.ycombinator.com/item?id=50272145",
+          "score": 232,
+          "comments": 105,
+          "created_at": "2026-10-28T11:54:23Z"
+        }
+      ],
+      "page": {
+        "final_url": "https://www.reuters.com/business/media-telecom/us-agency-approves-amazon-leos-115-billion-acquisition-globalstar-2026-10-27/",
+        "status": 401,
+        "title": "reuters.com",
+        "description": "",
+        "og_image": "",
+        "favicon": "https://www.reuters.com/favicon.ico",
+        "text_excerpt": ""
+      },
+      "verdict": {
+        "model": "jev-1.13.0",
+        "score": 0.49,
+        "category": "News",
+        "category_confidence": 0.88
+      }
+    },
+    {
+      "canonical_url": "https://www.wired.com/story/they-fled-trumps-america-now-they-regret-it/",
+      "url": "https://www.wired.com/story/they-fled-trumps-america-now-they-regret-it/",
+      "found_at": "2026-10-29T11:30:10+00:00",
+      "sources": [
+        {
+          "name": "pinboard",
+          "title": "They Fled Trump’s America. Now They Regret It | WIRED"
+        }
+      ],
+      "page": {
+        "final_url": "https://www.wired.com/story/they-fled-trumps-america-now-they-regret-it/",
+        "status": 200,
+        "title": "They Fled Trump’s America. Now They Regret It",
+        "description": "The internet told them Europe was a social paradise. Turns out the trains are awful, the health care isn’t free, and people can be really mean.",
+        "og_image": "https://media.wired.com/photos/6ab68ffabc7793cf754904bd/191:100/w_1280,c_limit/Final_Art.jpg",
+        "favicon": "https://www.wired.com/verso/static/wired-us/assets/favicon.ico",
+        "text_excerpt": "Skip to main content THE WIRED APP IS HERE DOWNLOAD NOW » SECURITY POLITICS THE BIG STORY BUSINESS SCIENCE CULTURE REVIEWS NEWSLETTERS Security Politics The Big Story Business Science Culture Reviews More Newsletters Podcasts Video Livestreams WIRED Store Search Sign In SARAH MANAVIS CULTURE OCT 20, 2026 6:22 AM They Fled Trump’s America. Now They Regret It The internet told them Europe was a social paradise. Turns out the trains are awful, the health care isn’t free, and people can be really mean. ILLUSTRATIONS: JOHANNA PLOCH IN THE AUTUMN of 2024, Annie was ready for something new. She was living in the southern United States when her husband received an unexpected job offer that would move them to a town just outside London. They were in their twenties with no kids. “We wanted to take a risk,” she says. While researching their new destination on Reddit, TikTok, and Instagram, Annie found Americans eager to explain how enchanting life in the British suburbs could be—all the benefits of a small town, just a short train ride away from one of the biggest cities in the world. The more she read, the sunnier her expectations about the UK’s health care system, social culture, and European transportation systems became. They moved before the end of the year. But the reality of life in the UK was dramatically different to what she’d imagined. “There are huge misconceptions about access to quality health care, standard of living … the quality of life is significantly lower than in the US,” she says, citing the challenges she experienced with the National Health Service’s maternity care—having moved while pregnant with her first child—as well as the lack of disposable income in Britain, thanks to lower salaries. “Things in the UK that are considered luxury items are very common” in America, like a dishwasher and dryer, she adds. Annie says she experienced a high amount of anti-American sentiment straightaway. “I found it particularly surprising how people feel so comfortable"
+      },
+      "verdict": {
+        "model": "jev-1.13.0",
+        "score": 0.49,
+        "category": "News",
+        "category_confidence": 0.58
+      }
+    },
+    {
+      "canonical_url": "https://www.theverge.com/tech/1020769/meta-updated-business-terms-delay-indefinitely",
+      "url": "https://www.theverge.com/tech/1020769/meta-updated-business-terms-delay-indefinitely",
+      "found_at": "2026-10-29T11:30:10+00:00",
+      "sources": [
+        {
+          "name": "pinboard",
+          "title": "Meta verso un nuovo rinvio dei termini commerciali contestati dagli editori per l'AI"
+        }
+      ],
+      "page": {
+        "final_url": "https://www.theverge.com/tech/1020769/meta-updated-business-terms-delay-indefinitely",
+        "status": 200,
+        "title": "Meta says it’ll probably delay its controversial new business terms again",
+        "description": "Meta says conversations with partners could extend beyond November 20th.",
+        "og_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK043_VRG_Illo_N_Barclay_3_Meta.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+        "favicon": "https://www.theverge.com/static-assets/icons/favicon.ico",
+        "text_excerpt": "SKIP TO MAIN CONTENT The homepage SUBSCRIBE SIGN IN Tech Reviews Science Entertainment AI Policy Meta says it’ll probably delay its controversial new business terms again 0 TECH AI NEWS Meta says it’ll probably delay its controversial new business terms again Meta does ‘not plan to make policy changes without a full consultation with industry groups and leaders.’ by Emma Roth Oct 28, 2026, 4:15 PM UTC 0 0 Comments Illustration: Nick Barclay / The Verge Emma Roth is a news writer who covers the streaming wars, consumer tech, crypto, social media, and much more. Previously, she was a writer and editor at MUO. Meta says it may push the implementation of its new business terms past November 20th as it faces backlash from publishers over concerns about AI training. In a post on X, Meta communications head Andy Stone said the company does “not plan to make policy changes without a full consultation with industry groups and leaders.” The new business terms, which were supposed to take effect on October 30th, initially appeared to give Meta permission to train its AI models on the news sites that use Facebook and Instagram. Meta later changed its policies to remove language indicating that it could “train” its products on content scraped from these sites, but legal experts told Nieman Lab that the update still isn’t enough to rule out that possibility. Meta responded to these concerns by delaying the implementation of its terms until November 20th. Now, enforcement may be delayed indefinitely. RelatedMeta’s AI could still scrape news sites, legal experts say “We’ve heard publishers’ feedback on our proposed ads and business terms update,” Stone said. “We’re committed to getting this right, and as we expect this consultation could extend beyond November 20, in which case we’d delay implementation of the updated terms. Until then our existing terms remain in place.” Along with pushback from the News/Media Alliance, lawmakers on both sides of the political aisle have spoken ou"
+      },
+      "verdict": {
+        "model": "jev-1.13.0",
+        "score": 0.49,
+        "category": "News",
+        "category_confidence": 0.68
       }
     },
     {
@@ -20920,6 +22261,63 @@
       }
     },
     {
+      "canonical_url": "https://www.reuters.com/legal/government/leak-website-releases-data-tens-thousands-dhs-employees-2026-10-28/",
+      "url": "https://www.reuters.com/legal/government/leak-website-releases-data-tens-thousands-dhs-employees-2026-10-28/",
+      "found_at": "2026-10-29T11:30:10+00:00",
+      "sources": [
+        {
+          "name": "hn",
+          "id": "50280662",
+          "title": "Leak website releases data on DHS employees",
+          "discussion_url": "https://news.ycombinator.com/item?id=50280662",
+          "score": 124,
+          "comments": 31,
+          "created_at": "2026-10-28T20:46:52Z"
+        }
+      ],
+      "page": {
+        "final_url": "https://www.reuters.com/legal/government/leak-website-releases-data-tens-thousands-dhs-employees-2026-10-28/",
+        "status": 401,
+        "title": "reuters.com",
+        "description": "",
+        "og_image": "",
+        "favicon": "https://www.reuters.com/favicon.ico",
+        "text_excerpt": ""
+      },
+      "verdict": {
+        "model": "jev-1.13.0",
+        "score": 0.42,
+        "category": "News",
+        "category_confidence": 0.97
+      }
+    },
+    {
+      "canonical_url": "https://www.theguardian.com/us-news/2026/oct/25/manzanar-japanese-incarceration-baseball",
+      "url": "https://www.theguardian.com/us-news/2026/oct/25/manzanar-japanese-incarceration-baseball",
+      "found_at": "2026-10-29T11:30:10+00:00",
+      "sources": [
+        {
+          "name": "pinboard",
+          "title": "A child of Japanese incarceration’s call to arms: ‘The lessons of Manzanar have never been more urgent’ | California | The Guardian"
+        }
+      ],
+      "page": {
+        "final_url": "https://www.theguardian.com/us-news/2026/oct/25/manzanar-japanese-incarceration-baseball",
+        "status": 200,
+        "title": "A child of Japanese incarceration’s call to arms: ‘The lessons of Manzanar have never been more urgent’",
+        "description": "How a rebuilt, historic California baseball diamond embodies ‘the contradictions in America’s legacy’",
+        "og_image": "https://i.guim.co.uk/img/media/85449800d660ab288efdebd907de9231fb8c5c95/365_0_2870_2296/master/2870.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=b883b03b3f287a8d433c9cafbe5b5867",
+        "favicon": "https://assets.guim.co.uk/static/frontend/icons/homescreen/apple-touch-icon.svg",
+        "text_excerpt": "Skip to main content Skip to navigation Support the Guardian Fund independent journalism with $15 per month Make a year-end gift Print subscriptions Newsletters Sign in US The Guardian - Back to home The Guardian News Opinion Sport Culture Lifestyle Show more Football Cricket Rugby union Tennis Cycling F1 Golf Boxing Rugby league Racing US sports View image in fullscreen Dan Kwong on the pitcher’s mound at Manzanar, restored to its wartime configuration, on 26 October 2024 in Lone Pine, California. Photograph: Brian van der Brug/Los Angeles Times/Getty Images California A child of Japanese incarceration’s call to arms: ‘The lessons of Manzanar have never been more urgent’ How a rebuilt, historic California baseball diamond embodies ‘the contradictions in America’s legacy’ Andrew Gumbel in Lone Pine, California Sun 25 Oct 2026 10.00 EDT Share Prefer the Guardian on Google W hen Dan Kwong first dreamed of staging baseball games at the Japanese American concentration camp where his family was held captive during the second world war, he thought of it as an exercise in living history, an eye-catching way to convey the trauma of 120,000 men, women and children who were locked up in the wake of the Japanese attack on Pearl Harbor. Baseball was a passion for Kwong, a 71-year-old performance artist from Los Angeles. He knew that the wartime internees had played the game not just as a distraction from their predicament, but as a quiet expression of their loyalty to the United States. He wanted to stage an event that would cast the game as an act of resistance, and teach new generations about the damage governments do when they strip a whole segment of the population of their constitutional rights. That, though, was before the second Trump administration brought its own wave of detention camps and mass arrests and made the treatment of Japanese Americans in the 1940s relevant in ways Kwong found both shocking and impossible to ignore. “It’s not a cautionary tale any more,” Kw"
+      },
+      "verdict": {
+        "model": "jev-1.13.0",
+        "score": 0.42,
+        "category": "News",
+        "category_confidence": 0.88
+      }
+    },
+    {
       "canonical_url": "https://x.com/lugaricano/status/2111060338925817891",
       "url": "https://x.com/lugaricano/status/2111060338925817891",
       "found_at": "2026-10-19T13:29:24+00:00",
@@ -21305,6 +22703,32 @@
         "score": 0.38,
         "category": "News",
         "category_confidence": 0.47
+      }
+    },
+    {
+      "canonical_url": "https://www.ms.now/news/house-judiciary-democrats-report-trump-epstein-files",
+      "url": "https://www.ms.now/news/house-judiciary-democrats-report-trump-epstein-files",
+      "found_at": "2026-10-29T11:30:10+00:00",
+      "sources": [
+        {
+          "name": "pinboard",
+          "title": "House Judiciary Democrats release 50-page report on Trump’s alleged involvement in Epstein files"
+        }
+      ],
+      "page": {
+        "final_url": "https://www.ms.now/news/house-judiciary-democrats-report-trump-epstein-files",
+        "status": 200,
+        "title": "House Judiciary Democrats release 50-page report on Trump’s alleged involvement in Epstein files",
+        "description": "The report — issued just eight days before the election — makes multiple, uncorroborated allegations against the president while also detailing discrepancies in his statements about Epstein.",
+        "og_image": "https://www.ms.now/wp-content/uploads/2026/10/261023-president-donald-trump-united-nations-un-politics-es.webp?crop=0px,0px,1600px,840px&w=1200&h=630",
+        "favicon": "https://www.ms.now/wp-content/uploads/2025/10/cropped-msnow-logo-favicon.webp?w=32",
+        "text_excerpt": "Live TV Rachel Maddow Our Shows Community Explore Sign In Become a Member Senate Polling Averages Governor Polling Averages Generic Ballot President Approval Poll Races to Watch 2026 Primary Results More Elections Coverage News House Judiciary Democrats release 50-page report on Trump’s alleged involvement in Epstein files The report — issued just eight days before the election — makes multiple, uncorroborated allegations against the president while also detailing discrepancies in his statements about Epstein. President Donald Trump arrives for the United Nations General Assembly at U.N. Headquarters on Sept. 22, 2026, in New York City. Alexi J. Rosenfeld / Getty Images By Lisa Rubin Oct. 26, 2026, 5:00 AM EDT House Judiciary Committee Democrats on Monday released an unsigned staff report laying out what they call “the case against Donald Trump emerging in the Epstein Files and DOJ’s desperate efforts to cover it up,” with those Democrats now calling for an independent special counsel to investigate the president as well as what they describe as Attorney General Todd Blanche’s conflicts of interest and the Justice Department’s reluctance to share relevant evidence with state and foreign law enforcement. “The women who survived Epstein deserve to be heard,” the top Democrat on the House Judiciary Committee, Rep. Jamie Raskin, D-Md., said in a statement. “Congress must have the complete files required by law, and an independent special counsel must investigate Epstein’s co-conspirators and DOJ’s cover-up and ensure that state and foreign prosecutors have the evidence they need to pursue justice.” The more than 50-page report alleges that Trump was “an active participant in Jeffrey Epstein’s abuse of young women in the mid-to-late 1990s.” Although it also contains at least one entirely new allegation against the president, it provides no direct evidence other than the woman’s own conversations with Judiciary Committee staff. For years, Trump has denied that he engaged "
+      },
+      "verdict": {
+        "model": "jev-1.13.0",
+        "score": 0.38,
+        "category": "News",
+        "category_confidence": 0.97
       }
     },
     {
@@ -21835,6 +23259,89 @@
       }
     },
     {
+      "canonical_url": "https://www.euronews.com/video/2026/10/28/spain-first-footage-reveals-wreckage-of-deadly-high-speed-train-crash",
+      "url": "https://www.euronews.com/video/2026/10/28/spain-first-footage-reveals-wreckage-of-deadly-high-speed-train-crash",
+      "found_at": "2026-10-29T11:30:10+00:00",
+      "sources": [
+        {
+          "name": "hn",
+          "id": "50272596",
+          "title": "Two high-speed trains collide near Toledo, Spain",
+          "discussion_url": "https://news.ycombinator.com/item?id=50272596",
+          "score": 196,
+          "comments": 240,
+          "created_at": "2026-10-28T12:35:41Z"
+        }
+      ],
+      "page": {
+        "final_url": "https://www.euronews.com/video/2026/10/28/spain-first-footage-reveals-wreckage-of-deadly-high-speed-train-crash",
+        "status": 200,
+        "title": "Video. Spain: First footage reveals wreckage of deadly high-speed train crash",
+        "description": "Video. At least 10 people died when a high-speed train struck another near Toledo, Spain. Two carriages derailed, leaving rescuers searching through the wreckage as authorities warned the death toll could rise.",
+        "og_image": "https://images.euronews.com/articles/stories/09/97/01/65/1200x675_cmsv2_460f38d5-46e5-5063-b7df-c35e0d4f645f-9970165.jpg",
+        "favicon": "https://www.euronews.com/apple-touch-icon.png",
+        "text_excerpt": "Go to navigation Go to main content Go to search Go to footer English Latest EU News Europe World Business Next Travel Culture Earth Health Euroviews Videos More Newsletters Events Podcasts Videos Africanews Log In Live Breaking news • ECB President Christine Lagarde to step down next February, ending her mandate sooner Loading the video No Comment Video. Spain: First footage reveals wreckage of deadly high-speed train crash Updated: 28 October 2026 - 14:38 GMT+1 At least 10 people died when a high-speed train struck another near Toledo, Spain. Two carriages derailed, leaving rescuers searching through the wreckage as authorities warned the death toll could rise. … More Top stories Spain: First footage reveals wreckage of deadly high-speed train crash NEXT Bahamas: King Charles III dances with locals during Caribbean visit Spain: Madrid mourns train crash victims as rescuers work through the night Latest news bulletin | October 29th, 2026 – Morning Expert calls for ‘refinery revolution’ to avoid disruptions during war Putin calls Elon Musk a 'genius' as Russia builds its own Starlink rival Albania imposes fines of up to €5,500 on people at violent protests High-speed train crash in Spain kills at least 68, over 100 injured Israel: Netanyahu bloc leads with more than half of votes counted NOW PLAYING Spain: First footage reveals wreckage of deadly high-speed train crash Eurovision in crisis: Netherlands make U-turn and pull out of Eurovision 2027 'The map has shifted' says top Democratic strategist on US midterms Trump an 'aspiring authoriarian', says US historian Allan Lichtman Euronews Culture's Film of the Week: 'Wicker' – 50 Shades Of Hay? Europe Today: Second high-speed rail disaster in nine months leaves Spain in grief Europe’s oil bill: EU pays €10bn more per month than in 2025 More from No Comment No Comment Spain: Rescuers search mangled train wreckage near Toledo No Comment Brazil: Lula celebrates 81st birthday after re-election victory No Comment Ukraine: "
+      },
+      "verdict": {
+        "model": "jev-1.13.0",
+        "score": 0.33,
+        "category": "News",
+        "category_confidence": 0.99
+      }
+    },
+    {
+      "canonical_url": "https://www.nationalreview.com/corner/a-list-of-things-democrats-might-do-if-they-retake-power/",
+      "url": "https://www.nationalreview.com/corner/a-list-of-things-democrats-might-do-if-they-retake-power/",
+      "found_at": "2026-10-29T11:30:10+00:00",
+      "sources": [
+        {
+          "name": "pinboard",
+          "title": "A List of Things Democrats Might Do If They Retake Power"
+        }
+      ],
+      "page": {
+        "final_url": "https://www.nationalreview.com/corner/a-list-of-things-democrats-might-do-if-they-retake-power/",
+        "status": 200,
+        "title": "A List of Things Democrats Might Do If They Retake Power | National Review",
+        "description": "This agenda should terrify conservatives.",
+        "og_image": "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2018/09/capitol-building-storm.jpg?fit=2057%2C1200&ssl=1",
+        "favicon": "https://www.nationalreview.com/wp-content/themes/national-review/static/images/favicons/apple-touch-icon.png",
+        "text_excerpt": "This website utilizes technologies such as cookies to enable essential site functionality, as well as for analytics, personalization, and targeted advertising. Privacy Policy Accept Deny Non-Essential Manage Preferences Primary Menu National Review DONATECORNERMAGAZINELOGIN SUBSCRIBE Search National Review Search Text GO Article Browser Homecoming Dirty Tricks and Election Fraud The Return of the Fishback Experience Does Anyone Know Why the Fed Didn’t Raise Rates? The Potential Self-Fulfilling Prophecy of Deterred Voters THE CORNER POLITICS & POLICY A List of Things Democrats Might Do If They Retake Power The U.S. Capitol in Washington, D.C.(Lucas Jackson/Reuters) Share 188 By JOHN R. PURI October 28, 2026 1:23 PM 188 Comments There are plenty of reasons to fear a Democratic trifecta in Washington, which next week’s midterms may very well set up for 2028. Below is a list of actions and policies that give conservatives cause for alarm: Blowing out the national debt on a party-line vote that bypasses the Senate filibuster. Threatening to eliminate the filibuster entirely to shove through partisan legislation. Threatening to remove judges who rule against the party in power. Openly circumventing Supreme Court decisions through extralegal executive actions. Appointing partisan hacks to lifetime judicial positions. Governing almost exclusively through executive orders to bypass the legislative process. Targeting political enemies with selective and pretextual prosecutions. Further turning the machinery of the administrative state against political enemies over their constitutionally protected associations. Handing out taxpayer money to political allies. Attempting to dominate civic institutions by having the government lean on them. Arbitrarily restricting what consumers can buy. Carving up the tax code to funnel money to special interests. Seeking détente with Putin and compromising our military effort against Russia. Cozying up to China to bolster our commercial ties. "
+      },
+      "verdict": {
+        "model": "jev-1.13.0",
+        "score": 0.33,
+        "category": "Magazines, Newspapers & Newsletter",
+        "category_confidence": 0.58
+      }
+    },
+    {
+      "canonical_url": "https://josephheath.substack.com/p/reproducing-civilization",
+      "url": "https://josephheath.substack.com/p/reproducing-civilization",
+      "found_at": "2026-10-29T11:30:10+00:00",
+      "sources": [
+        {
+          "name": "pinboard",
+          "title": "Reproducing civilization - by Joseph Heath - In Due Course"
+        }
+      ],
+      "page": {
+        "final_url": "https://josephheath.substack.com/p/reproducing-civilization",
+        "status": 403,
+        "title": "Just a moment...",
+        "description": "",
+        "og_image": "",
+        "favicon": "https://josephheath.substack.com/favicon.ico",
+        "text_excerpt": "josephheath.substack.com Performing security verification This website uses a security service to protect against malicious bots. This page is displayed while the website verifies you are not a bot. Ray ID: a521da68ce5a6695 Performance and Security by Cloudflare Privacy"
+      },
+      "verdict": {
+        "model": "jev-1.13.0",
+        "score": 0.33,
+        "category": "Blog",
+        "category_confidence": 0.61
+      }
+    },
+    {
       "canonical_url": "https://uppbeat.io/sfx/category/digital-and-ui/ui",
       "url": "https://uppbeat.io/sfx/category/digital-and-ui/ui",
       "found_at": "2026-10-19T13:29:24+00:00",
@@ -22065,6 +23572,37 @@
         "score": 0.3,
         "category": "Magazines, Newspapers & Newsletter",
         "category_confidence": 0.39
+      }
+    },
+    {
+      "canonical_url": "https://religionnews.com/2026/10/26/in-a-first-a-humanist-granted-a-religious-exemption-from-using-ai/",
+      "url": "https://religionnews.com/2026/10/26/in-a-first-a-humanist-granted-a-religious-exemption-from-using-ai/",
+      "found_at": "2026-10-29T11:30:10+00:00",
+      "sources": [
+        {
+          "name": "hn",
+          "id": "50273396",
+          "title": "Kentucky man becomes the first humanist granted religious exemption from AI",
+          "discussion_url": "https://news.ycombinator.com/item?id=50273396",
+          "score": 464,
+          "comments": 504,
+          "created_at": "2026-10-28T13:41:30Z"
+        }
+      ],
+      "page": {
+        "final_url": "https://religionnews.com/2026/10/26/in-a-first-a-humanist-granted-a-religious-exemption-from-using-ai/",
+        "status": 403,
+        "title": "Just a moment...",
+        "description": "",
+        "og_image": "",
+        "favicon": "https://religionnews.com/favicon.ico",
+        "text_excerpt": "religionnews.com Performing security verification This website uses a security service to protect against malicious bots. This page is displayed while the website verifies you are not a bot. Ray ID: a521d9d29e8e9393 Performance and Security by Cloudflare Privacy"
+      },
+      "verdict": {
+        "model": "jev-1.13.0",
+        "score": 0.3,
+        "category": "News",
+        "category_confidence": 0.95
       }
     },
     {
@@ -22323,6 +23861,37 @@
         "score": 0.28,
         "category": "Reference & Search",
         "category_confidence": 0.67
+      }
+    },
+    {
+      "canonical_url": "https://data.stackexchange.com/stackoverflow/query/1926661",
+      "url": "https://data.stackexchange.com/stackoverflow/query/1926661#graph?t=1",
+      "found_at": "2026-10-29T11:30:10+00:00",
+      "sources": [
+        {
+          "name": "hn",
+          "id": "50282454",
+          "title": "StackOverflow now gets fewer than 1000 questions a month",
+          "discussion_url": "https://news.ycombinator.com/item?id=50282454",
+          "score": 511,
+          "comments": 423,
+          "created_at": "2026-10-28T23:35:02Z"
+        }
+      ],
+      "page": {
+        "final_url": "https://data.stackexchange.com/stackoverflow/query/1926661#graph?t=1",
+        "status": 403,
+        "title": "Just a moment...",
+        "description": "",
+        "og_image": "",
+        "favicon": "https://data.stackexchange.com/favicon.ico",
+        "text_excerpt": "data.stackexchange.com Performing security verification This website uses a security service to protect against malicious bots. This page is displayed while the website verifies you are not a bot. Ray ID: a521d8f3db1a13c7 Performance and Security by Cloudflare Privacy"
+      },
+      "verdict": {
+        "model": "jev-1.13.0",
+        "score": 0.28,
+        "category": "Developer Tools",
+        "category_confidence": 0.29
       }
     },
     {
@@ -22696,6 +24265,37 @@
         "score": 0.25,
         "category": "Blog",
         "category_confidence": 0.37
+      }
+    },
+    {
+      "canonical_url": "https://www.reddit.com/r/Seattle/comments/1xhf6qp/archivetoday_links_going_forward/",
+      "url": "https://www.reddit.com/r/Seattle/comments/1xhf6qp/archivetoday_links_going_forward/",
+      "found_at": "2026-10-29T11:30:10+00:00",
+      "sources": [
+        {
+          "name": "hn",
+          "id": "50275373",
+          "title": "Archive.today links going forward",
+          "discussion_url": "https://news.ycombinator.com/item?id=50275373",
+          "score": 206,
+          "comments": 144,
+          "created_at": "2026-10-28T15:31:58Z"
+        }
+      ],
+      "page": {
+        "final_url": "https://www.reddit.com/r/Seattle/comments/1xhf6qp/archivetoday_links_going_forward/",
+        "status": 403,
+        "title": "",
+        "description": "",
+        "og_image": "",
+        "favicon": "https://www.reddit.com/favicon.ico",
+        "text_excerpt": "You've been blocked by network security. To continue, log in to your Reddit account or use your developer token If you think you've been blocked by mistake, file a ticket below and we'll look into it. Log in File a ticket"
+      },
+      "verdict": {
+        "model": "jev-1.13.0",
+        "score": 0.25,
+        "category": "Community",
+        "category_confidence": 0.57
       }
     },
     {
@@ -23257,6 +24857,37 @@
       }
     },
     {
+      "canonical_url": "https://thehill.com/homenews/administration/6175633-trump-bans-artificial-intelligence-term/",
+      "url": "https://thehill.com/homenews/administration/6175633-trump-bans-artificial-intelligence-term/",
+      "found_at": "2026-10-29T11:30:10+00:00",
+      "sources": [
+        {
+          "name": "hn",
+          "id": "50264228",
+          "title": "US President says he will ban the term 'artificial intelligence'",
+          "discussion_url": "https://news.ycombinator.com/item?id=50264228",
+          "score": 106,
+          "comments": 135,
+          "created_at": "2026-10-27T19:11:31Z"
+        }
+      ],
+      "page": {
+        "final_url": "https://thehill.com/homenews/administration/6175633-trump-bans-artificial-intelligence-term/",
+        "status": 403,
+        "title": "Access to this page has been denied",
+        "description": "px-captcha",
+        "og_image": "",
+        "favicon": "https://thehill.com/favicon.ico",
+        "text_excerpt": "Before we continue... Press & Hold to confirm you are a human (and not a bot). Reference ID 3a0ba631-d38c-11f1-ab9a-d57355671e27"
+      },
+      "verdict": {
+        "model": "jev-1.13.0",
+        "score": 0.2,
+        "category": "News",
+        "category_confidence": 0.99
+      }
+    },
+    {
       "canonical_url": "https://archiveofourown.org/series/6317451",
       "url": "https://archiveofourown.org/series/6317451",
       "found_at": "2026-10-19T13:29:24+00:00",
@@ -23309,6 +24940,37 @@
       }
     },
     {
+      "canonical_url": "https://paulfwalsh.substack.com/p/meta-censored-the-no-kings-instagram",
+      "url": "https://paulfwalsh.substack.com/p/meta-censored-the-no-kings-instagram",
+      "found_at": "2026-10-29T11:30:10+00:00",
+      "sources": [
+        {
+          "name": "hn",
+          "id": "50275887",
+          "title": "Meta censored the No Kings Instagram account during a nationwide campaign",
+          "discussion_url": "https://news.ycombinator.com/item?id=50275887",
+          "score": 272,
+          "comments": 74,
+          "created_at": "2026-10-28T16:01:53Z"
+        }
+      ],
+      "page": {
+        "final_url": "https://paulfwalsh.substack.com/p/meta-censored-the-no-kings-instagram",
+        "status": 403,
+        "title": "Just a moment...",
+        "description": "",
+        "og_image": "",
+        "favicon": "https://paulfwalsh.substack.com/favicon.ico",
+        "text_excerpt": "paulfwalsh.substack.com Performing security verification This website uses a security service to protect against malicious bots. This page is displayed while the website verifies you are not a bot. Ray ID: a521d9444c946695 Performance and Security by Cloudflare Privacy"
+      },
+      "verdict": {
+        "model": "jev-1.13.0",
+        "score": 0.19,
+        "category": "News",
+        "category_confidence": 0.53
+      }
+    },
+    {
       "canonical_url": "https://www.youtube.com/watch?v=bxDTWuL9GxY",
       "url": "https://www.youtube.com/watch?v=bxDTWuL9GxY",
       "found_at": "2026-10-25T09:48:11+00:00",
@@ -23358,6 +25020,32 @@
         "score": 0.17,
         "category": "Photo & Video",
         "category_confidence": 0.9
+      }
+    },
+    {
+      "canonical_url": "https://www.thekitchn.com/one-pan-chicken-au-poivre-recipe-review-23849725",
+      "url": "https://www.thekitchn.com/one-pan-chicken-au-poivre-recipe-review-23849725",
+      "found_at": "2026-10-29T11:30:10+00:00",
+      "sources": [
+        {
+          "name": "pinboard",
+          "title": "The One-Pan French Chicken So Good, You'll Memorize the Recipe | The Kitchn"
+        }
+      ],
+      "page": {
+        "final_url": "https://www.thekitchn.com/one-pan-chicken-au-poivre-recipe-review-23849725",
+        "status": 403,
+        "title": "Access to this page has been denied.",
+        "description": "",
+        "og_image": "",
+        "favicon": "https://www.thekitchn.com/favicon.ico",
+        "text_excerpt": "Please verify you are a human Access to this page has been denied because we believe you are using automation tools to browse the website. This may happen as a result of the following: Javascript is disabled or blocked by an extension (ad blockers for example) Your browser does not support cookies Please make sure that Javascript and cookies are enabled on your browser and that you are not blocking them from loading. Reference ID: #48a0d418-d38c-11f1-aa07-a83d43689cd2 Powered by PerimeterX , Inc."
+      },
+      "verdict": {
+        "model": "jev-1.13.0",
+        "score": 0.17,
+        "category": "Blog",
+        "category_confidence": 0.85
       }
     },
     {
@@ -23484,6 +25172,47 @@
         {
           "name": "pinboard",
           "title": "Apple Expected to Announce MacBook Pro With Touchscreen Tomorrow - MacRumors"
+        }
+      ],
+      "error": "TimeoutError: Page.screenshot: Timeout 30000ms exceeded."
+    },
+    {
+      "canonical_url": "https://arstechnica.com/ai/2026/10/google-ai-gets-cagey-when-asked-who-won-the-2020-elections/",
+      "url": "https://arstechnica.com/ai/2026/10/google-ai-gets-cagey-when-asked-who-won-the-2020-elections/",
+      "found_at": "2026-10-29T11:30:10+00:00",
+      "sources": [
+        {
+          "name": "hn",
+          "id": "50280178",
+          "title": "Google AI gets cagey when asked who won the 2020 elections",
+          "discussion_url": "https://news.ycombinator.com/item?id=50280178",
+          "score": 156,
+          "comments": 69,
+          "created_at": "2026-10-28T20:10:16Z"
+        }
+      ],
+      "error": "TimeoutError: Page.screenshot: Timeout 30000ms exceeded."
+    },
+    {
+      "canonical_url": "https://democrats-judiciary.house.gov/sites/evo-subsites/democrats-judiciary.house.gov/files/evo-media-document/2026-10.hjc-dems-staff-report-epstein-and-trump.pdf",
+      "url": "https://democrats-judiciary.house.gov/sites/evo-subsites/democrats-judiciary.house.gov/files/evo-media-document/2026-10.hjc-dems-staff-report-epstein-and-trump.pdf",
+      "found_at": "2026-10-29T11:30:10+00:00",
+      "sources": [
+        {
+          "name": "pinboard",
+          "title": ""
+        }
+      ],
+      "error": "Error: Page.goto: Download is starting"
+    },
+    {
+      "canonical_url": "https://lede-v2.nautil.us/why-birds-can-fly-over-mount-everest-237864",
+      "url": "https://lede-v2.nautil.us/why-birds-can-fly-over-mount-everest-237864",
+      "found_at": "2026-10-29T11:30:10+00:00",
+      "sources": [
+        {
+          "name": "pinboard",
+          "title": "Why Birds Can Fly Over Mount Everest - Nautilus"
         }
       ],
       "error": "TimeoutError: Page.screenshot: Timeout 30000ms exceeded."
