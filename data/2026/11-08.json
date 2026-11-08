@@ -1,0 +1,1117 @@
+[
+  {
+    "canonical_url": "https://caleb.software/posts/claude-to-pi.html",
+    "url": "https://caleb.software/posts/claude-to-pi.html",
+    "found_at": "2026-11-08T11:55:15+00:00",
+    "sources": [
+      {
+        "name": "hn",
+        "id": "50410107",
+        "title": "Goodbye Claude, Hello Pi",
+        "discussion_url": "https://news.ycombinator.com/item?id=50410107",
+        "score": 360,
+        "comments": 219,
+        "created_at": "2026-11-08T03:11:48Z"
+      }
+    ],
+    "page": {
+      "final_url": "https://caleb.software/posts/claude-to-pi.html",
+      "status": 200,
+      "title": "Goodbye Claude, Hello Pi",
+      "description": "",
+      "og_image": "",
+      "favicon": "https://caleb.software/favicon.svg",
+      "text_excerpt": "caleb.software Goodbye Claude, Hello Pi 21 September 2026 #pi #claude I’ve been a longtime Claude Code user, ever since it became available in the Claude Pro subscription plan over a year ago. I remember the first time I used it, feeling giddy as it spat out messy Python code for whatever random weekend project I was working on, all from a single prompt. I’m certain that in a few years we’ll all look back at its release as one of the major drivers of this new era of software development we’re in. Despite this, due to an accumulation of many small frustrations, I’ve finally decided to retire it as my main coding harness and migrate my development setup to use Pi instead. Someone at Anthropic must’ve caught wind… just a day after making my decision, they announced Claude Code would finally start supporting AGENTS.md files in an effort to get me to stay. Unfortunately, for me it was too little, too late. Complaining In lieu of a proper obituary, I’d like to take this time to say a few words about the things I liked least about Claude Code (and thus what I’m looking forward to avoiding with Pi). The AGENTS.md thing kind of epitomizes the whole reason I decided to quit using Claude Code. Don’t get me wrong, having a ton of CLAUDE.md files scattered about various GitHub hobby repos is great guerrilla marketing. But it sucks for users to have to deal with copying or symlinking between the two formats. Like the Luddite I am, I still prefer to review most of the code it churns out before I commit it. I use(d) Claude Code inside VSCode, and it lets you connect the harness to the IDE. This is nice because you can highlight text in a file and have it automatically included in the context when asking questions or requesting changes during a review. Except you can only have one session “connected” to the IDE at a time. If you open a second tab to start another task while the first one works, it can’t receive the text selection events from the IDE at all. This has been reported at"
+    },
+    "verdict": {
+      "model": "jev-1.13.0",
+      "score": 1.98,
+      "category": "Developer Tools",
+      "category_confidence": 0.84
+    }
+  },
+  {
+    "canonical_url": "https://github.blog/changelog/2026-11-05-new-pull-request-overview-page-in-public-preview/",
+    "url": "https://github.blog/changelog/2026-11-05-new-pull-request-overview-page-in-public-preview/",
+    "found_at": "2026-11-08T11:55:15+00:00",
+    "sources": [
+      {
+        "name": "hn",
+        "id": "50408931",
+        "title": "GitHub New pull request overview page in public preview",
+        "discussion_url": "https://news.ycombinator.com/item?id=50408931",
+        "score": 149,
+        "comments": 97,
+        "created_at": "2026-11-07T23:09:40Z"
+      }
+    ],
+    "page": {
+      "final_url": "https://github.blog/changelog/2026-11-05-new-pull-request-overview-page-in-public-preview/",
+      "status": 200,
+      "title": "New pull request overview page in public preview - GitHub Changelog",
+      "description": "On a long pull request, checking what’s blocking often means scrolling past dozens of comments and timeline events just to reach the merge box. And once you’re there, you still…",
+      "og_image": "https://github.blog/wp-content/themes/github-2021-child/dist/img/social-v3-new-releases.jpg",
+      "favicon": "https://github.githubassets.com/favicon.ico",
+      "text_excerpt": "Skip to content Skip to sidebar / Blog Changelog Docs Customer stories Try GitHub Copilot app See what's new BACK TO CHANGELOG RELEASE NOVEMBER 5, 2026 • 2 MINUTE READ New pull request overview page in public preview On a long pull request, checking what’s blocking often means scrolling past dozens of comments and timeline events just to reach the merge box. And once you’re there, you still need to work out what to do next. As people need to review more and more pull requests, time spent scrolling adds up. So we’ve begun to rethink the entire experience, beginning with addressing a familiar challenge: finding what’s blocking progress and determining what to do next. Today, we’re introducing the Overview page as an opt-in public preview, with rollout continuing through the weekend. It brings merge status and next available actions to the top of the page in a compact readiness summary. It’s the first step toward making pull requests easier to follow as code, conversations, and reviews evolve. The merge box, distilled We’re starting with the merge box, the place developers go to see whether a pull request can move forward. Rather than just moving it higher, we’ve also redesigned it to show the same information in less than half the space. Explore the supporting signals: A compact view of checks, comments, and approvals keeps the context nearby without making every detail compete for attention. Address what’s blocking: Take action to move the pull request forward, such as updating your branch. See if it’s ready to merge: Check merge readiness and merge when requirements are met. Start with the summary, then follow the detail that matters to your next step (e.g., get to failing checks, see who still needs to approve, or open the relevant comments). Keep your place. Focus your attention. This first preview also introduces more ways to catch up on activity and focus the conversation so you can spend less time finding your place. Narrow the conversation: Filter for unresolv"
+    },
+    "verdict": {
+      "model": "jev-1.13.0",
+      "score": 1.73,
+      "category": "Developer Tools",
+      "category_confidence": 0.75
+    }
+  },
+  {
+    "canonical_url": "https://eli.thegreenplace.net/2025/making-any-integer-with-four-2s/",
+    "url": "https://eli.thegreenplace.net/2025/making-any-integer-with-four-2s/",
+    "found_at": "2026-11-08T11:55:15+00:00",
+    "sources": [
+      {
+        "name": "hn",
+        "id": "50408713",
+        "title": "Making any integer with four 2s (2025)",
+        "discussion_url": "https://news.ycombinator.com/item?id=50408713",
+        "score": 154,
+        "comments": 37,
+        "created_at": "2026-11-07T22:38:58Z"
+      }
+    ],
+    "page": {
+      "final_url": "https://eli.thegreenplace.net/2025/making-any-integer-with-four-2s/",
+      "status": 200,
+      "title": "Making any integer with four 2s - Eli Bendersky's website",
+      "description": "",
+      "og_image": "",
+      "favicon": "https://eli.thegreenplace.net/favicon.ico",
+      "text_excerpt": "Eli Bendersky's website About Projects Archives Making any integer with four 2s February 22, 2025 at 14:53 Tags Math There's a cute math puzzle that can be interesting to folks on very different levels: Given exactly four instances of the digit 2 and some target natural number, use any mathematical operations to generate the target number with these 2s, using no other digits. Some examples can be done by elementary school kids: In middle school, kids learn about exponents, factorials, etc. which expands the range considerably: Then come the tricks; for example, the number 22 (twenty two) can be seen as a valid use of two 2s, and so on; so we can have: Getting to 7 is notoriously difficult, but if you allow even more mathematical tools like the Gamma function, it becomes easy: The more math skill people have, the more numbers they can make. See this thread for some fun concoctions using integrals, repeating fractions and combinatorial operators. One of my favorite examples involves complex numbers: So the fun doesn't end even after one graduates from university! In fact, this seems to have been a favorite pastime for mathematicians in the 1920s. Until Paul Dirac ruined it for everyone by finding a general solution for every number. It's all about nested square roots: If the square root is applied n times: All that's left now is some base-2 logarithms: And another: This leads to the general formula: There's just one small wrinkle: it uses three instances of the digit 2, not four. This is easy to amend, however; since , we can replace any single digit with that and get exactly four: One may claim this is cheating, but it seems to be in line with the rules of the puzzle! Note that the entity n doesn't actually appear anywhere - it's just a helper to count the number of repeated square roots. For example, another way to express 7 is: There are exactly four 2s, and this uses only reasonable, elemental math operations to do the calculation. It's clear that any number can b"
+    },
+    "verdict": {
+      "model": "jev-1.13.0",
+      "score": 2.14,
+      "category": "Blog",
+      "category_confidence": 0.85
+    }
+  },
+  {
+    "canonical_url": "https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again",
+    "url": "https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again",
+    "found_at": "2026-11-08T11:55:15+00:00",
+    "sources": [
+      {
+        "name": "hn",
+        "id": "50407882",
+        "title": "Claude Code's \"Don't Ask Again\" exposes passwords in 1,122 public GitHub files",
+        "discussion_url": "https://news.ycombinator.com/item?id=50407882",
+        "score": 425,
+        "comments": 287,
+        "created_at": "2026-11-07T20:45:32Z"
+      }
+    ],
+    "page": {
+      "final_url": "https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again",
+      "status": 200,
+      "title": "Coding Agents Are Leaking Your Secrets to GitHub",
+      "description": "Apiiro found 2,539 real secrets in 1,994 public GitHub repos, saved by Claude Code's \"don't ask again\" to .claude/settings.local.json. Check if you're affected.",
+      "og_image": "https://apiiro.com/_b44/api/apps/6991bfdc25eeb87584b7bd76/files/mp/public/6991bfdc25eeb87584b7bd76/790974879_agent-leaks-cover-v2.jpg",
+      "favicon": "https://apiiro.com/functions/favicon",
+      "text_excerpt": "Apiiro Named a Leader in The Forrester Wave™: Agentic Development Security Read Get a demo RESEARCH Coding Agents Copy Your Secrets to a Hidden File. Thousands Are on GitHub Shmulik Cohen, Matan Giladi November 5 2026 | 11 minute read Back to blog 0:00 / 15:29 1X Apiiro research found 2,539 real secrets in 1,994 public GitHub repositories: database passwords, cloud keys, API tokens, SSH root logins. Among them: a database vendor's own admin-level cloud key, a production Azure Postgres password, a Square production token, and the owner password of a medical-records database. Most belong to individual developers. 63 organizations are affected, from student groups to startups, software agencies and established vendors. One confirmed its key had been live. Ask Claude Code to check a database or call an API, and the command it proposes carries the secret from your config file. It asks before running it. Pick \"Yes, and don't ask again\" and it saves that exact command, secret included, to .claude/settings.local.json inside the project folder. Nothing in the repo marks that file as private, so it gets committed with the rest of the code. Out of 104,185 public copies of this file on GitHub, 1,122 hold a real secret. We found 1,160 more in git history, in the shared settings.json teams commit on purpose, and in agent chat transcripts saved in repos. Check if you’re affected Is it public? Search your GitHub organization for .claude/settings.local.json and .claude/settings.json. Each hit is a file anyone can read right now. Was it ever committed? Check each repo’s git history for the file, even if it’s gone today. If history has it, so does every fork and clone. What's in it? Find every copy of the file on your machine and read its allow list. Each entry is a command you approved, with whatever you typed into it: look for passwords, tokens, keys and connection strings. Found something: rotate first, clean up second. How a secret ends up in a settings file Developer machines hol"
+    },
+    "verdict": {
+      "model": "jev-1.13.0",
+      "score": 2.31,
+      "category": "Software Engineering",
+      "category_confidence": 0.51
+    }
+  },
+  {
+    "canonical_url": "https://prog21.dadgum.com/19.html",
+    "url": "https://prog21.dadgum.com/19.html",
+    "found_at": "2026-11-08T11:55:15+00:00",
+    "sources": [
+      {
+        "name": "hn",
+        "id": "50406319",
+        "title": "Five memorable books about programming (2008)",
+        "discussion_url": "https://news.ycombinator.com/item?id=50406319",
+        "score": 120,
+        "comments": 78,
+        "created_at": "2026-11-07T17:30:49Z"
+      }
+    ],
+    "page": {
+      "final_url": "https://prog21.dadgum.com/19.html",
+      "status": 200,
+      "title": "Five Memorable Books About Programming",
+      "description": "",
+      "og_image": "",
+      "favicon": "https://prog21.dadgum.com/favicon.ico",
+      "text_excerpt": "programming in the twenty-first century It's not about technology for its own sake. It's about being able to implement your ideas. Five Memorable Books About Programming I've read the classics--Structure and Interpretation of Computer Programs, Paradigms of Artificial Intelligence Programming--but I'd like to highlight some of the more esoteric books which affected my thinking. Zen of Assembly Language Michael Abrash, 1990 I spent much of the 1980s writing 8-bit computer games (which you can read about if you like). Odd as it may seem in retrospect, considering the relative power of an 8-bit 6502 running at sub 2 MHz, I wasn't obsessed with optimizing for performance. If anything, I wanted the code to be small, a side effect of using a line-based editor and writing programs that someone would have to painstakingly type in from a magazine listing. Pages of DATA 0AFF6CA900004021... ugh. Right when that period of my life came to a close, along came Zen of Assembly Language, by an author I had never heard of, which dissected, explained, and extended the self-taught tricks from my years as a lone assembly hacker. Even though Abrash was focused on the 8086 and not the 6502, it felt like the book was written personally to me. This is also one of the most bizarrely delayed technical book releases I can recall. The majority of the book was about detailed optimization for the 8088 and 8086, yet it was published when the 80486 was showing up in high-end desktop PCs. Scientific Forth Julian Noble, 1992 Fractals, Visualization, and J Clifford Reiter, 2000 These two books are about entirely different subjects. One is about pure scientific computation. The other is about generating images. Each uses a different, wildly non-mainstream language for the included code. And yet these two books follow the same general approach, one I wish were more commonly used. Superficially, the authors have written introductions to particular programming languages (which is why the language name is "
+    },
+    "verdict": {
+      "model": "jev-1.13.0",
+      "score": 1.94,
+      "category": "Books",
+      "category_confidence": 0.52
+    }
+  },
+  {
+    "canonical_url": "https://mceglowski.substack.com/p/how-long-can-life-wait",
+    "url": "https://mceglowski.substack.com/p/how-long-can-life-wait",
+    "found_at": "2026-11-08T11:55:15+00:00",
+    "sources": [
+      {
+        "name": "hn",
+        "id": "50405789",
+        "title": "How Long Can Life Wait?",
+        "discussion_url": "https://news.ycombinator.com/item?id=50405789",
+        "score": 138,
+        "comments": 85,
+        "created_at": "2026-11-07T16:22:59Z"
+      }
+    ],
+    "page": {
+      "final_url": "https://mceglowski.substack.com/p/how-long-can-life-wait",
+      "status": 403,
+      "title": "Just a moment...",
+      "description": "",
+      "og_image": "",
+      "favicon": "https://mceglowski.substack.com/favicon.ico",
+      "text_excerpt": "mceglowski.substack.com Performing security verification This website uses a security service to protect against malicious bots. This page is displayed while the website verifies you are not a bot. Ray ID: a574636eaf3b2fd0 Performance and Security by Cloudflare Privacy"
+    },
+    "verdict": {
+      "model": "jev-1.13.0",
+      "score": 0.24,
+      "category": "Blog",
+      "category_confidence": 0.48
+    }
+  },
+  {
+    "canonical_url": "https://sheets.works/data-viz/cpu-dies",
+    "url": "https://sheets.works/data-viz/cpu-dies",
+    "found_at": "2026-11-08T11:55:15+00:00",
+    "sources": [
+      {
+        "name": "hn",
+        "id": "50405782",
+        "title": "Every processor die anyone has photographed and given away",
+        "discussion_url": "https://news.ycombinator.com/item?id=50405782",
+        "score": 131,
+        "comments": 28,
+        "created_at": "2026-11-07T16:21:36Z"
+      }
+    ],
+    "page": {
+      "final_url": "https://sheets.works/data-viz/cpu-dies",
+      "status": 200,
+      "title": "Every processor die anyone has photographed and given away",
+      "description": "356 processor dies from 1972 to 2024, photographed through microscopes and released for anyone to use.",
+      "og_image": "https://sheets.works/og-cpu-dies.png",
+      "favicon": "https://sheets.works/favicon.ico",
+      "text_excerpt": "sheets.works Play today's word game Every processor die anyone has photographed and given away Inside every processor is a flat piece of silicon, usually smaller than a fingernail. To see it you have to sand or dissolve the package away and photograph what is left through a microscope. A handful of people do this and give the pictures away, most of all Pauli Rautakorpi, ZeptoBars in Moscow, John McMaster and a photographer who posts as Fritzchens Fritz. These are the 356 processors they have photographed, from 1972 to 2024. Click a chip to see it large. True scale draws the 114 whose size we know at the same scale, so a 1970s chip is a speck next to a modern one. We also make a free daily word game, Long Story Short: cut a twelve-word news sentence down to the five that carry it. Gallery True scale Table Any decade 1970s 1980s 1990s 2000s 2010s 2020s Any maker Intel AMD Motorola DEC HP National Semiconductor Texas Instruments NEC Cyrix Soviet Sun IDT MOS Technology Nintendo / Sharp Fujitsu Apple Nintendo IBM Zilog VIA AT&T Atmel Signetics Baikal Electronics Texas Instruments / Sun OKI Broadcom Philips Hitachi nCUBE MCST Intergraph UC Davis NVIDIA IDT / Centaur LSI Logic Data General Western Digital Fairchild Siemens QED AMD / Microsoft AMD / Sony Nintendo / Sony unknown (ARM-marked) SGI WDC / Rockwell Western Design Center Commodore (CSG) Mitsubishi Intersil RCA Cisco NXP open-source (Mithro) unknown Cypress / Sun Fujitsu / Sun Ricoh Performance Semiconductor Pyramid UMC Inmos UT Austin / IBM MIPS Palladium NEC / QED MIPS / NEC Sony / LSI Sharp VLSI / Tandem Harris Multiclet ARM / VLSI MME Weitek Leap Frog Thomson Unisys TI NexGen Bull Zoran ST Capcom Teradici MIPS / IDT Cypress AMD / Valve Soviet (Kvant) Ross Centaur / VIA STMicroelectronics GI MicroModule Systems ZFTM VLSI Mostek Freescale Rockwell Russia Mostek / Fairchild Nintendo / SGI Any licence Public domain / CC0 CC BY CC BY-SA Oldest first Newest first Largest first A to Z 356 processors 8008 Intel · 1972 "
+    },
+    "verdict": {
+      "model": "jev-1.13.0",
+      "score": 3.54,
+      "category": "Engineering",
+      "category_confidence": 0.44
+    },
+    "screenshot": "shots/2026/11-08/sheets-works-data-viz-cpu-dies.jpg"
+  },
+  {
+    "canonical_url": "https://www.sussi.dk/terry-pratchetts-study",
+    "url": "https://www.sussi.dk/terry-pratchetts-study",
+    "found_at": "2026-11-08T11:55:15+00:00",
+    "sources": [
+      {
+        "name": "hn",
+        "id": "50405674",
+        "title": "Terry Pratchett's Study",
+        "discussion_url": "https://news.ycombinator.com/item?id=50405674",
+        "score": 132,
+        "comments": 34,
+        "created_at": "2026-11-07T16:05:45Z"
+      },
+      {
+        "name": "pinboard",
+        "title": "Terry Pratchett’s study"
+      }
+    ],
+    "page": {
+      "final_url": "https://www.sussi.dk/terry-pratchetts-study",
+      "status": 200,
+      "title": "Terry Pratchett’s study - sussi.dk",
+      "description": "This is not a replica of Terry Pratchett’s study. To do that, I would have needed pictures from every angle and exact measurements, so this is just a small part of a study, where Terry Pratchett might have felt at home, in scale 1:12. If you read “The Borrowers\" as…",
+      "og_image": "https://www.sussi.dk/wp-content/uploads/2026/11/IMG_6115-scaled.jpeg",
+      "favicon": "https://www.sussi.dk/wp-content/uploads/2026/10/IMG_5620-150x150.png",
+      "text_excerpt": "Spring til indhold sussi.dk Ting og tanker – små og store. Om mig Tanker Miniaturer Nisserne på Blågård Husflid Terry Pratchett’s study This is not a replica of Terry Pratchett’s study. To do that, I would have needed pictures from every angle and exact measurements, so this is just a small part of a study, where Terry Pratchett might have felt at home, in scale 1:12. If you read “The Borrowers” as a child, you might imagine a tiny, Terry Pratchetty fellow occupy this study, whenever the house is quiet.. I found some pictures of the study online, but not very many. Fortunately, I’ve had great help from The Cunning Artificer, Mr. Bernard Pearson, who has been so kind to answer my multiple questions, and for that I am very grateful. This little project has taken about a month and a half, and researching details about Terry Pratchett has been so much fun. This world needs magic and imaginative and quirky minds. This world needed Terry Pratchett. Dette er ikke en kopi af Terry Pratchetts arbejdsværelse, for så skulle jeg have haft billeder fra alle mulige vinkler, nøjagtige mål, osv, så dette er blot en lille del af et værelse, hvor Terry Pratchett måske havde følt sig hjemme. Skala 1:12. Hvis du læste “Lånerne”, da du var barn, kan du måske forestille dig en lille, Terry Pratchett-agtig fyr, der hygger sig her, når huset er stille. Jeg fandt nogle billeder på nettet, men ikke særligt mange, men heldigvis har jeg fået stor hjælp af “The Cunning Artificer”, Mr. Bernard Pearson, som velvilligt har svaret på mine mange spørgsmål, og det er jeg meget taknemmelig for Projektet har taget en halvanden måneds tid, og jeg har hygget mig gevaldigt med at finde detaljer om Terry Pratchett. Verden har brug for magi, og for fantasirige og snurrige hjerner. Verden havde brug for Terry Pratchett. The bookcases are essential, and a bit messy. The first section to the right holds “DiscWorld”, and some of Terry Pratchett’s other books. Every book is made individually, with the correct co"
+    },
+    "verdict": {
+      "model": "jev-1.13.0",
+      "score": 1.51,
+      "category": "Art & Design",
+      "category_confidence": 0.6
+    }
+  },
+  {
+    "canonical_url": "https://maccus.fr/en/ozempic-drugs-trials-beyond-diabetes/",
+    "url": "https://maccus.fr/en/ozempic-drugs-trials-beyond-diabetes/",
+    "found_at": "2026-11-08T11:55:15+00:00",
+    "sources": [
+      {
+        "name": "hn",
+        "id": "50393458",
+        "title": "Ozempic-style drugs now in trials for heart failure, addiction and even aging",
+        "discussion_url": "https://news.ycombinator.com/item?id=50393458",
+        "score": 102,
+        "comments": 98,
+        "created_at": "2026-11-06T15:24:34Z"
+      }
+    ],
+    "page": {
+      "final_url": "https://maccus.fr/en/ozempic-drugs-trials-beyond-diabetes/",
+      "status": 200,
+      "title": "Ozempic-style drugs are now in trials for heart failure, addiction and even aging",
+      "description": "Ozempic-style drugs are being tested far beyond diabetes, for heart failure, addiction, Alzheimer's and aging. The share of such trials has roughly tripled in fifteen years.",
+      "og_image": "https://maccus.fr/wp-content/uploads/2026/11/featured-glp1-beyond-en.png",
+      "favicon": "https://maccus.fr/favicon-16x16.png",
+      "text_excerpt": "Skip to content Services Service Overview EVE for businesses EVE for research AI integration Website redesign Local and technical SEO Multilingual SEO Projects Case studies SMEs and local SEO Premium SEO package SEO provider audit News Tutorials Resources AI and content Agency Contact English Free SEO audit Home›News News Ozempic-style drugs are now in trials for heart failure, addiction and even aging The share of Ozempic-style drug trials aimed beyond diabetes and weight has roughly tripled in fifteen years, across fifteen disease areas.Save on Rx Marc Winer Published November 6, 2026, 9:15 AM 6 min read November 6, 2026 by Marc Winer Discover more Find Recovery Help Find Therapists Find Therapy The diabetes drugs that became weight-loss blockbusters are now in human trials for heart failure, addiction, Alzheimer’s and even the biology of aging. Most of that research is still about diabetes and weight, about five in six of the trials. The change is how fast the rest is growing.Track Blood Sugar These are among the best-selling medicines in the world right now. Where they are tested next is a question about a great deal of money and a great many patients. So I went looking for how far the class has actually spread, in the one place that records it before any marketing does: the register where a trial is filed when it begins. READ ALSO Google DeepMind AI agents reran a 1024-bit RSA attack. Their human sent about 20 messages I went through ClinicalTrials.gov, the United States trial registry, and pulled every registered human study of a GLP-1 or incretin drug, the class that includes Ozempic, Wegovy and Mounjaro. That comes to at least eighteen hundred trials. I sorted each one by the disease it set out to treat, counted them by the year they began, and took 2026 only up to this week.Save on Rx Discover more Save on Rx Track Blood Sugar Monitor Vitals The reach past diabetes keeps widening Fifteen years ago this barely happened. Of the new trials starting in the clas"
+    },
+    "verdict": {
+      "model": "jev-1.13.0",
+      "score": 1.04,
+      "category": "News",
+      "category_confidence": 0.56
+    }
+  },
+  {
+    "canonical_url": "https://azhdarchid.com/there-are-sides/",
+    "url": "https://azhdarchid.com/there-are-sides/",
+    "found_at": "2026-11-08T11:55:15+00:00",
+    "sources": [
+      {
+        "name": "pinboard",
+        "title": "This is a Conflict and there are Sides"
+      }
+    ],
+    "page": {
+      "final_url": "https://azhdarchid.com/there-are-sides/",
+      "status": 200,
+      "title": "This is a Conflict and there are Sides",
+      "description": "On recognizing the battle line when it appears outside your window.",
+      "og_image": "https://azhdarchid.com/images/posts/30_years_war.jpg",
+      "favicon": "https://azhdarchid.com/apple-touch-icon.png",
+      "text_excerpt": "Azhdarchid Home Blog Old Blog Archives Cohost Archive Ask/Comment Subscribe RSS Socials This is a Conflict and there are Sides November 05th, 2026 Alittle over a week ago, on the night of the Brazilian election runoff, I spent several hours going slowly from despair, to cautious hope, to a sort of weary joy. I live, these days, in a downtown area of São Paulo. I generally hate crowds, but on that night I did walk the length of Avenida Paulista, the city's de facto public square, where people were gathering—at first just to celebrate, and later on to hear president Lula's victory speech, which he delivered in front of the iconic Modernist hulk of the São Paulo Museum of Art. Ever since I have been periodically reminded of everything that was under threat in the event of another Bolsonaro government, of the losses we couldn't afford that now look to be averted, and of the effort needed to get this outcome. And I'm also periodically reminded of who was on the other side of this effort; an unpleasant alliance of fascists and criminals who anticipated breaking the nation down for parts. And fighting right alongside them: Elon Musk and Mark Zuckerberg. Meta, in particular, directly intervened in suppressing pro-Lula messaging on Instagram while artificially boosting pro-Bolsonaro messaging. Big tech behaves as a political actor, and they support fascists. Google and Amazon supply cloud infrastructure that Israel's government and military uses in the prosecution of their ongoing genocide against the Palestinian people, as does Microsoft. Tech CEOs have made repeated shows of support and even subservience to the Trump administration. These companies are embedded in all of our lives, but at the same time they have to be understood as hostile and categorically evil entities. At present, they are all heavily involved in the AI push, which is its own novel form of mass harm that abuts, but isn't exactly the same as, the other forms of harm that these corporations are involved i"
+    },
+    "verdict": {
+      "model": "jev-1.13.0",
+      "score": 0.74,
+      "category": "Blog",
+      "category_confidence": 1.0
+    }
+  },
+  {
+    "canonical_url": "https://github.com/storytold/craft-anything",
+    "url": "https://github.com/storytold/craft-anything",
+    "found_at": "2026-11-08T11:55:15+00:00",
+    "sources": [
+      {
+        "name": "pinboard",
+        "title": "storytold/craft-anything: Craft Anything: understand how any software works, and craft your own."
+      }
+    ],
+    "github": {
+      "repo_url": "https://github.com/storytold/craft-anything",
+      "homepage": "",
+      "description": "Craft Anything: understand how any software works, and craft your own.",
+      "topics": [],
+      "stars": 21698,
+      "created_at": "2026-10-31T14:50:00Z",
+      "pushed_at": "2026-11-08T00:33:00Z",
+      "owner_avatar": "https://avatars.githubusercontent.com/u/76897702?v=4"
+    },
+    "page": {
+      "final_url": "https://github.com/storytold/craft-anything",
+      "status": 200,
+      "title": "GitHub - storytold/craft-anything: Craft Anything: understand how any software works, and craft your own.",
+      "description": "Craft Anything: understand how any software works, and craft your own. - storytold/craft-anything",
+      "og_image": "https://opengraph.githubassets.com/36397455faaa14c496219706e03a24b485443ba01c4c4a0e1b37c10ff11ce516/storytold/craft-anything",
+      "favicon": "https://github.com/fluidicon.png",
+      "text_excerpt": "Skip to content Navigation Menu Products Developers Businesses Resources Pricing Search / Sign in Sign up storytold craft-anything Repository navigation Code Issues 166 (166) Pull requests 135 (135) Actions Projects Security and quality Insights craft-anything Public Notifications Fork4.3k (4.3k) Star21.7k (21.7k) main 188 Branches 5 Tags Code Latest commit Agapenordev Say in a build's feed when it runs another program than the saved one… 56aa319 · History 475 Commits Folders and files Name Last commit message Last commit date .cargo Craft Anything .githooks Craft Anything .github Pass the Linux signing key to the release workflow (#866) apps Keep the start guard tests from releasing each other's lock (#1097) assets Craft Anything crates Say in a build's feed when it runs another program than the saved one… docs Say in a build's feed when it runs another program than the saved one… examples Craft Anything packaging Pin appimagetool and the AppImage runtime, and check their hashes (#1013 vendor/wgpu-hal Start the window on Macs whose Metal compiler rejects the OS's shader… xtask Add Thai UI translations (#1069) .coderabbit.yaml Craft Anything .gitattributes Craft Anything .gitignore .gitignore additions AGENTS.md Say to build the CLI before testing the ai crate (#1042) ATTRIBUTION.md Korean, Chinese, Japanese and other scripts are tested to show in rel… CLAUDE.md Craft Anything CONTRIBUTING.md Craft Anything CONTRIBUTORS.md Credit who built Craft Anything before its public history, in CONTRIB… Cargo.lock Say when macOS Screen Recording blocks a window picture, and stop pic… Cargo.toml Start the window on Macs whose Metal compiler rejects the OS's shader… LICENSE-APACHE Craft Anything LICENSE-MIT Craft Anything NOTICE Craft Anything README.es.md Add Brazilian Portuguese and Turkish to the app's languages (#1011) README.fr.md Add Brazilian Portuguese and Turkish to the app's languages (#1011) README.ja.md Credit who built Craft Anything before its public history, in CO"
+    },
+    "verdict": {
+      "model": "jev-1.13.0",
+      "score": 2.67,
+      "category": "Developer Tools",
+      "category_confidence": 0.84
+    }
+  },
+  {
+    "canonical_url": "https://phoboslab.org/log/2026/11/n64-ulc-codec",
+    "url": "https://phoboslab.org/log/2026/11/n64-ulc-codec",
+    "found_at": "2026-11-08T11:55:15+00:00",
+    "sources": [
+      {
+        "name": "pinboard",
+        "title": "Why this Obscure Audio Codec is a Perfect Fit for the N64"
+      }
+    ],
+    "page": {
+      "final_url": "https://phoboslab.org/log/2026/11/n64-ulc-codec",
+      "status": 200,
+      "title": "PhobosLab",
+      "description": "",
+      "og_image": "",
+      "favicon": "https://phoboslab.org/media/phoboslab.ico",
+      "text_excerpt": "Blog Games Projects Dominic Szablewski, @phoboslab — Tuesday, November 3rd 2026 Why this Obscure Audio Codec is a Perfect Fit for the N64 Sorry for the clickbait title. I promise this post delivers: 44100 Hz stereo with near-Opus bitrates using about 4% of the N64’s CPU time. But first, some history: The options for playing and storing audio data on the N64 were dire. The PlayStation could just stream uncompressed redbook audio straight from the CD. On the N64, cartridge space was at a premium and time on the 93 MHz CPU was limited. Worse, access to the vector co-processor, the RSP, was guarded by Nintendo for the longest time. Nintendo's own platform library, Libultra, internally used the RSP for various graphics and sound-related tasks, but Nintendo didn't allow third-party developers to directly write code for it. Libultra provided some functions to transparently play back compressed audio using an ADPCM scheme (adaptive differential pulse code modulation). The RSP handled decompression on the fly, just before the audio was sent to the output buffer. This works well enough and cuts the space needed for a sample by a factor of 4. Still, a 5-minute stereo audio track at 44100 Hz will land at about 12MB – way too much for an N64 cartridge, even when you cut the sample rate in half. The whole Mario 64 ROM is just 8MB in total. The biggest N64 games were 64MB. So N64 games produced music similarly to a tracker: short samples were scheduled and played back with some limited effects at the right time. With the space constraints on the cartridge, fully “recorded” audio was pretty much out of the question. Later in the N64's life, some blessed developers were allowed by Nintendo to directly access the RSP. Most famously, Conker's Bad Fur Day used this to decompress MP3 audio for the myriad of speech samples in the game. Decoding MP3 is quite expensive and the frame rate of the game suffered. It was good enough for cutscenes, but just too much for continuous background mus"
+    },
+    "verdict": {
+      "model": "jev-1.13.0",
+      "score": 2.78,
+      "category": "Blog",
+      "category_confidence": 0.45
+    }
+  },
+  {
+    "canonical_url": "https://daringfireball.net/2026/11/touch_and_glow",
+    "url": "https://daringfireball.net/2026/11/touch_and_glow",
+    "found_at": "2026-11-08T11:55:15+00:00",
+    "sources": [
+      {
+        "name": "pinboard",
+        "title": "Touch and Glow (via IFTTT)"
+      }
+    ],
+    "page": {
+      "final_url": "https://daringfireball.net/2026/11/touch_and_glow",
+      "status": 200,
+      "title": "Touch and Glow",
+      "description": "Apple’s “Pro and Tell” event in Los Angeles, the new MacBook Pros with PROLED XDR displays, and the state of the Macintosh platform.",
+      "og_image": "https://daringfireball.net/graphics/df-wide-card.png",
+      "favicon": "https://daringfireball.net/graphics/apple-touch-icon.png",
+      "text_excerpt": "By JOHN GRUBER ARCHIVE THE TALK SHOW DITHERING PROJECTS CONTACT COLOPHON FEEDS / SOCIAL SPONSORSHIP OurCal: Shared calendar. Meet messenger. Touch and Glow Friday, 6 November 2026 I’m not cut out for Los Angeles. It’s hard not to love the place, though. The weather is absurd. The people in LA, by and large, don’t believe in bad weather. It’s like a legend to them, like hearing about the Irish Potato Famine. Angelenos are friendly and good looking. The food is good and varied. But you really do need to drive everywhere. Trips from any one part of the city to another invariably require time not just in a car but on a freeway. What is oft-described as LA’s sprawl, I would describe as a layout and geographic scale that is more like that of a small, densely populated nation than of a mere city. LA’s palpable vastness is incredible, in a wholly different sense than, say, Manhattan’s. I love to visit. I would never want to stay. The greater San Francisco Bay Area, I don’t feel that way about. The weather there, too, is certainly nicer than back east, but it’s not implausibly nice. San Francisco is a walkable city and can punish you with its weather at certain times of the year. I’m not at all religious but I was raised in a Catholic family, and one way that’s stuck with me is that I innately believe we deserve some stretches of bad weather. That it’s good for us to suffer to some extent, like physical exercise and toiling at our jobs. That’s a stupid thing to believe, I know, but I believe it. We all believe some stupid things. Los Angeles is an unusual place for Apple to hold a media event. They hold two big annual events on campus at Apple Park in Cupertino each year: WWDC in June, and the iPhone (and friends) event in September. Back in the old days, they held their major keynotes in San Francisco. I liked the old events in San Francisco better, if only because I enjoyed staying a few days in vibrant, gritty San Francisco better than the somnolent, sterile South Bay. Bu"
+    },
+    "verdict": {
+      "model": "jev-1.13.0",
+      "score": 1.11,
+      "category": "Blog",
+      "category_confidence": 0.66
+    }
+  },
+  {
+    "canonical_url": "https://textjs.org/",
+    "url": "https://textjs.org/",
+    "found_at": "2026-11-08T11:55:15+00:00",
+    "sources": [
+      {
+        "name": "pinboard",
+        "title": "Text.js | The Console Framework"
+      }
+    ],
+    "page": {
+      "final_url": "https://textjs.org/",
+      "status": 200,
+      "title": "Text.js | The Console Framework",
+      "description": "Build full-stack React apps that render inside console.log.",
+      "og_image": "https://textjs.org/og/home.png?v=bf3d2223",
+      "favicon": "https://textjs.org/favicon.svg",
+      "text_excerpt": "Text.js Docs Learn Playground Search Ctrl+K The Console Framework Build full-stack React apps that render inside console.log. Get started $ bunx create-text-app This page is running in your console. Open it with Ctrl+Shift+J , click the preview below and press ↑ ↓. app/page.tsx app/layout.tsx text.config.ts app/globals.css 1import { useState } from \"react\"; 2import { AsciiFont, Box, Text, useInput } from \"@textjs/app\"; 3 4export default function Page() { 5 const [count, setCount] = useState(0); 6 useInput((e) => { 7 if (e.key === \"up\") setCount((c) => c + 1); 8 if (e.key === \"down\") setCount((c) => c - 1); 9 }); 10 11 return ( 12 <Box className=\"flex-col gap-1 p-2\"> 13 <AsciiFont text=\"▼ TEXT.JS\" /> 14 <Text color=\"muted\">React 19 in console.log</Text> 15 <Text bold color=\"accent\">count = {count}</Text> 16 </Box> 17 ); 18} Elements Console Sources Network Performance Memory Application top ▾ Filter Default levels ▾ No Issues ▼ Text.js ███████ █████ ████ █ █ █████ ██ ███ █████ █ █ █ █ █ █ █ ███ █ ███ █ █ █ ██ █ █ █ █ █ █ █ █ █ █ ████ █ █ █ █ ██ ███ React 19 in console.log ▄▀█▄ █▀ █ ▀▀ Geist Dark ↑ ↓ count t theme viewport:3 ⌨ Click to focus › React 19 Text.js supports concurrent rendering, Suspense and error boundaries. App Router Folders in app/ become routes and layouts, and Back, Forward and deep links work. Responsive grid The grid fits the docked DevTools panel at any page zoom. Keyboard input Keys, paste and IME composition reach the app through one hidden <textarea>. Tables, charts, forms and shortcuts Table Charts Controls useKeymap Live Elements Console Sources Network Performance Memory Application top ▾ -url:preview://table Default levels ▾ No Issues preview://table:1 ⌨ Click to run in console › ↑ ↓ move · s sort · Space select Run in console Docs Layout <Box> <Stack> <Grid> <SplitPane> <ScrollBox> <Center> Data <List> <Table> <Tree> <Markdown> <Code> <Diff> Charts <LineChart> <BarChart> <Sparkline> <ProgressBar> <Gradient> <Image> Controls <Input> <Select"
+    },
+    "verdict": {
+      "model": "jev-1.13.0",
+      "score": 3.37,
+      "category": "Developer Tools",
+      "category_confidence": 0.98
+    },
+    "screenshot": "shots/2026/11-08/textjs-org.jpg"
+  },
+  {
+    "canonical_url": "https://opencode.ai/product/browse",
+    "url": "https://opencode.ai/product/browse",
+    "found_at": "2026-11-08T11:55:15+00:00",
+    "sources": [
+      {
+        "name": "pinboard",
+        "title": "OpenCode | Browse, your real browser for coding agents"
+      }
+    ],
+    "page": {
+      "final_url": "https://opencode.ai/product/browse",
+      "status": 200,
+      "title": "OpenCode | Browse, your real browser for coding agents",
+      "description": "Browse lets OpenCode and other MCP clients use your real browser. Agents drive background tabs with Playwright and hand logins and 2FA back to you.",
+      "og_image": "https://opencode.ai/og/product-browse-1528ffd6f6.png",
+      "favicon": "https://opencode.ai/favicon-96x96-v3.png",
+      "text_excerpt": "Skip to content NEW Create, install and share desktop plugins. See what's new in 2.2 [] Docs [] Product [] Data [] Console [] Models [] Subscriptions [] Enterprise Product | Browse Browse An MCP server and a Chromium extension that let your agents use your real browser, with your tabs, your logins and your extensions. They open and drive tabs with Playwright, take screenshots and record the screen, in background tabs grouped out of your way. When it's your turn, for a login, a 2FA prompt or a payment, they hand the tab back to you and continue once you click Continue. Add to Chrome (opens in a new tab) View source (opens in a new tab) Your real browser Chrome, Edge, Brave, Arc, Helium, Vivaldi, Opera and Chromium. Out of your way Agent tabs open in the background, in collapsed groups. Handoffs Do the login or 2FA step yourself, then click Continue. Lend a tab Click the toolbar button to hand an agent a tab you have open. Record and capture Screenshots, screen recordings and network traffic as a HAR. Any MCP client OpenCode, Claude Code, Cursor, Codex, Zed and many more. All your logins Agents use the sites you're already signed into. No keys, no setup. Allowlists Limit a session's tabs to the sites you name. Install Install the Chrome extension first. It walks you through the rest of the steps. To install the CLI directly (you should not need to do this), use any of these. curl curl -fsSL https://opencode.ai/browse/install | bash Copy curl command pwsh irm https://opencode.ai/browse/install.ps1 | iex Copy pwsh command npm npm install -g @opencode/browse && browse install Copy npm command bun bun add -g @opencode/browse && browse install Copy bun command More from Anomaly Hex On-device voice dictation for any app. Learn more (opens in a new tab) OpenTunnel Public HTTPS URLs for local apps. Learn more (opens in a new tab) OpenTUI A library for terminal user interfaces. Learn more (opens in a new tab) [ ] Community (opens in a new tab) [ ] Changelog [ ] Press [ ] Brand"
+    },
+    "verdict": {
+      "model": "jev-1.13.0",
+      "score": 2.84,
+      "category": "Developer Tools",
+      "category_confidence": 1.0
+    }
+  },
+  {
+    "canonical_url": "https://huggingface.co/moonshotai/Kimi-K3.1-Pro",
+    "url": "https://huggingface.co/moonshotai/Kimi-K3.1-Pro",
+    "found_at": "2026-11-08T11:55:15+00:00",
+    "sources": [
+      {
+        "name": "pinboard",
+        "title": "moonshotai/Kimi-K3.1-Pro · Hugging Face"
+      }
+    ],
+    "page": {
+      "final_url": "https://huggingface.co/moonshotai/Kimi-K3.1-Pro",
+      "status": 200,
+      "title": "moonshotai/Kimi-K3.1-Pro · Hugging Face",
+      "description": "Image-Text-to-Text model with 2.8T parameters. Download, explore files and run it on Hugging Face.",
+      "og_image": "https://cdn-thumbnails.huggingface.co/social-thumbnails/models/moonshotai/Kimi-K3.1-Pro.png",
+      "favicon": "https://huggingface.co/favicon.ico",
+      "text_excerpt": "Hugging Face Search models, datasets, users... ⌘K Models Datasets Spaces Buckets Docs Pricing Website Tasks HuggingChat Collections Languages Organizations Community Blog Posts Daily Papers Hardware Learn Discord Forum GitHub Solutions Team & Enterprise Hugging Face PRO Enterprise Support Inference Providers Inference Endpoints Storage Buckets Log In Sign Up moonshotai / Kimi-K3.1-Pro Like 1.68k Follow Moonshot AI 20.8k Image-Text-to-Text Transformers Safetensors kimi_k31 text-generation compressed-tensors conversational custom_code Eval Results 8-bit precision License: kimi-k3.1-pro Model card Files and versions xet Community 15 Deploy Copy to bucket Use this model Instructions to use moonshotai/Kimi-K3.1-Pro with libraries, inference providers, notebooks, and local apps. Follow these links to get started. Libraries Transformers How to use moonshotai/Kimi-K3.1-Pro with Transformers: # Use a pipeline as a high-level helper from transformers import pipeline pipe = pipeline(\"image-text-to-text\", model=\"moonshotai/Kimi-K3.1-Pro\", trust_remote_code=True) # pip install -U transformers accelerate # Load model directly from transformers import AutoModelForSeq2SeqLM model = AutoModelForSeq2SeqLM.from_pretrained(\"moonshotai/Kimi-K3.1-Pro\", trust_remote_code=True, device_map=\"auto\") Inference Inference Providers HuggingChat Notebooks Google Colab Kaggle Local Apps Settings vLLM How to use moonshotai/Kimi-K3.1-Pro with vLLM: Install from pip and serve model # Install vLLM from pip: pip install vllm # Start the vLLM server: vllm serve \"moonshotai/Kimi-K3.1-Pro\" # Call the server using curl (OpenAI-compatible API): curl -X POST \"http://localhost:8000/v1/chat/completions\" \\ -H \"Content-Type: application/json\" \\ --data '{ \"model\": \"moonshotai/Kimi-K3.1-Pro\", \"messages\": [ { \"role\": \"user\", \"content\": [ { \"type\": \"text\", \"text\": \"Describe this image in one sentence.\" }, { \"type\": \"image_url\", \"image_url\": { \"url\": \"https://cdn.britannica.com/61/93061-050-99147DCE/Statue-of-Liberty-"
+    },
+    "verdict": {
+      "model": "jev-1.13.0",
+      "score": 2.22,
+      "category": "Developer Tools",
+      "category_confidence": 0.9
+    }
+  },
+  {
+    "canonical_url": "https://apple.news/AAzB2sXDWT0idgKIXGc3HdA",
+    "url": "https://apple.news/AAzB2sXDWT0idgKIXGc3HdA",
+    "found_at": "2026-11-08T11:55:15+00:00",
+    "sources": [
+      {
+        "name": "pinboard",
+        "title": "‘We Did This for This Man?’ — The Atlantic"
+      }
+    ],
+    "page": {
+      "final_url": "https://apple.news/AAzB2sXDWT0idgKIXGc3HdA",
+      "status": 200,
+      "title": "‘We Did This for This Man?’ — The Atlantic",
+      "description": "The vindication of Never Trump conservatives",
+      "og_image": "https://c.apple.news/AgEXQUF6QjJzWERXVDBpZGdLSVhHYzNIZEEAMA",
+      "favicon": "https://apple.news/images/favicon.ico",
+      "text_excerpt": "Opening story… Click here if the story doesn’t open after a few seconds. Learn more about Apple News Privacy Policy Terms and Conditions Copyright © 2026 Apple Inc. All Rights Reserved."
+    },
+    "verdict": {
+      "model": "jev-1.13.0",
+      "score": 0.51,
+      "category": "Magazines, Newspapers & Newsletter",
+      "category_confidence": 0.51
+    }
+  },
+  {
+    "canonical_url": "https://www.noemamag.com/americans-are-losing-the-long-game/",
+    "url": "https://www.noemamag.com/americans-are-losing-the-long-game/",
+    "found_at": "2026-11-08T11:55:15+00:00",
+    "sources": [
+      {
+        "name": "pinboard",
+        "title": "Americans Are Losing The Long Game"
+      }
+    ],
+    "page": {
+      "final_url": "https://www.noemamag.com/americans-are-losing-the-long-game/",
+      "status": 200,
+      "title": "Americans Are Losing The Long Game | NOEMA",
+      "description": "How the United States abandoned the future.",
+      "og_image": "https://noemamag.imgix.net/2026/10/Revised-1.png?fit=crop&fm=png&h=628&ixlib=php-3.3.1&rect=0%2C516%2C946%2C495&w=1200&wpsize=noema-social-facebook&s=3a174227bf206498cbdec2a0fa3fe5ed",
+      "favicon": "https://www.noemamag.com/wp-content/uploads/2020/06/cropped-ms-icon-310x310-1-32x32.png",
+      "text_excerpt": "Skip to the content SUBSCRIBE Published by the Berggruen Institute Americans Are Losing The Long Game How the United States abandoned the future. Vartika Sharma for Noema Magazine. (Source image: Grey Geezer via Wikimedia.) ESSAYGEOPOLITICS & GLOBALIZATION BY SIMON CURTIS AND IAN KLAUS OCTOBER 6, 2026 X Bluesky Email LinkedIn Facebook Simon Curtis is an associate professor in International Relations at the University of Surrey, and a WISC Global Fellow at the Development Research Institute at New York University. Ian Klaus is the founding director of Carnegie Endowment for International Peace California Center. They are co-authors of “The Belt and Road City: Geopolitics, Urbanization, and China’s Search for a New International Order” (2024, Yale University Press). The application of power, especially for Great Powers, is an exercise in time. In an auspicious year — the 250th since its founding — the United States has looked back to its revolutionary past but has shown little indication of developing a clear vision for its future. And with little apparent inclination to do so, rarely has the country seemed more adrift in the flow of history. This comes at a bad time. China’s rise has given the United States a strategic competitor intent on building its own version of tomorrow. As the Trump administration uses its second term to try to flex the sinews of American might, the sources of American power have never seemed less well understood. The sense of purpose and destiny, and the vision and confidence of previous generations, have been replaced by confusion, division and a loss of moral clarity. Many truths once held to be self-evident are now questioned. Perhaps what has been most keenly lost is the sense that the wellsprings of national strength come from thinking intergenerationally and harnessing the power of the future, both in terms of planning and rhetoric. But this is the wrong moment to abandon future generations. China has been preparing for decades to rival"
+    },
+    "verdict": {
+      "model": "jev-1.13.0",
+      "score": 1.03,
+      "category": "Magazines, Newspapers & Newsletter",
+      "category_confidence": 0.96
+    }
+  },
+  {
+    "canonical_url": "https://palettevault.github.io/blog/understanding-css-colors/",
+    "url": "https://palettevault.github.io/blog/understanding-css-colors/",
+    "found_at": "2026-11-08T11:55:15+00:00",
+    "sources": [
+      {
+        "name": "pinboard",
+        "title": "How to Read HEX Colors and Build Better CSS Palettes"
+      }
+    ],
+    "page": {
+      "final_url": "https://palettevault.github.io/blog/understanding-css-colors/",
+      "status": 200,
+      "title": "How to Read HEX Colors and Build Better CSS Palettes, Palette Vault",
+      "description": "Learn how HEX colors work, compare HSL and OKLCH, and build consistent, accessible CSS palettes with modern color functions.",
+      "og_image": "https://palettevault.github.io/_astro/understanding-css-colors-hex-rgb-oklch.uDaJskLP.png",
+      "favicon": "https://palettevault.github.io/favicon.ico",
+      "text_excerpt": "Skip to content Palette Vault New Popular Random Collection Tools Add to Chrome Home / Blog / How to Read HEX Colors and Build Better CSS Palettes How to Read HEX Colors and Build Better CSS Palettes November 8, 2026 · HEX, CSS, RGB, HSL, OKLCH, Color-Theory ON THIS PAGE Understanding Colors in CSS: From HEX Codes to OKLCH 1. Understanding HEX Colors 2. How to Read HEX Codes Without a Color Picker 3. Short HEX Notation and Transparency 4. Why RGB Isn’t Always the Best Tool 5. Working with HSL Colors 6. Why OKLCH Is Useful for Consistent Palettes 7. Mixing Colors Directly in CSS 8. Relative Colors: Deriving New Shades 9. Text Colors and Accessibility 10. Better Link Underlines with CSS 11. Warm and Cool Dark Themes 12. Building a Color System with CSS Variables 13. Common Mistakes When Building Color Palettes 14. Which CSS Color Format Should You Use? Final Thoughts Understanding Colors in CSS: From HEX Codes to OKLCH You can spend years writing CSS without thinking much about the numbers behind its colors. Open a color picker, find a shade that looks right, copy the HEX code, and move on. That works until you need to make a color slightly warmer, create a consistent palette, or figure out why two similar-looking colors have very different contrast. Understanding how colors are represented makes those decisions easier. Take #3B82F6. At first glance, it’s just six hexadecimal characters. But those characters tell us exactly how much red, green, and blue contribute to the color. HEX is useful, but modern CSS offers much more. We can work with HSL, build perceptually oriented palettes using OKLCH, mix colors directly in the browser, and derive shades from existing CSS variables. Let’s start with the numbers. 1. Understanding HEX Colors The familiar six-digit HEX notation is a compact way of expressing RGB channel values. color: #3B82F6; The code consists of three pairs: 3B represents red, 82 represents green, and F6 represents blue. Each pair is a hexadecimal number bet"
+    },
+    "verdict": {
+      "model": "jev-1.13.0",
+      "score": 2.61,
+      "category": "Blog",
+      "category_confidence": 0.59
+    }
+  },
+  {
+    "canonical_url": "https://nonfunctional.substack.com/p/passkeys-are-a-trap-do-not-use-them?triedRedirect=true",
+    "url": "https://nonfunctional.substack.com/p/passkeys-are-a-trap-do-not-use-them?triedRedirect=true",
+    "found_at": "2026-11-08T11:55:15+00:00",
+    "sources": [
+      {
+        "name": "pinboard",
+        "title": "(1) Passkeys are a trap. Do not use them. - by The Hack"
+      }
+    ],
+    "page": {
+      "final_url": "https://nonfunctional.substack.com/p/passkeys-are-a-trap-do-not-use-them?triedRedirect=true",
+      "status": 403,
+      "title": "Just a moment...",
+      "description": "",
+      "og_image": "",
+      "favicon": "https://nonfunctional.substack.com/favicon.ico",
+      "text_excerpt": "nonfunctional.substack.com Performing security verification This website uses a security service to protect against malicious bots. This page is displayed while the website verifies you are not a bot. Ray ID: a57463b86a203e6c Performance and Security by Cloudflare Privacy"
+    },
+    "verdict": {
+      "model": "jev-1.13.0",
+      "score": 0.24,
+      "category": "Blog",
+      "category_confidence": 0.41
+    }
+  },
+  {
+    "canonical_url": "https://apple.news/AnWM14ia1TAu4gg2wKG8r1Q",
+    "url": "https://apple.news/AnWM14ia1TAu4gg2wKG8r1Q",
+    "found_at": "2026-11-08T11:55:15+00:00",
+    "sources": [
+      {
+        "name": "pinboard",
+        "title": "A Good Night for the Christian Faith � The Atlantic"
+      }
+    ],
+    "page": {
+      "final_url": "https://apple.news/AnWM14ia1TAu4gg2wKG8r1Q",
+      "status": 200,
+      "title": "A Good Night for the Christian Faith — The Atlantic",
+      "description": "A pair of victories may do much to help the Democratic Party—and even more for the evangelical world.",
+      "og_image": "https://c.apple.news/AgEXQW5XTTE0aWExVEF1NGdnMndLRzhyMVEAMA",
+      "favicon": "https://apple.news/images/favicon.ico",
+      "text_excerpt": "Opening story… Click here if the story doesn’t open after a few seconds. Learn more about Apple News Privacy Policy Terms and Conditions Copyright © 2026 Apple Inc. All Rights Reserved."
+    },
+    "verdict": {
+      "model": "jev-1.13.0",
+      "score": 0.51,
+      "category": "News",
+      "category_confidence": 0.53
+    }
+  },
+  {
+    "canonical_url": "https://stepshots.com/css-feature-clips",
+    "url": "https://stepshots.com/css-feature-clips",
+    "found_at": "2026-11-08T11:55:15+00:00",
+    "sources": [
+      {
+        "name": "pinboard",
+        "title": "CSS Feature Clips: Looping Product Demos Without Video"
+      }
+    ],
+    "page": {
+      "final_url": "https://stepshots.com/css-feature-clips",
+      "status": 200,
+      "title": "CSS Feature Clips: Looping Product Demos Without Video",
+      "description": "Replace homepage GIFs and videos with looping product demos in plain HTML and CSS. Live examples, the source, and a copy-paste AI prompt for any framework.",
+      "og_image": "https://stepshots.com/og-css-feature-clips.png",
+      "favicon": "https://stepshots.com/assets/logo-dxh1fdc0d4b6a985e.svg",
+      "text_excerpt": "Stepshots Docs CLI Extension Pricing Sign In FREE TECHNIQUE AND PROMPT CSS feature clips: product demos without video A clip is a 10-second loop of simplified UI in plain HTML and CSS. It stays sharp at any size, follows your theme, plays before any JavaScript loads, and you edit it instead of re-recording it. It works in any framework. Get the prompt $ stepshots record signup-flow Using config: /home/ada/acme/stepshots.config.json Recording: Sign up (signup-flow) Created: output/signup-flow.stepshot (4 steps) Next: upload to your dashboard with stepshots upload output/signup-flow.stepshot More examples These are real Stepshots flows with sample data. All three clips on this page share one stylesheet of 3.3 KB gzipped, and none of them use JavaScript. Select Hotspot Highlight Blur Zoom Arrow Popup Saved Save Acme settings Workspace Acme Inc API key acme_7f3k92hd81 acme_7f3k92hd81 Plan Pro Rotate your key from this page Tool state, two overlays, and a label that flips between Saved and Save. Analytics Acme onboarding 7d 30d 90d Total Views 412 1,284 Unique Visitors 268 873 Completion Rate 58% 64% Views Over Time Numbers swap on a click, and an SVG line draws itself. The prompt Paste it into your coding agent and fill in the feature. Copy prompt Build a looping product demo clip for my marketing page as mock UI in plain HTML and CSS keyframes. No video, no GIF, no JavaScript. The feature to show: [describe one short flow, e.g. \"user invites a teammate and the seat count goes up\"] Rules: 1. Show only what the product does. Read the real UI first and copy its labels exactly. Where the product produces output, run it and copy that. Simplify, but never invent features, buttons or results. Use a fictional company such as Acme for sample data. 2. Write the story as 3 or 4 beats on a 10-second, 0-100% timeline. Leave 3% at the start and 4% at the end for a loop fade on the clip body. 3. Base styles are the last frame. Without keyframes every element must already look finishe"
+    },
+    "verdict": {
+      "model": "jev-1.13.0",
+      "score": 2.32,
+      "category": "Developer Tools",
+      "category_confidence": 0.39
+    }
+  },
+  {
+    "canonical_url": "https://www.youtube.com/watch?v=eqB1Cp62y8w",
+    "url": "https://www.youtube.com/watch?v=eqB1Cp62y8w",
+    "found_at": "2026-11-08T11:55:15+00:00",
+    "sources": [
+      {
+        "name": "pinboard",
+        "title": "My Website Has Almost Nothing Left to Patch - YouTube"
+      }
+    ],
+    "page": {
+      "final_url": "https://www.youtube.com/watch?v=eqB1Cp62y8w",
+      "status": 200,
+      "title": "My Website Has Almost Nothing Left to Patch - YouTube",
+      "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+      "og_image": "",
+      "favicon": "https://www.youtube.com/s/desktop/4e57be2c/img/favicon.ico",
+      "text_excerpt": "Skip navigation Sign in Sign in to confirm you’re not a bot This helps protect our community Sign in Learn more My Website Has Almost Nothing Left to Patch Lawrence Systems 407K subscribers Join Subscribe 1.1K 60K views 4d ago I replaced WordPress with Hugo, Caddy & CrowdSec, and my website has almost nothing left to patch. Here is how a static site generator works, why I picked Caddy as the web server, and how little CrowdSec has to do now. … more Shop the Lawrence Systems store From Lawrence Systems Ethernet T568A - Sticker Sheet Ethernet T568A - Magnet Home Cloud - Sticker Home Cloud - Coaster This is ART - Glossed Cork Coaster Pourgres v1.18 Mug Comments 31:59 My Self Hosted Apps 2026 Privacy Stack: Big Tech Alternatives (Immich, Ollama & More) Lawrence Systems 170K 8mo ago 31:03 I investigated LG's Wiretapping Liability with GamersNexus LegalEagle 1.2M 2w ago 44:25 New What Do You Keep When You Cancel Your AI Subscription? | CyberLore Reaction CyberLore 124 6d ago 35:25 New 30 Years of KDE, Epic Games brings Fortnite & Anti-Cheat on Linux, What’s New in Linux Kernel 7.3 Michael Tunnell 60K 3d ago 31:33 {Root Access} [03] AI Found a 14-Year-Old Hole in 70% of the Internet. Who Found It First? Systemic 12 13d ago 27:21 New Affinity comes to Linux, Proton explains recent issues, macOS apps run on Linux | Linux Weekly News The Linux Experiment 102K 1d ago 56:21 New Russia is Finishing Europe | Stas Krapivnik Neutrality Studies 10K 2h ago 23:01 New Why does a loose gas cap turn on the check engine light? Technology Connections 1.1M 4d ago 27:30 What Do You Keep When You Cancel Your AI Subscription? Lawrence Systems 58K 2w ago 9:37 How to Make an Anime Series with AI | Part 3: Setup, Tools and Costs H3Labs 60 2w ago 13:05 New SSH situation is insane Low Level 865K 1d ago 19:35 Everything I Self Host in 2026: The Full List Lawrence Systems 223K 1mo ago 27:11 I Built My Fake Employee a Secure Internal Portal Cinder Ridge Labs 336 2w ago 1:28:39 Brian Kernighan: Inside "
+    },
+    "verdict": {
+      "model": "jev-1.13.0",
+      "score": 1.25,
+      "category": "Photo & Video",
+      "category_confidence": 0.36
+    }
+  },
+  {
+    "canonical_url": "https://openstick.org/",
+    "url": "https://openstick.org/",
+    "found_at": "2026-11-08T11:55:15+00:00",
+    "sources": [
+      {
+        "name": "pinboard",
+        "title": "OpenStick (Open Stick) — 1-Click Debian Linux for MSM8916 4G USB Modems | OpenStick Community"
+      }
+    ],
+    "page": {
+      "final_url": "https://openstick.org/",
+      "status": 200,
+      "title": "OpenStick (Open Stick) — 1-Click Debian Linux for MSM8916 4G USB Modems",
+      "description": "The official OpenStick (Open Stick) community guide & 1-Click Debian Linux installer for Qualcomm MSM8916 4G LTE USB modems (UZ801, UFI003, UFI001B/C, HMUF02-V05, SP970).",
+      "og_image": "https://openstick.org/og-image.png",
+      "favicon": "https://openstick.org/favicon-96x96.png",
+      "text_excerpt": "Skip to content OpenStick Community Search Ctrl K GitHub Telegram Select theme Dark Light Auto OpenStick (Open Stick) — 1-Click Debian Linux for MSM8916 4G USB Modems Turn mass-produced $5–$20 4G LTE USB modems (UZ801, UFI003, UFI001B/C, HMUF02-V05) into powerful, quad-core ARM64 Debian Linux computers in 1 click. 1-Click OpenStick Installer Join Telegram Chat Where to Buy Quick Start Firmware & GitHub Hub Why OpenStick & MSM8916? Section titled “Why OpenStick & MSM8916?” 1-Click Automated Installer Flash your stick without terminal hassle! Double-click launchers for Windows (run.bat), macOS (run.command), and Linux (run.sh) automate partition backup, IMEI preservation, and Debian flashing. 👉 Download openstick-installer.zip Cortex-A53 Quad-Core Power Powered by the Qualcomm Snapdragon 410 (MSM8916) with 4x ARM Cortex-A53 64-bit cores @ 1.2 GHz, 512 MB – 1 GB LPDDR3 RAM, and 4 GB – 8 GB onboard high-speed eMMC storage. The $7 Pi Zero 2 W Alternative When electronics shortages hit makers during the 2025–2026 AI boom, standard single-board computers were scalped or backordered. MSM8916 wingles became the premier accessible Linux SBC. Integrated 4G LTE & Wi-Fi Unlike bare SBCs that require expensive cellular HATs, OpenStick dongles feature an onboard 4G LTE Cat 4 baseband modem, 2.4 GHz 802.11b/g/n Wi-Fi, and Bluetooth 4.0. Mainline Linux & OpenWrt Run full Debian GNU/Linux, postmarketOS (mainline kernel), or lightweight OpenWrt to create pocket travel routers, VPN endpoints, SMS gateways, and local servers. Self-Contained Thumb Drive No fragile microSD cards, no bare circuit boards, and no extra cables required. Plug straight into any 5V USB-A power supply or computer port. Live Telegram Community Connect with other makers at t.me/openstick_org. Share PCB macro photos for board identification, get real-time flashing/EDL recovery help, and showcase your builds! 100% Community Driven Every single article on this website has an “Edit this page” button. Add your own hardw"
+    },
+    "verdict": {
+      "model": "jev-1.13.0",
+      "score": 3.1,
+      "category": "Technology",
+      "category_confidence": 0.48
+    },
+    "screenshot": "shots/2026/11-08/openstick-org.jpg"
+  },
+  {
+    "canonical_url": "https://religiouslyblonde.substack.com/p/everything-we-bury-can-grow-flowers",
+    "url": "https://religiouslyblonde.substack.com/p/everything-we-bury-can-grow-flowers",
+    "found_at": "2026-11-08T11:55:15+00:00",
+    "sources": [
+      {
+        "name": "pinboard",
+        "title": "(2) Everything We Bury Can Grow Flowers - by Phillip Picardi"
+      }
+    ],
+    "page": {
+      "final_url": "https://religiouslyblonde.substack.com/p/everything-we-bury-can-grow-flowers",
+      "status": 403,
+      "title": "Just a moment...",
+      "description": "",
+      "og_image": "",
+      "favicon": "https://religiouslyblonde.substack.com/favicon.ico",
+      "text_excerpt": "religiouslyblonde.substack.com Performing security verification This website uses a security service to protect against malicious bots. This page is displayed while the website verifies you are not a bot. Ray ID: a57463d128deabe9 Performance and Security by Cloudflare Privacy"
+    },
+    "verdict": {
+      "model": "jev-1.13.0",
+      "score": 0.27,
+      "category": "Blog",
+      "category_confidence": 0.69
+    }
+  },
+  {
+    "canonical_url": "https://www.cato.org/blog/it-was-failed-election-meddling-not-absence-election-meddling",
+    "url": "https://www.cato.org/blog/it-was-failed-election-meddling-not-absence-election-meddling",
+    "found_at": "2026-11-08T11:55:15+00:00",
+    "sources": [
+      {
+        "name": "pinboard",
+        "title": "It Was Failed Election Meddling, Not Absence of Election Meddling | Cato at Liberty Blog"
+      }
+    ],
+    "page": {
+      "final_url": "https://www.cato.org/blog/it-was-failed-election-meddling-not-absence-election-meddling",
+      "status": 403,
+      "title": "",
+      "description": "",
+      "og_image": "",
+      "favicon": "https://www.cato.org/favicon.ico",
+      "text_excerpt": ""
+    },
+    "verdict": {
+      "model": "jev-1.13.0",
+      "score": 0.78,
+      "category": "Blog",
+      "category_confidence": 0.81
+    }
+  },
+  {
+    "canonical_url": "https://acid.vegas/blog/pushing-the-limits-with-getaddrinfo/",
+    "url": "https://acid.vegas/blog/pushing-the-limits-with-getaddrinfo/",
+    "found_at": "2026-11-08T11:55:15+00:00",
+    "sources": [
+      {
+        "name": "pinboard",
+        "title": "acidvegas x blog - pushing the limits with getaddrinfo"
+      }
+    ],
+    "page": {
+      "final_url": "https://acid.vegas/blog/pushing-the-limits-with-getaddrinfo/",
+      "status": 200,
+      "title": "Pushing the Limits with getaddrinfo",
+      "description": "An IPv4 address is just a 32-bit number, and glibc will accept it in forms you would never recognize. ⁰𝑋⁴5．🯰３₆。⁵₂₈𝟲🯶 is one of them. Anything that judges an address by how it looks can be walked around.",
+      "og_image": "https://acid.vegas/blog/pushing-the-limits-with-getaddrinfo/social-card.png",
+      "favicon": "https://acid.vegas/favicon.ico",
+      "text_excerpt": "ACIDVEGAS most dangerous motherfuck x come get some x blog x Pushing the Limits with getaddrinfo 2026-11-04 An IPv4 address is just a 32-bit number, and glibc will accept it in forms you would never recognize. ⁰𝑋⁴5．🯰３₆。⁵₂₈𝟲🯶 is one of them. Anything that judges an address by how it looks can be walked around. That is a real ping, to a real box, and it got a real reply. The thing after ping -c1 is a mix of LCD segmented digits, superscripts, subscripts, circled digits, a double-struck X and math-alphabet digits, with nine invisible characters that my terminal drew as white boxes because it had no idea what else to do with them. Paste it into a terminal and it looks like line noise. Hand it to getaddrinfo() and it is 69.30.206.130. Every example in this post points at the same server, 69.30.206.130. It answers ping, and it serves exactly one page, /poc.html, on its bare IP so you can prove the HTTP side works too. Every screenshot is real output, captured on Ubuntu 24.04 with glibc 2.39, iputils 20240117 and curl 8.5.0. An Address Is Just a Number Start with the boring part, which is already weirder than most people expect. An IPv4 address is a 32-bit unsigned integer. The dotted quad is just how we have agreed to write it down. The parser that turns text into that integer is inet_aton(), and its rules date back to 4.2BSD. In glibc it lives in resolv/inet_addr.c, and each part is read like this: /* Collect number up to ``.''. Values are specified as for C: 0x=hex, 0=octal, isdigit=decimal. */ ... unsigned long ul = __strtoul_internal (cp, &endp, 0, 0); Base 0 means strtoul() picks the base from the prefix: 0x is hex, a leading 0 is octal, anything else is decimal. Each dotted part gets its own prefix, so you can mix bases inside one address. Then there is the part count: /* Internet format: a.b.c.d a.b.c (with c treated as 16 bits) a.b (with b treated as 24 bits). */ One part is the whole 32-bit number. Two parts are an 8-bit network and a 24-bit host. Three parts are"
+    },
+    "verdict": {
+      "model": "jev-1.13.0",
+      "score": 2.85,
+      "category": "Software Engineering",
+      "category_confidence": 0.64
+    }
+  },
+  {
+    "canonical_url": "https://unsung.aresluna.org/crammed-and-dangerous/",
+    "url": "https://unsung.aresluna.org/crammed-and-dangerous/",
+    "found_at": "2026-11-08T11:55:15+00:00",
+    "sources": [
+      {
+        "name": "pinboard",
+        "title": "Crammed and dangerous – Unsung"
+      }
+    ],
+    "page": {
+      "final_url": "https://unsung.aresluna.org/crammed-and-dangerous/",
+      "status": 200,
+      "title": "Crammed and dangerous – Unsung",
+      "description": "A blog about software craft and quality",
+      "og_image": "https://unsung.aresluna.org/_media/crammed-and-dangerous/ogimage.jpg",
+      "favicon": "https://unsung.aresluna.org/crammed-and-dangerous/_unsung/favicon-dark.png",
+      "text_excerpt": "SOFTWARE CRAFT AND QUALITY Search this site Results will appear as you type Clear HomeNewsletter + RSSAbout + ContactRandom post Crammed and dangerous This is what happens when I search through photos on my iPhone: I’ll repeat and emphasize the last frame below, because it’s a resting state that doesn’t offer much rest. I am happy with the train results and I just want to look at them in peace – but now there’s a pop-up in the way. What would you do to get rid of it? Trying to swipe it away doesn’t work: Tapping on the available largest surface – the photos – makes the photo you tap on take over the entire screen, which doesn’t help: Tapping on the input field replaces it with another restless pop-up: Tapping on X clears the search, so that’s not good: Tapping on the other X just leaves the search altogether: Tapping on the keyboard continues typing and adds to “train,” in effect going elsewhere, too: Noticing that one of the entries in the pop-up is “train” and tapping on it works – sort of – but it replaces the input field with a token, and slightly adjusts search results, which are both worrisome in their own way: Okay, there are three answers. None of them feels great. One is to drag the photo chute down and then up: While I sometimes can enjoy the kind of interface action that is effectively “unplug it and plug it back again,” here it doesn’t feel natural, and the space to perform is limited, too. And speaking of limited space… the other solution is to tap on one of the few small areas that are actually truly inactive – the Search header, or the Top Results: Lastly, I believe the most appropriate answer is pressing the blue loupe key (effectively the equivalent of Enter): Why doesn’t this path feel intuitive? Because the results already appear as I type. The rest of the flow itself suggests Enter isn’t necessary – and it’s not as natural for me to think of Enter as solely a “keyboard hider.” Despite both human factors and computers starting as military projects"
+    },
+    "verdict": {
+      "model": "jev-1.13.0",
+      "score": 1.32,
+      "category": "Blog",
+      "category_confidence": 0.76
+    }
+  },
+  {
+    "canonical_url": "https://blog.arpe.io/fastbcp-1-6-export-sql-server-backup-to-parquet",
+    "url": "https://blog.arpe.io/fastbcp-1-6-export-sql-server-backup-to-parquet",
+    "found_at": "2026-11-08T11:55:15+00:00",
+    "sources": [
+      {
+        "name": "pinboard",
+        "title": "FastBCP 1.6: Export Tables from SQL Server Backups | Ingestion Blog - ARPEIO"
+      }
+    ],
+    "page": {
+      "final_url": "https://blog.arpe.io/fastbcp-1-6-export-sql-server-backup-to-parquet",
+      "status": 200,
+      "title": "FastBCP 1.6: Export Tables from SQL Server Backups | Ingestion Blog - ARPEIO",
+      "description": "FastBCP 1.6 reads tables from SQL Server .bak files, full and differential, encrypted or not, with no restore and no instance, and writes Parquet that FastTransfer loads into any SQL Server version.",
+      "og_image": "https://blog.arpe.io/img/article-preview/fastbcp-1-6-backup-preview.png",
+      "favicon": "https://blog.arpe.io/img/favicon.ico",
+      "text_excerpt": "Skip to main content Arpe.io FastBCP 1.6: Export Tables from SQL Server Backups Romain Ferraton, ARPE.IO CEO 2026-11-01 · 27 min · Release · FastBCP TL;DR FastBCP 1.6 exports a table from SQL Server backups to Parquet, with no restore and no SQL Server instance. Since 1.6.6 it reads encrypted and TDE backups, and since 1.6.7 the latest version of a table from a full backup and its differential. On a 320 GB production backup, the first open took 2 min 29 s and later ones 0.3 s. With 24 threads, a 175-million-row table then went to Parquet in 29.6 seconds. FastTransfer can load the files into SQL Server, on any version, or into PostgreSQL. FastBCP 1.6 reads a table straight out of a SQL Server backup. You point it at your .bak files, name a table, and get Parquet files. There is no restore and no SQL Server instance. Parquet is the only output for now. That is enough to close the loop, though: FastTransfer loads those files into the SQL Server instance of your choice, and that instance can run an older version than the one that took the backup. RESTORE cannot do that. UPDATED FOR FASTBCP 1.6.7 This article first covered full backups. Two limits it described are gone: encrypted backups are read since 1.6.6, and differential backups since 1.6.7. The performance figures below were measured before these versions. A first export​ The new connection type is backup_mssql. --server is the directory that holds the backups. --database is the backup file, or a pattern that matches the files (tpch_*.bak for a striped backup). The files can also be listed, separated by ;. Windows Linux .\\FastBCP.exe ` --connectiontype backup_mssql ` --server \"D:\\Backups\\MSSQL\" ` --database \"tpch_full.bak\" ` --sourceschema \"dbo\" ` --sourcetable \"orders\" ` --directory \"D:\\export\\orders\" ` --fileoutput \"orders.parquet\" ` --parallelmethod Physical ` --paralleldegree 8 With a backup as the source, --parallelmethod Physical cuts the table into as many slices as --paralleldegree. Each thread reads its ow"
+    },
+    "verdict": {
+      "model": "jev-1.13.0",
+      "score": 3.16,
+      "category": "Developer Tools",
+      "category_confidence": 0.66
+    },
+    "screenshot": "shots/2026/11-08/blog-arpe-io-fastbcp-1-6-export-sql-server-backup-to-parquet.jpg"
+  },
+  {
+    "canonical_url": "https://www.theideasletter.org/essay/the-poison-and-the-cure/",
+    "url": "https://www.theideasletter.org/essay/the-poison-and-the-cure/",
+    "found_at": "2026-11-08T11:55:15+00:00",
+    "sources": [
+      {
+        "name": "pinboard",
+        "title": "The Poison and the Cure"
+      }
+    ],
+    "page": {
+      "final_url": "https://www.theideasletter.org/essay/the-poison-and-the-cure/",
+      "status": 200,
+      "title": "The Poison and the Cure",
+      "description": "In a review of two new books by Emily Eakin and Onur Erdur, Seaton revisits how French Theory transformed the humanities and captivated generations of scholars, particularly at universities in…",
+      "og_image": "https://www.theideasletter.org/wp-content/uploads/2026/10/20261029-aime-paris-sartre-focault-3000-300x193.jpg",
+      "favicon": "https://www.theideasletter.org/favicon-48x48.png",
+      "text_excerpt": "We value your privacy We and our 1037 partners use cookies and other tracking technologies to improve your experience on our website. We may store and/or access information on a device and process personal data, such as your IP address and browsing data, for personalised advertising and content, advertising and content measurement, audience research and services development. Additionally, we may utilize precise geolocation data and identification through device scanning. Please note that your choices will apply only to this website. Once you give consent, a floating button will appear at the bottom of your screen, allowing you to change or withdraw your consent at any time. We respect your choices and are committed to providing you with a transparent and secure browsing experience. Cookie Policy Preferences Reject All Accept All Skip navigation SUBSCRIBE ESSAYS ISSUES ABOUT The Poison and the Cure THE LIFE AND AFTERLIFE OF FRENCH THEORY MICHEL FOUCAULT SPEAKS INTO A BULLHORN NEXT TO JEAN-PAUL SARTRE DURING A DEMONSTRATION IN PARIS ON NOVEMBER 27, 1971, FRANCE. © GÉRARD AIME/GAMMA-RAPHO/GETTY LOLA SEATON OCTOBER 29, 2026 | THE IDEAS LETTER 75 The Frenchmen: Or, My Life in Theory by Emily Eakin School of the South: The Colonial Roots of French Theory by Onur Erdur In 2005, Alain Badiou argued that in the second half of the 20th century, there was a “French philosophical moment” comparable to the peaks of classical Greece and Enlightenment Germany. Badiou was not an impartial observer—he described himself as perhaps the era’s “last representative”—yet no one would seriously dispute that les trente glorieuses produced a blaze of intellectual activity that radiated around the world, transforming not only academic study but the wider cultural atmosphere. There, however, consensus stops. LISTEN TO THIS ESSAY Was this “moment” purely, or even primarily, a philosophical one? It was born with an anthropologist, Claude Lévi-Strauss, borrowing a framework from linguistics, and "
+    },
+    "verdict": {
+      "model": "jev-1.13.0",
+      "score": 1.3,
+      "category": "Magazines, Newspapers & Newsletter",
+      "category_confidence": 0.82
+    }
+  },
+  {
+    "canonical_url": "https://arxiv.org/abs/2611.05417",
+    "url": "https://arxiv.org/abs/2611.05417",
+    "found_at": "2026-11-08T11:55:15+00:00",
+    "sources": [
+      {
+        "name": "pinboard",
+        "title": "[2611.05417] Organizing Intelligence"
+      }
+    ],
+    "page": {
+      "final_url": "https://arxiv.org/abs/2611.05417",
+      "status": 200,
+      "title": "Organizing Intelligence",
+      "description": "When will advances in AI lead to economic transformation? We develop a model of how intelligence, the ability to achieve goals, matters for organizations, the key unit of economic production. Agents (human or AI) with multidimensional capabilities sort endogenously into competing firms. A firm's productivity depends on its agents' capabilities; we distinguish competence, which shifts productivity levels, from coordination, which governs how productivity scales with size. Two differences between AI and humans drive transformation: AI expertise is reproducible while humans' are in fixed supply, and AIs may not face the same human limits on coordination. We analyze how equilibrium market structure, productivity, employment, and wages evolve as AI capabilities improve. When AI is more capable than the average human, organizations of complementary humans can nonetheless outperform AI. Increases in AI competence can change the composition of workers within firms and decrease firm size. As AI coordination improves, however, this can break the Coasean ceiling on firm size and the market structure undergoes a phase transition toward large, concentrated AI-heavy firms. Changes in human employment are gradual when AI displaces workers within mixed human-AI firms, or sudden when AI firms outcompete human firms. We decompose wage changes into a technology effect, which changes the value of humans within existing firms, and a reorganization effect as firms adjust size and composition. Reorganization can reverse the technology effect on wages.",
+      "og_image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
+      "favicon": "https://arxiv.org/static/browse/0.3.4/images/icons/apple-touch-icon.png",
+      "text_excerpt": "Skip to main content Search Submit Donate Log in Economics > Theoretical Economics [Submitted on 31 Oct 2026] Organizing Intelligence Alex Imas, Andrew Koh, Shane Legg When will advances in AI lead to economic transformation? We develop a model of how intelligence, the ability to achieve goals, matters for organizations, the key unit of economic production. Agents (human or AI) with multidimensional capabilities sort endogenously into competing firms. A firm's productivity depends on its agents' capabilities; we distinguish competence, which shifts productivity levels, from coordination, which governs how productivity scales with size. Two differences between AI and humans drive transformation: AI expertise is reproducible while humans' are in fixed supply, and AIs may not face the same human limits on coordination. We analyze how equilibrium market structure, productivity, employment, and wages evolve as AI capabilities improve. When AI is more capable than the average human, organizations of complementary humans can nonetheless outperform AI. Increases in AI competence can change the composition of workers within firms and decrease firm size. As AI coordination improves, however, this can break the Coasean ceiling on firm size and the market structure undergoes a phase transition toward large, concentrated AI-heavy firms. Changes in human employment are gradual when AI displaces workers within mixed human-AI firms, or sudden when AI firms outcompete human firms. We decompose wage changes into a technology effect, which changes the value of humans within existing firms, and a reorganization effect as firms adjust size and composition. Reorganization can reverse the technology effect on wages. Subjects: Theoretical Economics (econ.TH) Cite as: arXiv:2611.05417 [econ.TH] (or arXiv:2611.05417v1 [econ.TH] for this version) https://doi.org/10.48550/arXiv.2611.05417 Focus to learn more Submission history From: Andrew Koh [view email] [v1] Sat, 31 Oct 2026 18:04:27 UTC (3"
+    },
+    "verdict": {
+      "model": "jev-1.13.0",
+      "score": 2.3,
+      "category": "Research",
+      "category_confidence": 0.99
+    }
+  },
+  {
+    "canonical_url": "https://www.youtube.com/watch?v=f2GZtWuUPl0",
+    "url": "https://www.youtube.com/watch?v=f2GZtWuUPl0",
+    "found_at": "2026-11-08T11:55:15+00:00",
+    "sources": [
+      {
+        "name": "pinboard",
+        "title": "- YouTube"
+      }
+    ],
+    "page": {
+      "final_url": "https://www.youtube.com/watch?v=f2GZtWuUPl0",
+      "status": 200,
+      "title": "MacBook PROLED: I Swore I’d Never Touch Screen - YouTube",
+      "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+      "og_image": "",
+      "favicon": "https://www.youtube.com/s/desktop/4e57be2c/img/favicon.ico",
+      "text_excerpt": "Skip navigation Sign in to confirm you’re not a bot This helps protect our community Sign in Learn more MacBook PROLED: I Swore I’d Never Touch Screen Full Stack Creator and Tyler Stalman Subscribe 177 20K views 2d ago Full Stack Creator John Gruber joins Tyler and David to talk about Apple’s first touchscreen MacBook Pro, what touch and pen input could mean for creative work, and the display technology behind CMF 2026. They also get into photography, the character of the Ricoh GR, and Chromagraph Camera—the new iPhone app connected to filmmaker Rian Johnson and cinematographer Steve Yedlin. … more 55:05 iPhone 18 Pro: What camera reviews missed Full Stack Creator and Tyler Stalman 53K 1mo ago 1:01:21 We Ranked the Most Hyped EDC Cameras Full Stack Creator and Tyler Stalman 210K 5mo ago 33:55 New iPhone Duo Deep Dive: Is Apple’s First Foldable Worth $1,999? | camelCasePodcast camelCasePodcast 18 2d ago 1:01:32 New Why Rian Johnson made a photo app | The Vergecast The Verge 54K 3d ago 1:43:19 New MacBook Pro PROLED Hands-On, Your Apple Watch is Listening, Siri AI Gets Superpowers Primary Technology 3.8K 2d ago 1:01:40 New 🍎✨Siri on the Mac: How to Use the New Siri AI in macOS 27 The MacWhisperer 6.6K Streamed 3d ago 34:52 New Mac Mini and Studio: Crazy upgrades for creators Full Stack Creator and Tyler Stalman 58K 2mo ago 26:01 New Apple Really Does it Better - MacBook Pro with PROLED XDR ShortCircuit 601K 2d ago"
+    },
+    "verdict": {
+      "model": "jev-1.13.0",
+      "score": 0.7,
+      "category": "Photo & Video",
+      "category_confidence": 0.5
+    }
+  },
+  {
+    "canonical_url": "https://worksinprogress.co/issue/did-medieval-people-love-their-children/",
+    "url": "https://worksinprogress.co/issue/did-medieval-people-love-their-children/",
+    "found_at": "2026-11-08T11:55:15+00:00",
+    "sources": [
+      {
+        "name": "pinboard",
+        "title": "Did medieval people love their children?  - Works in Progress Magazine"
+      }
+    ],
+    "page": {
+      "final_url": "https://worksinprogress.co/issue/did-medieval-people-love-their-children/",
+      "status": 200,
+      "title": "Did medieval people love their children?  - Works in Progress Magazine",
+      "description": "Is it really plausible that children survived the hardship of medieval life without devoted parents?",
+      "og_image": "https://worksinprogress.co/wip-image/uploads/2026/07/Medival_Children_Sharecard.jpg",
+      "favicon": "https://worksinprogress.co/favicon.svg",
+      "text_excerpt": "Cookie banners are ugly, annoying, and make the internet worse. Unfortunately, we have to have one because of EU law. Please click ‘Accept all’ to help us understand where our readers are finding us so we can reach more people. Thank you for reading! Read Cookie Policy Accept all Manage Deny Notes Newsletter Stockists Subscribe Books in Progress About Authors Pitch us Archive Subscribe Manage subscription MEET VIKTOR Although Viktor Zhdanov's name is little known today, he spearheaded one of the greatest projects in history. Who was he and what did he do? Read more → Words by Samuel Hughes Did medieval people love their children? 21st July 2026 5 Mins Is it really plausible that children survived the hardship of medieval life without devoted parents? Growing up, I acquired a vague idea that medieval people did not view childhood as we do. I was told they saw children merely as defective or incomplete adults, and that they did not love their children as we love ours, perhaps as a way of coping with high infant mortality. As I grew older, I came to associate this idea with the name of Philippe Ariès, a French historian who argued in the 1960s that medieval childhood was profoundly remote in these ways. Ariès’s work never attained complete acceptance in academia, but it was vastly influential on the wider public. As it turns out, however, Ariès’s view is just not true. This has been established beyond doubt by a wealth of later scholarship across Europe. Nicholas Orme’s Medieval Children is the leading study for England in particular. ‘It cannot be overemphasised that there is nothing to be said for Ariès’s view,’ Orme notes. It is mistaken ‘not simply in detail but in substance. It is time to lay it to rest.’ The Works in Progress Newsletter Get new articles from Works in Progress delivered to your inbox. Sign up It is sometimes imagined that medieval people had a great many children. This was not generally the case. Very large families occasionally occurred, but most"
+    },
+    "verdict": {
+      "model": "jev-1.13.0",
+      "score": 1.13,
+      "category": "History",
+      "category_confidence": 0.58
+    }
+  },
+  {
+    "canonical_url": "https://electronicintifada.net/content/im-gaza-naza-made-me-scream/51726",
+    "url": "https://electronicintifada.net/content/im-gaza-naza-made-me-scream/51726",
+    "found_at": "2026-11-08T11:55:15+00:00",
+    "sources": [
+      {
+        "name": "pinboard",
+        "title": "I�m from Gaza. NAZA made me scream."
+      }
+    ],
+    "page": {
+      "final_url": "https://electronicintifada.net/content/im-gaza-naza-made-me-scream/51726",
+      "status": 403,
+      "title": "Just a moment...",
+      "description": "",
+      "og_image": "",
+      "favicon": "https://electronicintifada.net/favicon.ico",
+      "text_excerpt": "electronicintifada.net Performing security verification This website uses a security service to protect against malicious bots. This page is displayed while the website verifies you are not a bot. Ray ID: a57464071cccc51b Performance and Security by Cloudflare Privacy"
+    },
+    "verdict": {
+      "model": "jev-1.13.0",
+      "score": 0.2,
+      "category": "News",
+      "category_confidence": 0.65
+    }
+  },
+  {
+    "canonical_url": "https://www.makeuseof.com/my-home-server-uses-less-power-now-and-i-didnt-replace-a-single-part/",
+    "url": "https://www.makeuseof.com/my-home-server-uses-less-power-now-and-i-didnt-replace-a-single-part/",
+    "found_at": "2026-11-08T11:55:15+00:00",
+    "sources": [
+      {
+        "name": "pinboard",
+        "title": "My home server uses less power now, and I didn’t replace a single part"
+      }
+    ],
+    "page": {
+      "final_url": "https://www.makeuseof.com/my-home-server-uses-less-power-now-and-i-didnt-replace-a-single-part/",
+      "status": 200,
+      "title": "My home server uses less power now, and I didn’t replace a single part",
+      "description": "Power savings, without any additional investments.",
+      "og_image": "https://static0.makeuseofimages.com/wordpress/wp-content/uploads/wm/2026/10/motherboard-open-air-case.jpg?w=1600&h=900&fit=crop",
+      "favicon": "https://www.makeuseof.com/public/build/images/favicon-48x48.png",
+      "text_excerpt": "Menu Add Follow Sign In Now Close PC & MOBILE SUBMENU TECHNICAL SUBMENU SOFTWARE SUBMENU SCREEN SUBMENU HOME SUBMENU NEWS Sign In Newsletter Add MakeUseOf on Google Add Follow Productivity Android Smart Home Networking Entertainment Home My home server uses less power now, and I didn’t replace a single part Credit: Dipan Saha/MakeUseOf Add MakeUseOf on Google Add as Preferred Source Follow on Google Discover By Dipan Saha Published Nov 7, 2026, 4:00 PM EST My love for computers started with a trusty Compaq back in 2005, and I haven't looked back since. This had me graduate into being an avid tinkerer, even if I end up soft-bricking stuff most of the time. I do also love video games. Here is a fact-based summary of the story contents: Efficiency is paramount to a home server, especially since these are machines that are meant to be used 24x7 long-term. The last thing you want is an inflated electric bill — and there thankfully do exist ways to optimize your power draw. I tried out a few tests with a standard smart plug attached to the wall, and the difference in power consumption from these tweaks was definitely noticeable. Even better, I didn’t have to bother replacing a single part or lose out on any noticeable amount of performance along the way. RELATED I thought my CPU was maxed out until I tweaked these BIOS settings A few BIOS tweaks made my PC feel brand new without a hardware upgrade. 2 By Yadullah Abidi The base tweaks start from the BIOS itself ErP, wake-from-sleep, and more things you need to consider Credit: Shaheer Khan/MUO Your first set of tweaks will begin from the computer BIOS itself. I’m going to be using a B550 board with an AM4 APU for this, but these BIOS tweaks should apply to every platform regardless: Enable ErP to boost power savings while idle. Make sure Global C-State control is enabled. Without C-States, the CPU won’t idle as effectively. Consider enabling AMD’s Cool n Quiet feature for additional savings and noise reduction. Turn on PCI"
+    },
+    "verdict": {
+      "model": "jev-1.13.0",
+      "score": 1.35,
+      "category": "Technology",
+      "category_confidence": 0.88
+    }
+  },
+  {
+    "canonical_url": "https://layer3intel.com/blog/residential-proxies-white-house-network",
+    "url": "https://layer3intel.com/blog/residential-proxies-white-house-network",
+    "found_at": "2026-11-08T11:55:15+00:00",
+    "sources": [
+      {
+        "name": "pinboard",
+        "title": "Residential Proxies Detected on White House Network"
+      }
+    ],
+    "page": {
+      "final_url": "https://layer3intel.com/blog/residential-proxies-white-house-network",
+      "status": 200,
+      "title": "Residential Proxies Detected on White House Network",
+      "description": "Our new Residential Proxy Observatory shows residential proxy traffic exiting the White House network: 236 times in 30 days, through 28 public proxy services.",
+      "og_image": "https://layer3intel.com/eop_proxy_activity.png",
+      "favicon": "https://layer3intel.com/favicon.svg",
+      "text_excerpt": "LAYER3 INTEL Tripwire Intel API IP Intel Pricing Blog Docs Contact Sign in Get started Residential Proxies Detected on White House Network LAYER3 INTEL TEAM · NOVEMBER 4, 2026 Our Residential Proxy Observatory, launched earlier this week, is a first-of-its-kind interface that gives researchers a global view of residential proxy and anonymized internet activity. While our team was looking through it, we noticed residential proxy exit activity on AS2650. AS2650 is registered to the Executive Office of the President, the federal agency that hosts the White House network. Residential proxy services sell access to everyday devices, letting customers send traffic through them so it appears to come from that device's network. Confirmed residential proxy activity observed from the White House network, October 5 to November 3, 2026. What we observed From October 5 to November 3: Our residential proxy enumeration pipeline exited through the White House network 236 separate times. Those exits came from 6 addresses, on 26 of the 30 days. 28 separate residential proxy services were able to exit through this network. To make sure this was not a fluke, we checked these addresses against other residential proxy detection services, such as Spur and Synthient. Their public IP context pages independently identify these addresses as residential proxy exits. This is public access. Anybody can obtain it by signing up to a public residential proxy service, paying a few dollars and sending requests through it. We did not selectively target this network or try to make our probes exit from it. We caught this by chance, simply by requesting global rotating access through these services. Why this is concerning Most of the activity happens in the evening, Eastern time: about half of it falls between 5 p.m. and midnight, and almost none happens in the early morning. That pattern suggests a person rather than a public guest Wi-Fi network: someone regularly on the White House network late into the"
+    },
+    "verdict": {
+      "model": "jev-1.13.0",
+      "score": 1.21,
+      "category": "News",
+      "category_confidence": 0.53
+    }
+  },
+  {
+    "canonical_url": "https://support.apple.com/en-us/149248",
+    "url": "https://support.apple.com/en-us/149248",
+    "found_at": "2026-11-08T11:55:15+00:00",
+    "sources": [
+      {
+        "name": "pinboard",
+        "title": "About the illuminated Apple logo on MacBook Pro with PROLED XDR Display - Apple Support"
+      }
+    ],
+    "page": {
+      "final_url": "https://support.apple.com/en-us/149248",
+      "status": 200,
+      "title": "About the illuminated Apple logo on MacBook Pro with PROLED XDR Display - Apple Support",
+      "description": "MacBook Pro with PROLED XDR Display includes an illuminated Apple logo on the back of its display.",
+      "og_image": "",
+      "favicon": "https://support.apple.com/favicon.ico",
+      "text_excerpt": "Apple Store Mac iPad iPhone Watch Vision AirPods Home Entertainment Accessories Support 0 + About the illuminated Apple logo on MacBook Pro with PROLED XDR Display MacBook Pro with PROLED XDR Display includes an illuminated Apple logo on the back of its display. How Apple logo illumination works The Apple logo behind the built-in display is illuminated whenever the Mac is awake. It automatically dims or brightens based on the brightness level of the built-in screen and the lighting conditions detected by the computer’s ambient light sensor. For all screen-brightness levels, the Apple logo will be dimmer in a dim room and brighter in a bright room. How to turn off Apple logo illumination Requires MacBook Pro with PROLED XDR Display To make the Apple logo dark in all lighting conditions, you can turn off its illumination using Terminal, which is in the Utilities folder of your Applications folder. You can also use Spotlight to find and open it. Type or paste this command in Terminal, then press Return: sudo defaults write com.apple.CoreBrightness LEBacklightMode -int 0 Type your administrator password when prompted (Terminal doesn’t show the password as it's typed), then press Return. Logo illumination turns off immediately. This change affects all macOS user accounts, including when starting up from macOS Recovery. When migrating to a new Mac, the setting transfers to the new Mac. How to turn Apple logo illumination back on To turn logo illumination on again, enter this command in Terminal: sudo defaults delete com.apple.CoreBrightness LEBacklightMode Reinstalling macOS also turns illumination back on. Published Date: November 05, 2026 Helpful? Yes No Character limit: 250 Maximum character limit is 250. Please don’t include any personal information in your comment. Submit Thanks for your feedback. Apple Footer  Apple Support About the illuminated Apple logo on MacBook Pro with PROLED XDR Display United States Copyright © 2026 Apple Inc. All rights reserved. Privacy "
+    },
+    "verdict": {
+      "model": "jev-1.13.0",
+      "score": 0.8,
+      "category": "Technology",
+      "category_confidence": 0.82
+    }
+  },
+  {
+    "canonical_url": "https://www.theverge.com/policy/1027430/democratic-control-congress-tech-policy",
+    "url": "https://www.theverge.com/policy/1027430/democratic-control-congress-tech-policy",
+    "found_at": "2026-11-08T11:55:15+00:00",
+    "sources": [
+      {
+        "name": "pinboard",
+        "title": "Tech is about to get hammered in Congress • The Verge"
+      }
+    ],
+    "page": {
+      "final_url": "https://www.theverge.com/policy/1027430/democratic-control-congress-tech-policy",
+      "status": 200,
+      "title": "Tech is about to get hammered in Congress",
+      "description": "Democrats will still have to navigate potential Trump vetoes.",
+      "og_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/STK481_STK432_CONGRESS_GOVERNMENT_CIVRGINIA_C.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "favicon": "https://www.theverge.com/static-assets/icons/favicon.ico",
+      "text_excerpt": "SKIP TO MAIN CONTENT The homepage SUBSCRIBE SIGN IN Tech Reviews Science Entertainment AI Policy Tech is about to get hammered in Congress 26 POLICY REPORT TECH Tech is about to get hammered in Congress Democrats have promised to drag CEOs to testify under oath and investigate corporate influence. by Lauren Feiner Nov 5, 2026, 2:11 PM UTC 26 26 Comments (All New) If you buy something from a link, The Verge may earn a commission. See our ethics statement. Image: The Verge, Getty Images Part Of Midterm elections 2026: all the news SEE ALL UPDATES Lauren Feiner is a senior policy reporter at The Verge, covering the intersection of Silicon Valley and Capitol Hill. She spent 5 years covering tech policy at CNBC, writing about antitrust, privacy, and content moderation reform. Tech CEO hearings. Tougher AI and data center guardrails. Investigations of Elon Musk’s DOGE cuts. The gates are open for Democrats once they regain control of committee gavels come January after a historic win of majorities in both the House and Senate on Tuesday. “LAWYER UP,” the top Democrat on the House Oversight Committee wrote on X in a message aimed at the Trump administration as well as “corporate corruption” shortly after networks like NBC News projected Democratic control of the House. “Subpoenas,” Senate Finance Ranking Member Ron Wyden (D-OR) posted. It’s clear tech executives will also be caught in Democrats’ crosshairs. “They are going to need to plant new forests for all of the subpoenas we’ll be printing,” Sen. Ed Markey (D-MA) posted in response to a comment that asked, “Live televised trials of Big Tech executives when?” “They are going to need to plant new forests for all of the subpoenas we’ll be printing” Rep. Greg Casar (D-TX), chair of the Congressional Progressive Caucus and an Oversight member, made clear that AI companies are well within his sights. “AI company CEOs should be called to testify under oath,” he said in a statement. “The revolt against data centers was one of "
+    },
+    "verdict": {
+      "model": "jev-1.13.0",
+      "score": 0.49,
+      "category": "News",
+      "category_confidence": 0.89
+    }
+  },
+  {
+    "canonical_url": "https://thecynefin.co/not-an-escape-but-a-homecoming/",
+    "url": "https://thecynefin.co/not-an-escape-but-a-homecoming/",
+    "found_at": "2026-11-08T11:55:15+00:00",
+    "sources": [
+      {
+        "name": "pinboard",
+        "title": "Not an Escape but a Homecoming - The Cynefin Co"
+      }
+    ],
+    "page": {
+      "final_url": "https://thecynefin.co/not-an-escape-but-a-homecoming/",
+      "status": 200,
+      "title": "Not an Escape but a Homecoming - The Cynefin Co",
+      "description": "Fairy tales do not give the child his first idea of bogey. What fairy tales give the child is his first clear idea of the possible defeat of bogey. G.K.",
+      "og_image": "https://thecynefin.co/wp-content/uploads/2026/11/Wayland_Smithy_Long_barrow.jpg",
+      "favicon": "https://ce-wp-site-content.s3.ap-southeast-1.amazonaws.com/wp-content/uploads/sites/12/2021/12/01170930/cropped-Favicon_Cynefin_Co-1-2-32x32.png",
+      "text_excerpt": "WELCOME CART LOGIN / REGISTRATION ABOUT US SENSEMAKER® LEARNING & TRAINING UPCOMING TRAINING RESOURCES OUR THINKING CONTACT Home / Sense-making / Not an Escape but a Homecoming Not an Escape but a Homecoming Dave Snowden November 4, 2026 SENSE-MAKING Fairy tales do not give the child his first idea of bogey. What fairy tales give the child is his first clear idea of the possible defeat of bogey. G.K. Chesterton, \"The Red Angel\", Tremendous Trifles (1909) Tolkien is read as a refuge from the modern world; the chapters Peter Jackson left out are the ones that show he was writing about how to live in it. The Lord of the Rings was the love of my childhood, and it has stayed the love of my adulthood. I have reread it more times than I can count, and as any book read that often, it changes as you change. So when John Gray reviewed DJ Taylor's The King Under the Mountain in the New Statesman (16 to 22 October), under the title \"There and back again\", I read it with more than usual attention. Gray is good on the Somme, on the Dead Marshes as no man's land, on Tolkien's letter about the privates and batmen he served with. He is good on the Inklings and on the oddity of a tweed-suited philologist becoming the guru of both the counterculture and Silicon Valley. But his conclusion is that Tolkien \"had no remedy\" for the modern disorder. Middle-earth, he says, has no relation to any conceivable reality; it diverts the reader from the intractable present in which we must learn to live. He prefers Peake's Titus Alone, where Titus turns back from Gormenghast to face the city of the machine. There is no escape from the machine, Gray says; we must coexist with it as best we can. I think that is a misreading, and a revealing one. It is, I suspect, a reading shaped more by the films than by the books, because the parts of the book that answer Gray most directly are exactly the parts Peter Jackson either cut or damaged. Three of them matter to me: the character of Faramir, the Barrow-do"
+    },
+    "verdict": {
+      "model": "jev-1.13.0",
+      "score": 1.86,
+      "category": "Blog",
+      "category_confidence": 0.91
+    }
+  },
+  {
+    "canonical_url": "https://www.theverge.com/ai-artificial-intelligence/1026927/total-repudiation-the-blue-wave-is-about-to-hit-ai",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1026927/total-repudiation-the-blue-wave-is-about-to-hit-ai",
+    "found_at": "2026-11-08T11:55:15+00:00",
+    "sources": [
+      {
+        "name": "pinboard",
+        "title": "‘Total repudiation’: The blue wave is about to hit AI | The Verge"
+      }
+    ],
+    "page": {
+      "final_url": "https://www.theverge.com/ai-artificial-intelligence/1026927/total-repudiation-the-blue-wave-is-about-to-hit-ai",
+      "status": 200,
+      "title": "‘Total repudiation’: The blue wave is about to hit AI",
+      "description": "AI companies have a new threat: a wave of Democrats who campaigned against them.",
+      "og_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/STK423_ELECTIONS2.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "favicon": "https://www.theverge.com/static-assets/icons/favicon.ico",
+      "text_excerpt": "SKIP TO MAIN CONTENT The homepage SUBSCRIBE SIGN IN Tech Reviews Science Entertainment AI Policy ‘Total repudiation’: The blue wave is about to hit AI 54 Image: Cath Virginia / The Verge, Getty Images AI POLICY REPORT ‘Total repudiation’: The blue wave is about to hit AI AI companies have a new threat: a wave of Democrats who campaigned against them. by Hayden Field Nov 5, 2026, 5:51 PM UTC 54 54 Comments (All New) Part Of Midterm elections 2026: all the news SEE ALL UPDATES Hayden Field is The Verge’s senior AI reporter. An AI beat reporter for more than five years, her work has also appeared in CNBC, MIT Technology Review, Wired UK, and other outlets. On Tuesday night, Democrats made history as they took control of the House and the Senate, and a blue wave swept through traditionally red and swing states — with the nation’s first Black woman governor elected in Georgia, the country’s first Native American woman governor elected in New Mexico, and a Maine Senator ceding to a Democrat after 30 years in office. In these and other campaigns, one theme kept coming up: holding AI companies accountable to the American people. Now, the AI industry is left considering the prospect of regulation, data center construction slowdowns, and more. Publicly, most major AI company CEOs have remained silent. OpenAI and Anthropic did not provide comments to The Verge; Elon Musk’s call on X to vote “red” for the midterms — the SpaceX CEO had spent close to $450 million backing Republican campaigns for the election — vanished after results poured in. Privately, CEOs have discussed significant compute capacity constraints for their companies after Tuesday’s results, particularly OpenAI, per The Wall Street Journal. Meta’s platforms president, Dina Powell McCormick, says many are considering moving data center construction abroad. AI executives are reportedly privately nervous about the results but may also be able to blame them for not delivering as much revenue to investors. Many of th"
+    },
+    "verdict": {
+      "model": "jev-1.13.0",
+      "score": 0.53,
+      "category": "News",
+      "category_confidence": 0.88
+    }
+  },
+  {
+    "canonical_url": "https://www.washingtonpost.com/climate-environment/2026/11/06/data-centers-may-not-be-raising-americans-electricity-bills-that-much/",
+    "url": "https://www.washingtonpost.com/climate-environment/2026/11/06/data-centers-may-not-be-raising-americans-electricity-bills-that-much/",
+    "found_at": "2026-11-08T11:55:15+00:00",
+    "sources": [
+      {
+        "name": "pinboard",
+        "title": "Data centers may not be raising Americans’ electricity bills that much - The Washington Post"
+      }
+    ],
+    "error": "Error: Page.goto: net::ERR_HTTP2_PROTOCOL_ERROR at https://www.washingtonpost.com/climate-environment/2026/11/06/data-centers-may-not-be-raising-americans-electricity-bills-that-much/"
+  }
+]
