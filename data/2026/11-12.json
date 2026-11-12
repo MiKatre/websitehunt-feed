@@ -1,0 +1,1788 @@
+[
+  {
+    "canonical_url": "https://ipo.anthropic.com/us/",
+    "url": "https://ipo.anthropic.com/us/",
+    "found_at": "2026-11-12T13:45:03+00:00",
+    "sources": [
+      {
+        "name": "hn",
+        "id": "50465829",
+        "title": "Anthropic IPO",
+        "discussion_url": "https://news.ycombinator.com/item?id=50465829",
+        "score": 194,
+        "comments": 227,
+        "created_at": "2026-11-12T11:46:41Z"
+      }
+    ],
+    "page": {
+      "final_url": "https://ipo.anthropic.com/us/",
+      "status": 200,
+      "title": "Anthropic’s Initial Public Offering",
+      "description": "Anthropic has filed to become a public company. Read the Founders’ letter and other relevant information.",
+      "og_image": "https://ipo.anthropic.com/assets/share-image-eAr8nJRP.jpg",
+      "favicon": "https://ipo.anthropic.com/assets/favicon-32x32-B-13Ji7e.png",
+      "text_excerpt": "Anthropic’s Initial Public Offering AI will have a vast impact on the world. Anthropic is a public benefit corporation dedicated to securing its benefits and mitigating its risks. 01 Founders’ letter 02 Roadshow video 03 Financial highlights 04 Our customers 05 How to participate 06 Documents and FAQs 07 Legal notice “We believe that AI is one of the most consequential technologies in human history. If managed well, it could rapidly accelerate scientific innovation, greatly increase economic growth rates, bring cures for major diseases within reach, and solve problems that have resisted generations of human effort.” Read the Founders’ letter Read the Founders’ letter Roadshow video 01 / 11 Introduction Our opportunity and core advantages Product and platform Frontier and safety research Bristol Myers Squibb Approach to compute Accenture Enterprise strategy AIG Financial model Conclusion Q3’26 Financial highlights $17.0B Revenue >12x YoY revenue >11,900 Customers ≥ $100K TTM revenue1 >12x YoY customers ≥ $100K TTM revenue1 >4x Compute efficiency gain since Q1’252 15% Adjusted Operating Margin3 $23.3B Net Loss (due to an increase in our valuation, net loss includes a $21.9 billion non-cash charge related to a change in the fair value of convertible notes, derivative liabilities, and SAFEs) (3)% Operating Margin 1As of September 30, 2026. 2Measured as revenue divided by compute and infrastructure expenses in Q3’26 divided by the same ratio in Q1’25. 3See the section in our prospectus titled “Management’s Discussion and Analysis of Financial Condition and Results of Operations—Non-GAAP Financial Measures” for a reconciliation of Adjusted Operating Margin to Operating Margin. Customer stories 01 Scaling an agentic operating system for lawyers Download case study “AI is becoming fundamental to how legal work gets done, and it will reshape how law firms and in-house teams operate. We have found Claude to be brilliant at instruction following and powering agentic workflows."
+    },
+    "verdict": {
+      "model": "jev-1.13.0",
+      "score": 0.75,
+      "category": "Finance",
+      "category_confidence": 0.68
+    }
+  },
+  {
+    "canonical_url": "https://pron.github.io/posts/correctness-and-complexity",
+    "url": "https://pron.github.io/posts/correctness-and-complexity",
+    "found_at": "2026-11-12T13:45:03+00:00",
+    "sources": [
+      {
+        "name": "hn",
+        "id": "50465352",
+        "title": "Why Writing Correct Software Is Hard",
+        "discussion_url": "https://news.ycombinator.com/item?id=50465352",
+        "score": 137,
+        "comments": 56,
+        "created_at": "2026-11-12T10:28:26Z"
+      }
+    ],
+    "page": {
+      "final_url": "https://pron.github.io/posts/correctness-and-complexity",
+      "status": 200,
+      "title": "Why Writing Correct Software Is Hard",
+      "description": "We try to understand the relationship between programs and correctness, and in particular, why writing correct programs must be hard. We will review results from computability theory and complexity theory, and see that programs and complete understanding – which is required for correctness – are fundamentally at odds.",
+      "og_image": "https://www.gravatar.com/avatar/c69557151e2f8331f6b1865469b694dd?s=200",
+      "favicon": "https://pron.github.io/fav/favicon-16.png",
+      "text_excerpt": "Jump to... … and why math (alone) won’t help us CHAPTER I: FOUNDATIONS Computer Science is not Math CHAPTER II: COMPLEXITY Bounded Halting and Amortized Bounded Halting Verification is the hardest problem in computer science Limiting our scope Correctness does not decompose Language abstractions cannot generally be exploited CHAPTER III: VERIFICATION Model Checkers Deductive Proofs Abstract Interpretation (Static Analysis) Types CONCLUSION A Call for Empiricism Complexity is Essential! Online discussion Selected Bibliography Home About Finite of Sense and Infinite of Thought: A History of Computation, Logic and Algebra TLA+ in Practice and Theory pressron Why Writing Correct Software Is Hard 23 Jul 2016 … and why math (alone) won’t help us I was very happy to speak at Curry On once again. Last year, following our work with Quasar, I spoke on continuations vs. monads. This year I gave a talk about computational complexity results in software verification, a subject I became interested in while formally specifying and verifying our upcoming revamped version of Galaxy. What follows is an extended version of the talk (embedded above), containing some additional proofs and results I didn’t have time to cover, complete with footnotes, for those wishing to study the topics further. Reading time: ~45 mins. In this article, we try to understand the relationship between programs and correctness, and in particular, why writing correct programs is hard. We will review results from computability theory and complexity theory, and see that programs and complete understanding – which is required for correctness – are fundamentally at odds. The main contribution of this text is aggregating in one place some results (as well as some references) pertaining to the essential difficulty of producing correct software. My motivation was various statements I found online (such as this, although it is far from the only one) claiming that software correctness is easy to achieve with the right"
+    },
+    "verdict": {
+      "model": "jev-1.13.0",
+      "score": 2.92,
+      "category": "Software Engineering",
+      "category_confidence": 0.91
+    }
+  },
+  {
+    "canonical_url": "https://forums.spacebattles.com/threads/humble-bundle-just-completely-killed-most-of-their-security-through-vibecoding.1346295/",
+    "url": "https://forums.spacebattles.com/threads/humble-bundle-just-completely-killed-most-of-their-security-through-vibecoding.1346295/",
+    "found_at": "2026-11-12T13:45:03+00:00",
+    "sources": [
+      {
+        "name": "hn",
+        "id": "50463899",
+        "title": "Humble Bundle just killed most of their security through vibecoding",
+        "discussion_url": "https://news.ycombinator.com/item?id=50463899",
+        "score": 312,
+        "comments": 189,
+        "created_at": "2026-11-12T06:52:48Z"
+      }
+    ],
+    "page": {
+      "final_url": "https://forums.spacebattles.com/threads/humble-bundle-just-completely-killed-most-of-their-security-through-vibecoding.1346295/",
+      "status": 403,
+      "title": "Just a moment...",
+      "description": "",
+      "og_image": "",
+      "favicon": "https://forums.spacebattles.com/favicon.ico",
+      "text_excerpt": "forums.spacebattles.com Performing security verification This website uses a security service to protect against malicious bots. This page is displayed while the website verifies you are not a bot. Ray ID: a595f9b07a52df18 Performance and Security by Cloudflare Privacy"
+    },
+    "verdict": {
+      "model": "jev-1.13.0",
+      "score": 0.19,
+      "category": "Community",
+      "category_confidence": 0.63
+    }
+  },
+  {
+    "canonical_url": "https://www.wiz.io/blog/cve-2026-119618-rce-apache-http-server-vulnerability",
+    "url": "https://www.wiz.io/blog/cve-2026-119618-rce-apache-http-server-vulnerability",
+    "found_at": "2026-11-12T13:45:03+00:00",
+    "sources": [
+      {
+        "name": "hn",
+        "id": "50462177",
+        "title": "Critical RCE Vulnerability in Apache HTTP Server",
+        "discussion_url": "https://news.ycombinator.com/item?id=50462177",
+        "score": 274,
+        "comments": 132,
+        "created_at": "2026-11-12T02:11:11Z"
+      }
+    ],
+    "page": {
+      "final_url": "https://www.wiz.io/blog/cve-2026-119618-rce-apache-http-server-vulnerability",
+      "status": 200,
+      "title": "Critical RCE Vulnerability in Apache HTTP Server: Everything You Need To Know | Wiz Blog",
+      "description": "Detect and mitigate CVE-2026-119618, a critical RCE vulnerability in Apache HTTP Server. According to Wiz data, 64% of cloud environments have resources vulnerable to CVE-2026-119618. Immediate patching is advised.",
+      "og_image": "https://www.datocms-assets.com/75231/1794425853-threat-update-kics-alert_custom.jpeg?fm=webp",
+      "favicon": "https://www.wiz.io/favicon.png",
+      "text_excerpt": "Wiz Platform Solutions Pricing Resources Customers Company Sign in Under attack? Get a demo Blog Critical RCE Vulnerability in Apache HTTP Server: Everything You Need To Know Detect and mitigate CVE-2026-119618, a critical RCE vulnerability in Apache HTTP Server. According to Wiz data, 64% of cloud environments have resources vulnerable to CVE-2026-119618. Immediate patching is advised. Merav Bar November 11, 2026 | 2 minute read A critical synchronization vulnerability (CVE-2026-119618) has been identified in Apache HTTP Server’s HTTP/2 module (mod_http2). The flaw stems from a concurrent execution race condition within the assign_headers() function when handling shared resources. If successfully exploited, a remote, unauthenticated attacker can corrupt heap memory to achieve arbitrary code execution (RCE). As of the time of this blog’s publication, no exploit is available and there are no reports of exploitation in the wild. What is CVE-2026-119618? CVE-2026-119618 is a critical, high-severity vulnerability involving a race condition in the Apache HTTP Server, which was independently discovered by Anthropic and Google Cloud’s Vulnerability Research Team. Specifically, the flaw exists within the assign_headers() function of the HTTP/2 module (mod_http2). Due to improper synchronization when executing concurrent threads sharing resources, an attacker can trigger heap corruption. This memory corruption can ultimately be leveraged to achieve RCE on the hosting server, allowing unauthorized threat actors to execute arbitrary commands with the privileges of the web server process. Wiz Research data: what’s the risk to cloud environments? In cloud environments, a compromised Apache instance running containerized or virtualized workloads can serve as an entry point for lateral movement, potentially exposing adjacent microservices or cloud metadata endpoints. According to Wiz data 64% of cloud environments have resources vulnerable to CVE-2026-119618, and 51% of cloud envi"
+    },
+    "verdict": {
+      "model": "jev-1.13.0",
+      "score": 1.21,
+      "category": "Blog",
+      "category_confidence": 0.42
+    }
+  },
+  {
+    "canonical_url": "https://github.com/tylertms/Stela",
+    "url": "https://github.com/tylertms/Stela",
+    "found_at": "2026-11-12T13:45:03+00:00",
+    "sources": [
+      {
+        "name": "hn",
+        "id": "50460154",
+        "title": "A general purpose Apple Silicon layer for x86-64 PCs",
+        "discussion_url": "https://news.ycombinator.com/item?id=50460154",
+        "score": 120,
+        "comments": 48,
+        "created_at": "2026-11-11T23:02:38Z"
+      }
+    ],
+    "github": {
+      "repo_url": "https://github.com/tylertms/Stela",
+      "homepage": "",
+      "description": "A general purpose Apple Silicon layer for x86-64 PCs",
+      "topics": [],
+      "stars": 1154,
+      "created_at": "2026-10-12T18:08:41Z",
+      "pushed_at": "2026-11-12T11:50:18Z",
+      "owner_avatar": "https://avatars.githubusercontent.com/u/74526874?v=4"
+    },
+    "page": {
+      "final_url": "https://github.com/tylertms/Stela",
+      "status": 200,
+      "title": "GitHub - tylertms/Stela: A general purpose Apple Silicon layer for x86-64 PCs",
+      "description": "A general purpose Apple Silicon layer for x86-64 PCs - tylertms/Stela",
+      "og_image": "https://opengraph.githubassets.com/7f58095f6aa6256ee83b80eecbc1d2307188a965fc5fff7ca7642ecd8bbb77dd/tylertms/Stela",
+      "favicon": "https://github.com/fluidicon.png",
+      "text_excerpt": "Skip to content Navigation Menu Products Developers Businesses Resources Pricing Search / Sign in Sign up tylertms Stela Repository navigation Code Issues 6 (6) Pull requests 2 (2) Actions Projects Security and quality Insights Stela Public Notifications Fork52 (52) Star1.2k (1.2k) main 1 Branch 4 Tags Code Latest commit tylertms ci: take LLVM 21 from the apt source of the runner's own Ubuntu release 668845a · History 6,739 Commits Folders and files Name Last commit message Last commit date .cargo build: quiet the linker over the boot image's debug section names .github ci: take LLVM 21 from the apt source of the runner's own Ubuntu release LICENSES docs(license): distribute the stela CLI under GPL-3.0-or-later now th… assets chore(assets): move the icon files to the assets root crates chore(release): 0.3.1 guest perf(gpu): arm a Metal device's completion notification only while it… third_party fix(nouveau): keep smaller pages' page tables linked when a large-pag… xtask test(xtask): say the kext host tests take the clang on PATH, not the … .gitattributes refactor: move the macOS app from apps/stela-macos to guest/stela-app… .gitignore docs: add the README .gitmodules chore(gpu): remove the unhooked NVIDIA open-RM port, its feature, xta… Cargo.lock chore(release): 0.3.1 Cargo.toml chore(release): 0.3.1 LICENSE chore(license): license Stela's own code under GPL-2.0-or-later and l… NOTICE feat(net): port the Linux alx driver for Qualcomm Atheros AR816x/AR81… README.md docs(readme): give the Windows boot log command as the update section… rust-toolchain.toml build: pin the Rust toolchain to 1.99.1 rustfmt.toml ci(rust): share formatting lint and test checks Repository files navigation README GPL-2.0 license Stela A general purpose Apple Silicon layer for x86-64 PCs. It is a UEFI boot program with an arm64-to-x86-64 translator, a Metal driver for NVIDIA GPUs and a model of Apple silicon hardware. Stela presents a Mac mini (M2) and runs macOS 27. Warning Stela is still in"
+    },
+    "verdict": {
+      "model": "jev-1.13.0",
+      "score": 3.04,
+      "category": "Software Engineering",
+      "category_confidence": 0.59
+    },
+    "screenshot": "shots/2026/11-12/github-com-tylertms-stela.jpg"
+  },
+  {
+    "canonical_url": "https://twitter.com/watcherguru/status/2120645607866188008",
+    "url": "https://twitter.com/watcherguru/status/2120645607866188008",
+    "found_at": "2026-11-12T13:45:03+00:00",
+    "sources": [
+      {
+        "name": "hn",
+        "id": "50459776",
+        "title": "Nvidia prepares to fire CEO Jensen Huang, WSJ reports",
+        "discussion_url": "https://news.ycombinator.com/item?id=50459776",
+        "score": 225,
+        "comments": 4,
+        "created_at": "2026-11-11T22:36:35Z"
+      }
+    ],
+    "page": {
+      "final_url": "https://x.com/watcherguru/status/2120645607866188008",
+      "status": 403,
+      "title": "",
+      "description": "",
+      "og_image": "",
+      "favicon": "https://x.com/favicon.ico",
+      "text_excerpt": ""
+    },
+    "verdict": {
+      "model": "jev-1.13.0",
+      "score": 0.37,
+      "category": "News",
+      "category_confidence": 0.86
+    }
+  },
+  {
+    "canonical_url": "https://www.mcmillen.dev/sigbovik/",
+    "url": "https://www.mcmillen.dev/sigbovik/",
+    "found_at": "2026-11-12T13:45:03+00:00",
+    "sources": [
+      {
+        "name": "hn",
+        "id": "50459745",
+        "title": "93% of paint splatters are valid Perl programs (2019)",
+        "discussion_url": "https://news.ycombinator.com/item?id=50459745",
+        "score": 489,
+        "comments": 64,
+        "created_at": "2026-11-11T22:34:23Z"
+      }
+    ],
+    "page": {
+      "final_url": "https://www.mcmillen.dev/sigbovik/",
+      "status": 200,
+      "title": "93% of Paint Splatters are Valid Perl Programs | Colin McMillen",
+      "description": "",
+      "og_image": "",
+      "favicon": "https://www.mcmillen.dev/favicon.ico",
+      "text_excerpt": "Colin McMillen 93% of Paint Splatters are Valid Perl Programs Posted 2019-04-01. TLDR: read the paper and view the gallery of pretty Perl programs. In this paper, we aim to answer a long-standing open problem in the programming languages community: is it possible to smear paint on the wall without creating valid Perl? We answer this question in the affirmative: it is possible to smear paint on the wall without creating a valid Perl program. We employ an empirical approach, using optical character recognition (OCR) software, which finds that merely 93% of paint splatters parse as valid Perl. We analyze the properties of paint-splatter Perl programs, and present seven examples of paint splatters which are not valid Perl programs. Accepted for publication at SIGBOVIK 2019, held April 1st 2019 in Pittsburgh. Winner of a Unwitting Participation Ribbon, “an unwelcome brand we’ve affixed to each paper determined after careful scrutiny to have included a genuine artifact, thereby furthering the admirable causes of open science and fruitful procrastination.” Read it on Google Docs or download a PDF. Or grab the entire SIGBOVIK 2019 proceedings; I’m on page 174. Supplementary Materials Here’s all the paint splatters on a single page, along with the valid Perl source code corresponding to each. “Not valid” is written in red for those images which did not parse as valid Perl programs. If different OCR settings recognized multiple valid Perl programs, I chose the one that seemed the most “interesting”, according to my own aesthetic sense. Here’s a tarball of 100 paint-splatter images that were used as the main dataset for this paper. (source code not available yet because i am bad at GitHub) Errata There are a few paint splatter Perl programs that I didn’t recognize as “interesting” until after the SIGBOVIK submission deadline. For example, this splatter is recognized by OCR as the string lerzfijglpFiji-j, which evaluates to the number 0 in Perl: The image below is recognized as"
+    },
+    "verdict": {
+      "model": "jev-1.13.0",
+      "score": 2.47,
+      "category": "Research",
+      "category_confidence": 0.51
+    }
+  },
+  {
+    "canonical_url": "https://www.wsj.com/business/nvidia-is-preparing-to-oust-nvidia-ceo-jensen-huang-30f421ad",
+    "url": "https://www.wsj.com/business/nvidia-is-preparing-to-oust-nvidia-ceo-jensen-huang-30f421ad",
+    "found_at": "2026-11-12T13:45:03+00:00",
+    "sources": [
+      {
+        "name": "hn",
+        "id": "50459703",
+        "title": "Nvidia is preparing to oust Jensen Huang",
+        "discussion_url": "https://news.ycombinator.com/item?id=50459703",
+        "score": 1145,
+        "comments": 1529,
+        "created_at": "2026-11-11T22:31:06Z"
+      }
+    ],
+    "page": {
+      "final_url": "https://www.wsj.com/business/nvidia-is-preparing-to-oust-nvidia-ceo-jensen-huang-30f421ad",
+      "status": 401,
+      "title": "wsj.com",
+      "description": "",
+      "og_image": "",
+      "favicon": "https://www.wsj.com/favicon.ico",
+      "text_excerpt": ""
+    },
+    "verdict": {
+      "model": "jev-1.13.0",
+      "score": 0.45,
+      "category": "News",
+      "category_confidence": 0.48
+    }
+  },
+  {
+    "canonical_url": "https://hugovk.dev/blog/2026/lock-github-actions/",
+    "url": "https://hugovk.dev/blog/2026/lock-github-actions/",
+    "found_at": "2026-11-12T13:45:03+00:00",
+    "sources": [
+      {
+        "name": "hn",
+        "id": "50459485",
+        "title": "Lock Your GitHub Actions",
+        "discussion_url": "https://news.ycombinator.com/item?id=50459485",
+        "score": 289,
+        "comments": 59,
+        "created_at": "2026-11-11T22:16:41Z"
+      },
+      {
+        "name": "pinboard",
+        "title": "Lock your GitHub Actions · Hugo van Kemenade"
+      }
+    ],
+    "page": {
+      "final_url": "https://hugovk.dev/blog/2026/lock-github-actions/",
+      "status": 200,
+      "title": "Lock your GitHub Actions",
+      "description": "",
+      "og_image": "https://hugovk.dev/blog/2026/lock-github-actions/feature.jpg",
+      "favicon": "https://hugovk.dev/favicon.png",
+      "text_excerpt": "↓Skip to main content Hugo van Kemenade Blog Tags Lock your GitHub Actions 11 November 2026 github-actions security gh Install Lock ’em Renovate and Dependabot Validate zizmor Locked! Examples GitHub Actions now supports workflow lockfiles. Because GitHub Actions are fetched from Git, the previous advice was to pin to a full SHA instead of a tag. This is because tags are mutable and susceptible to supply-chain attacks where an attacker points a previously safe tag at malicious code. For example, an old workflow looks like: name: Lint on: [push, pull_request, workflow_dispatch] permissions: {} env: FORCE_COLOR: 1 RUFF_OUTPUT_FORMAT: github jobs: lint: runs-on: ubuntu-latest steps: - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1 with: persist-credentials: false - uses: j178/prek-action@44924fe9ef4a6f88253c4b6b1bf11c689d3ce53d # v3.1.0 Here’s how I set up lockfiles. Install # Install the gh-actions-lock extension to the gh CLI: $ gh extension install github/gh-actions-lock ✓ Installed extension github/gh-actions-lock Lock ’em # In your repo, run: $ gh actions-lock ✓ All 1 workflows valid The workflow now uses vX.Y.Z tags and looks like this: diff --git a/.github/workflows/lint.yml b/.github/workflows/lint.yml index 946971c..3503607 100644 --- a/.github/workflows/lint.yml +++ b/.github/workflows/lint.yml @@ -13,7 +13,7 @@ jobs: runs-on: ubuntu-latest steps: - - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1 + - uses: actions/checkout@v7.0.1 with: persist-credentials: false - - uses: j178/prek-action@44924fe9ef4a6f88253c4b6b1bf11c689d3ce53d # v3.1.0 + - uses: j178/prek-action@v3.1.0 And it generates a lockfile at .github/workflows/actions.lock: # This file is machine-generated by `gh actions-lock`. # Do not edit by hand; run `gh actions-lock` to update. # Docs: https://gh.io/actions-lockfile version: 'v0.0.3' workflows: '.github/workflows/lint.yml': - 'actions/checkout@v7.0.1' - 'j178/prek-action@v3.1.0' dependencies: "
+    },
+    "verdict": {
+      "model": "jev-1.13.0",
+      "score": 3.01,
+      "category": "Developer Tools",
+      "category_confidence": 0.68
+    },
+    "screenshot": "shots/2026/11-12/hugovk-dev-blog-2026-lock-github-actions.jpg"
+  },
+  {
+    "canonical_url": "https://www.nytimes.com/2026/11/11/technology/jensen-huang-nvidia-affair.html",
+    "url": "https://www.nytimes.com/2026/11/11/technology/jensen-huang-nvidia-affair.html",
+    "found_at": "2026-11-12T13:45:03+00:00",
+    "sources": [
+      {
+        "name": "hn",
+        "id": "50459321",
+        "title": "Jensen Huang said to have had relationship with executive who reports to him",
+        "discussion_url": "https://news.ycombinator.com/item?id=50459321",
+        "score": 382,
+        "comments": 482,
+        "created_at": "2026-11-11T22:03:58Z"
+      }
+    ],
+    "page": {
+      "final_url": "https://www.nytimes.com/2026/11/11/technology/jensen-huang-nvidia-affair.html",
+      "status": 200,
+      "title": "Jensen Huang Said to Have Had Relationship With Nvidia Executive Who Reports to Him",
+      "description": "Mr. Huang, Nvidia’s chief executive, is already facing scrutiny over an affair with a Chinese businesswoman who U.S. intelligence determined was a Chinese spy.",
+      "og_image": "https://static01.nyt.com/images/2026/11/11/multimedia/00Biz-Huang-Relationship-wlgb/00Biz-Huang-Relationship-wlgb-facebookJumbo.jpg",
+      "favicon": "https://static01.nyt.com/vi-assets/static-assets/assets/favicon-NXM0N6-N.ico",
+      "text_excerpt": "SKIP TO CONTENT SKIP TO SITE INDEX SECTION NAVIGATION Search LOG IN Nvidia C.E.O. Investigation What to Know Board Meets Relationship With Nvidia Executive Alarm Raised in May Who Is Alice Huang? ADVERTISEMENT SKIP ADVERTISEMENT You have a preview view of this article while we are checking your access. When we have confirmed access, the full article content will load. Jensen Huang Said to Have Had Relationship With Nvidia Executive Who Reports to Him Mr. Huang, Nvidia’s chief executive, is already facing scrutiny over an affair with a Chinese businesswoman who U.S. intelligence determined was a Chinese spy. Listen · 4:39 min Share full article Video Employees Say Jensen Huang Had Relationship With Nvidia Executive Five employees at Nvidia who spoke on the condition of anonymity said that Jensen Huang, the company’s leader, had an extramarital relationship with an executive who reports to him. He is already under investigation for an affair with a woman who U.S. officials determined to be a Chinese spy. Credit Credit... Manuel Orbegozo for The New York Times By Ryan MacTripp Mickle and Georgia Gee Nov. 11, 2026 阅读简体中文版閱讀繁體中文版 Jensen Huang, the leader of Nvidia who is under investigation for an affair with a woman who U.S. intelligence determined is a Chinese spy, also had an extramarital relationship with an executive who reports to him, according to five people who worked at the company. The relationship, which has not been previously reported, was with Kimberly Powell, Nvidia’s vice president of health care, said the people, who spoke under the condition of anonymity to describe sensitive information. Under Nvidia’s code of conduct, employees are told to “avoid situations where our actions create conflict” including “personal relationships,” and the company states that it “promptly investigates reports of misconduct.” Many corporations have policies against managers having relationships with subordinates. Mr. Huang, 63, and Ms. Powell, 48, were captured on video be"
+    },
+    "verdict": {
+      "model": "jev-1.13.0",
+      "score": 0.31,
+      "category": "News",
+      "category_confidence": 0.72
+    }
+  },
+  {
+    "canonical_url": "https://www.cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights/",
+    "url": "https://www.cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights/",
+    "found_at": "2026-11-12T13:45:03+00:00",
+    "sources": [
+      {
+        "name": "hn",
+        "id": "50458900",
+        "title": "United Airlines bans AI agents from booking flights on behalf of travelers",
+        "discussion_url": "https://news.ycombinator.com/item?id=50458900",
+        "score": 592,
+        "comments": 612,
+        "created_at": "2026-11-11T21:24:35Z"
+      }
+    ],
+    "page": {
+      "final_url": "https://www.cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights/",
+      "status": 200,
+      "title": "United Airlines bans AI agents from booking flights on behalf of travelers",
+      "description": "Using an artificial intelligence agent to make flight reservations poses security risks and could violate federal rules, according to United.",
+      "og_image": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/11/11/abfecdbe-5571-42df-95f8-6c22131067aa/thumbnail/1200x630/526b47f241e8e11c31cb47bc82f1f68c/gettyimages-2296986024-1.jpg",
+      "favicon": "https://www.cbsnews.com/fly/bundles/cbsnewscore/icons/icon.svg",
+      "text_excerpt": "Latest Local News Live Shows MoneyWatch | Managing Your Money CBS News Price Tracker Watch CBS News MoneyWatch United Airlines bans AI agents from booking flights on behalf of travelers By Megan Cerullo November 11, 2026 / 2:37 PM EST / MoneyWatch Add CBS News on Google United Airlines said on Wednesday that it is banning artificial intelligence agents from making flight reservations on behalf of travelers, citing security risks and the possibility that such actions could violate federal rules. Many consumers are turning to AI agents such as Meta's Muse and OpenAI's dots to complete tasks ranging from researching products and tracking down deals to making purchases. To make an airline booking, an AI agent requires access to a customer's personal information, including credentials like payment information. United has a problem with that, saying that \"sharing account credentials with personal, third-party, AI assistants can expose sensitive information, and actions taken by these tools may result in unintended purchases, account changes, or use of MileagePlus miles.\" The carrier also said that using an AI agent to, for example, check in for a flight could violate federal regulations, including rules requiring travelers to verify in person that their luggage does not contain banned substances. \"As a result, United is taking steps to restrict access — directly within our digital platforms and indirectly via travel agencies and aggregators — to prohibit use by unauthorized, third-party personal AI agents or assistants,\" said the airline, which is updating its booking and ticketing policies to reflect the new rule. United's new policy suggests the company wants to retain control over the customer booking process, said Henry Harteveldt, an aviation analyst at Atmosphere Research Group. \"United is saying they don't want to add yet another, and potentially even more powerful, intermediary than they already face in terms of Google search, price-comparison metasearch sites and"
+    },
+    "verdict": {
+      "model": "jev-1.13.0",
+      "score": 0.47,
+      "category": "News",
+      "category_confidence": 0.94
+    }
+  },
+  {
+    "canonical_url": "https://commandlinesystems.com/magic.txt",
+    "url": "https://commandlinesystems.com/magic.txt",
+    "found_at": "2026-11-12T13:45:03+00:00",
+    "sources": [
+      {
+        "name": "hn",
+        "id": "50458208",
+        "title": "Emacs in the Age of Magic",
+        "discussion_url": "https://news.ycombinator.com/item?id=50458208",
+        "score": 264,
+        "comments": 122,
+        "created_at": "2026-11-11T20:26:32Z"
+      }
+    ],
+    "page": {
+      "final_url": "https://commandlinesystems.com/magic.txt",
+      "status": 200,
+      "title": "",
+      "description": "",
+      "og_image": "",
+      "favicon": "https://commandlinesystems.com/favicon.ico",
+      "text_excerpt": "Emacs In the Age Of Magic or, Rome Wasn't Built In A Day, More Like 10 Minutes That's the rule. That's the goal now. What are we doing? What's going on? -- Jeremy Culhane impersonating Tucker Carlson Look, we want you to express yourself, okay? -- Chotchkie's Manager, Office Space (1999) I began using Claude Code about a year ago in September 2025. For a good week, I woke each morning pinching myself to make sure what I'd witnessed the day previous actually happened. Its handling of all aspects of the coding process blew my socks off then, and it's an order of magnitude more capable now. On the time scale of our species, the digital age has barely just begun. When I graduated with a computer science degree, the field was largely at a stage Churchill might call the \"end of the beginning.\" And yet, just a quarter-century later, no matter where you turn online you can't escape the faint but persistent chime of the death knell. It seems a longstanding problem in maths or theoretical computer science falls to a toaster on the daily. In what Scott Aaronson is calling The Mathocalypse, OpenAI's latest model took all of three hours to carpet bomb 8,000 research problems, resulting in 372 likely hits, some of them career-makers had they been solved by a human. When we say \"digital age\" we mean a state of the art in which sealed up transistors can reproduce the same outputs given the same inputs with unerring precision. The power to unambiguously differentiate an on- versus an off-signal -- the binary \"digital\" -- might seem trivial, but is 100% the reason why we're so comfortable handing over the reins to computers. And up until the advent of stochastic AI, it's this rigid adherence to instruction that underlies our world view of technology. So when the first AI scientists touted their \"expert systems,\" we scut programmers tittered inwardly. Our sanitized, sequential conception of software could never admit a ruleset so comprehensive as to cover arbitrary, unbounded behavior"
+    },
+    "verdict": {
+      "model": "jev-1.13.0",
+      "score": 2.08,
+      "category": "Blog",
+      "category_confidence": 0.85
+    }
+  },
+  {
+    "canonical_url": "https://github.com/huawei-csl/MACaQ",
+    "url": "https://github.com/huawei-csl/MACaQ",
+    "found_at": "2026-11-12T13:45:03+00:00",
+    "sources": [
+      {
+        "name": "hn",
+        "id": "50458166",
+        "title": "Huawei releases MACaQ, its internal quantizer for local inference",
+        "discussion_url": "https://news.ycombinator.com/item?id=50458166",
+        "score": 121,
+        "comments": 29,
+        "created_at": "2026-11-11T20:23:57Z"
+      }
+    ],
+    "github": {
+      "repo_url": "https://github.com/huawei-csl/MACaQ",
+      "homepage": "https://huawei-csl.com/blog/macaq/",
+      "description": "SOTA model-agnostic quantization for GGUF, local inference and beyond. Quantize and run text, image, video and audio models with llama.cpp, vLLM, Diffusers and PyTorch.",
+      "topics": [
+        "ascend",
+        "audio",
+        "audio-generation",
+        "diffusers",
+        "gguf",
+        "gguf-quantization",
+        "image-generation",
+        "llama-cpp",
+        "llm",
+        "local-ai",
+        "local-inference",
+        "quantization",
+        "video-generation",
+        "vllm"
+      ],
+      "stars": 169,
+      "created_at": "2026-11-10T08:52:22Z",
+      "pushed_at": "2026-11-12T09:57:27Z",
+      "owner_avatar": "https://avatars.githubusercontent.com/u/234563461?v=4"
+    },
+    "page": {
+      "final_url": "https://github.com/huawei-csl/MACaQ",
+      "status": 200,
+      "title": "GitHub - huawei-csl/MACaQ: SOTA model-agnostic quantization for GGUF, local inference and beyond. Quantize and run text, image, video and audio models with llama.cpp, vLLM, Diffusers and PyTorch.",
+      "description": "SOTA model-agnostic quantization for GGUF, local inference and beyond. Quantize and run text, image, video and audio models with llama.cpp, vLLM, Diffusers and PyTorch. - huawei-csl/MACaQ",
+      "og_image": "https://repository-images.githubusercontent.com/1452417816/74bc9106-306c-4e93-96da-77dcff2e0d77",
+      "favicon": "https://github.com/fluidicon.png",
+      "text_excerpt": "Skip to content Navigation Menu Products Developers Businesses Resources Pricing Search / Sign in Sign up huawei-csl MACaQ Repository navigation Code Issues 2 (2) Pull requests Actions Projects Security and quality Insights MACaQ Public Notifications Fork7 (7) Star169 (169) main 1 Branch 0 Tags Code Latest commit philippebich MACaQ-R introduction 3810efc · History 22 Commits Folders and files Name Last commit message Last commit date diffusers Fix revision forwarding and fused quantization bounds docs/assets Update MACaQ banner examples Add Qwen3.6 quantization recipe llamacpp Update MACaQ-R output pytorch Fix revision forwarding and fused quantization bounds quantize Fix revision forwarding and fused quantization bounds requirements Update MACaQ-R output vllm Fix revision forwarding and fused quantization bounds .gitignore Initial release LICENSE Initial release NOTICE Initial release README.md MACaQ-R introduction pyproject.toml Initial release Repository files navigation README Apache-2.0 license High-quality GGUF for local inference. Model-agnostic quantization beyond text. Quantize and run text, image, video and audio models with llama.cpp, vLLM, Diffusers and PyTorch. MACaQ can quantize a 122B-parameter model in 64 minutes using just 32.5 GB of device memory. You can get lower perplexity than MR-GPTQ and DuQuant++, or match their best Llama-3-8B perplexity with 11× less quantization time. Read the paper. We also release MACaQ-R to refine existing GGUF models, improve their quality and adapt them to your workload, while keeping compatibility with standard llama.cpp. Whether you’re a human or an AI agent, if you use MACaQ to quantize a model, please star this repository to support the project. Contents Choose your backend Diffusers llama.cpp MACaQ-R with standard llama.cpp vLLM PyTorch Ascend Citation License Choose your backend Diffusers: image, video and audio generation, W4A4. llama.cpp: text generation, 2/3/4-bit GGUF. vLLM: text generation and serving, W4A4"
+    },
+    "homepage": {
+      "final_url": "https://huawei-csl.com/blog/macaq/",
+      "status": 200,
+      "title": "MACaQ: Model Agnostic Calibrated Quantization",
+      "description": "One quantizer for text, images, audio, video and 3D. Explore the method, results and open-source integrations in our interactive blog.",
+      "og_image": "https://huawei-csl.com/assets/content/macaq/macaq-social-cover.png",
+      "favicon": "https://huawei-csl.com/assets/huawei-symbol.svg",
+      "text_excerpt": "Skip to content Huawei Computing Systems Lab Switzerland Home Research Teams Publications News Careers About GitHub From the authors of KVarN AI Team - Quantization MACaQ 🐒Model Agnostic Calibrated Quantization One quantizer. Text, Image, Audio, Video, 3D. COMPATIBLE WITH llama.cpp vLLM Diffusers Code on GitHub Scroll to explore Back to research AI TEAM · QUANTIZATION from the authors of KVarN MACaQ: Fast, Model Agnostic Calibrated Quantization for Low‑Precision Weights and Activations MACaQ: Fast, Model Agnostic Calibrated Quantization for Low‑Precision Weights and Activations Lorenz K. Muller Philippe Bich Chiara Boretti Hyun-Min Chang Jiawei Zhuang Lukas Cavigelli Huawei Computing Systems Lab (CSL), Switzerland Paper GitHub HF Papers Performance MACaQ /məˈkɑːk/: Model Agnostic Calibrated Quantization. So easy to use, even a macaque could get the hang of it. Abstract MACaQ calibrates 4-bit weights and activations one linear layer at a time. Channel balancing, small Hadamard transforms, and weight refinement improve low-precision representations while keeping every change inside the layer. The same recipe applies across architectures and modalities: text, images, video, audio, and 3D reconstruction. Runs on: vLLM llama.cpp One quantizer for all modalities. Text. Video. Audio. Image. 3D. Text Video Audio Image 3D Qwen3.8-27B Reference FP16 find.py Ready 0.0s MACaQ 4-bit find.py Ready 0.0s Prompt Write a binary search for a sorted list in Python. 01 / PERFORMANCE MACaQ in numbers. MACaQ in numbers. Measured speed, fidelity, and complete model size. Model Qwen3-4B Qwen3-8B Qwen3.6-35B-A3B Qwen3.8-27B Runtime llama.cpp SIDE BY SIDE Complete size and fidelity 6 methods Qwen3-4B, llama.cpp. Lower size and lower KL are better. Aim for the bottom-left corner. Method Precision Mean KL ↕ Size, GB MACaQ IQ4_XS 0.028041 2.26 MACaQ IQ4_NL 0.029882 2.37 Bartowski IQ4_XS 0.034433 2.27 Bartowski Q4_K_M 0.027710 2.50 Unsloth IQ4_XS 0.036629 2.27 Bartowski IQ4_NL 0.034942 2.38 Selec"
+    },
+    "verdict": {
+      "model": "jev-1.13.0",
+      "score": 3.45,
+      "category": "Developer Tools",
+      "category_confidence": 0.75
+    },
+    "screenshot": "shots/2026/11-12/github-com-huawei-csl-macaq.jpg"
+  },
+  {
+    "canonical_url": "https://wilsoniumite.com/2026/11/11/why-are-we-still-working-this-hard/",
+    "url": "https://wilsoniumite.com/2026/11/11/why-are-we-still-working-this-hard/",
+    "found_at": "2026-11-12T13:45:03+00:00",
+    "sources": [
+      {
+        "name": "hn",
+        "id": "50457939",
+        "title": "Why are we still working this hard?",
+        "discussion_url": "https://news.ycombinator.com/item?id=50457939",
+        "score": 233,
+        "comments": 279,
+        "created_at": "2026-11-11T20:05:29Z"
+      }
+    ],
+    "page": {
+      "final_url": "https://wilsoniumite.com/2026/11/11/why-are-we-still-working-this-hard/",
+      "status": 200,
+      "title": "Why Are We Still Working This Hard? - Wilsons Blog",
+      "description": "In 1973, what a forty-hour week of work produced takes sixteen hours to produce today. That’s according to Bureau of Economic Analysis (BEA) input output tables. An hour of work in American business now makes two and a half times what it made in 1973. For every forty hours that used to be needed, twenty-four […]",
+      "og_image": "https://wilsoniumite.com/wp-content/uploads/2026/11/fig_hours.png",
+      "favicon": "https://wilsoniumite.com/wp-content/uploads/2024/08/cropped-wilsonsiteico-32x32.png",
+      "text_excerpt": "Skip to content Wilsons Blog Home About Why Are We Still Working This Hard? In 1973, what a forty-hour week of work produced takes sixteen hours to produce today. That’s according to Bureau of Economic Analysis (BEA) input output tables. An hour of work in American business now makes two and a half times what it made in 1973. For every forty hours that used to be needed, twenty-four have been freed. You have probably not noticed them. The forty-hour week was written into American law by an act of 1938, and hasn’t changed. Counted for each head of population, the hours worked in American business in 2024 were 10 percent higher than in 1973. As a country, the US took the whole of fifty years’ progress as more output and none of it as time. It was supposed to go differently. In 1930 the economist John Maynard Keynes wrote a short essay about the world his grandchildren would live in. He predicted that “the standard of life in progressive countries one hundred years hence will be between four and eight times as high as it is to-day.” And with so much plenty, he thought, we would hardly need to work at all: “Three-hour shifts or a fifteen-hour week” would be enough. He is usually said to have been right about the wealth and wrong about the leisure. Output per person in the United States in 2024 was 7.8 times its level in 1930. But look again at the sixteen hours. He was right about both. The fifteen-hour week arrived in terms of output, but not in the workweek. I have spent a long time trying to find out where those twenty-four hours went, with a co-author, a small economy built on paper, and more national accounts than I’d like to admit. This essay is what I found. Eighteen of the hours never reached ordinary paychecks. The other six reached them in a form that couldn’t be taken as time. Both happened for the same reason, which has to do with what a wage is for. The same reason explains why people are frightened of machines that ought to be good news. And it points to a"
+    },
+    "verdict": {
+      "model": "jev-1.13.0",
+      "score": 2.54,
+      "category": "Blog",
+      "category_confidence": 0.96
+    }
+  },
+  {
+    "canonical_url": "https://graphics.cs.utah.edu/teapot/",
+    "url": "https://graphics.cs.utah.edu/teapot/",
+    "found_at": "2026-11-12T13:45:03+00:00",
+    "sources": [
+      {
+        "name": "hn",
+        "id": "50457618",
+        "title": "The Utah Teapot",
+        "discussion_url": "https://news.ycombinator.com/item?id=50457618",
+        "score": 168,
+        "comments": 42,
+        "created_at": "2026-11-11T19:45:10Z"
+      }
+    ],
+    "page": {
+      "final_url": "https://graphics.cs.utah.edu/teapot/",
+      "status": 200,
+      "title": "Utah Teapot",
+      "description": "",
+      "og_image": "",
+      "favicon": "https://graphics.cs.utah.edu/_template/utah_graphics_icon.ico",
+      "text_excerpt": "PEOPLE RESEARCH EDUCATION RESOURCES CONTACT HomeResourcesUtah Teapot The Utah Teapot Model Type: Curves (Coming Soon) Patches (Coming Soon) Triangle mesh Quad-dominant mesh Triangulate Tips Eliminate duplicate vertices Duplicate vertices with different normals Duplicate vertices with different texture coordinates Orientation: y-up z-up Wireframe Show Interior Resolution: (35,634 triangles, 18,576 vertices) Version: 2026 - Cem Yuksel 2006 - Russ Fish 1992 - Hank Driskill* 1987 - Frank Crow 1976 - Jim Blinn 1975 - Martin Newell Handle Spout Lid Body Show Custom Settings Blinn Scale Circular Trimmed Chamfer Curvature Continuous Bottom: Round Flat Cap Open Interior Version: Cem Yuksel Russ Fish Hank Driskill* None Spout Cap: Outer Trim Outer Inner None Lid Cap Texture Coordinates: Patch Coordinates Patch Coordinates with Offsets Injective Layout Bijective Layout Show Texture Layout Match Edge Normals Symmetric Triangulation Flipped Triangulation The Utah Teapot has been the symbol of computer graphics. It was one of the first computer graphics models created using Bézier patches. This is the official Utah Teapot page, where you can you can visualize and download any of these historical versions or customize it, using the settings above. Terms of Use and Attribution: The Utah Teapot model files are freely available for any use, including commercial use. To preserve the historical identity and provenance of the model, users are requested to identify the model, and any substantially derived version of it, as a Utah Teapot (or Modified Utah Teapot) and to acknowledge its origin as the historic Utah Teapot developed at the University of Utah. This request is intended solely to preserve the historical identity of the Utah Teapot and is not intended to restrict use of the model. The model files are provided “as is,” without warranty of any kind. The provider of these files shall not be liable for any claims, damages, or other liability arising from their use. The Utah Teapot w"
+    },
+    "verdict": {
+      "model": "jev-1.13.0",
+      "score": 2.63,
+      "category": "Research",
+      "category_confidence": 0.65
+    }
+  },
+  {
+    "canonical_url": "https://termsheetplease.com/",
+    "url": "https://termsheetplease.com/",
+    "found_at": "2026-11-12T13:45:03+00:00",
+    "sources": [
+      {
+        "name": "hn",
+        "id": "50457230",
+        "title": "Show HN: I recreated Papers Please but you're deciding which YC startups to fund",
+        "discussion_url": "https://news.ycombinator.com/item?id=50457230",
+        "score": 230,
+        "comments": 88,
+        "created_at": "2026-11-11T19:12:16Z"
+      }
+    ],
+    "page": {
+      "final_url": "https://termsheetplease.com/",
+      "status": 200,
+      "title": "Term Sheet, Please",
+      "description": "YC founders are raising a round. Inspect the financials, question the records, and decide who gets funded.",
+      "og_image": "https://termsheetplease.com/assets/social-preview.png?v=title-only-20261110",
+      "favicon": "https://termsheetplease.com/favicon.ico?v=striped-badge-20261106",
+      "text_excerpt": "NEXT 16:12 1 DAY AFTER DEMO DAY CASE 01 MAIL NOTES 17:00 INSPECT Term Sheet, Please STORY created by Bo Lau"
+    },
+    "verdict": {
+      "model": "jev-1.13.0",
+      "score": 2.72,
+      "category": "Games",
+      "category_confidence": 0.88
+    }
+  },
+  {
+    "canonical_url": "https://lpeproject.org/blog/your-retirement-savings-are-fueling-the-ai-bubble/",
+    "url": "https://lpeproject.org/blog/your-retirement-savings-are-fueling-the-ai-bubble/",
+    "found_at": "2026-11-12T13:45:03+00:00",
+    "sources": [
+      {
+        "name": "hn",
+        "id": "50457164",
+        "title": "Retirement Savings Are Fueling the AI Bubble",
+        "discussion_url": "https://news.ycombinator.com/item?id=50457164",
+        "score": 160,
+        "comments": 175,
+        "created_at": "2026-11-11T19:06:43Z"
+      }
+    ],
+    "page": {
+      "final_url": "https://lpeproject.org/blog/your-retirement-savings-are-fueling-the-ai-bubble/",
+      "status": 200,
+      "title": "Your Retirement Savings Are Fueling the AI Bubble",
+      "description": "Americans overwhelming oppose the AI data center buildout. Their retirement accounts are funding it anyway.",
+      "og_image": "https://lpeproject.org/wp-content/uploads/2020/08/cropped-Screen-Shot-2020-08-13-at-6.04.41-PM.png",
+      "favicon": "https://lpeproject.org/wp-content/uploads/2020/08/cropped-LPE_Favicon_512px_BlackBG-450x450.png",
+      "text_excerpt": "Skip to content Main Navigation ABOUT ENGAGE EVENTS LEARN BLOG Search for: YOUR RETIREMENT SAVINGS ARE FUELING THE AI BUBBLE LENORE PALLADINO Lenore Palladino (@lenorepalladino) is an associate professor of economics and public policy at the University of Massachusetts, Amherst. PUBLISHED 11.09.26 SHARE EMAIL FACEBOOK TWITTER PRINT BLUESKY Lenore Palladino (@lenorepalladino) is an associate professor of economics and public policy at the University of Massachusetts, Amherst. Are we on the brink of the next financial crisis? Last Thursday, there was a “bloodbath in tech stocks,” as the stock market lost $3.2 trillion in a single day. The media is blaming the “blue wave,” but anxiety about the AI boom was already rising before the election. The week prior, on October 29, the “Magnificent Seven”—the tech companies that have driven much of the stock market’s recent growth—lost nearly a trillion dollars in value. The immediate catalyst for that sell-off was the realization that Google, Amazon, and Meta have all become “cash incinerators,” as their latest earnings reports showed astronomical spending on AI and a growing reliance on borrowing. The question that skeptics have long raised about the data center buildout has suddenly reached a fever pitch: will there actually be enough demand for AI for the companies to cover these massive investments and pay back their loans? What has yet to enter public consciousness, however, is the extent to which working people’s financial assets have been used to fuel this bubble. Individuals protesting data centers often have no idea that their retirement accounts are being used to finance the companies responsible for these projects. Nor are they aware that they are at risk of being left holding the bag. As “private” credit and equity funds have become a new center of gravity in financial markets, our public pension fund systems have increasingly allocated the retirement savings of public sector workers to these opaque, unregulated ins"
+    },
+    "verdict": {
+      "model": "jev-1.13.0",
+      "score": 1.14,
+      "category": "Finance",
+      "category_confidence": 0.67
+    }
+  },
+  {
+    "canonical_url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/",
+    "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/",
+    "found_at": "2026-11-12T13:45:03+00:00",
+    "sources": [
+      {
+        "name": "hn",
+        "id": "50456791",
+        "title": "Gemini Decisions API",
+        "discussion_url": "https://news.ycombinator.com/item?id=50456791",
+        "score": 478,
+        "comments": 146,
+        "created_at": "2026-11-11T18:32:42Z"
+      },
+      {
+        "name": "pinboard",
+        "title": "Gemini Decisions API: Fast, calibrated multimodal decisions"
+      }
+    ],
+    "page": {
+      "final_url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/",
+      "status": 200,
+      "title": "Gemini Decisions API: Fast, calibrated multimodal decisions",
+      "description": "Meet the Gemini Decisions API, powered by our state-of-the-art model Gemini Decision for fast, calibrated multimodal decisions.",
+      "og_image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini__decisions__blog-header_2784x1566.width-1300.png",
+      "favicon": "https://blog.google/static/blogv2/images/favicon.ico?version=pr20261029-2131",
+      "text_excerpt": "Skip to main content Innovation & AI Products & platforms Company news Feed Newsletter Home Innovation & AI Technology Developer tools Gemini Decisions API: Fast, calibrated multimodal decisions Nov 11, 2026 6 min read Introducing the Gemini Decisions API, powered by our new Gemini Decision 1 model. Evaluate up to 1,000 yes/no, choice, and rubric-scoring questions in a fast, single pass across text, images, audio, video, and PDFs. Min Choi Product Manager, Google DeepMind Felix Yu Principal Scientist, Google DeepMind Share Listen to article 6:01 minutes Read AI-generated summary Today, we’re introducing the Gemini Decisions API, a new endpoint for fast, closed-set decisions powered by our new Gemini Decision 1 model (gemini-decision-1), available through the Gemini API in Google AI Studio. The Decisions API gives you purpose-built primitives for bounded choices like tool selection, policy checks, model routing, and context grading. You can pass one multimodal input across text, images, audio, video, and PDFs (up to 256K tokens) along with up to 1,000 independent questions. Rather than generating answer text token by token, Gemini Decision 1 scores your candidate options in a single forward pass, returning probabilities and confidence scores in 150-250 ms end-to-end latency at $0.10 per 1M input tokens with zero output tokens billed. Strong performance and calibration On benchmarks spanning agent routing, reasoning, ranking, and multimodal understanding, Gemini Decision 1 leads across the suite, with the lowest calibration error. Gemini Decision 1 scores options without token-by-token decoding, keeping median latency 50-100 ms of model compute (150-250 ms end-to-end), across multimodal inputs and contexts up to 16K tokens, remaining nearly flat from 1 to 100 questions per request. With zero output tokens billed, Gemini Decision 1 with the Decisions API is nearly 5x cheaper across the shared benchmark suite than Gemini 3.5 Flash-Lite with the Interactions API. Native "
+    },
+    "verdict": {
+      "model": "jev-1.13.0",
+      "score": 2.25,
+      "category": "Developer Tools",
+      "category_confidence": 0.99
+    }
+  },
+  {
+    "canonical_url": "https://www.allthingsdistributed.com/2026/11/aws-emulator-and-the-engineers-job-when-agents-write-the-code.html",
+    "url": "https://www.allthingsdistributed.com/2026/11/aws-emulator-and-the-engineers-job-when-agents-write-the-code.html",
+    "found_at": "2026-11-12T13:45:03+00:00",
+    "sources": [
+      {
+        "name": "hn",
+        "id": "50456740",
+        "title": "AWS Emulator and the engineer's job when agents write the code",
+        "discussion_url": "https://news.ycombinator.com/item?id=50456740",
+        "score": 111,
+        "comments": 2,
+        "created_at": "2026-11-11T18:28:31Z"
+      },
+      {
+        "name": "pinboard",
+        "title": "AWS Emulator and the engineer's job when agents write the code | All Things Distributed"
+      }
+    ],
+    "page": {
+      "final_url": "https://www.allthingsdistributed.com/2026/11/aws-emulator-and-the-engineers-job-when-agents-write-the-code.html",
+      "status": 200,
+      "title": "AWS Emulator and the engineer's job when agents write the code",
+      "description": "AWS Emulator, launched today and written and tested entirely by agents, gives you a local copy of more than 200 AWS services to test against. Swami Sivasubramanian recalls the high-fidelity simulation his team built to test one of Amazon's earliest distributed systems, and writes about how the engineer's work changes when agents write the code.",
+      "og_image": "https://www.allthingsdistributed.com/images/aws-emulator-header.jpg",
+      "favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNk+A8AAQUBAScY42YAAAAASUVORK5CYII=",
+      "text_excerpt": "ALL THINGS DISTRIBUTED NOW GO BUILD! ARTICLES @WERNER AWS Emulator and the engineer's job when agents write the code November 11, 2026 • 1671 words In 2004, barely a month into my new job at Amazon, I got the opportunity to pick an intern to join my team. I had an advantage over my colleagues: I had already heard about a brilliant young man working toward his PhD at the Vrije Universiteit in Amsterdam (where I happened to have received mine as well :-)). I immediately picked Swaminathan Sivasubramanian, whom you all now know as Swami. It was probably one of the best decisions I have made in my 22 years as Amazon’s CTO. After a disastrous Christmas in 2004, when commercial relational databases could not scale to Amazon’s needs, I asked Swami to do a deep dive into how relational databases were actually used at Amazon. It turned out that 70% of database operations were not relational at all. They were key-value. That insight led to Dynamo, which Swami helped architect. When his internship was over, I hired him full-time right away, even before he had finished his PhD. Bringing in another opinionated academic led to many fantastic discussions with Amazon’s practical engineers, who had become scale experts by actually building at scale. Eventual vs. strong consistency, CAP vs. Paxos, and more. Over time, Swami became one of the principal architects of AWS’s data strategy. And as we have seen in recent years, he has also been one of the intellectual drivers behind AI innovation at Amazon. I am honoured that he wanted to write a guest post about the fundamental distributed systems work that sits behind many of AWS’s services, and about how the engineer’s work changes when agents write the code. AWS Emulator, launched today, gives agents the kind of test environment that work relied on. Swami’s story is another great example of invisible engineering. Now, go build. -W AWS Emulator and the engineer's job when agents write the code Today we release AWS Emulator, which gives "
+    },
+    "verdict": {
+      "model": "jev-1.13.0",
+      "score": 2.92,
+      "category": "Software Engineering",
+      "category_confidence": 0.46
+    }
+  },
+  {
+    "canonical_url": "https://github.com/aws/aws-emulator",
+    "url": "https://github.com/aws/aws-emulator",
+    "found_at": "2026-11-12T13:45:03+00:00",
+    "sources": [
+      {
+        "name": "hn",
+        "id": "50456631",
+        "title": "AWS emulator",
+        "discussion_url": "https://news.ycombinator.com/item?id=50456631",
+        "score": 895,
+        "comments": 249,
+        "created_at": "2026-11-11T18:21:38Z"
+      },
+      {
+        "name": "pinboard",
+        "title": "GitHub - aws/aws-emulator: AWS Emulator is a local emulator of the AWS APIs. · GitHub"
+      }
+    ],
+    "github": {
+      "repo_url": "https://github.com/aws/aws-emulator",
+      "homepage": "https://docs.aws.amazon.com/emulator/latest/userguide/what-is-service.html",
+      "description": "AWS Emulator is a local emulator of the AWS APIs.",
+      "topics": [],
+      "stars": 3903,
+      "created_at": "2026-09-11T19:01:12Z",
+      "pushed_at": "2026-11-11T00:32:10Z",
+      "owner_avatar": "https://avatars.githubusercontent.com/u/2232217?v=4"
+    },
+    "page": {
+      "final_url": "https://github.com/aws/aws-emulator",
+      "status": 200,
+      "title": "GitHub - aws/aws-emulator: AWS Emulator is a local emulator of the AWS APIs.",
+      "description": "AWS Emulator is a local emulator of the AWS APIs. Contribute to aws/aws-emulator development by creating an account on GitHub.",
+      "og_image": "https://opengraph.githubassets.com/d13af2454f861a3e4877a37c52dbdacf4976335aca441305d7efb86c5c848d1b/aws/aws-emulator",
+      "favicon": "https://github.com/fluidicon.png",
+      "text_excerpt": "Skip to content Navigation Menu Products Developers Businesses Resources Pricing Search / Sign in Sign up aws aws-emulator Repository navigation Code Issues 74 (74) Actions Projects Security and quality Insights aws-emulator Public Notifications Fork98 (98) Star3.9k (3.9k) main 1 Branch 12 Tags Code Latest commit IssueFinderAgent issue: file 2 issues 7753983 · History 29,684 Commits Folders and files Name Last commit message Last commit date .emulator feat: add service service-com-amazonaws-accountaccessruntime-awsaccou… .github chore: update core components core fix: lambda-pipes-sqs-2-net-new-causes-a-40c11a issues issue: file 2 issues services fix: cognito-idp-getuser-refuses-a-revoked-access-token vendor chore: update core components .gitattributes Update core components .gitignore Initial emulator scaffold AGENTS.md chore: update core components Cargo.lock fix: iam-10-net-new-behavioral-root-causes-simulateprincipalpolicy Cargo.toml feat: add service service-com-amazonaws-accountaccessruntime-awsaccou… LICENSE Initial emulator scaffold README.md chore: update core components Repository files navigation README Code of conduct Contributing CC0-1.0 license Security AWS Emulator README AWS Emulator is a local emulator of the AWS APIs. You use it to test your software without calling AWS, on your own machine, on a development server, or in continuous integration (CI). You don’t need an AWS account. Your requests go to the emulator, not to AWS. So you work with emulated resources instead of AWS resources. AWS Emulator has no additional service fee. You pay only for AWS resources when you deploy on AWS. The emulator is a local program that serves an AWS API endpoint. It has no graphical interface. After you start the emulator, you set environment variables to point the AWS CLI or an AWS SDK at its endpoint. Then you run your code as usual. In embedded mode, you pass the emulator’s HTTP client to your SDK instead. AWS Emulator is for building and testing. Don’t use it "
+    },
+    "homepage": {
+      "final_url": "https://docs.aws.amazon.com/emulator/latest/userguide/what-is-service.html",
+      "status": 200,
+      "title": "What is AWS Emulator? - AWS Emulator",
+      "description": "AWS Emulator is a local emulator of the AWS APIs that you can use to test your software on your own machine, without deploying on AWS.",
+      "og_image": "",
+      "favicon": "https://docs.aws.amazon.com/assets/images/favicon.ico",
+      "text_excerpt": "Skip to main content English Preferences Contact Us Feedback Get started Service guides Developer tools AI resources Search Create an AWS Account AWS Emulator User Guide What is AWS Emulator? Getting started Command reference Fidelity Versions and compatibility Security Telemetry Related resources Documentation AWS Emulator User Guide Documentation AWS Emulator User Guide What is AWS Emulator? PDF Markdown Agent Setup Focus mode AWS Emulator is a local emulator of the AWS APIs. You use it to test your software without calling AWS, on your own machine, on a development server, or in continuous integration (CI). You don’t need an AWS account. Your requests go to the emulator, not to AWS. So you work with emulated resources instead of AWS resources. AWS Emulator has no additional service fee. You pay only for AWS resources when you deploy on AWS. The emulator is a local program that serves an AWS API endpoint. It has no graphical interface. After you start the emulator, you set environment variables to point the AWS CLI or an AWS SDK at its endpoint. Then you run your code as usual. In embedded mode, you pass the emulator’s HTTP client to your SDK instead. The emulator doesn’t send your requests, responses, or resource data to AWS. By default, it sends anonymous usage and error data, which you can turn off. For more information, see Telemetry in AWS Emulator. On Linux, you install AWS Emulator from an RPM or Debian package for x86_64 or aarch64, and run it as a command-line tool. On macOS and Windows, you run it in Docker, from an image that you build with our Dockerfile. For tests written in Rust with the AWS SDK for Rust, you can also run the emulator inside your test process. For more information, see Getting started with AWS Emulator. Topics Use cases Examples Limitations How AWS Emulator keeps improving Features of AWS Emulator Learn more Use cases AWS Emulator helps you to test your application code locally before deploying to AWS. You can use it for the followin"
+    },
+    "verdict": {
+      "model": "jev-1.13.0",
+      "score": 3.05,
+      "category": "Developer Tools",
+      "category_confidence": 1.0
+    },
+    "screenshot": "shots/2026/11-12/github-com-aws-aws-emulator.jpg"
+  },
+  {
+    "canonical_url": "https://machinelearning.apple.com/research/faster-retrieval",
+    "url": "https://machinelearning.apple.com/research/faster-retrieval",
+    "found_at": "2026-11-12T13:45:03+00:00",
+    "sources": [
+      {
+        "name": "hn",
+        "id": "50455633",
+        "title": "Faster Retrieval for Better, More Efficient RAG",
+        "discussion_url": "https://news.ycombinator.com/item?id=50455633",
+        "score": 220,
+        "comments": 38,
+        "created_at": "2026-11-11T16:57:45Z"
+      }
+    ],
+    "page": {
+      "final_url": "https://machinelearning.apple.com/research/faster-retrieval",
+      "status": 200,
+      "title": "Faster Retrieval for Better, More Efficient RAG",
+      "description": "Maximum inner product search (MIPS) sits at the core of recommendation systems, search, and retrieval-augmented generation (RAG). Given a…",
+      "og_image": "https://mlr.cdn-apple.com/media/Home_1200x630_48225d82e9.png",
+      "favicon": "https://machinelearning.apple.com/favicon.ico",
+      "text_excerpt": "Machine Learning Research Overview Research Highlights Publications Events Work with us Content Type Highlight published November 5, 2026 Faster Retrieval for Better, More Efficient RAG Maximum inner product search (MIPS) sits at the core of recommendation systems, search, and retrieval-augmented generation (RAG). Given a query vector, MIPS systems search within a database of millions of candidate key vectors for the one that best matches the query. The original data point associated with that best-matching key is then used to handle the query: in RAG, the document that is best suited to answer the question is typically prefixed to the query. As the number of keys grows to millions and vector dimensions reach thousands, the computational cost of running an exhaustive comparison of the query to all keys grows dramatically. Numerous approximate methods have been proposed to trade off accuracy for speed using clustering and quantization. While these baseline methods focus on the properties of the set of keys to build up clever indexing structures, their geometric arguments loosely assume that the set of queries itself will resemble that found in keys, or bypass any considerations about what the queries will look like. This can be problematic on two fronts: In the crucial RAG case, queries arise from short user-generated questions, whereas keys represent long, informative, and curated pieces of text, making keys and queries substantially different. Additionally, most MIPS use cases deployed in production target an existing base of users with a stable, well-characterized query distribution — a signal that generic, query-agnostic methods leave untapped. Crafting methods that work best for a likely source of inputs — rather than aiming for good performance on all possible inputs — is a central tenet of modern machine learning that helps redirect compute resources more efficiently. In Amortizing Maximum Inner Product Search with Learned Support Functions, a paper presented "
+    },
+    "verdict": {
+      "model": "jev-1.13.0",
+      "score": 2.38,
+      "category": "Research",
+      "category_confidence": 0.99
+    }
+  },
+  {
+    "canonical_url": "https://michael.bacarella.com/2026/11/10/false-smoke-alarm-jane-street-datacenter/",
+    "url": "https://michael.bacarella.com/2026/11/10/false-smoke-alarm-jane-street-datacenter/",
+    "found_at": "2026-11-12T13:45:03+00:00",
+    "sources": [
+      {
+        "name": "hn",
+        "id": "50455394",
+        "title": "A false smoke alarm almost drowned Jane Street's only NYC datacenter",
+        "discussion_url": "https://news.ycombinator.com/item?id=50455394",
+        "score": 524,
+        "comments": 253,
+        "created_at": "2026-11-11T16:38:44Z"
+      }
+    ],
+    "page": {
+      "final_url": "https://michael.bacarella.com/2026/11/10/false-smoke-alarm-jane-street-datacenter/",
+      "status": 200,
+      "title": "How a false smoke alarm almost drowned Jane Street’s only NYC datacenter",
+      "description": "A war story from Jane Street’s systems team: a false smoke alarm, a datacenter with no cooling, and a sprint to pull every power cord before the sprinklers went off",
+      "og_image": "https://michael.bacarella.com/assets/mbacface.jpg",
+      "favicon": "https://michael.bacarella.com/assets/favicon.png",
+      "text_excerpt": "Michael Bacarella_ Posts of varying effort on technology, cybersecurity, transhumanism, rationalism, self-improvement, DIY, and other stereotypical technologist stuff. How a false smoke alarm almost drowned Jane Street's only NYC datacenter jane street war stories datacenter Published on 10 Nov 2026 by mbacarella A war story from Jane Street's systems team: a false smoke alarm, a datacenter with no cooling, and a sprint to pull every power cord before the sprinklers went off AI disclosure: this story was written entirely by human hands, with AI doing proof-reading and light edits. Some tasteful imperfections kept to heighten Wabi-Sabi effect. Everyone’s heard of how awesome Jane Street is. Fewer people have heard about the times something stupid nearly put it out of business and it was saved by grit and dumb luck. I was on the systems team for some of those. Jane Street didn’t do titles, and we on the systems team weren’t above getting our hands dirty. You could think of us as the firm’s blue-collar OCaml programmers: when something broke, we were the ones running through the corridors to fix it. Call this story a Star Trek: Lower Decks view of Jane Street. For the longest time Jane Street insisted on having its machine room close to its trading floor. When it was 10 people it was cute. When it was 150 people it was starting to feel… odd. Part of the reason for this was intellectual property concern: they didn’t want to risk having their servers stolen by spies who would learn their precious trading strategies. Another reason was technology risk: they wanted to make sure out-of-control automated trading systems could always be shut down by running across the hall and pulling power cables. Yes, tools existed to mitigate both of these fears. But Jane Street moved irritatingly slowly on this stuff, and they still wanted the last-resort option of yanking power cords. Their risk culture didn’t exclusively come from reading heady thinkpieces. A lot of it was instilled by "
+    },
+    "verdict": {
+      "model": "jev-1.13.0",
+      "score": 2.06,
+      "category": "Blog",
+      "category_confidence": 0.71
+    }
+  },
+  {
+    "canonical_url": "https://cabird.com/talks/shipping-faster/",
+    "url": "https://cabird.com/talks/shipping-faster/",
+    "found_at": "2026-11-12T13:45:03+00:00",
+    "sources": [
+      {
+        "name": "hn",
+        "id": "50455332",
+        "title": "AI, activity, and outcomes in software engineering",
+        "discussion_url": "https://news.ycombinator.com/item?id=50455332",
+        "score": 119,
+        "comments": 109,
+        "created_at": "2026-11-11T16:33:28Z"
+      }
+    ],
+    "page": {
+      "final_url": "https://cabird.com/talks/shipping-faster/",
+      "status": 200,
+      "title": "Why aren't we shipping faster now?",
+      "description": "AI, activity, and outcomes in software engineering. A talk at UC Irvine, October 2026. Video and slides.",
+      "og_image": "https://cabird.com/talks/shipping-faster/title.jpg",
+      "favicon": "https://cabird.com/favicon.ico",
+      "text_excerpt": "TALK · UC IRVINE SOFTWARE ENGINEERING SEMINAR · OCTOBER 30, 2026 Why aren’t we shipping faster now? AI, activity, and outcomes in software engineering Christian Bird, Dryden Technology Group 21 minutes, with captions. Also on YouTube. SLIDES Handout19 pages, 3.8 MB One page per picture. The version to read. Full deck41 pages, 4.0 MB Every build step, as shown in the talk. PAPERS Cha, Badea, Baym, Bird, Butler, Murphy-Hill, Hadley. The Activity-Outcome Gap: Why AI Does Not Solve Software Engineering. In submission, 2026. The 30 interviews; a link will appear here when the paper is public. Demirer, Musolff, Yang. Writing Code vs. Shipping Code: Productivity Effects Across Generations of AI Coding Tools. NBER Working Paper 35275, 2026. nber.org/papers/w35275 Choudhuri, Butler, Bird, Badea, Houck, Sarma. “To Boldly Go Where No One Has Gone Before”: What Has AI Let Developers Unlock? 2026. arXiv:2610.23708 Jensen Huang, Computex keynote, Taipei, 29 May 2023, as reported by Reuters. Yang, He, Cheng, Butler, Murphy-Hill, Badea, Bird. (When) Should a Software Factory Be Lights-Off? Benchmarking Code Review Agents on Bug Detection. 2026. arXiv:2610.13668 Choudhuri, Bird, Badea, Gerosa, Sarma. You Shall Not Pass! Where and Why Developers Draw the Line on AI Autonomy. 2026. arXiv:2607.00533 Miller, Choudhuri, Ulloa, Haniyur, DeLine, Storey, Murphy-Hill, Bird, Butler. “Maybe We Need Some More Examples”: Individual and Team Drivers of Developer GenAI Tool Use. ICSE 2026. arXiv:2507.21280 cabird.com"
+    },
+    "verdict": {
+      "model": "jev-1.13.0",
+      "score": 1.99,
+      "category": "Software Engineering",
+      "category_confidence": 0.93
+    }
+  },
+  {
+    "canonical_url": "https://github.com/FrigadeHQ/yogurt",
+    "url": "https://github.com/FrigadeHQ/yogurt",
+    "found_at": "2026-11-12T13:45:03+00:00",
+    "sources": [
+      {
+        "name": "hn",
+        "id": "50454625",
+        "title": "Show HN: Yogurt – Free, private, open-source alternative to Granola",
+        "discussion_url": "https://news.ycombinator.com/item?id=50454625",
+        "score": 266,
+        "comments": 98,
+        "created_at": "2026-11-11T15:33:06Z"
+      }
+    ],
+    "github": {
+      "repo_url": "https://github.com/FrigadeHQ/yogurt",
+      "homepage": "https://yogurt.so",
+      "description": "Private AI meeting notes. Free and open source.",
+      "topics": [
+        "electron",
+        "linux",
+        "llama-cpp",
+        "local-ai",
+        "macos",
+        "mcp",
+        "meeting-notes",
+        "open-source",
+        "privacy",
+        "transcription",
+        "whisper",
+        "windows"
+      ],
+      "stars": 757,
+      "created_at": "2026-11-10T20:01:01Z",
+      "pushed_at": "2026-11-12T08:49:35Z",
+      "owner_avatar": "https://avatars.githubusercontent.com/u/117952255?v=4"
+    },
+    "page": {
+      "final_url": "https://github.com/FrigadeHQ/yogurt",
+      "status": 200,
+      "title": "GitHub - FrigadeHQ/yogurt: Private AI meeting notes. Free and open source.",
+      "description": "Private AI meeting notes. Free and open source. Contribute to FrigadeHQ/yogurt development by creating an account on GitHub.",
+      "og_image": "https://repository-images.githubusercontent.com/1453132706/355ef15b-b53b-4211-bd76-47cdaad9ef5b",
+      "favicon": "https://github.com/fluidicon.png",
+      "text_excerpt": "Skip to content Navigation Menu Products Developers Businesses Resources Pricing Search / Sign in Sign up FrigadeHQ yogurt Repository navigation Code Issues 8 (8) Pull requests 6 (6) Actions Projects Security and quality Insights yogurt Public Notifications Fork26 (26) Star757 (757) main 7 Branches 7 Tags Code Latest commit brownrout site: the hero's last sentence gets its own line, and the demo runs t… ab8fb17 · History 92 Commits Folders and files Name Last commit message Last commit date .github/workflows ci: Linux package installs retry, then fall back to archive.ubuntu.co… app summary ring: the dark halo hugs the ring instead of sitting 2px out,… catalog Initial commit docs README: features, a demo video, how it works in three steps, and an F… packages/picker Initial commit patches Linux: notes load with the runAsNode fuse off (#9), the AppImage star… site site: the hero's last sentence gets its own line, and the demo runs t… .gitignore polish website demo and how it works .npmrc Initial commit .nvmrc Initial commit LICENSE Initial commit README.md README: features, a demo video, how it works in three steps, and an F… THIRD_PARTY_NOTICES.md Initial commit package.json Initial commit pnpm-lock.yaml Linux: notes load with the runAsNode fuse off (#9), the AppImage star… pnpm-workspace.yaml Linux: notes load with the runAsNode fuse off (#9), the AppImage star… tsconfig.base.json Initial commit Repository files navigation README MIT license Private AI meeting notes. Free and open source. Download for Mac · Windows · Linux Yogurt records your calls without adding a bot to the meeting. macOS 14.4+ (Apple Silicon) · Windows 10 2004+ (x64) · Ubuntu 22.04+ or similar (x64 AppImage) · 8 GB memory yogurt.so · Help · Build and run locally · MIT license Made by Frigade. What it does Live transcripts. Yogurt records calls and turns speech into text as you talk. Meeting summaries. Yogurt writes up the conversation and any notes you add. Private by default. Your audio, transcri"
+    },
+    "homepage": {
+      "final_url": "https://www.yogurt.so/",
+      "status": 200,
+      "title": "Yogurt · AI meeting notes that stay on your computer",
+      "description": "Yogurt takes meeting notes with AI that runs locally on Mac, Windows and Linux. No bot joins the call. Free and open source.",
+      "og_image": "https://yogurt.so/marketing/assets/og-image.png",
+      "favicon": "https://www.yogurt.so/marketing/assets/mark.svg",
+      "text_excerpt": "Skip to content How it works Privacy GitHub ↗ Download Backed by Y Combinator Take note. Private AI meeting notes. Free and open source. Because your business should never be anyone else’s. Download for Mac View on GitHub Also for Windows and Linux How Yogurt works. 1 1 Talk. Jot a thought. Yogurt transcribes the call. Add a note when something matters to you. 2 2 Leave with a clear plan. After the call, your thoughts and the conversation become one set of notes. 3 3 Ask what you missed. Get an answer from the meeting, with the original transcript close by. Yogurt doesn’t join your meetings. It records your microphone and the audio playing on your computer. Nobody else on the call needs to install anything. In this call 3 KM Kara Moore Speaking RM Ray Mones Speaking Y You Speaking Yogurt Listening locally Audio 24:16 Transcript “We can publish Tuesday.” Ray · 11:53 Summary Launch plan ✓ Launch · Tuesday Your meetings Audio · Transcripts · Notes Everything stays on your computer. The AI runs on your computer, so your recordings, transcripts, and notes are never uploaded. FAQ What kind of computer do I need? Windows says “Windows protected your PC.” What do I do? Does Yogurt join my meetings? Are recordings saved? Is Yogurt free? Does Yogurt work offline? Private AI meeting notes. Free and open source. Download for Mac macOS 14.4+ · Apple Silicon (M1+) Also for Windows and Linux Yogurt How it works Privacy FAQ Open source Source code ↗ Releases ↗ Feedback ↗ © 2026 Frigade Made by"
+    },
+    "verdict": {
+      "model": "jev-1.13.0",
+      "score": 3.37,
+      "category": "Productivity",
+      "category_confidence": 0.95
+    },
+    "screenshot": "shots/2026/11-12/github-com-frigadehq-yogurt.jpg"
+  },
+  {
+    "canonical_url": "https://massimo-nocentini.github.io/pharo-vm/world.html",
+    "url": "https://massimo-nocentini.github.io/pharo-vm/world.html",
+    "found_at": "2026-11-12T13:45:03+00:00",
+    "sources": [
+      {
+        "name": "hn",
+        "id": "50453763",
+        "title": "Pharo in the Browser with WebAssembly",
+        "discussion_url": "https://news.ycombinator.com/item?id=50453763",
+        "score": 130,
+        "comments": 37,
+        "created_at": "2026-11-11T14:21:27Z"
+      }
+    ],
+    "page": {
+      "final_url": "https://massimo-nocentini.github.io/pharo-vm/world.html",
+      "status": 200,
+      "title": "Pharo World",
+      "description": "The Pharo world, the Smalltalk environment, running in your browser on WebAssembly.",
+      "og_image": "",
+      "favicon": "https://massimo-nocentini.github.io/pharo-vm/favicon.png?v=46d75a6ea-ecaa603737b5",
+      "text_excerpt": "Stop Save Save as… Download Open File in Images Settings Console Choose an image Choose a Pharo image Choose a Pharo image Third-party notices Images START FRESH Pharo 13.1 build 749 · 23.1 MB download Pharo 14 build 785 · 23.6 MB download Pharo 15 build 50 · 23.6 MB download (default) SAVED IN THIS BROWSER Images you save appear here. They stay in this browser only; Download keeps a copy. Open a file… Using 0.0 MB of about 965.1 MB in this browser Keep my images safe from cleanup"
+    },
+    "verdict": {
+      "model": "jev-1.13.0",
+      "score": 3.03,
+      "category": "Developer Tools",
+      "category_confidence": 0.94
+    },
+    "screenshot": "shots/2026/11-12/massimo-nocentini-github-io-pharo-vm-world-html.jpg"
+  },
+  {
+    "canonical_url": "https://blog.atuin.sh/threads-agent-sessions/",
+    "url": "https://blog.atuin.sh/threads-agent-sessions/",
+    "found_at": "2026-11-12T13:45:03+00:00",
+    "sources": [
+      {
+        "name": "hn",
+        "id": "50453637",
+        "title": "Atuin Threads: All your agent sessions on every machine",
+        "discussion_url": "https://news.ycombinator.com/item?id=50453637",
+        "score": 226,
+        "comments": 80,
+        "created_at": "2026-11-11T14:10:46Z"
+      }
+    ],
+    "page": {
+      "final_url": "https://blog.atuin.sh/threads-agent-sessions/",
+      "status": 200,
+      "title": "Atuin Threads: All your agent sessions on every machine",
+      "description": "Atuin Threads: one searchable, synced history for every agent session, on every machine\n\nStart a task in Claude Code, then resume it in Codex",
+      "og_image": "",
+      "favicon": "https://storage.ghost.io/c/66/46/6646b777-02d8-44b3-9d01-dd721730b905/content/images/size/w256h256/2024/01/Atuin_Mascot-_01_square.png",
+      "text_excerpt": "Home Blog Forum Sign in Subscribe Atuin Threads: All your agent sessions on every machine Atuin Threads: one searchable, synced history for every agent session, on every machine Start a task in Claude Code, then resume it in Codex Ellie Huxtable 27 Oct 2026 — 4 min read Share Atuin Threads: one searchable, synced history for every agent session, on every machine Start a task in Claude Code, then resume it in Codex on another machine — with all context intact. Install, then run atuin resume Over the past year or two, how I use my terminal has changed dramatically. For years I was the sole user of my shell, and everything in my Atuin history was authored by me. Now, more than half the commands running on my machines weren’t written by me. These days, much of my work happens through a coding agent, typed into a little “Topsy-turvying” text box. But while my shell history follows me everywhere, my agent sessions do not. They're scattered across different tools and machines (a laptop, a dev server, ephemeral instances on exe.dev, a surprisingly cheap bare metal box in Germany), difficult to search, and often forgotten once I've moved on. It’s a familiar problem! I started working on Atuin because the history of my work was ephemeral: every command I typed was destined to vanish on line 501 of .bash_history. But once this work became indexed, everlasting, and easy to recall, I could find the exact command I’d used to fix something years ago, in seconds. Over the years, this data compounded. It became the history of all of my work, the record of how I solved problems and built things. Shell history has always been an excellent record of what happened, but it’s only the surface. It never kept the reasoning… or the intentions behind what I was trying to do. I could only find a command if I remembered a part of it, though often I remembered what I was trying to achieve more readily. Agent sessions store the lot of it. Every command, its output, my intent, and everything I tri"
+    },
+    "verdict": {
+      "model": "jev-1.13.0",
+      "score": 2.95,
+      "category": "Developer Tools",
+      "category_confidence": 0.92
+    }
+  },
+  {
+    "canonical_url": "https://www.theverge.com/tech/1031507/apple-community-support-forum-shutting-down",
+    "url": "https://www.theverge.com/tech/1031507/apple-community-support-forum-shutting-down",
+    "found_at": "2026-11-12T13:45:03+00:00",
+    "sources": [
+      {
+        "name": "hn",
+        "id": "50453555",
+        "title": "Apple is killing its Support Community forum next week",
+        "discussion_url": "https://news.ycombinator.com/item?id=50453555",
+        "score": 256,
+        "comments": 3,
+        "created_at": "2026-11-11T14:02:11Z"
+      }
+    ],
+    "page": {
+      "final_url": "https://www.theverge.com/tech/1031507/apple-community-support-forum-shutting-down",
+      "status": 200,
+      "title": "Apple is killing its Support Community forum next week",
+      "description": "The Apple Support Community platform is now read-only, and will permanently close on November 20th.﻿",
+      "og_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Apple-Support-Community-forum.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "favicon": "https://www.theverge.com/static-assets/icons/favicon.ico",
+      "text_excerpt": "SKIP TO MAIN CONTENT The homepage SUBSCRIBE SIGN IN Tech Reviews Science Entertainment AI Policy Apple is killing its Support Community forum next week 25 TECH NEWS APPLE Apple is killing its Support Community forum next week The Apple Support Community platform is now read-only, and will permanently close on November 20th.﻿ by Jess Weatherbed Nov 11, 2026, 12:19 PM UTC 25 25 Comments (All New) Image: Apple Jess Weatherbed is a news writer focused on creative industries, computing, and internet culture. Jess started her career at TechRadar, covering news and hardware reviews. It’s the end of the road for the Apple Support Community. The dedicated discussion forum, which gave Apple users a place to exchange advice, troubleshoot, and generally chat about Apple products, has been placed into read-only mode, with a message from the company announcing that the Support Community will shut down for good on November 20th. Here’s the full banner notice that’s currently displayed on the website: “The Apple Support Community will permanently close on November 20, 2026. Starting today, the site will no longer accept new posts and is available in a read-only state. You can continue to find trusted guidance and support on the official Apple Support site. We want to thank the community members who have contributed their time and expertise to help others with their Apple products.” The Apple Support Community has undergone several name changes over the years, but its history as an online forum for providing user-to-user tech support goes back to 1998, when it first launched as the Apple Tech Exchange. Apple hasn’t specified what will happen to the decades worth of Support Community posts when the platform shuts down next week. Presumably, they’ll all disappear with it. In a statement to MacRumors, Apple said it decided to sunset the Apple Support Community after a careful evaluation of strategy and customer needs. We have reached out to Apple for comment. 25 COMMENTS Follow topics "
+    },
+    "verdict": {
+      "model": "jev-1.13.0",
+      "score": 0.48,
+      "category": "News",
+      "category_confidence": 0.68
+    }
+  },
+  {
+    "canonical_url": "https://www.theverge.com/tech/1012372/tv-privacy-acr-questions",
+    "url": "https://www.theverge.com/tech/1012372/tv-privacy-acr-questions",
+    "found_at": "2026-11-12T13:45:03+00:00",
+    "sources": [
+      {
+        "name": "hn",
+        "id": "50453474",
+        "title": "I asked every TV manufacturer 17 questions about how they spy on you",
+        "discussion_url": "https://news.ycombinator.com/item?id=50453474",
+        "score": 369,
+        "comments": 246,
+        "created_at": "2026-11-11T13:56:05Z"
+      },
+      {
+        "name": "pinboard",
+        "title": "I asked every TV manufacturer 17 questions about how they spy on you | The Verge"
+      }
+    ],
+    "page": {
+      "final_url": "https://www.theverge.com/tech/1012372/tv-privacy-acr-questions",
+      "status": 200,
+      "title": "Are your TVs spying on you? We asked their makers",
+      "description": "We asked 11 companies these 17 questions, and only a few answered them all.",
+      "og_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268797_What_data_are_your_TVs_collecting_and_is_it_protected__CVirginia.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "favicon": "https://www.theverge.com/static-assets/icons/favicon.ico",
+      "text_excerpt": "SKIP TO MAIN CONTENT The homepage SUBSCRIBE SIGN IN Tech Reviews Science Entertainment AI Policy I asked every TV manufacturer 17 questions about how they spy on you 74 TECH GADGETS PRIVACY I asked every TV manufacturer 17 questions about how they spy on you After LG was accused of spying through its TVs, I wanted to see how other TV companies were collecting and protecting our data.﻿ by John Higgins Nov 11, 2026, 1:00 PM UTC 74 74 Comments (All New) Image: Cath Virginia / The Verge, Getty Images John Higgins is a senior reviewer covering TVs and audio. He has over 20 years experience in AV, and has previously been on staff at Digital Trends and Reviewed. Every TV company is spying on you, not just LG. Like other tech companies, they collect lots of information, and while some is necessary for products to work, not all of it is — and could include details you’d prefer to keep private. Many customers are concerned about how TVs and streaming devices might be spying: listening to what you say, taking screenshots of everything you watch, storing sensitive information on your TV, and sharing your data with the cloud. To find out what TV and streaming device companies are doing, I decided to ask every one to explain itself. I put together 17 yes-or-no questions, like “Do your TVs store any recorded audio, or transcripts based on audio, captured in the home?” so that companies couldn’t just link to a confusing and legalese-ridden privacy policy. TV users deserve to know the answers. Company representatives providing responses Amazon: Eric Sveum, PR manager Apple: Emily Ewing, public relations manager Google: Alex García-Kummert, spokesperson LG Electronics: Chris De Maria, director of public relations Roku: Sarah Novatt, spokesperson Samsung: Frank Giancamilli, corporate communications senior manager TCL: Rob Manfredo, head of communications and events One month ago, I invited 11 companies, including Amazon, Apple, Google, Hisense, LG, Panasonic, Roku, Samsung, Sony, TCL,"
+    },
+    "verdict": {
+      "model": "jev-1.13.0",
+      "score": 0.78,
+      "category": "Technology",
+      "category_confidence": 0.57
+    }
+  },
+  {
+    "canonical_url": "https://av.github.io/safe-sand/",
+    "url": "https://av.github.io/safe-sand/",
+    "found_at": "2026-11-12T13:45:03+00:00",
+    "sources": [
+      {
+        "name": "hn",
+        "id": "50453288",
+        "title": "Hyper-realistic sand with WebGL2",
+        "discussion_url": "https://news.ycombinator.com/item?id=50453288",
+        "score": 414,
+        "comments": 77,
+        "created_at": "2026-11-11T13:39:29Z"
+      },
+      {
+        "name": "pinboard",
+        "title": "Sand | Hyper-Realistic Sand Simulator in Your Browser"
+      }
+    ],
+    "page": {
+      "final_url": "https://av.github.io/safe-sand/",
+      "status": 200,
+      "title": "Sand | Hyper-Realistic Sand Simulator in Your Browser",
+      "description": "Sand simulated with WebGL2 and JavaScript. Drag to draw, tilt your phone to slide the grains, and shake to scatter them. Play right in your browser.",
+      "og_image": "https://av.github.io/safe-sand/icons/icon-512.png",
+      "favicon": "https://av.github.io/safe-sand/icons/icon-192.png",
+      "text_excerpt": "SAND Hyper-realistic sand simulator Built with WebGL2 and JavaScript. Push grains with your finger, tilt your phone to make them slide, or shake to scatter them. Play in your browser on phones, tablets and desktops. River Beach Desert Volcanic Coral Light Lock screen Screen off Pour LAY IT FLAT · TILT · SHAKE · DRAW SAND River Beach Desert Volcanic Coral UNDER THE SAND Light Lock screen Screen off Pour fresh sand Sound on"
+    },
+    "verdict": {
+      "model": "jev-1.13.0",
+      "score": 3.03,
+      "category": "Games",
+      "category_confidence": 0.51
+    },
+    "screenshot": "shots/2026/11-12/av-github-io-safe-sand.jpg"
+  },
+  {
+    "canonical_url": "https://github.com/0xdeadf1sh/AssemblyForNeovim",
+    "url": "https://github.com/0xdeadf1sh/AssemblyForNeovim",
+    "found_at": "2026-11-12T13:45:03+00:00",
+    "sources": [
+      {
+        "name": "hn",
+        "id": "50453229",
+        "title": "Show HN: Godbolt-in-a-floating-window for Neovim (C, C++, Rust)",
+        "discussion_url": "https://news.ycombinator.com/item?id=50453229",
+        "score": 103,
+        "comments": 18,
+        "created_at": "2026-11-11T13:34:24Z"
+      }
+    ],
+    "github": {
+      "repo_url": "https://github.com/0xdeadf1sh/AssemblyForNeovim",
+      "homepage": "",
+      "description": "Small lua script that shows inline assembly in neovim (x64, aarch64) for C, C++, and Rust.",
+      "topics": [],
+      "stars": 197,
+      "created_at": "2026-10-09T11:29:28Z",
+      "pushed_at": "2026-11-12T08:22:59Z",
+      "owner_avatar": "https://avatars.githubusercontent.com/u/254137956?v=4"
+    },
+    "page": {
+      "final_url": "https://github.com/0xdeadf1sh/AssemblyForNeovim",
+      "status": 200,
+      "title": "GitHub - 0xdeadf1sh/AssemblyForNeovim: Small lua script that shows inline assembly in neovim (x64, aarch64) for C, C++, and Rust.",
+      "description": "Small lua script that shows inline assembly in neovim (x64, aarch64) for C, C++, and Rust. - 0xdeadf1sh/AssemblyForNeovim",
+      "og_image": "https://opengraph.githubassets.com/dae473f09210d9e4429cecb01ff192aef0136e2e5509f44504282cd81add4fab/0xdeadf1sh/AssemblyForNeovim",
+      "favicon": "https://github.com/fluidicon.png",
+      "text_excerpt": "Skip to content Navigation Menu Products Developers Businesses Resources Pricing Search / Sign in Sign up 0xdeadf1sh AssemblyForNeovim Repository navigation Code Issues Pull requests 1 (1) Actions Projects Security and quality Insights AssemblyForNeovim Public Notifications Fork9 (9) Star197 (197) main 1 Branch 0 Tags Code Latest commit 0xdeadf1sh Merge pull request #3 from rxolve/c2x-fallback 58a471e · History 4 Commits Folders and files Name Last commit message Last commit date lua/asm Fall back to -std=c2x when cc rejects -std=c23 LICENSE Add Neovim plugin that shows assembly for C, C++ and Rust code README.md Put video into README Repository files navigation README Unlicense license AssemblyForNeovim Shows the assembly for C, C++ and Rust code in a floating window. 2026-10-09.14-16-45.mp4 Install lazy.nvim: { \"0xdeadf1sh/AssemblyForNeovim\", config = function() require(\"asm\").setup() end, } Use <leader>a in normal mode: function under the cursor <leader>a in visual mode, or :'<,'>Asm: selected lines In the window: +/- change -O level, R reruns, q closes Needs cc/c++ or rustc/cargo on PATH. Uses compile_commands.json if it finds one. About Small lua script that shows inline assembly in neovim (x64, aarch64) for C, C++, and Rust. Resources Readme Unlicense Activity Stars 197 stars Watchers 0 watching Forks 9 forks Report repository Releases No releases published Contributors 2 (2) 0xdeadf1shOmar rxolveHelp Languages Lua 100% Footer © 2026 GitHub, Inc. Footer navigation Terms Privacy Security Status Community Docs Contact Manage cookies Do not share my personal information"
+    },
+    "verdict": {
+      "model": "jev-1.13.0",
+      "score": 3.29,
+      "category": "Developer Tools",
+      "category_confidence": 0.99
+    },
+    "screenshot": "shots/2026/11-12/github-com-0xdeadf1sh-assemblyforneovim.jpg"
+  },
+  {
+    "canonical_url": "https://blog.mozilla.org/security/2026/11/10/open-research-stronger-privacy-making-firefox-users-harder-to-fingerprint/",
+    "url": "https://blog.mozilla.org/security/2026/11/10/open-research-stronger-privacy-making-firefox-users-harder-to-fingerprint/",
+    "found_at": "2026-11-12T13:45:03+00:00",
+    "sources": [
+      {
+        "name": "hn",
+        "id": "50452742",
+        "title": "Open research, stronger privacy: Making Firefox users harder to fingerprint",
+        "discussion_url": "https://news.ycombinator.com/item?id=50452742",
+        "score": 173,
+        "comments": 64,
+        "created_at": "2026-11-11T12:44:06Z"
+      }
+    ],
+    "page": {
+      "final_url": "https://blog.mozilla.org/security/2026/11/10/open-research-stronger-privacy-making-firefox-users-harder-to-fingerprint/",
+      "status": 200,
+      "title": "Open research, stronger privacy: Making Firefox users harder to fingerprint – Mozilla Security Blog",
+      "description": "Firefox is strengthening protection against trackers that recognize you across websites, even when they don’t use cookies. The latest fingerprinting protections shipped in Firefox reduce the extractable distinguishing details, making ...",
+      "og_image": "",
+      "favicon": "https://blog.mozilla.org/security/wp-content/themes/frontierline/img/favicon.png",
+      "text_excerpt": "Mozilla About Mozilla Products Give Discover Firefox Mozilla Security Blog Search this site Search Categories: PRIVACY Open research, stronger privacy: Making Firefox users harder to fingerprint Tom Ritter, Frederik Braun and Christoph Kerschbaumer November 10, 2026 Firefox is strengthening protection against trackers that recognize you across websites, even when they don’t use cookies. The latest fingerprinting protections shipped in Firefox reduce the extractable distinguishing details, making more Firefox users look alike to tracking scripts and strengthening individuals’ privacy in everyday browsing. These protections build on our research into browser and device fingerprinting, a technique that combines details about your browser and device to identify you across websites. We investigated which details contribute most to make users uniquely identifiable, turned those findings into practical protections for Firefox users, and shared our results openly so the wider web security and privacy community can build stronger defenses. Our findings are documented in the research paper Large-Scale Measurement and Real-World Mitigation of Web Browser Fingerprinting in the Wild, which has been accepted for publication at Computer and Communications Security (CCS) 2026, a leading international conference on computer security and privacy. We’ve also created an easier-to-digest website and browser test suite to help explore the findings in the paper. Cookie-less Tracking Browser fingerprinting combines details about your browser and device, such as available fonts, screen dimensions, and graphics hardware, to build a uniquely recognizable profile. Each piece may seem ordinary, but together, they can enable trackers to single you out across websites, even without storing a cookie. Effective fingerprinting protection starts with understanding which browser details trackers rely on most. Our research found that protecting just a handful of browser features can significantly weake"
+    },
+    "verdict": {
+      "model": "jev-1.13.0",
+      "score": 2.46,
+      "category": "Research",
+      "category_confidence": 0.52
+    }
+  },
+  {
+    "canonical_url": "https://nathan.rs/posts/weight-space-lp/",
+    "url": "https://nathan.rs/posts/weight-space-lp/",
+    "found_at": "2026-11-12T13:45:03+00:00",
+    "sources": [
+      {
+        "name": "hn",
+        "id": "50452655",
+        "title": "Can a Linear Program Do Weight-Space Programming?",
+        "discussion_url": "https://news.ycombinator.com/item?id=50452655",
+        "score": 288,
+        "comments": 42,
+        "created_at": "2026-11-11T12:30:17Z"
+      }
+    ],
+    "page": {
+      "final_url": "https://nathan.rs/posts/weight-space-lp/",
+      "status": 200,
+      "title": "Can a Linear Program Do Weight-Space Programming?",
+      "description": "Last week, MIT CSAIL published Sparks of Weight-Space Programming. Given the raw weights of a small network, GPT-6 Astra could tell which game it had been …",
+      "og_image": "",
+      "favicon": "https://nathan.rs/favicon.png",
+      "text_excerpt": "nathan.rs Writing X Github LinkedIn ☾ Can a Linear Program Do Weight-Space Programming? Nathan Barry November 9, 2026 Introduction Thinking loops How Astra fixed the loops Choosing v is a linear program Results A steering vector does the same job Limitations and what’s next Citation Last week, MIT CSAIL published Sparks of Weight-Space Programming. Given the raw weights of a small network, GPT-6 Astra could tell which game it had been trained to play. Given only a game’s rules, it could write the weights of a small network from scratch and beat networks trained with PPO for 100 million steps. No gradients, no training loop, just reasoning about what the weights compute. They coined this weight-space programming. In another experiment, they asked Astra to make Qwen3.5-0.8B better at math by editing its weights. Astra changed only 0.016% of the weights, and MATH-500 accuracy jumped from 7.9% to 48.1%.1 Looking at Astra’s edit, I realized most of its search was solving a linear program by trial and error. It spent about 8 hours and 28 forward passes choosing which weights to change and by how much. A couple of LP solves, about a minute each, do the same job with 8× fewer changed weights. In this post I’ll walk through the edit, why it’s an LP, and what that says about the fix itself. Thinking loops# Small reasoning models have a common failure: they get stuck in thinking loops, repeating the same few lines over and over instead of finishing their reasoning. Qwen3.5-0.8B is especially prone to it, and its model card says so. On MATH-500, 93% of the base model’s answers ran into the 32,768-token limit without ever reaching an answer. The edit fixes the loops, so it helps anywhere the model loops. That includes instruction following: IFEval went from 21% to 62%. Qwen3.5-0.8B MATH-500 GSM8K IFEval Hit token limit Base 7.9 13.8 21.0 93.0% Astra’s edit 48.1 67.1 62.3 33.1% On Gemma 3 270M, which rarely loops, Astra couldn’t meaningfully improve its math ability. As the autho"
+    },
+    "verdict": {
+      "model": "jev-1.13.0",
+      "score": 2.92,
+      "category": "Blog",
+      "category_confidence": 0.45
+    }
+  },
+  {
+    "canonical_url": "https://www.experimental-history.com/p/we-need-more-goat-sacrifices",
+    "url": "https://www.experimental-history.com/p/we-need-more-goat-sacrifices",
+    "found_at": "2026-11-12T13:45:03+00:00",
+    "sources": [
+      {
+        "name": "hn",
+        "id": "50452652",
+        "title": "We need more goat sacrifices",
+        "discussion_url": "https://news.ycombinator.com/item?id=50452652",
+        "score": 206,
+        "comments": 122,
+        "created_at": "2026-11-11T12:29:48Z"
+      }
+    ],
+    "page": {
+      "final_url": "https://www.experimental-history.com/p/we-need-more-goat-sacrifices",
+      "status": 200,
+      "title": "We need more goat sacrifices",
+      "description": "OR: OJ A-OK",
+      "og_image": "https://substackcdn.com/image/fetch/$s_!U0Ia!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F9268745d-f194-4df1-8598-5f351867b5b4_1245x813.jpeg",
+      "favicon": "https://substackcdn.com/image/fetch/$s_!6Nk4!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F36c752b6-28bc-4862-82e8-e4d2a5f2cdbc%2Ffavicon.ico",
+      "text_excerpt": "Experimental History Subscribe Sign in Discover more from Experimental History 1) Find what's true and make it useful. 2) Publish every other Tuesday. 3) Photo cred: my dad. Over 103,000 subscribers Subscribe By subscribing, you agree to Substack's Terms of Use, and acknowledge its Information Collection Notice and Privacy Policy. Already have an account? Sign in We need more goat sacrifices OR: OJ A-OK ADAM MASTROIANNI NOV 10, 2026 251 59 30 Share Article voiceover 0:00 -24:35 photo cred: my dad Just a quick thing before this week’s post. If you’ve preordered THE STRANGEST IDEA IN THE WORLD, I’d like to send you a little something extra in the mail. Submit your preorder receipt and your mailing address here. This is only available to folks with US or UK addresses—apologies to those who live elsewhere! In the US, everyone with a valid entry will get one; in the UK they’ll pick winners randomly. The link will be open until December 11, and we’ll start mailing things out after that. I won’t spoil the surprise, but I will say that a) it’s very silly, and b) I can’t wait to get mine. (For the US: US Residents, 18+. Ends December 11, 2026. See terms at https://sites.prh.com/strangestidea-preorder) Anyway, onto the post! Before anybody enacts a major social policy or launches any philanthropic programs, they should sacrifice a goat. There ought to be an entire liturgy of grotesqueries, in fact—pricked fingers, names written in blood, robes, candles, chanting, obsidian blades, still-beating hearts, the whole shebang. The point of this ritual is not to signal our obeisance to the gods (although if any of them want to stop by and help us out, that would be cool), but to remind ourselves that we know nothing. This is procedurally-induced humility, which is desperately necessary, because an alarming number of our best-intentioned interventions do not work. For example: In 2009, Congress spent $3 billion on “School Improvement Grants” for the worst-performing schools in the cou"
+    },
+    "verdict": {
+      "model": "jev-1.13.0",
+      "score": 1.21,
+      "category": "Magazines, Newspapers & Newsletter",
+      "category_confidence": 0.54
+    }
+  },
+  {
+    "canonical_url": "https://pietromiotti.com/latest/maya-site",
+    "url": "https://pietromiotti.com/latest/maya-site",
+    "found_at": "2026-11-12T13:45:03+00:00",
+    "sources": [
+      {
+        "name": "hn",
+        "id": "50452455",
+        "title": "My AI agents found an unmapped Maya site?",
+        "discussion_url": "https://news.ycombinator.com/item?id=50452455",
+        "score": 1011,
+        "comments": 371,
+        "created_at": "2026-11-11T12:05:22Z"
+      }
+    ],
+    "page": {
+      "final_url": "https://pietromiotti.com/latest/maya-site/",
+      "status": 200,
+      "title": "My AI Agents (Re)discovered a Maya Site in 72 Hours",
+      "description": "AI agents analyzed public lidar data overnight and found a Maya site under the jungle. It turned out archaeologists had mapped it already, but it wasn't in Mexico's official register yet.",
+      "og_image": "https://pietromiotti.com/latest/maya-site/forest-vs-lidar.jpg",
+      "favicon": "https://pietromiotti.com/favicon.ico",
+      "text_excerpt": "~ latest My AI Agents (Re)discovered a Maya Site in 72 Hours 5 min read (Last edit: 11 Nov) Update (11 November): it turns out the site had already been mapped in Estrada-Belli et al. 2025. The agents missed it while going through the literature, so they rediscovered it rather than discovered it (it just wasn't in the register of Mexico's National Institute of Anthropology and History, INAH, yet). Still work to do then! The rest of the story still holds. By analyzing NASA lidar data, my AI agents found a Maya site in Mexico that wasn't in the official register. (It turned out archaeologists had mapped it already, more on that at the end.) It took less than 72 hours to go from a random thought while traveling to an official reply from the Mexican government. This is by far the best time ever to be alive. Lidar: bare ground, 2013 Satellite image today Drag the slider. The same hilltop today from a satellite (just trees) and in lidar (no trees). Colours show height. Satellite © Esri, Maxar, Earthstar Geographics. Disclaimer: I'm not an archaeologist. I'm going to tell this story as a diary, because the timeline is probably the best part. 18 October I was traveling in Peru, Gemini-ing about the history of the place, when I learned about Hiram Bingham, the American explorer who \"discovered\" Machu Picchu in 1911. \"What luck!\" I thought. He was actually looking for a different city, Vilcabamba, the last refuge of the Incas, when a local farmer in the valley below guided him to the ruins. \"Imagine if Bingham had our tools,\" I thought. \"What would he do?\" Left: Bingham at his tent, 1912. Right: Machu Picchu, photographed by Bingham the same year. Public domain, Wikimedia Commons (left, right). I brainstormed a bit with a few agents (Gemini, ChatGPT, Claude and Grok), and they all said lidar. From above, a ruin in the jungle is just a bunch of trees (like Machu Picchu before it was cleared), so satellite photos don't help much. Lidar, instead, fires laser pulses through the g"
+    },
+    "verdict": {
+      "model": "jev-1.13.0",
+      "score": 1.47,
+      "category": "Blog",
+      "category_confidence": 0.74
+    }
+  },
+  {
+    "canonical_url": "https://www.possibilityspace.org/blog/posts/in-defence-of-giving-a-shit/",
+    "url": "https://www.possibilityspace.org/blog/posts/in-defence-of-giving-a-shit/",
+    "found_at": "2026-11-12T13:45:03+00:00",
+    "sources": [
+      {
+        "name": "hn",
+        "id": "50452407",
+        "title": "In defense of giving a shit",
+        "discussion_url": "https://news.ycombinator.com/item?id=50452407",
+        "score": 118,
+        "comments": 131,
+        "created_at": "2026-11-11T12:00:45Z"
+      },
+      {
+        "name": "pinboard",
+        "title": "In Defence Of Giving A Shit"
+      }
+    ],
+    "page": {
+      "final_url": "https://www.possibilityspace.org/blog/posts/in-defence-of-giving-a-shit/",
+      "status": 200,
+      "title": "Possibility Space",
+      "description": "In Defence Of Giving A Shit",
+      "og_image": "https://www.possibilityspace.org/blog/social.png",
+      "favicon": "https://www.possibilityspace.org/blog/favicon.ico",
+      "text_excerpt": "Home All Posts About A member of DagRing! In Defence Of Giving A Shit 10/11/2026 A few weeks ago I was one of the judges for the Independent Games Festival. Judging for the IGF is one of the highlights of my year, it's a real joy, but every year there is usually one discussion thread that gets a bit heated. You can normally tell which one it is because it has more comments than all the others - most might have 4-5 comments, but the spicy one will have 15. When I first saw the thread about Big Walk this year, it had 90 comments. I think it had 150 by the end. Games this year had to have declarations if they used AI. Unlike Steam's current declaration policy, which only requires developers to declare if assets are \"consumed by players\", the IGF required a declaration for any and all AI use. The upshot of this is that a huge number of games declared their use of AI, including games made by prominent indie developers who have not declared their use in public. The most controversial case was Big Walk, whose developers stated they had used LLMs for \"less than 0.1% of the code\" to fix errors late in production. The resulting discussion thread about this included some of the stupidest things I've ever seen anyone write about AI and game development, which truly is saying something. When it blew up today in public, I saw the same arguments being repeated. And I wanted to write this, not to rebut every single argument I've seen, as tempting as it is, but to talk a bit about the actual shape of this problem and what is actually happening. Because what's happening is not unusual, it's not extreme, it's not unfair and it's not a 'public flogging'. What's happening is exactly what is supposed to happen in creative communities. The argument surrounding Big Walk has two parts, so I'm going to break it down that way too: first, should the IGF have a policy on AI content; and second, should House House be disqualified from winning an award. And then I'm gonna ramble and yell a bit an"
+    },
+    "verdict": {
+      "model": "jev-1.13.0",
+      "score": 1.76,
+      "category": "Blog",
+      "category_confidence": 0.84
+    }
+  },
+  {
+    "canonical_url": "https://blog.kate.land/posts/using-voltage-glitching-to-unlock-the-a100/",
+    "url": "https://blog.kate.land/posts/using-voltage-glitching-to-unlock-the-a100/",
+    "found_at": "2026-11-12T13:45:03+00:00",
+    "sources": [
+      {
+        "name": "hn",
+        "id": "50451903",
+        "title": "Using voltage glitching to unleash the A100 in my mining card",
+        "discussion_url": "https://news.ycombinator.com/item?id=50451903",
+        "score": 324,
+        "comments": 126,
+        "created_at": "2026-11-11T10:48:40Z"
+      }
+    ],
+    "page": {
+      "final_url": "https://blog.kate.land/posts/using-voltage-glitching-to-unlock-the-a100/",
+      "status": 200,
+      "title": "Using voltage glitching to unleash the A100 in my mining card",
+      "description": "How I used voltage fault injection to unlock hardware features on a CMP 170HX.",
+      "og_image": "",
+      "favicon": "https://blog.kate.land/favicon.svg",
+      "text_excerpt": "skip to content Kate's blog Writing About RSS Using voltage glitching to unleash the A100 in my mining card Nov 10, 2026 View more blogs with the tag hardware , View more blogs with the tag security ON THIS PAGE Summary Acknowledgements GA100 versions Hardware restrictions Fuseless fuses Floorsweeping Achieving the FF burn Voltage fault injection 1. All fuses sensed as zero 2. RIR read disrupted 3. Goldilock’s glitch End results Framebuffer unlock Compute unlock PCIe generation NVLink Future directions References Footnotes Summary I’ve discovered a voltage fault injection vulnerability on the GA100 die, allowing an operator to blow arbitrary fuses. Utilizing this vulnerability, I’ve converted my CMP 170HX 8GB card into what is effectively an A100-80G! Further, my unlocked cards actually perform ~1.2x faster than a retail A100 by having all functional SMs enabled (~120-126, die-lottery dependent), rather than the yield-safe 108 SMs NVIDIA chose for all production A100 cards. Finally, CMP-disabled features like NVLink, PCIe Gen4, NVJPG, NVDEC, MIG are all unlockable with this approach, though I haven’t specifically tested NVJPG/NVDEC/MIG. Here’s how my “A100-80G” appears and functions. GPU inventory and topology GPU 0 81920 MiB NVIDIA Graphics Device 00000000:81:00.0 0x20C210DE GPU 1 81920 MiB NVIDIA Graphics Device 00000000:C1:00.0 0x20C210DE GPU 0 NV12 GPU 1 CPU affinity 0–127 · NUMA 0 Full nvidia-smi output FP16 FMA throughput TFLOP/s retail A100 72.488 TFLOP/s 1.00× hardware-unlocked CMP 170HX 85.858 TFLOP/s 1.18× retail A100 0 30 60 90 Retail A100 72.488 TFLOP/s; hardware-unlocked CMP 170HX 85.858 TFLOP/s from the raw OpenCL output below. Full OpenCL output NVIDIA uses fuses for product segmentation, security features, and other fun access control features - and crucially, there are several functions where blowing a fuse on an NVIDIA die can grant you more access, not less. In a properly secured design, a blown fuse should always induce a more restrictive state, "
+    },
+    "verdict": {
+      "model": "jev-1.13.0",
+      "score": 2.65,
+      "category": "Engineering",
+      "category_confidence": 0.51
+    }
+  },
+  {
+    "canonical_url": "https://discuss.python.org/t/in-memoriam-tim-peters-1952-2026/110028",
+    "url": "https://discuss.python.org/t/in-memoriam-tim-peters-1952-2026/110028",
+    "found_at": "2026-11-12T13:45:03+00:00",
+    "sources": [
+      {
+        "name": "hn",
+        "id": "50450488",
+        "title": "Tim Peters has died",
+        "discussion_url": "https://news.ycombinator.com/item?id=50450488",
+        "score": 1293,
+        "comments": 152,
+        "created_at": "2026-11-11T07:03:17Z"
+      }
+    ],
+    "page": {
+      "final_url": "https://discuss.python.org/t/in-memoriam-tim-peters-1952-2026/110028",
+      "status": 200,
+      "title": "In Memoriam: Tim Peters 1952–2026 - Core Development - Discussions on Python.org",
+      "description": "I am immensely sad to announce that Tim Peters has died earlier this year on July 15.  It’s hard to overestimate Tim’s influence on Python. He’s probably best known for writing the Zen of Python (PEP 20), but to me he was a mentor and language co-designer long before that.  Tim found Python not long after its initial release. His first deed was to convince me that Python should support mixed arithmetic between int and float, because most users would expect them to work that way. And he never sto...",
+      "og_image": "https://us1.discourse-cdn.com/flex002/uploads/python1/original/1X/f93ff97c4f381b5e8add5a0c163b4ded29f20ed7.png",
+      "favicon": "https://us1.discourse-cdn.com/flex002/uploads/python1/optimized/1X/9997f0605d56c4bfecd63594f52f42cdafd6b06a_2_32x32.png",
+      "text_excerpt": "Skip to last reply Skip to top Skip to main content Sign Up Log In ​ ​ ​ A security incident affecting eMudhra intermediate certificates has required removing the emSign root CA certificate from CA bundles such as “certifi”. It’s important to immediately upgrade the software packages below to at least the versions specified and rebuild container images with layer caching disabled to fetch the latest system certificates. Failure to do so could result in monster-in-the-middle (MITM) attacks against TLS clients, including python.org and pypi.org . certifi 2026.10.19 (1) pip 26.2.2 uv 0.13.6 (2) sigstore 4.5.1 conda 26.9.4 pixi 0.82.1 virtualenv 21.14.12 pipx 1.18.7 pipenv 2026.10.2 PDM 2.29.4 Pex 2.105.1 cibuildwheel 4.3.5 manylinux and musllinux images 2026.10.26-1 pypa/gh-action-pypi-publish 1.14.3 python-build-standalone 20261026 Hatch 1.18.2 (2) pyenv 2.8.14 (2) Docker official python images for 3.11.18, 3.12.16, 3.13.18, 3.14.10 and 3.15.2 (2) (1): Advisory mentions 2026.10.18, but 2026.10.19 is recommended for compatibility with unaffected emSign root certificates. (2): Did not bundle the emSign root certificates, but was upgraded to support Python versions without the affected pip version and certificate denylist in the ssl module. Upgrade is still recommended for complete coverage. Python has also published releases which automatically reject the compromised intermediate certificates, regardless of whether the emSign root CA certificate is in use by “certifi”. To apply this mitigation please upgrade to Python 3.15.2, 3.14.10, 3.13.18, 3.12.16, and 3.11.18. Note that Python versions 3.10 and older are end-of-life and no longer eligible for security fixes. For all existing virtual environments on your system, please upgrade pip and uv to the latest versions. You can update pip securely by running the following command and then use this secure pip installation to upgrade certifi and uv: python -m pip install \"pip @ https://files.pythonhosted.org/packages/3f/06/3e4"
+    },
+    "verdict": {
+      "model": "jev-1.13.0",
+      "score": 0.71,
+      "category": "Software Engineering",
+      "category_confidence": 0.62
+    }
+  },
+  {
+    "canonical_url": "https://github.com/gmkurtzer/ginux",
+    "url": "https://github.com/gmkurtzer/ginux",
+    "found_at": "2026-11-12T13:45:03+00:00",
+    "sources": [
+      {
+        "name": "hn",
+        "id": "50450007",
+        "title": "Greg Kurtzer's Ginux is now a userspace kernel",
+        "discussion_url": "https://news.ycombinator.com/item?id=50450007",
+        "score": 119,
+        "comments": 81,
+        "created_at": "2026-11-11T05:25:54Z"
+      }
+    ],
+    "github": {
+      "repo_url": "https://github.com/gmkurtzer/ginux",
+      "homepage": "",
+      "description": "",
+      "topics": [],
+      "stars": 597,
+      "created_at": "2026-10-11T00:22:43Z",
+      "pushed_at": "2026-11-12T04:19:13Z",
+      "owner_avatar": "https://avatars.githubusercontent.com/u/13984965?v=4"
+    },
+    "page": {
+      "final_url": "https://github.com/gmkurtzer/ginux",
+      "status": 200,
+      "title": "GitHub - gmkurtzer/ginux",
+      "description": "Contribute to gmkurtzer/ginux development by creating an account on GitHub.",
+      "og_image": "https://opengraph.githubassets.com/de3d71dcea0bfd3a67e84f04a0cfcb14bc546978b820df7a3803f96af64c76f8/gmkurtzer/ginux",
+      "favicon": "https://github.com/fluidicon.png",
+      "text_excerpt": "Skip to content Navigation Menu Products Developers Businesses Resources Pricing Search / Sign in Sign up gmkurtzer ginux Repository navigation Code Issues 8 (8) Pull requests 21 (21) Actions Projects Security and quality Insights ginux Public Notifications Fork65 (65) Star597 (597) main 6 Branches 2 Tags Code Latest commit gmkurtzer Merge pull request #259 from gmkurtzer/hdae/concurrent-instance-isola… e16946a · History 1,863 Commits Folders and files Name Last commit message Last commit date .agents/skills Update project HDAE skills to 0.1.1 .cargo ci: validate static builds and real native launch workloads .claude/skills Update project HDAE skills to 0.1.1 .github/workflows ci: skip checks when only documentation changed since a passing run .hdae Install HDAE skills benchmarks/gate15 Document reproducible dispatch benchmarks config Record concurrent isolation evidence crates Scope virtual identity to each instance docs Harden concurrent instance lifecycle isolation hdae Record Gate 17 pull request scripts Harden concurrent instance lifecycle isolation tests Fix host persistence and audit configuration .gitignore ci: validate static builds and real native launch workloads AGENTS.md Update project HDAE skills to 0.1.1 Cargo.lock test: add bounded security fuzzing Cargo.toml test: add bounded security fuzzing LICENSE License Ginux under Apache 2.0 Makefile Harden concurrent instance lifecycle isolation NOTICE License Ginux under Apache 2.0 README.md Harden concurrent instance lifecycle isolation Repository files navigation README Apache-2.0 license Ginux Ginux is a configurable userspace kernel for isolated Linux compatibility instances. It runs as an ordinary Linux process and places an explicit, versioned contract between managed workloads and the host kernel. Important Ginux began as an independent Rust kernel that booted directly through UEFI and ran a Rocky Linux 10 userspace. That research phase is complete. Its final source is permanently preserved on the boo"
+    },
+    "verdict": {
+      "model": "jev-1.13.0",
+      "score": 2.84,
+      "category": "Software Engineering",
+      "category_confidence": 0.54
+    }
+  },
+  {
+    "canonical_url": "https://github.com/adrbn/bo2-mac",
+    "url": "https://github.com/adrbn/bo2-mac",
+    "found_at": "2026-11-12T13:45:03+00:00",
+    "sources": [
+      {
+        "name": "hn",
+        "id": "50449891",
+        "title": "Show HN: Black Ops II statically recompiled to native ARM64 macOS",
+        "discussion_url": "https://news.ycombinator.com/item?id=50449891",
+        "score": 147,
+        "comments": 64,
+        "created_at": "2026-11-11T04:56:47Z"
+      }
+    ],
+    "github": {
+      "repo_url": "https://github.com/adrbn/bo2-mac",
+      "homepage": "",
+      "description": "Call of Duty: Black Ops II statically recompiled from 32-bit x86 Windows to native ARM64 macOS: Remill → LLVM IR, a hand-written Win32 runtime, Direct3D 11 drawn by Metal. No Wine, no game files.",
+      "topics": [
+        "apple-silicon",
+        "black-ops-2",
+        "call-of-duty",
+        "llvm",
+        "macos",
+        "metal",
+        "remill",
+        "static-recompilation"
+      ],
+      "stars": 209,
+      "created_at": "2026-11-03T22:36:56Z",
+      "pushed_at": "2026-11-11T22:57:36Z",
+      "owner_avatar": "https://avatars.githubusercontent.com/u/128328324?v=4"
+    },
+    "page": {
+      "final_url": "https://github.com/adrbn/bo2-mac",
+      "status": 200,
+      "title": "GitHub - adrbn/bo2-mac: Call of Duty: Black Ops II statically recompiled from 32-bit x86 Windows to native ARM64 macOS: Remill → LLVM IR, a hand-written Win32 runtime, Direct3D 11 drawn by Metal. No Wine, no game files.",
+      "description": "Call of Duty: Black Ops II statically recompiled from 32-bit x86 Windows to native ARM64 macOS: Remill → LLVM IR, a hand-written Win32 runtime, Direct3D 11 drawn by Metal. No Wine, no game files. -...",
+      "og_image": "https://opengraph.githubassets.com/526613fce716d6b28a2f7a690555a4e07b1e8328000148cdd83673ccc6f45b93/adrbn/bo2-mac",
+      "favicon": "https://github.com/fluidicon.png",
+      "text_excerpt": "Skip to content Navigation Menu Products Developers Businesses Resources Pricing Search / Sign in Sign up adrbn bo2-mac Repository navigation Code Issues Pull requests Actions Projects Security and quality Insights bo2-mac Public Notifications Fork12 (12) Star209 (209) main 4 Branches 5 Tags Code Latest commit adrbn docs: rétablis les URL originales des graphiques Star History ea6f78e · History 38 Commits Folders and files Name Last commit message Last commit date docs docs: App Store style Hacker News badge harness Black Ops II on Apple Silicon: static recompilation to native ARM64 m… runtime fix: Zombies, shaders created before the Metal window are translated … scripts fix: a conversion linked before the signatures is relinked once, so t… third_party/HLSLcc Black Ops II on Apple Silicon: static recompilation to native ARM64 m… tools fix: a conversion linked before the signatures is relinked once, so t… .gitignore Black Ops II on Apple Silicon: static recompilation to native ARM64 m… LICENSE Black Ops II on Apple Silicon: static recompilation to native ARM64 m… README.md docs: rétablis les URL originales des graphiques Star History README.zh.md docs: rétablis les URL originales des graphiques Star History Repository files navigation README GPL-3.0 license bo2-mac Call of Duty: Black Ops II, statically recompiled from 32-bit x86 Windows to native ARM64 macOS. Campaign, Zombies and multiplayer against bots, built on your Mac from your own Steam copy. English · 中文 Why · Abstract · Method · Limits · Repository · Legal Beta, 2026-11-03 · measured on one Apple M1 (4 performance + 4 efficiency cores, 16 GB) Campaign (Angola), Zombies (Town) and multiplayer (Hijacked, against bots) on an Apple M1, recorded while playing; the number in the top right corner is frames per second, and the screen recording itself costs some, mostly in the campaign. 80-second video (MP4, 20 MB) Important This repository contains no game file and no translated game code. It turns your own Steam c"
+    },
+    "verdict": {
+      "model": "jev-1.13.0",
+      "score": 3.46,
+      "category": "Software Engineering",
+      "category_confidence": 0.66
+    },
+    "screenshot": "shots/2026/11-12/github-com-adrbn-bo2-mac.jpg"
+  },
+  {
+    "canonical_url": "https://discussions.apple.com/welcome",
+    "url": "https://discussions.apple.com/welcome",
+    "found_at": "2026-11-12T13:45:03+00:00",
+    "sources": [
+      {
+        "name": "hn",
+        "id": "50449440",
+        "title": "The Apple Support Community will permanently close on November 20, 2026",
+        "discussion_url": "https://news.ycombinator.com/item?id=50449440",
+        "score": 156,
+        "comments": 228,
+        "created_at": "2026-11-11T03:26:51Z"
+      }
+    ],
+    "page": {
+      "final_url": "https://discussions.apple.com/welcome",
+      "status": 200,
+      "title": "Official Apple Support Community",
+      "description": "Find answers with millions of other Apple users in our vibrant community. Search discussions or ask a question about your product.",
+      "og_image": "",
+      "favicon": "https://communities.apple.com/en20261102/public/assets/favicon.ico",
+      "text_excerpt": "Apple Store Mac iPad iPhone Watch Vision AirPods Home Entertainment Accessories Support 0 + Community Browse Search ​​ ​ The Apple Support Community will permanently close on November 20, 2026. Starting today, the site will no longer accept new posts and is available in a read-only state. You can continue to find trusted guidance and support on the official Apple Support site. We want to thank the community members who have contributed their time and expertise to help others with their Apple products. Apple Support Community Find answers. Ask questions. Connect with Apple customers around the world. Search or ask a question Search Apple Communities Learn more about the Apple Support Community Select your product to find related topics iPhone macOS Mac iPad Apple Watch Apple Vision Pro See more topics Featured Tips Get insights from experienced community members. See all tips User profile for user: John Galt Stop unwanted Notifications \"Are you encountering popup notices in the upper right of your Mac's screen, resembling the following typica...\" John Galt User level: Level 10 162,806 points Read full post Stop unwanted Notifications User profile for user: a brody Sonoma, September 26, 2023 release \"This is part of a series of tips from Mac OS 10.13 High Sierra, 10.14 Mojave, 10.15 Catalina, 11.0 Big Sur,...\" a brody User level: Level 10 85,685 points Read full post Sonoma, September 26, 2023 release User profile for user: Richard.Taylor Understanding iCloud Drive \"First, we can't think of iCloud Drive as a separate storage device like an extra hard drive. iCloud does n...\" Richard.Taylor User level: Level 7 25,466 points Read full post Understanding iCloud Drive New to the Community? Learn more about Apple Support Community Find answers and ask new questions How to search the community Manage the people and discussions you follow How to manage subscriptions Award points, level up, and earn new privileges How to earn rewards Welcome to Apple Support Community A forum"
+    },
+    "verdict": {
+      "model": "jev-1.13.0",
+      "score": 0.53,
+      "category": "Community",
+      "category_confidence": 0.99
+    }
+  },
+  {
+    "canonical_url": "https://daniel.haxx.se/blog/2026/11/11/30-years-of-internet-transfers-with-curl/",
+    "url": "https://daniel.haxx.se/blog/2026/11/11/30-years-of-internet-transfers-with-curl/",
+    "found_at": "2026-11-12T13:45:03+00:00",
+    "sources": [
+      {
+        "name": "pinboard",
+        "title": "30 years of Internet transfers with curl | daniel.haxx.se"
+      }
+    ],
+    "page": {
+      "final_url": "https://daniel.haxx.se/blog/2026/11/11/30-years-of-internet-transfers-with-curl/",
+      "status": 200,
+      "title": "30 years of Internet transfers with curl",
+      "description": "Thirty years ago, on November 11, 1996 the young Brazilian student Rafael Sagula posted the source code for his tiny HTTP download tool online. That was httpget 0.1: a little over 100 lines of C code. Bare bones source code with almost no error checks and limited functionality. httpget When I found the source code … Continue reading 30 years of Internet transfers with curl →",
+      "og_image": "https://daniel.haxx.se/blog/wp-content/uploads/2026/10/curl-tshirt-back-lightblue.jpg",
+      "favicon": "https://daniel.haxx.se/blog/wp-content/uploads/2024/07/daniel-greenbg-blackandwhite-413x413-1.jpg",
+      "text_excerpt": "Skip to content daniel.haxx.se Search ABOUT PRIVACY CURL AND LIBCURL 30 YEARS OF INTERNET TRANSFERS WITH CURL NOVEMBER 11, 2026 DANIEL STENBERG 3 COMMENTS Thirty years ago, on November 11, 1996 the young Brazilian student Rafael Sagula posted the source code for his tiny HTTP download tool online. That was httpget 0.1: a little over 100 lines of C code. Bare bones source code with almost no error checks and limited functionality. httpget When I found the source code of that initial httpget release just days after Rafael put it online, I had no idea how HTTP worked. The language to speak over the network to ask for resources. Okay, I already knew we call it protocol but not a lot more. I also had never heard of neither httpget nor Rafael before. I imagine that I found httpget by searching on Altavista since this was before Google, but I can’t recall the details. Seeing the simplicity of this code it was not difficult to immediately spot the fundamental basics of the protocol. I presume maybe in the same vain how countless others in decades to follow also have thought of it when seeing the details for the first time. Much later I would come to understand that to be an illusion of simplicity, but in those early days I was more amazed and fascinated. I already enjoyed doing network programming and HTTP reasoned with me at once. httpget 0.1 was almost completely without error checks and it used plain IPv4 addresses; no hostnames or URLs. I, still a naive and enthusiastic developer with an Open Source mindset (even though that term would not be established until 15-16 months later), addressed some immediate bugs I ran into and added name resolving to the tool. I made diffs and emailed patches over to Rafael; the standard way we exchanged code changes back then. I knew about RCS and CVS for version control, but the use of these tools was spotty. It would actually take until September 1999 until I adopted CVS fully for the curl project. We later switched to using git in 201"
+    },
+    "verdict": {
+      "model": "jev-1.13.0",
+      "score": 2.37,
+      "category": "Blog",
+      "category_confidence": 0.55
+    }
+  },
+  {
+    "canonical_url": "https://www.youtube.com/watch?v=UytYrhYLOKI",
+    "url": "https://www.youtube.com/watch?v=UytYrhYLOKI",
+    "found_at": "2026-11-12T13:45:03+00:00",
+    "sources": [
+      {
+        "name": "pinboard",
+        "title": "I discovered a sound that leaks your exact location (and it's everywhere) - YouTube"
+      }
+    ],
+    "page": {
+      "final_url": "https://www.youtube.com/watch?v=UytYrhYLOKI",
+      "status": 200,
+      "title": "I discovered a sound that leaks your exact location (and it's everywhere) - YouTube",
+      "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+      "og_image": "",
+      "favicon": "https://www.youtube.com/s/desktop/cb518cf3/img/favicon.ico",
+      "text_excerpt": "Skip navigation Sign in Sign in to confirm you’re not a bot This helps protect our community Sign in Learn more I discovered a sound that leaks your exact location (and it's everywhere) colsto 118K subscribers Join Subscribe 118K 4.5M views 10d ago 1M hype points This video examines the amount of location information carried by inaudible background sounds, using the Doppler effect to locate a reference recording within ~100m, and only needing (in some cases) less 1-min of audio. This video raises awareness of these capabilities and closes by discussing preventative measures one could take. … more 7,443 Comments Sort by Add a comment... Pinned by @colsto @colsto 9 days ago (edited) Shameless plug: The real life One Piece is still just sitting at the bottom of the ocean, and I know exactly where. If you have the means to coordinate an expedition, or connection to some Youtuber/streamer who does, message me. ROV operator and feasibility have been confirmed. Vid link: https://youtu.be/eY-W9gmwxhg If you want to chat geospatial / OSINT / other nerdy stuff, here's the discord link: https://discord.gg/8ZtRWwuMP also, if you like this type of acoustic forensics, check out benn jordan's channel; that's what sent me down this rabbit hole originally Read more 1.7K Reply 65 replies @McDonaldsCalifornia 9 days ago Gonna start carrying a Bluetooth speaker around with me playing randomized Doppler curves 19K Reply · 253 replies @JaiWithani 9 days ago \"I'm not trying to fearmonger, there are probably a hundred easier ways to find you\" 9.3K Reply 70 replies 1:05:56 I finally saw quantum mechanics with my own eyes... (It's spookier than I expected) Veritasium 18M 7d ago 34:00 Math's Fundamental Flaw Veritasium 30M 5y ago 30:19 Alkaline batteries are obsolete — but not for the reason you'd think Technology Connections 3.9M 12d ago 1:01:51 Flock Fever: A Review of Government Surveillance Benn Jordan 1.3M 2w ago 2:09:57 Programming Thinking Visual Kernel 573K 3mo ago 34:32 Fiber Optics "
+    },
+    "verdict": {
+      "model": "jev-1.13.0",
+      "score": 1.01,
+      "category": "Photo & Video",
+      "category_confidence": 0.62
+    }
+  },
+  {
+    "canonical_url": "https://www.rollingstone.com/tv-movies/tv-movie-features/amanda-seyfried-nathan-fielder-you-can-see-everything-1235653104/",
+    "url": "https://www.rollingstone.com/tv-movies/tv-movie-features/amanda-seyfried-nathan-fielder-you-can-see-everything-1235653104/",
+    "found_at": "2026-11-12T13:45:03+00:00",
+    "sources": [
+      {
+        "name": "pinboard",
+        "title": "The 'You Can See Everything' Interview You've Been Waiting For"
+      }
+    ],
+    "page": {
+      "final_url": "https://www.rollingstone.com/tv-movies/tv-movie-features/amanda-seyfried-nathan-fielder-you-can-see-everything-1235653104/",
+      "status": 200,
+      "title": "The 'You Can See Everything' Interview You've Been Waiting For",
+      "description": "'You Can See Everything' actor Amanda Seyfried joins co-directors Nathan Fielder and Lance Oppenheim to discuss making the hit Elizabeth Holmes doc.",
+      "og_image": "https://www.rollingstone.com/wp-content/uploads/2026/11/You-Can-See-Everything_Sacha-Lecca-139-copy-2a.jpg?w=1600&h=900&crop=1",
+      "favicon": "https://www.rollingstone.com/wp-content/uploads/2024/12/R-Avatar_512x512_flat.png?w=32",
+      "text_excerpt": "Skip to main content Rollingstone Logo Click to expand the Mega Menu Click to Expand Search Input MUSIC POLITICS TV & MOVIES CULTURE VIBE Got A Tip? Log In THE ‘YOU CAN SEE EVERYTHING’ INTERVIEW YOU’VE BEEN WAITING FOR Nathan Fielder, Lance Oppenheim, and, yes, Amanda Seyfried discuss making — and processing — their top-secret, mind-bending documentary By DAVID FEAR Photographs by SACHA LECCA NOVEMBER 11, 2026 ADD US AS A GOOGLE PREFERRED SOURCE Editor’s note: This article contains major spoilers for the documentary “You Can See Everything.” “Well, guys, what should we talk about?” This is a joke offered by one of three people on a Zoom with Rolling Stone one October afternoon. Because like virtually everybody who’s been to the movies in the past month, and even many who haven’t, the subject these three are most keen to chat about is the brain-boggling, meme-launching, WTF-did-I-just-watch documentary You Can See Everything. If you haven’t seen it yet, you undoubtedly know the elevator pitch: Nathan Fielder embeds himself in the home of convicted fraudster Elizabeth Holmes and her partner, Billy Evans, right before Holmes reports to prison. You also know the major conversation-starter moments: The shower scene. The egg-whipping. The abundant close-ups of unblinking stares. The one thing that makes this virtual coffee klatch a little different is that the folks ready to discuss the ins and outs of this cultural phenomenon include Fielder and his co-director, Lance Oppenheim. And if you’re among the many, many folks who’ve helped turn this gonzo experiment in nonfiction filmmaking into a blockbuster, you can likely guess who the third person in the chat might be. Hint: It’s not Holmes. Rather, it’s the woman who’s played her not once, but now twice — Amanda Seyfried, the Dropout star whose presence in the documentary’s second half has been one of the best-kept moviegoing secrets in recent memory, and the aspect that sends it into a whole new stratosphere of mind-fucke"
+    },
+    "verdict": {
+      "model": "jev-1.13.0",
+      "score": 0.44,
+      "category": "Entertainment",
+      "category_confidence": 0.64
+    }
+  },
+  {
+    "canonical_url": "https://benchup3d.github.io/editor/",
+    "url": "https://benchup3d.github.io/editor/",
+    "found_at": "2026-11-12T13:45:03+00:00",
+    "sources": [
+      {
+        "name": "pinboard",
+        "title": "BenchUp — Free 3D Woodworking & Furniture Design App"
+      }
+    ],
+    "page": {
+      "final_url": "https://benchup3d.github.io/editor/",
+      "status": 200,
+      "title": "BenchUp — Free 3D Woodworking & Furniture Design App",
+      "description": "Free, open-source 3D woodworking and furniture design with wood joinery, grain orientation, cutting plans, and cost estimates. On desktop or in your browser.",
+      "og_image": "https://benchup3d.github.io/editor/assets/screenshots/benchup.jpg?v=0.6.8-r4",
+      "favicon": "https://benchup3d.github.io/editor/assets/branding/logo.svg",
+      "text_excerpt": "Skip to content BenchUp. GitHub ↗ Try in browser ↗ 3D design for your next woodworking project. BenchUp is a free, open-source 3D modeling app for woodworking and furniture design. Plan a shelf, table, cabinet, or workbench with exact measurements, wood joinery, and grain orientation before you build. Use it on Windows, macOS, Linux, or right in your desktop browser. A little sketch. A whole new dimension. Actual BenchUp workspace Download for Windows ↓ Windows x64 · .exe installer Download for macOS ↓ Apple Silicon · .pkg installer Download for macOS ↓ Intel x64 · .pkg installer Download for Linux ↓ Linux x64 · AppImage Release notes & all downloads ↗ Free & open source. No account needed. Made for a desktop browser and a mouse. From the first line to the finer details. Start with a simple shape. Keep the tools you need close, and your model at the center. ↗ Draw. Pull. Make it yours. Sketch lines, rectangles, circles, and freehand outlines. Turn faces into forms with Push/Pull, then move, scale, offset, and paint. ⌖ Keep your ideas in measure. Snap to geometry and axes, type exact lengths, and add dimensions. Organize the bigger picture with groups, components, and tags. ↓ Your work, in your hands. Autosave locally and download portable .bup projects. Import SketchUp geometry or export an OBJ to take your model further. Every joint. Every grain direction. Plan how the boards meet, how the grain runs, and what you need in the workshop before the first cut. Wood joinery Create mortise-and-tenon, half-lap, tongue-and-groove, rabbet, dovetail, and finger joints, including angled connections. Adjust dimensions and clearance with live previews, inspect machining diagnostics and cut guides, and trim excess material while keeping the original boards editable. Wood grain orientation Set the grain direction on groups and components and show grain-direction guides on the model. Review each board in the full assembly before building. Grain orientation stays with the project a"
+    },
+    "verdict": {
+      "model": "jev-1.13.0",
+      "score": 3.63,
+      "category": "Design Tools",
+      "category_confidence": 0.99
+    },
+    "screenshot": "shots/2026/11-12/benchup3d-github-io-editor.jpg"
+  },
+  {
+    "canonical_url": "https://medium.com/chick-fil-atech/observability-at-the-edge-b2385065ab6e",
+    "url": "https://medium.com/chick-fil-atech/observability-at-the-edge-b2385065ab6e",
+    "found_at": "2026-11-12T13:45:03+00:00",
+    "sources": [
+      {
+        "name": "pinboard",
+        "title": "Observability at the Edge. How Chick-fil-A provides observability… | by Brian Chambers | chick-fil-atech | Medium"
+      }
+    ],
+    "page": {
+      "final_url": "https://medium.com/chick-fil-atech/observability-at-the-edge-b2385065ab6e",
+      "status": 200,
+      "title": "Observability at the Edge",
+      "description": "How Chick-fil-A provides observability for 2,800+ K8s clusters",
+      "og_image": "https://miro.medium.com/v2/resize:fit:1200/1*QI_-fnnLcW_fxiA_nkJ_Og.png",
+      "favicon": "https://miro.medium.com/v2/5d8de952517e8160e40ef9841c781cdc14a5db313057fa3c3de41c6f5b494b19",
+      "text_excerpt": "Get app Write Sign up Sign in 🚀 Our new writing app, TK, is on Product Hunt. Show support → chick-fil-atech Learn about how we are applying technology across the disciples of Software Engineering, Product Development, Analytics, and Enterprise Architecture to maximize our ability to serve Chick-fil-A Operators, Team Members, and Customers. Follow publication Architecture Software Engineering Observability Observability at the Edge How Chick-fil-A provides observability for 2,800+ K8s clusters Brian Chambers Follow 8 min read · Aug 8, 2023 4 by Brian Chambers, Alex Crane Managing 2,800 Edge Kubernetes Clusters Chick-fil-A runs a fleet of Edge Kubernetes clusters in each of our ~2,800 restaurants to enable highly available, business critical workloads to run without internet dependency. On top of this fleet we run a set of platform services that provides services for things like identity management, application deployment, and observability across the fleet. In addition, we also manage hundreds of thousands of internet of things (IOT) devices such as fryers, grills, or tablets (user interfaces) that send billions of MQTT messages each month in addition to operational metrics and logs. Operating 2,800+ discreet footprints of Kubernetes is not without its challenges. The same is true for any of the edge applications deployed by our internal teams, which are customers of the platform. Anyone running an application needs strong observability capabilities and this is certainly true at the Edge, too. In this post, we’ll share about our observability architecture for the edge at Chick-fil-A. Challenges at the Edge The edge brings a lot of unique challenges and constraints that are somewhat foreign to the modern cloud native mindset. Logging: There are simply too many application logs to push debug from every Kubernetes pod and IOT device to the cloud in realtime. Bandwidth: In some of the early iterations of our services, we consumed all of the available bandwidth that was a"
+    },
+    "verdict": {
+      "model": "jev-1.13.0",
+      "score": 2.52,
+      "category": "Software Engineering",
+      "category_confidence": 0.84
+    }
+  },
+  {
+    "canonical_url": "https://anoma.ly/labs/bank/",
+    "url": "https://anoma.ly/labs/bank/",
+    "found_at": "2026-11-12T13:45:03+00:00",
+    "sources": [
+      {
+        "name": "pinboard",
+        "title": "Bank · a tiny currency for your Slack"
+      }
+    ],
+    "page": {
+      "final_url": "https://anoma.ly/labs/bank/",
+      "status": 200,
+      "title": "Bank · a tiny currency for your Slack",
+      "description": "Everyone in your Slack gets coins. Give them away with a reaction or /bank give.",
+      "og_image": "",
+      "favicon": "https://anoma.ly/labs/bank/emoji/anomaly/coin-10.png",
+      "text_excerpt": "bank A tiny currency for your Slack. Everyone gets 100 coins. Give them away when someone helps you out, with a reaction or /bank give. Spend them on whatever your team decides they're worth. Add to Slack Sign in with Slack React to give Add a coin emoji to someone's message and that many coins move from you to them. Gifts are final, removing the reaction doesn't take it back. Or use the command /bank give @adam 10 for the fix posts it in the channel for everyone to see. Make it yours Admins rename the currency, set the starting balance, choose which emoji are worth what, and adjust balances. Anomaly coins Slack doesn't let apps upload emoji, so add these yourself. Download each coin and upload it under the same name and the default reactions just work. :coin-1: Download :coin-5: Download :coin-10: Download :coin-20: Download"
+    },
+    "verdict": {
+      "model": "jev-1.13.0",
+      "score": 2.66,
+      "category": "Productivity",
+      "category_confidence": 0.59
+    }
+  },
+  {
+    "canonical_url": "https://www.lego.com/en-us/history/articles/d-lego-building-instructions-through-time?locale=en-us",
+    "url": "https://www.lego.com/en-us/history/articles/d-lego-building-instructions-through-time?locale=en-us",
+    "found_at": "2026-11-12T13:45:03+00:00",
+    "sources": [
+      {
+        "name": "pinboard",
+        "title": "LEGO® building instructions through time | LEGO® History | LEGO.com US"
+      }
+    ],
+    "page": {
+      "final_url": "https://www.lego.com/en-us/history/articles/d-lego-building-instructions-through-time?locale=en-us&age-gate=grown_up",
+      "status": 200,
+      "title": "LEGO® building instructions through time   | LEGO® History",
+      "description": "",
+      "og_image": "https://www.lego.com/cdn/cs/history/assets/bltdca3976db0441e91/lego-wooden-duck.jpg",
+      "favicon": "https://www.lego.com/favicon.ico",
+      "text_excerpt": "Skip to main content Report an accessibility issue Go to our accessibility page Get Ariel & Flounder's Birthday Music Fun with qualifying purchases* Learn more Shop Discover Help Holiday Sign Up (0) LEGO® History Back LEGO® building instructions through time Building instructions. The silent helper that without a single word guides you, step by step, to transform your pile of bricks to fantastic creations. The tool that shows you building techniques and gives you a solid foundation for further exploring the wonders of the LEGO® brick. Let’s take a look at some of the many historic milestones. Before instructions The history of building instructions starts with very simplified instructions as early as 1955. Prior to this the only ‘guidance’ for products containing plastic bricks were drawings on the packaging to serve as inspiration for consumers. There were also examples of small leaflets with inspirational material inside some boxes in the 1950s. Example of a set with drawings on the packaging The company also produced more elaborate inspirational material to hand out or sell separately, the so called “byggebog”, which directly translates to ‘building book’, but perhaps a better term is idea book. The Idea book was first published in 1955 and contained among other things information on different building techniques and inspiration for building houses. Cover of LEGO® Idea book from 1955 Spread from the book concerning building techniques Early building instructions In 1955, the LEGO® System in Play idea was introduced. The groundbreaking idea that among other things makes sure the bricks you buy today will fit with the bricks you bought yesterday and the bricks you buy tomorrow. The first LEGO System in Play products were centered around a town environment (Town Plan no. 1). The town plan and the houses and shops etc. to inhabit the town was the first time the LEGO Group introduced special sets with specific models, as in, the model you saw on the box was also what "
+    },
+    "verdict": {
+      "model": "jev-1.13.0",
+      "score": 0.96,
+      "category": "History",
+      "category_confidence": 0.95
+    }
+  },
+  {
+    "canonical_url": "https://github.com/NYLLON-SOFTWARE/ember-cloudflare",
+    "url": "https://github.com/NYLLON-SOFTWARE/ember-cloudflare",
+    "found_at": "2026-11-12T13:45:03+00:00",
+    "sources": [
+      {
+        "name": "pinboard",
+        "title": "NYLLON-SOFTWARE/ember-cloudflare: Open Source Slack and Campfire inspired chat with one click deploy to Cloudflare."
+      }
+    ],
+    "github": {
+      "repo_url": "https://github.com/NYLLON-SOFTWARE/ember-cloudflare",
+      "homepage": "",
+      "description": "Open Source Slack and Campfire inspired chat with one click deploy to Cloudflare.",
+      "topics": [],
+      "stars": 997,
+      "created_at": "2026-10-12T20:06:17Z",
+      "pushed_at": "2026-11-12T05:45:34Z",
+      "owner_avatar": "https://avatars.githubusercontent.com/u/244198923?v=4"
+    },
+    "page": {
+      "final_url": "https://github.com/NYLLON-SOFTWARE/ember-cloudflare",
+      "status": 200,
+      "title": "GitHub - NYLLON-SOFTWARE/ember-cloudflare: Open Source Slack and Campfire inspired chat with one click deploy to Cloudflare.",
+      "description": "Open Source Slack and Campfire inspired chat with one click deploy to Cloudflare. - NYLLON-SOFTWARE/ember-cloudflare",
+      "og_image": "https://repository-images.githubusercontent.com/1416079060/36b929a8-c710-48b1-a317-f6198acd49d4",
+      "favicon": "https://github.com/fluidicon.png",
+      "text_excerpt": "Skip to content Navigation Menu Products Developers Businesses Resources Pricing Search / Sign in Sign up NYLLON-SOFTWARE ember-cloudflare Repository navigation Code Issues 4 (4) Pull requests 6 (6) Discussions Actions Projects Security and quality Insights ember-cloudflare Public Notifications Fork99 (99) Star997 (997) main 99 Branches 11 Tags Code Latest commit kropdx Merge pull request #307: A Huddles tab in Admin, and Set up Ember's q… 3bde768 · History 1,085 Commits Folders and files Name Last commit message Last commit date .claude/skills Add Cloudflare's agent skills and web performance skills for Claude Code .github/workflows Let a copy of Ember opt in to betas of the next release apps Call huddles audio and video chat where they're turned on docs Give huddles their own tab in Admin, and ask about them as Ember is s… e2e Call huddles audio and video chat where they're turned on packages Give huddles their own tab in Admin, and ask about them as Ember is s… perf Search as Slack does, from a Cmd+F box with filters .dev.vars.example Take a setup password of any length .editorconfig Draw every icon from Iconoir, as the project's owner picked them .gitignore Let Deploy to Cloudflare users keep messages in D1 AGENTS.md Update copies of Ember with a pull request for each release CLAUDE.md Scaffold the Cloudflare monorepo: Worker, ChatRoom Durable Object, Re… LICENSE Name NYLLON LLC in the license, beside 37signals README.md Say how to recover when a copy's first build finds no package.json package.json Let Deploy to Cloudflare users keep messages in D1 pnpm-lock.yaml Take the upstream app's name and citations out of the repo pnpm-workspace.yaml Merge main, with #3's performance suite, into the mobile tests tsconfig.base.json Copy ember-rust's room icon catalog and type its names wrangler.jsonc Have Cloudflare Images make the previews browsers don't send Repository files navigation README MIT license A real-time chat app that runs entirely on Cloudflare. Rooms, thre"
+    },
+    "verdict": {
+      "model": "jev-1.13.0",
+      "score": 2.9,
+      "category": "Developer Tools",
+      "category_confidence": 0.55
+    }
+  },
+  {
+    "canonical_url": "https://www.pcmag.com/news/white-house-network-possibly-exposed-to-hackers-via-proxy-services",
+    "url": "https://www.pcmag.com/news/white-house-network-possibly-exposed-to-hackers-via-proxy-services",
+    "found_at": "2026-11-12T13:45:03+00:00",
+    "sources": [
+      {
+        "name": "pinboard",
+        "title": "White House Network Possibly Exposed to Hackers Via Proxy Services | PCMag"
+      }
+    ],
+    "page": {
+      "final_url": "https://www.pcmag.com/news/white-house-network-possibly-exposed-to-hackers-via-proxy-services",
+      "status": 200,
+      "title": "White House Network Possibly Exposed to Hackers Via Proxy Services",
+      "description": "Evidence has emerged that White House staffers are using an app loaded with residential proxy services, which often sell IP addresses to anyone, including hackers.",
+      "og_image": "https://i.pcmag.com/imagery/articles/04UvUhTtquz33hIXPlERkh7-1.fit_lim.size_1200x630.v1793889441.jpg",
+      "favicon": "https://www.pcmag.com/favicon.ico",
+      "text_excerpt": "Skip to Main Content #HolidayGiftGuide Best Products Comparisons Reviews How-To News Deals Newsletters Maggie: AI Product Finder PCMag editors select and review products independently. If you buy through affiliate links, we may earn commissions, which help support our testing. Home News Security White House Network Possibly Exposed to Hackers Via Proxy Services Evidence has emerged that White House staffers are using an app loaded with residential proxy services, which often sell IP addresses to anyone, including hackers. Michael Kan Principal Reporter OUR EXPERT When he's not battling bugs and robots in Helldivers 2, Michael is reporting on AI, satellites, cybersecurity, PCs, and tech policy. Edited By: Chloe Albanesius November 5, 2026 Add as a preferred source on Google (Photo by Mehmet Eser/Anadolu via Getty Images) Getting your Trinity Audio player ready... White House staffers might be using a Windows app that can also secretly give cybercriminals a way to route traffic through West Wing internet addresses. Two cybersecurity providers have uncovered evidence that numerous residential proxy services have access to the White House’s network. That’s concerning because proxy services sell access to IP addresses in different parts of the world. It's also alarming because cybercriminals regularly use proxy services to stage and hide their hacking activities by exploiting IP addresses that may be associated with a legitimate user’s residence, office, or even a government agency. In addition, consumer devices, including smart TVs and routers, can be secretly ensnared by such proxy services via malware or shady third-party software development kits (SDKs). You May Also Like Keep Watching FBI Hack Suspect Arrested, What’s On The ‘Dark Web’ and Protecting Yourself Online | Tech Today The evidence initially came from the cybersecurity vendor Layer 3 Intel, which was examining the network block AS2650, dedicated to the White House. Layer 3 Intel discovered internet traffic"
+    },
+    "verdict": {
+      "model": "jev-1.13.0",
+      "score": 0.51,
+      "category": "News",
+      "category_confidence": 0.95
+    }
+  },
+  {
+    "canonical_url": "https://brkeogh.com/2026/11/11/ai-is-history/",
+    "url": "https://brkeogh.com/2026/11/11/ai-is-history/",
+    "found_at": "2026-11-12T13:45:03+00:00",
+    "sources": [
+      {
+        "name": "pinboard",
+        "title": "AI is history | Brendan Keogh"
+      }
+    ],
+    "page": {
+      "final_url": "https://brkeogh.com/2026/11/11/ai-is-history/",
+      "status": 200,
+      "title": "AI is history",
+      "description": "Image of Cass Barkman in pain, screenshot taken by Jacqui Moran as she laughed. I. Throughout Capital and the Grundrisse, Marx makes clear the profoundly contradictory nature of technology under ca…",
+      "og_image": "https://brkeogh.com/wp-content/uploads/2026/11/image-edited.png",
+      "favicon": "https://s0.wp.com/i/favicon.ico?m=1713425267i",
+      "text_excerpt": "Skip to primary content Brendan Keogh Videogame researcher, critic, and maker Search Main menu Home About Books Games Academia Writing Contact Australian Videogame Maker Surveys Post navigation ← Previous AI is history Posted on November 11, 2026 Image of Cass Barkman in pain, screenshot taken by Jacqui Moran as she laughed. I. Throughout Capital and the Grundrisse, Marx makes clear the profoundly contradictory nature of technology under capitalism and what he calls the “civilising tendency of capital”. Capitalism, it can’t be denied, has seen profound technological advancements in machinery, transport, communication, medicine, etc. Capital, though, did not produce any of these advancements. Human knowledge and labour did. Capital, in search of a larger profit, simply organised this human knowledge and labour to do its scientific work to make and then put into actions these innovations—not because these innovations were good for society in some way, but because they would be profitable. The ‘civilising tendency’ of capital is a by-product, a happy accident, of capital’s endless thirst for profit. But it plays a critical historical role all the same. A consequence of this is that workers, gradually over time, alongside their increasing exploitation by capital, gain access to more use-values, to more things. Vehicles, televisions, smartphones, videogames, medicine gradually shift over time (as their capitalist owners require more profit) from specialist things accessed only by a few elite, to things that that a much larger group of people are able to access. What was previously a luxury item becomes, over time, perceived as a necessary item all people deserve access to. Of course, the quality of the things we get reduce in quality at the same time as they are made under more standardised and cost-cutting conditions. Again, none of this is the purpose of capitalism. The purpose is to exploit labour to get rich. But along the way, technology is rapidly advanced and soci"
+    },
+    "verdict": {
+      "model": "jev-1.13.0",
+      "score": 1.35,
+      "category": "Blog",
+      "category_confidence": 0.97
+    }
+  },
+  {
+    "canonical_url": "https://indiadispatch.com/p/top-apps-india-sensor-tower",
+    "url": "https://indiadispatch.com/p/top-apps-india-sensor-tower",
+    "found_at": "2026-11-12T13:45:03+00:00",
+    "sources": [
+      {
+        "name": "pinboard",
+        "title": "India’s app economy in 18 charts • India Dispatch"
+      }
+    ],
+    "page": {
+      "final_url": "https://indiadispatch.com/p/top-apps-india-sensor-tower",
+      "status": 200,
+      "title": "India’s App Economy in 18 Charts",
+      "description": "The apps Indians have taken to since early 2024, and the ones they have left behind.",
+      "og_image": "https://substackcdn.com/image/fetch/$s_!Hut-!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fdedce1db-b1a9-4450-9bb0-f00037b47310_1536x1024.jpeg",
+      "favicon": "https://substackcdn.com/image/fetch/$s_!-Q83!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F25cddb3f-e9e3-46f1-91fd-314940f92602%2Ffavicon.ico",
+      "text_excerpt": "India Dispatch Subscribe Sign in India’s App Economy in 18 Charts The apps Indians have taken to since early 2024, and the ones they have left behind. MANISH SINGH NOV 02, 2026 31 3 Share The apps at the top of Indian phones have barely changed in nearly three years, but much of the market beneath them has reshuffled, according to an India Dispatch analysis of Sensor Tower data. AI chatbots have gone mainstream, and ChatGPT, which had little traction in early 2024, now has nearly as many users in India as Telegram. In ride-hailing and online shopping, challengers have drawn more users than the incumbents. Netflix and Spotify have gained users while most of their rivals, including Amazon Prime Video and JioSaavn, have shrunk. Quick commerce app Blinkit has grown several times over, and short-drama apps that barely registered in early 2024 now have more than 100 million users between them. A selection of the most interesting data I spotted below. Subscribe to India Dispatch By Manish Singh · Launched 2 years ago Insights and commentary on India market, VCs and startups. Subscribe By subscribing, you agree to Substack's Terms of Use, and acknowledge its Information Collection Notice and Privacy Policy. 31 Likes ∙ 3 Restacks 31 3 Share Previous Discussion about this post Comments Restacks Top Latest Discussions The Nine Indias India is better understood as nine separate economies, and the gaps between them are widening fast enough to make national averages useless. NOV 19, 2025 • MANISH SINGH 199 13 30 A Tale of Two Indias and Three E-commerce Models How a zero-commission marketplace and asset-light logistics platform disrupted a $70 billion market. OCT 22, 2025 • MANISH SINGH 68 5 8 The 500 Million Worker Problem AI subscriptions replace Indian engineers at \"higher precision and speed\" MAR 28, 2025 • MANISH SINGH 14 2 3 See all Ready for more? Subscribe © 2026 Manish Singh · Privacy ∙ Terms ∙ Collection notice Start your Substack Get the app Substack is the home for wr"
+    },
+    "verdict": {
+      "model": "jev-1.13.0",
+      "score": 1.64,
+      "category": "Magazines, Newspapers & Newsletter",
+      "category_confidence": 0.84
+    }
+  },
+  {
+    "canonical_url": "https://www.cbr.com/best-fantasy-book-magic-systems-list/",
+    "url": "https://www.cbr.com/best-fantasy-book-magic-systems-list/",
+    "found_at": "2026-11-12T13:45:03+00:00",
+    "sources": [
+      {
+        "name": "pinboard",
+        "title": "7 Greatest Magic Systems in Fantasy Book History, Ranked"
+      }
+    ],
+    "page": {
+      "final_url": "https://www.cbr.com/best-fantasy-book-magic-systems-list/",
+      "status": 200,
+      "title": "7 Greatest Magic Systems in Fantasy Book History, Ranked",
+      "description": "Fantasy magic systems come in many forms, but the best become inseparable from the worlds and characters at the heart of their stories.",
+      "og_image": "https://static0.cbrimages.com/wordpress/wp-content/uploads/2026/08/vin_mistborn_orange.jpg?w=1600&h=900&fit=crop",
+      "favicon": "https://www.cbr.com/public/build/images/favicon-48x48.png",
+      "text_excerpt": "Menu Add Follow Sign In Now Close MOVIES SUBMENU TV SUBMENU COMICS SUBMENU ANIME SUBMENU GAMES SUBMENU BOOKS VIDEOS MORE SUBMENU Sign In Newsletter Add CBR on Google Add Follow Pokemon Cards MCU, DCU & More Dragon Ball Lord of the Rings Procedurals & Dramas Westerns Zelda Upgrade to Premium 7 Greatest Magic Systems in Fantasy Book History, Ranked Image via Steve Argyle for Mistborn: The Final Empire Add CBR on Google Add as Preferred Source Follow on Google Discover By Justin Young Published Nov 9, 2026, 5:01 PM EST Justin is a writer of weird tales, his work has been published in several horror fiction magazines. He has long been a fan of fantasy-themed media from the written works of J.R.R. Tolkien and Robert E. Howard to the campy Sword and Sorcery films of the 80's. As a child, he perhaps consumed too many horror films that shaped his love of the macabre and occult. He has written for online and print outlets such as Rue Morgue Magazine. Here is a fact-based summary of the story contents: One of the most compelling elements for many fantasy fans is the magic system in their favorite novels; a reader's personal favorite book or series may come down to the magic style they enjoy most. Interesting characters and a worthwhile story will always be necessary, but a lot of the genre's fun and escapism comes from how magic works in the world. Magic in fantasy has no singular formula. The rules can be clear and established or understated and intentionally vague. Some authors fall somewhere in the middle. All approaches can work if they serve the story. The sheer number of fantasy books and various systems and their differences make them difficult to compare, but the following are a few of the most beloved uses of magic in fantasy. The Music of Middle-Earth Is One of the Most Poetic Magic Systems in Fantasy Image via The Toliken Estate J.R.R. Tolkien's The Lord of the Rings is widely considered a masterpiece of a fantasy series filled with lore and depth. Where more moder"
+    },
+    "verdict": {
+      "model": "jev-1.13.0",
+      "score": 0.51,
+      "category": "Books",
+      "category_confidence": 0.62
+    }
+  },
+  {
+    "canonical_url": "https://www.theguardian.com/artanddesign/2026/nov/10/petra-heights-flintstones-style-towers-future-of-eco-building",
+    "url": "https://www.theguardian.com/artanddesign/2026/nov/10/petra-heights-flintstones-style-towers-future-of-eco-building",
+    "found_at": "2026-11-12T13:45:03+00:00",
+    "sources": [
+      {
+        "name": "pinboard",
+        "title": "Yabba dabba doo! Could these bulging, Flintstones-style towers be the future of eco-building? | Architecture | The Guardian"
+      }
+    ],
+    "page": {
+      "final_url": "https://www.theguardian.com/artanddesign/2026/nov/10/petra-heights-flintstones-style-towers-future-of-eco-building",
+      "status": 200,
+      "title": "Yabba dabba doo! Could these bulging, Flintstones-style towers be the future of eco-building?",
+      "description": "Ruggedly good-looking and greener than bricks and concrete, Petra Heights are made of three-metre slabs of rough rock. Could they herald a new stone age? Our writer fires up his Flintmobile",
+      "og_image": "https://i.guim.co.uk/img/media/b519bfaa8deeb7cd3cbb97d63c76a385a1273eaf/334_716_3674_2939/master/3674.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=594fc9deae35c9fdcda17d0a65cc6cd3",
+      "favicon": "https://assets.guim.co.uk/static/frontend/icons/homescreen/apple-touch-icon.svg",
+      "text_excerpt": "Skip to main content Skip to navigation Support the Guardian Fund independent journalism with $15 per month Make a year-end gift Print subscriptions Newsletters Sign in US The Guardian - Back to home The Guardian News Opinion Sport Culture Lifestyle Show more Film Books Music Art & design TV & radio Stage Classical Games Design a better world View image in fullscreen ‘You half-expect the lift to be a hollowed-out boulder on a rope’ … Petra Heights on London’s Finchley Road. Photograph: Timothy Soar Architecture Yabba dabba doo! Could these bulging, Flintstones-style towers be the future of eco-building? Ruggedly good-looking and greener than bricks and concrete, Petra Heights are made of three-metre slabs of rough rock. Could they herald a new stone age? Our writer fires up his Flintmobile Oliver Wainwright Tue 10 Nov 2026 09.25 EST Share 85 Prefer the Guardian on Google T here’s been a geological eruption on London’s Finchley Road. Great chunks of pink basalt and igneous larvikite appear to have exploded from the railway cutting, shooting skywards to form teetering towers. Anyone trying to find Finchley Road & Frognal station need wonder no more: just look for the multistorey Stonehenge. Countless apartment towers have sprouted above London’s stations in recent years, a result of public transport-oriented policies, but none have looked like the Flintstones were in charge. Quarries think architects want everything clean cut – but we use it as it comes “This is one of those stations where people are always scratching their heads trying to find it,” says architect Amin Taha, standing at the foot of his rocky megalith, an unmissable landmark next to the Overground entrance. “We’re unlikely to start building church spires or grand civic buildings with clocktowers again, so we wanted to make something people could point to and say, ‘It’s next to that building.’” They might add that the towers, called Petra Heights, look like they’ve been assembled by a giant child, with "
+    },
+    "verdict": {
+      "model": "jev-1.13.0",
+      "score": 0.6,
+      "category": "Art & Design",
+      "category_confidence": 0.79
+    }
+  },
+  {
+    "canonical_url": "https://aws.amazon.com/blogs/compute/nitro-sandboxes-hardware-isolation-for-every-eks-pod-ecs-task-and-ec2-workload/",
+    "url": "https://aws.amazon.com/blogs/compute/nitro-sandboxes-hardware-isolation-for-every-eks-pod-ecs-task-and-ec2-workload/",
+    "found_at": "2026-11-12T13:45:03+00:00",
+    "sources": [
+      {
+        "name": "pinboard",
+        "title": "Nitro Sandboxes: Hardware isolation for every EKS pod, ECS task, and EC2 workload | AWS Compute Blog"
+      }
+    ],
+    "page": {
+      "final_url": "https://aws.amazon.com/blogs/compute/nitro-sandboxes-hardware-isolation-for-every-eks-pod-ecs-task-and-ec2-workload/",
+      "status": 200,
+      "title": "Nitro Sandboxes: Hardware isolation for every EKS pod, ECS task, and EC2 workload | Amazon Web Services",
+      "description": "AWS Nitro Sandboxes is a new Amazon EC2 building block that gives each container, EKS pod, or ECS task the boundary of a hardware-isolated virtual machine, bringing the Nitro System's strong isolation, zero operator access, and cryptographic attestation to container workloads at near-native performance.",
+      "og_image": "https://d2908q01vomqb2.cloudfront.net/1b6453892473a467d07372d45eb05abc2031647a/2026/11/10/ComputeBlog-2748-featured-image.png",
+      "favicon": "https://a0.awsstatic.com/main/images/site/fav/favicon.ico",
+      "text_excerpt": "Skip to Main Content AWS Blogs Home Blogs Editions AWS Compute Blog Nitro Sandboxes: Hardware isolation for every EKS pod, ECS task, and EC2 workload by Alex Graf on 10 NOV 2026 in Amazon EC2, Amazon Elastic Kubernetes Service, Announcements, Expert (400) Permalink Share Security has been the foundation of AWS cloud computing since day one. When we built Amazon Elastic Compute Cloud (Amazon EC2), we designed it with strong isolation that keeps customer workloads and data separated from every other tenant on the same hardware. The AWS Nitro System took that further by moving virtualization, storage, and networking onto dedicated hardware, making zero operator access to customer data the default. Customers then asked us for more. They wanted tightly scoped, attestable environments for their most sensitive processing: the code and data that required protection even from their own administrators. That’s why we built Nitro Enclaves. Today, more of those sensitive workloads run in containers on Amazon Elastic Kubernetes Service (Amazon EKS), Amazon Elastic Container Service (Amazon ECS), and self-managed Kubernetes and container runtimes on Amazon EC2. Customers are asking for the same level of isolation and confidentiality for container environments. Container environments today host many independent workloads on a single EC2 instance by using Linux container technology. For a lot of customers, Linux containers have become the prevalent workload delivery vehicle because of their ease of deployment and the ability to have them share resources in one host through a shared kernel. This sharing has some downsides. Operators of a shared cluster have access to all the tasks running in it. A weakness in the shared kernel reachable by one container also exposes every other container on the host. With the current rate of Linux Common Vulnerabilities and Exposures (CVEs), containerized workloads need an architecture that isolates each workload from other workloads and from cluster"
+    },
+    "verdict": {
+      "model": "jev-1.13.0",
+      "score": 2.19,
+      "category": "Developer Tools",
+      "category_confidence": 0.3
+    }
+  }
+]
