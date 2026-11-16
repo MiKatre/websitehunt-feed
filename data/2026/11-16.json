@@ -1,0 +1,1951 @@
+[
+  {
+    "canonical_url": "https://pub.cba.mit.edu/863.26/site/",
+    "url": "https://pub.cba.mit.edu/863.26/site/",
+    "found_at": "2026-11-16T13:36:50+00:00",
+    "sources": [
+      {
+        "name": "hn",
+        "id": "50514470",
+        "title": "How to make almost anything",
+        "discussion_url": "https://news.ycombinator.com/item?id=50514470",
+        "score": 452,
+        "comments": 85,
+        "created_at": "2026-11-16T05:50:37Z"
+      }
+    ],
+    "page": {
+      "final_url": "https://pub.cba.mit.edu/863.26/site/",
+      "status": 200,
+      "title": "HTMAA 2026",
+      "description": "",
+      "og_image": "",
+      "favicon": "https://pub.cba.mit.edu/favicon.ico",
+      "text_excerpt": "MAS.863/4.140/6.9020 How To Make (almost) Anything Wednesdays 1:00-4:00 E14-633 2026 Application Schedule 09/09: introduction, computer-aided design recitation (9/10 5:00-6:00): version control and Web development 09/16: project management, computer-controlled cutting recitation (9/17 5:00-6:00): parametric design 09/23: embedded programming recitation (9/24 5:00-6:00): electronics 09/30: 3D scanning and printing recitation (10/01 5:00-6:00): AI agents 10/07: electronics design, first review recitation (10/08 5:00-6:00): EDA (Electronic Design Automation) 10/14: electronics production recitation (10/15 5:00-6:00): debugging 10/21: computer-controlled machining recitation (10/22 5:00-6:00): CAM (Computer-Aided Manufacturing) 10/28: input devices recitation (10/29 5:00-6:00): Edge AI slides, code 11/04: output devices recitation (11/05 5:00-6:00): motor and motion control 11/11: mechanical, machine design recitation (11/12 5:00-6:00): machine building 11/18: wildcard week, second review recitation: (11/19 5:00-6:00): molding and casting 11/25: networking and communications, interface and application programming recitation (11/30 5:00-6:00): mesh networks 12/02: system integration recitation (12/03 5:00-6:00): help session 12/04: final assignments and orders 12/09: project development recitation (12/10 5:00-6:00): help session 12/15: project presentation prep: 9:00-1:30 final exam: 1:30-4:30 open house: 5:00-6:30 People Docs Prior years Search"
+    },
+    "verdict": {
+      "model": "jev-1.13.0",
+      "score": 1.06,
+      "category": "Education",
+      "category_confidence": 0.97
+    }
+  },
+  {
+    "canonical_url": "https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=1154101",
+    "url": "https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=1154101",
+    "found_at": "2026-11-16T13:36:50+00:00",
+    "sources": [
+      {
+        "name": "hn",
+        "id": "50514180",
+        "title": "Debian Becomes Unresponsive after 6.1.0-55 Kernel Update",
+        "discussion_url": "https://news.ycombinator.com/item?id=50514180",
+        "score": 137,
+        "comments": 60,
+        "created_at": "2026-11-16T04:53:06Z"
+      }
+    ],
+    "page": {
+      "final_url": "https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=1154101&pow_referer=",
+      "status": 200,
+      "title": "#1154101 - linux-image-6.1.0-55-amd64: System freeze after update to linux-image-6.1.0-55-amd64 - Debian Bug report logs",
+      "description": "",
+      "og_image": "",
+      "favicon": "https://bugs.debian.org/favicon.png",
+      "text_excerpt": "Debian Bug report logs - #1154101 linux-image-6.1.0-55-amd64: System freeze after update to linux-image-6.1.0-55-amd64 Package: src:linux; Maintainer for src:linux is Debian Kernel Team <debian-kernel@lists.debian.org>; Reported by: Micha <michaplouc@gmail.com> Date: Sun, 15 Nov 2026 21:33:02 UTC Severity: critical Tags: upstream Merged with 1154108, 1154119, 1154130, 1154132, 1154133, 1154139, 1154140, 1154151, 1154155 Found in version linux/6.1.192-1 Forwarded to https://lore.kernel.org/linux-ext4/20261102-ext4-ntfs3-null-folio-v1-0-4fd91ee23a4a@elliotjb.com/ https://salsa.debian.org/kernel-team/linux/-/merge_requests/2168 Reply or subscribe to this bug. Display info messages View this report as an mbox folder, status mbox, maintainer mbox Message #5 received at submit@bugs.debian.org (full text, mbox, reply): From: Micha <michaplouc@gmail.com> To: Debian Bug Tracking System <submit@bugs.debian.org> Subject: linux-image-6.1.0-55-amd64: System freeze after update to linux-image-6.1.0-55-amd64 Date: Sun, 15 Nov 2026 22:31:05 +0100 Package: src:linux Version: 6.1.192-1 Severity: critical Justification: breaks the whole system X-Debbugs-Cc: michaplouc@gmail.com Dear Maintainer, After updating to 6.1.0-55 package, and reboot my system, I found my server not responding remotely after few minutes (imap, smtp, http, ssh...). I plugged a VGA screen on this server and I restart it (by hardware button). I manage to login locally and do basic actions like ls, cat, etc... on logs and I get a big error message indicating Oops. The server is not responding anymore through local or remote interfaces. I reboot the server through the hardware button and select the previous kernel version through Grub (6.1.0-54). The server reboot well and keep working well without error. I try again and restart it on the last version (6.1.0-55) and I manage to connect remotely through SSH and execute a dmesg query. After few minutes, I got an error on the VGA screen and I immediately execute dmesg "
+    },
+    "verdict": {
+      "model": "jev-1.13.0",
+      "score": 0.57,
+      "category": "Software Engineering",
+      "category_confidence": 0.8
+    }
+  },
+  {
+    "canonical_url": "https://qwen.ai/blog?id=qwen4-max",
+    "url": "https://qwen.ai/blog?id=qwen4-max",
+    "found_at": "2026-11-16T13:36:50+00:00",
+    "sources": [
+      {
+        "name": "hn",
+        "id": "50513215",
+        "title": "Qwen4-Max",
+        "discussion_url": "https://news.ycombinator.com/item?id=50513215",
+        "score": 648,
+        "comments": 299,
+        "created_at": "2026-11-16T02:14:44Z"
+      }
+    ],
+    "page": {
+      "final_url": "https://qwen.ai/blog?id=qwen4-max",
+      "status": 200,
+      "title": "Qwen",
+      "description": "QWEN STUDIO DISCORD\nToday, we are introducing Qwen4-Max, your new AI teammate for work, creativity, and discovery. Qwen4-Max is built on the new Qwen4 architecture, with a 2.4-trillion-parameter backbone, native vision capabilities, and a one-million-token context window.\nQwen4-Max advances real-world productivity through greater proficiency with professional tools, stronger long-horizon task execution, and higher-quality deliverables. It can take on a wide range of creative and professional work, spanning 3D modeling, game development, precision manufacturing, finance, law, healthcare, and frontier scientific discovery.",
+      "og_image": "https://img.alicdn.com/imgextra/i4/O1CN01OXv3EM1FN8t9W4P79_!!6000000000474-2-tps-80-80.png",
+      "favicon": "https://img.alicdn.com/imgextra/i4/O1CN01OXv3EM1FN8t9W4P79_!!6000000000474-2-tps-80-80.png",
+      "text_excerpt": "Qwen More EN Download Try Qwen Qwen4-Max: Your New Teammate Has Arrived 2026/11/16 · 16 minute · 3114 words · QwenTeam丨Translations:简体中文 QWEN STUDIODISCORD Today, we are introducing Qwen4-Max, your new AI teammate for work, creativity, and discovery. Qwen4-Max is built on the new Qwen4 architecture, with a 2.4-trillion-parameter backbone, native vision capabilities, and a one-million-token context window. Qwen4-Max advances real-world productivity through greater proficiency with professional tools, stronger long-horizon task execution, and higher-quality deliverables. It can take on a wide range of creative and professional work, spanning 3D modeling, game development, precision manufacturing, finance, law, healthcare, and frontier scientific discovery. As a 24/7 AI teammate, Qwen4-Max keeps the big picture in view and moves projects forward, bringing ambitious ideas closer to reality and opening new ways for people and AI to work together. Comprehensive performance comparison across coding, work, and long-horizon tasks. Qwen4-Max represents a significant step up from Qwen3.8-Max, delivering stronger performance across nearly every capability we evaluated. See Footnotes for evaluation details. Token efficiency and cost. Qwen4-Max outperforms Qwen3.8-Max with fewer tokens: on Work360, token usage drops by approximately 24% and 35% at Xhigh and High effort, respectively; on Terminal-Bench 4.0, the reductions are approximately 48% and 49%, respectively. We have also lowered API prices compared with Qwen3.8-Max, with particularly large reductions in cached-input pricing. In our Work360 evaluation, the average cost per task drops from $4.43 to $1.67 — a 62% reduction. Pre-training Qwen4-Max is built on a new architecture for the Qwen4 series, with 2.4T backbone parameters, 71B activated per token, and an additional 328B N-gram Embedding parameters. The architecture systematically upgrades the sparse MoE model across attention, residual connections, and embeddings, impro"
+    },
+    "verdict": {
+      "model": "jev-1.13.0",
+      "score": 1.99,
+      "category": "Blog",
+      "category_confidence": 0.53
+    }
+  },
+  {
+    "canonical_url": "https://iter.ca/post/ubo-uxss/",
+    "url": "https://iter.ca/post/ubo-uxss/",
+    "found_at": "2026-11-16T13:36:50+00:00",
+    "sources": [
+      {
+        "name": "hn",
+        "id": "50513160",
+        "title": "Universal XSS in uBlock Origin from website-driven element picker",
+        "discussion_url": "https://news.ycombinator.com/item?id=50513160",
+        "score": 459,
+        "comments": 132,
+        "created_at": "2026-11-16T02:04:48Z"
+      }
+    ],
+    "page": {
+      "final_url": "https://iter.ca/post/ubo-uxss/",
+      "status": 200,
+      "title": "Universal XSS in uBlock Origin from website-driven element picker",
+      "description": "One-click UXSS issue with uBlock Origin on Firefox through element picker",
+      "og_image": "https://iter.ca//ubo-epicker.png",
+      "favicon": "https://iter.ca/avatar/a32.png",
+      "text_excerpt": "iter.ca • About • Uses • Accounts • Notes Universal XSS in uBlock Origin from website-driven element picker By Smitty van Bodegom (loops) · Nov 15, 2026 Earlier this month I found a one-click universal XSS issue with uBlock Origin (the MV2 Firefox version, although a similar but less problematic issue also affected the MV3 version, uBO Lite), where a malicious website could trick the extension into adding arbitrary trusted filters. Trusted filters can inject JavaScript code into pages, and so the malicious website could create a trusted filter on another website and run arbitrary JS in the context of any site. This issue is fixed now; you can read the GitHub advisory for some more details. GPT-5.6 Sol did most of the hard work of finding the issue. I figured there might be some kind of UXSS from filter injection, so I asked it to take a look, and it found the issue. I then checked and verified the issue it proposed. I wrote all of the prose in this post myself; Claude wrote most of the code for the PoC. The issue uBlock Origin has an element picker that you can pull up by right-clicking on the page. You can use this to create a filter rule to block an element on the page without leaving the page. The element picker is implemented by injecting an iframe to a URL like moz-extension://76b2331a-894c-4d25-8b89-fcce37e79cc4/web_accessible_resources/epicker-ui.html. That page can talk to the extension background script and tell it to add filters. Basically the attack here is: Figure out the element picker URL Create our own invisible (opacity 0) iframe that embeds it Drive the picker to put the filter we want in it Position the invisible iframe to trick the user into pressing the invisible “Create” button Figuring out the element picker URL On Firefox, the only information we needed to figure out was the extension internal UUID which is random per-installation. On the default setup uBO has a lootdest.*##+js(no-fetch-if, adsbygoogle, war:googlesyndication_adsbygoogle.js) fi"
+    },
+    "verdict": {
+      "model": "jev-1.13.0",
+      "score": 2.22,
+      "category": "Software Engineering",
+      "category_confidence": 0.72
+    }
+  },
+  {
+    "canonical_url": "https://www.colesgroup.com.au/updates/",
+    "url": "https://www.colesgroup.com.au/updates/",
+    "found_at": "2026-11-16T13:36:50+00:00",
+    "sources": [
+      {
+        "name": "hn",
+        "id": "50512824",
+        "title": "Coles hit by a cybersecurity incident",
+        "discussion_url": "https://news.ycombinator.com/item?id=50512824",
+        "score": 113,
+        "comments": 86,
+        "created_at": "2026-11-16T01:14:35Z"
+      }
+    ],
+    "page": {
+      "final_url": "https://www.colesgroup.com.au/updates/",
+      "status": 200,
+      "title": "Updates from Coles Group | Coles Group",
+      "description": "",
+      "og_image": "",
+      "favicon": "https://www.colesgroup.com.au/FormBuilder/_Resource/_module/ir5sKeTxxEOndzdh00hWJw/images/apple-icon-57x57.png",
+      "text_excerpt": "We’re currently investigating a cyber security incident. Click here for the latest updates. Skip navigation About us Investors News Sustainability Contact us Updates from Coles Group Cyber Security Incident Quick Links Statement Customer frequently asked questions Supplier frequently asked questions Statement Current as at 16 November 2026, 8:30am Coles Group Limited is currently investigating a cyber security incident. Based on the findings of our investigation to date, we have not identified any evidence that customer, team or supplier data has been compromised or removed from Coles’ systems. Coles is working with the Australian Cyber Security Centre and will continue to engage with appropriate agencies and regulators as investigations continue. Coles is also working with global cyber security experts to contain and secure the Coles IT environment. Operations continue and customers are able to shop as normal with Coles in stores and online. We apologise for any concern this may cause our customers and key stakeholders at a time of increasing cyber incidents in Australia and around the world. We will provide further updates as appropriate on this page. Customer FAQs Has data been impacted? Collapsed What is Coles doing in response to the incident? Collapsed Can I expect further developments and updates? Collapsed What steps can I take? Collapsed Can I continue to use the Coles app and website? Collapsed Should I change the password for my accounts? Collapsed Was my personal or financial data impacted? Collapsed What are you doing to protect my personal information? Collapsed Is my Flybuys account impacted? Collapsed Is my subscription impacted? (Coles Plus, Coles Plus Delivery or QuiteLike) Collapsed Will my gift cards still work? Collapsed What are you doing to fix this? Collapsed How will I know that future emails or SMS notifications from Coles are not a scam? Collapsed Who can I contact for support? Collapsed Supplier FAQs Have I been impacted? Collapsed What a"
+    },
+    "verdict": {
+      "model": "jev-1.13.0",
+      "score": 0.36,
+      "category": "News",
+      "category_confidence": 0.82
+    }
+  },
+  {
+    "canonical_url": "https://forum.torproject.org/t/security-release-0-4-9-17/22454",
+    "url": "https://forum.torproject.org/t/security-release-0-4-9-17/22454",
+    "found_at": "2026-11-16T13:36:50+00:00",
+    "sources": [
+      {
+        "name": "hn",
+        "id": "50512441",
+        "title": "Tor Project Issues Rapid-Response DoS-Defense Fix Amid Sustained DDoS Attack",
+        "discussion_url": "https://news.ycombinator.com/item?id=50512441",
+        "score": 179,
+        "comments": 51,
+        "created_at": "2026-11-16T00:21:54Z"
+      }
+    ],
+    "page": {
+      "final_url": "https://forum.torproject.org/t/security-release-0-4-9-17/22454",
+      "status": 200,
+      "title": "Security Release 0.4.9.17 - News / Tor Release Announcement - Tor Project Forum",
+      "description": "Where to Download  Tarballs Gitlab Repository Bug Report  Changes Below are the major changes of the released versions and links to more detailed release notes.  Stable Today, we are releasing 0.4.9.17, which includes a series of security fixes. One fix in particular is especially important for relay DoS defenses related to IPv6 handling.  This release comes in rapid response to the ongoing DDoS attack on the network, which has affected most relay operators. This is not an easy problem to addres...",
+      "og_image": "https://forum.torproject.org/uploads/default/original/2X/d/d3424bed34f4ec18b2e99178c2801ba6dfb655d6.png",
+      "favicon": "https://forum.torproject.org/uploads/default/optimized/2X/1/149e9139c0823b5154ab7a18f65c7d86235030a5_2_32x32.png",
+      "text_excerpt": "Skip to main content Sign Up Log In ​ Topics More CATEGORIES News Tor Release Announcement Feedback Tor Browser Alpha Feedback Tor Browser Feedback Tor Browser for Android Tor Browser Desktop Censorship Circumvention Onion Services Relay Operator Core Tor In your language General Discussion tor-project tor-relays tor-dev All categories TAGS snowflake All tags ​ Security Release 0.4.9.17 News Tor Release Announcement tor post by dgoulet 3 days ago dgoulet Network Team Developer 3d Where to Download Tarballs Gitlab Repository Bug Report Changes Below are the major changes of the released versions and links to more detailed release notes. Stable Today, we are releasing 0.4.9.17, which includes a series of security fixes. One fix in particular is especially important for relay DoS defenses related to IPv6 handling. This release comes in rapid response to the ongoing DDoS attack on the network, which has affected most relay operators. This is not an easy problem to address, as relays across the network are being overwhelmed by a massive flood of client circuits. We are actively evaluating additional defenses and so expect further releases in the near future. We want to extend a huge thank you to all relay operators who have been helping us deal with this ongoing attack. The tor-relays@ mailing list has been very active and we are very grateful for your time, effort, and support. Please, continue doing so! If you run a relay, please upgrade as soon as possible. No action item is required after upgrading. Thank you to all… except our attacker(s). Release Notes 0.4.9.x 2 ​ ​ 6.8k views 4 links Reply New & Unread Topics Topic list, column headers with buttons are sortable. Topic Replies Views Activity Security Release 0.4.9.9 Tor Release Announcement tor 5 1.1k Jun 21 Security Release 0.4.9.13 Tor Release Announcement tor 1 1.1k Sep 30 Stable release 0.4.8.21 Tor Release Announcement tor 5 1.8k Jan 31 Security Release 0.4.8.24 and 0.4­.9.7 Tor Release Announcement tor 0 367 "
+    },
+    "verdict": {
+      "model": "jev-1.13.0",
+      "score": 0.84,
+      "category": "News",
+      "category_confidence": 0.52
+    }
+  },
+  {
+    "canonical_url": "https://steveblank.com/2026/11/15/whats-next-for-nvidia/",
+    "url": "https://steveblank.com/2026/11/15/whats-next-for-nvidia/",
+    "found_at": "2026-11-16T13:36:50+00:00",
+    "sources": [
+      {
+        "name": "hn",
+        "id": "50512235",
+        "title": "What's Next for Nvidia?",
+        "discussion_url": "https://news.ycombinator.com/item?id=50512235",
+        "score": 327,
+        "comments": 406,
+        "created_at": "2026-11-15T23:55:55Z"
+      }
+    ],
+    "page": {
+      "final_url": "https://steveblank.com/2026/11/15/whats-next-for-nvidia/",
+      "status": 200,
+      "title": "Steve Blank What’s Next For Nvidia?",
+      "description": "Nvidia’s board announced that Jensen Huang had resigned 33 years after he co-founded the company. What happens to a company when a visionary CEO is gone? Most often innovation dies and the company …",
+      "og_image": "https://steveblank.com/wp-content/uploads/2026/11/nvidia-reinventions-1024x677.jpg",
+      "favicon": "https://s0.wp.com/i/webclip.png",
+      "text_excerpt": "Home About Steve Startup Books Slides/Videos Fund Raising Tools! Secret History STEVE BLANK Entries RSS | Comments RSS Email Subscription Enter your email address to subscribe to this blog and receive notifications of new posts by email. Email Address Sign me up! Join 55.1K other subscribers Categories 2 Minute Lessons (15) Air Force (21) Ardent (9) Business Model versus Business Plan (64) California Coastal Commission (9) China (9) Commencement Speeches (9) Conservation (4) Convergent Technologies (4) Corporate/Gov't Innovation (133) Covid-19/Recovery (10) Customer Development (331) Customer Development Manifesto (34) E.piphany (13) Educators Summit (7) ESL (8) Family/Career/Culture (85) Gordian Knot Center for National Security Innovation (14) Hacking For Defense (45) Hacking for Diplomacy (10) Hacking for Recovery (5) Harvard Business Review (12) Innovation Doctrine (3) Innovation Outposts (4) Investment Readiness Level (6) Lean LaunchPad (124) Life Sciences (NIH) (26) Market Types (15) Marketing (28) MIPS Computers (2) National Security (53) Navy (8) NIH (National Institutes of Health) (18) NSF (National Science Foundation) (19) Rocket Science Games (10) Science and Industrial Policy (29) Secret History of Silicon Valley (26) SiriusXM Radio Show (50) SuperMac (13) Teaching (188) Technology (89) Technology Innovation and Great Power Competition (19) Technology Innovation and Modern War (23) Tesla (5) Uncategorized (8) Venture Capital (86) Vertical Markets (5) Zilog (5) Get Steve Blank via your RSS Feed RSS - Posts RSS - Comments Recent Posts What’s Next For Nvidia? Elon Musk Just Gave Europe a Reason to Replace American Technology The Lean Educator Conference Subterranean Warfare – An Urgent DoW Need Without An Owner Lean LaunchPad – The Next Generation The World Outside the Classroom Changed, The Class Didn’t AI Killed the MVP – Long Live the IUP The Year AI Came For Us: Teaching Entrepreneurship Will Never Be The Same Lean Launch Pad 2026 @ Stanford – Lessons L"
+    },
+    "verdict": {
+      "model": "jev-1.13.0",
+      "score": 1.41,
+      "category": "Blog",
+      "category_confidence": 0.81
+    }
+  },
+  {
+    "canonical_url": "https://www.reuters.com/world/china/jensen-huang-discusses-comeback-nvidia-ceo-with-allies-ft-reports-2026-11-15/",
+    "url": "https://www.reuters.com/world/china/jensen-huang-discusses-comeback-nvidia-ceo-with-allies-ft-reports-2026-11-15/",
+    "found_at": "2026-11-16T13:36:50+00:00",
+    "sources": [
+      {
+        "name": "hn",
+        "id": "50511982",
+        "title": "Jensen Huang might return to Nvidia as CEO",
+        "discussion_url": "https://news.ycombinator.com/item?id=50511982",
+        "score": 170,
+        "comments": 166,
+        "created_at": "2026-11-15T23:24:53Z"
+      }
+    ],
+    "page": {
+      "final_url": "https://www.reuters.com/world/china/jensen-huang-discusses-comeback-nvidia-ceo-with-allies-ft-reports-2026-11-15/",
+      "status": 401,
+      "title": "reuters.com",
+      "description": "",
+      "og_image": "",
+      "favicon": "https://www.reuters.com/favicon.ico",
+      "text_excerpt": ""
+    },
+    "verdict": {
+      "model": "jev-1.13.0",
+      "score": 0.49,
+      "category": "News",
+      "category_confidence": 0.95
+    }
+  },
+  {
+    "canonical_url": "https://blog.archive.org/2026/11/12/preserving-30-years-of-salon-journalism/",
+    "url": "https://blog.archive.org/2026/11/12/preserving-30-years-of-salon-journalism/",
+    "found_at": "2026-11-16T13:36:50+00:00",
+    "sources": [
+      {
+        "name": "hn",
+        "id": "50511806",
+        "title": "Preserving 30 years of Salon journalism",
+        "discussion_url": "https://news.ycombinator.com/item?id=50511806",
+        "score": 176,
+        "comments": 43,
+        "created_at": "2026-11-15T23:00:11Z"
+      }
+    ],
+    "page": {
+      "final_url": "https://blog.archive.org/2026/11/12/preserving-30-years-of-salon-journalism/",
+      "status": 200,
+      "title": "Preserving 30 Years of Salon Journalism - Internet Archive Blogs",
+      "description": "When Salon launched in 1995, the web was still finding its voice. One of the first major publications born on the internet, Salon helped define a new kind of digital journalism, bringing together politics, culture, criticism, and ideas for a generation of online readers. After 31 years, Salon has announced that it is ceasing publication.",
+      "og_image": "https://blog.archive.org/wp-content/uploads/2026/11/Salon-Logos-Background-2-2048x1071-1.png",
+      "favicon": "https://blog.archive.org/wp-content/uploads/2023/03/ia-logo-sq-150x150.png",
+      "text_excerpt": "Internet Archive Blogs Updates from the Internet Archive Skip to content archive.org Blog Announcements About Events Developers Donate Preserving 30 Years of Salon Journalism Posted on November 12, 2026 by Chris Freeland When Salon launched in 1995, the web was still finding its voice. One of the first major publications born on the internet, Salon helped define a new kind of digital journalism, bringing together politics, culture, criticism, and ideas for a generation of online readers. After 31 years, Salon has announced that it is ceasing publication. But thanks to web archiving, the stories don’t have to disappear. The Internet Archive’s Wayback Machine has been preserving Salon for nearly three decades—the online publication has been published over time at salon1999.com, salonmag.com and, since 1999, salon.com. Today, more than 250,000 Salon articles can be discovered through the Wayback Machine, representing a record of digital journalism and the conversations that shaped our culture since the earliest days of the web. To make exploring this web archive easier, we’ve also launched an experimental Salon Explorer, a new interface for discovering Salon’s archived journalism. Browse more than 250,000 articles and explore the work of over 20,000 writers using filters that make it easier to find stories and discover writing you may have missed. Explore the Salon archive: Visit the Salon Explorer Or browse Salon.com in the Wayback Machine. Posted in Wayback Machine - Web Archive | Tagged salon, vanishing culture | Leave a reply About Chris Freeland Chris Freeland is the Director of Library Services at Internet Archive. View all posts by Chris Freeland → Post navigation ← Annual Celebration 2026: Internet Archive Staff and Friends Showcase Latest Developments Leave a Reply Your email address will not be published. Required fields are marked * Comment * Name * Email * Website Search for: Latest Posts Preserving 30 Years of Salon Journalism Annual Celebration 2026: Inte"
+    },
+    "verdict": {
+      "model": "jev-1.13.0",
+      "score": 2.32,
+      "category": "Blog",
+      "category_confidence": 0.34
+    }
+  },
+  {
+    "canonical_url": "https://ransomnews.com/burger-king-tweet-bitly-link-hijack-2026/",
+    "url": "https://ransomnews.com/burger-king-tweet-bitly-link-hijack-2026/",
+    "found_at": "2026-11-16T13:36:50+00:00",
+    "sources": [
+      {
+        "name": "hn",
+        "id": "50511395",
+        "title": "Old Bitly links are being hijacked",
+        "discussion_url": "https://news.ycombinator.com/item?id=50511395",
+        "score": 323,
+        "comments": 162,
+        "created_at": "2026-11-15T22:11:43Z"
+      }
+    ],
+    "page": {
+      "final_url": "https://ransomnews.com/burger-king-tweet-bitly-link-hijack-2026/",
+      "status": 200,
+      "title": "Old Bitly links hijacked in Burger King, McDonald’s and Trump tweets",
+      "description": "Burger King and McDonald's were not hacked. Someone re-registered the Bitly links in their 2011 tweets, and 57 of 97 links in old Trump tweets have been replaced too.",
+      "og_image": "https://ransomnews.com/wp-content/uploads/2026/11/burger-king-tweet-bitly-link-hijack-2026-cover-1024x576.png",
+      "favicon": "https://ransomnews.com/wp-content/uploads/2026/05/ransomnews-favicon-150x150.png",
+      "text_excerpt": "Ransomnews Home News Security Privacy Cybercrime AI OSINT Tools Data Newsletter About Us Facebook X (Twitter) LinkedIn SECURITY Old Bitly links hijacked in Burger King, McDonald’s and Trump tweets By Ransomnews Research TeamNovember 15, 2026Updated:November 15, 202621 Mins Read22,218 Views Share Facebook Twitter Update, 15 November, 23:40 UTC: CNN reports redirected Bitly links in old posts from Bill Gates, Justin Trudeau, Mike Pence, the FBI and the US Department of Defense as well. Our third check of the Trump links, at 23:35 UTC, found nothing new: 49 links re-created years after their tweets still work. Update, 15 November, 22:30 UTC: Bitly has confirmed the problem. In a post on X at 19:13 UTC it said it had identified an issue that “allowed bad actors to repurpose certain old, inactive links” and send people to unrelated content. Bitly said it has suspended the accounts involved and is disabling the affected links. It added that its Trust and Safety team is working on protections against similar misuse. Update, 15 November, 19:30 UTC: The Burger King and McDonald’s links no longer redirect. Both were still working at 15:05 UTC and returned Bitly’s “Link Deactivated” page by 19:22 UTC. The same has happened to the two extra Trump links we verified and to six of the seven links in our sample that pointed somewhere new. The seventh now shows a Bitly warning that the account that created it has been suspended. The 49 re-created links that look like the originals still work. Burger King’s X account was not hacked. A Bitly short link in a tweet the chain posted on 24 July 2011 was registered again by someone else on 15 November 2026 and pointed at Wikipedia’s list of Nazi concentration camps. The tweet was advertising a restaurant locator. A post quoting it passed 2 million views within hours, and Burger King’s original has since become unavailable. It was not the only one. Eighteen minutes earlier a Bitly link in a McDonald’s tweet from 7 June 2011 was registered t"
+    },
+    "verdict": {
+      "model": "jev-1.13.0",
+      "score": 0.65,
+      "category": "News",
+      "category_confidence": 0.94
+    }
+  },
+  {
+    "canonical_url": "https://www.space.com/space-exploration/launches-spacecraft/ula-vulcan-centaur-return-to-flight-amazon-leo-internet-satellite-launch",
+    "url": "https://www.space.com/space-exploration/launches-spacecraft/ula-vulcan-centaur-return-to-flight-amazon-leo-internet-satellite-launch",
+    "found_at": "2026-11-16T13:36:50+00:00",
+    "sources": [
+      {
+        "name": "hn",
+        "id": "50510442",
+        "title": "Vulcan rocket fails during return-to-flight launch, 40 Amazon satellites lost",
+        "discussion_url": "https://news.ycombinator.com/item?id=50510442",
+        "score": 161,
+        "comments": 112,
+        "created_at": "2026-11-15T20:37:28Z"
+      }
+    ],
+    "error": "TimeoutError: Page.screenshot: Timeout 30000ms exceeded."
+  },
+  {
+    "canonical_url": "https://baron.by.dai.studio/",
+    "url": "https://baron.by.dai.studio/",
+    "found_at": "2026-11-16T13:36:50+00:00",
+    "sources": [
+      {
+        "name": "hn",
+        "id": "50510296",
+        "title": "WebGL Flight Simulator with seed generated terrain",
+        "discussion_url": "https://news.ycombinator.com/item?id=50510296",
+        "score": 181,
+        "comments": 43,
+        "created_at": "2026-11-15T20:20:05Z"
+      }
+    ],
+    "page": {
+      "final_url": "https://baron.by.dai.studio/",
+      "status": 200,
+      "title": "Baron — A biplane in every browser",
+      "description": "Take off, explore a procedurally generated world and land it in one piece. Pick a biplane, turboprop or jet in the hangar. Free, built with DAI Studio.",
+      "og_image": "https://baron.by.dai.studio/og-image.png",
+      "favicon": "https://baron.by.dai.studio/favicon.ico",
+      "text_excerpt": "Built with DAI Studio BARON Take off. Explore. Land it in one piece. Mission Free flight Cross-country Flying Arcade Normal Expert World seed 🎲 Graphics Auto Low Med High Aircraft 🛠️ Hangar Biplane · Sunflower · Medium wheels FLY! Controls"
+    },
+    "verdict": {
+      "model": "jev-1.13.0",
+      "score": 2.96,
+      "category": "Games",
+      "category_confidence": 1.0
+    }
+  },
+  {
+    "canonical_url": "https://arkanumdata.com/research/house-trades",
+    "url": "https://arkanumdata.com/research/house-trades",
+    "found_at": "2026-11-16T13:36:50+00:00",
+    "sources": [
+      {
+        "name": "hn",
+        "id": "50510005",
+        "title": "Do House members' stock trades beat the market? A test of 8,900 trades",
+        "discussion_url": "https://news.ycombinator.com/item?id=50510005",
+        "score": 119,
+        "comments": 125,
+        "created_at": "2026-11-15T19:46:02Z"
+      }
+    ],
+    "page": {
+      "final_url": "https://arkanumdata.com/research/house-trades",
+      "status": 429,
+      "title": "Vercel Security Checkpoint",
+      "description": "",
+      "og_image": "",
+      "favicon": "data:,",
+      "text_excerpt": "Failed to verify your browser Code 21 Vercel Security Checkpoint | sfo1::1794836224-MZKtMJAvGlrpTqdhKIhfM7m7dpFwdgxe"
+    },
+    "verdict": {
+      "model": "jev-1.13.0",
+      "score": 0.36,
+      "category": "Research",
+      "category_confidence": 0.74
+    }
+  },
+  {
+    "canonical_url": "https://ductus.sorenblank.com/",
+    "url": "https://ductus.sorenblank.com",
+    "found_at": "2026-11-16T13:36:50+00:00",
+    "sources": [
+      {
+        "name": "hn",
+        "id": "50509972",
+        "title": "Handwriting, as a Font",
+        "discussion_url": "https://news.ycombinator.com/item?id=50509972",
+        "score": 344,
+        "comments": 62,
+        "created_at": "2026-11-15T19:42:13Z"
+      },
+      {
+        "name": "pinboard",
+        "title": "Ductus · Your handwriting, as a font"
+      }
+    ],
+    "page": {
+      "final_url": "https://ductus.sorenblank.com/",
+      "status": 200,
+      "title": "Ductus · Your handwriting, as a font",
+      "description": "Turn your handwriting into a font: write each letter in your browser and download it as OTF and WOFF2. No account, no upload. Your letters stay on your device.",
+      "og_image": "https://ductus.sorenblank.com/opengraph-image.png?ba09f84da4876e41",
+      "favicon": "https://ductus.sorenblank.com/icon.png?ac11b1e6700376e1",
+      "text_excerpt": "duc Your letters stay on this computer Open a font… Adjust Export In your font nan oao nan oao about above after about above after a Write a small a Lowercase 1 of 26 b c d e f g h i Write your a here. A mouse, trackpad or pen will do. Back Undo Clear Next b Write a small a, 1 of 26 lowercase"
+    },
+    "verdict": {
+      "model": "jev-1.13.0",
+      "score": 3.29,
+      "category": "Design Tools",
+      "category_confidence": 0.9
+    },
+    "screenshot": "shots/2026/11-16/ductus-sorenblank-com.jpg"
+  },
+  {
+    "canonical_url": "https://www.ft.com/content/45383d86-33c4-4d99-86e5-5e058d3567c1",
+    "url": "https://www.ft.com/content/45383d86-33c4-4d99-86e5-5e058d3567c1",
+    "found_at": "2026-11-16T13:36:50+00:00",
+    "sources": [
+      {
+        "name": "hn",
+        "id": "50509883",
+        "title": "Jensen Huang discusses comeback as Nvidia CEO with allies",
+        "discussion_url": "https://news.ycombinator.com/item?id=50509883",
+        "score": 126,
+        "comments": 123,
+        "created_at": "2026-11-15T19:31:11Z"
+      }
+    ],
+    "page": {
+      "final_url": "https://www.ft.com/content/45383d86-33c4-4d99-86e5-5e058d3567c1",
+      "status": 200,
+      "title": "Jensen Huang discusses comeback as Nvidia CEO with allies",
+      "description": "Tech supporters lobby chipmaker’s board to reinstate former head after he resigned following affair with alleged Chinese spy",
+      "og_image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F4147425d-589e-4196-83a7-198e7fdd797d.jpg?source=next-barrier-page&fit=scale-down&quality=highest&width=700&dpr=1",
+      "favicon": "https://images.ft.com/v3/image/raw/ftlogo-v1%3Abrand-ft-logo-square-coloured?source=page-kit&format=svg",
+      "text_excerpt": "Accessibility help Skip to navigation Skip to main content Skip to footer OPEN SIDE NAVIGATION MENU OPEN SEARCH BAR Subscribe Sign In HOME WORLD US COMPANIES TECH MARKETS CLIMATE OPINION LEX WORK & CAREERS LIFE & ARTS HOW TO SPEND IT STOCKS GAME MENU SEARCH HOME WORLD US COMPANIES TECH MARKETS CLIMATE OPINION LEX WORK & CAREERS LIFE & ARTS HOW TO SPEND IT STOCKS GAME Subscribe Sign In Jensen Huang discusses comeback as Nvidia CEO with allies Subscribe to unlock this article Try unlimited access Only $1 for 4 weeks Then $75 per month. Complete digital access to quality FT journalism on any device. Cancel anytime during your trial. Keep reading for $1 Explore more offers. FT Edit $49 per year Access to eight surprising articles a day, hand-picked by FT editors. For seamless reading, access content via the FT Edit page on FT.com and receive the FT Edit newsletter. Select What's included Standard Digital $45 per month Essential digital access to quality FT journalism on any device. Pay a year upfront and save 20%. Select What's included Premium Digital Complete coverage $75 per month Complete digital access to quality FT journalism with expert analysis from industry leaders. Pay a year upfront and save 20%. Select What's included Check whether you already have free access via your university or organisation. Terms & Conditions apply Explore our full range of subscriptions. For individuals Discover all the plans currently available in your country Digital Print Print + Digital For multiple readers Digital access for organisations. Includes exclusive features and content. FT Professional Find out why Useful links Support Help Centre Contact Us About Us Accessibility Careers Suppliers Legal & Privacy Terms & Conditions Privacy Policy Cookie Policy Manage Cookies Copyright Slavery Statement & Policies Services Share News Tips Securely Individual Subscriptions Professional Subscriptions Republishing Executive Job Search Advertise with the FT Follow the FT on X FT Channels FT"
+    },
+    "verdict": {
+      "model": "jev-1.13.0",
+      "score": 0.4,
+      "category": "News",
+      "category_confidence": 0.71
+    }
+  },
+  {
+    "canonical_url": "https://bruceroettgers.eu/blog/protomaps/",
+    "url": "https://bruceroettgers.eu/blog/protomaps/",
+    "found_at": "2026-11-16T13:36:50+00:00",
+    "sources": [
+      {
+        "name": "hn",
+        "id": "50509837",
+        "title": "Protomaps: Self-hosting map tiles has gotten cheap and easy",
+        "discussion_url": "https://news.ycombinator.com/item?id=50509837",
+        "score": 387,
+        "comments": 65,
+        "created_at": "2026-11-15T19:26:22Z"
+      }
+    ],
+    "page": {
+      "final_url": "https://bruceroettgers.eu/blog/protomaps/",
+      "status": 200,
+      "title": "Protomaps: Self-hosting map tiles has gotten cheap and easy — Bruce Röttgers",
+      "description": "PMTiles is a tile format which works via HTTP Range requests and can be deployed as a single file to a storage bucket.",
+      "og_image": "",
+      "favicon": "https://bruceroettgers.eu/favicon.svg",
+      "text_excerpt": "Bruce Röttgers about // portfolio // blog blog // dev // projects Protomaps: Self-hosting map tiles has gotten cheap and easy PMTiles is a tile format which works via HTTP Range requests and can be deployed as a single file to a storage bucket. 2026-11-15 // 4 min read // contents 1 Getting some Maps 2 Deploying to Bunny.net 3 Embedding the Map · Notes I came across Protomaps in research for my latest project, Mapboard.1 For most non-commercial projects, commercial APIs become prohibitively expensive if you ever go viral (Mapbox, for instance, charges $5 per 1k map loads once you’ve exhausted the free tier). PMTiles, part of the Protomaps ecosystem, is a tile format that ships in a single file, accessible via Range requests, and is thus extremely portable and easy to deploy. For CDNs that support caching Range requests of large files, it requires no effort besides down- and uploading it to storage. For others, like Cloudflare, you can utilize an edge function to translate between the traditional x/y/z URL path and Range requests. Getting some Maps If all you want is the world map, getting it is as simple as going to the build page and downloading the latest daily build. However, more fun can be had with the CLI. For example, you can extract data for only a bounding box or specific zoom levels, to get a significantly smaller file. Deploying to Bunny.net One great CDN for deploying this is Bunny.net (affiliate link). They support HTTP Range requests, don’t collect personal data by default,2 are headquartered in the EU, and offer low-cost access to a global network of CDN and edge storage servers. Pricing varies based on region and replication factor of the edge storage. But generally you pay $0.01/GB ($0.005/GB on the smaller Volume network) for bandwidth to Europe and North America, and $0.01/GB/month (no replication) to $0.055/GB/month (maximum replication) for storage. A high degree of replication mostly matters for latency in case of a cache miss (as the data is f"
+    },
+    "verdict": {
+      "model": "jev-1.13.0",
+      "score": 2.91,
+      "category": "Developer Tools",
+      "category_confidence": 0.77
+    }
+  },
+  {
+    "canonical_url": "https://github.com/eclipse-mosquitto/mosquitto",
+    "url": "https://github.com/eclipse-mosquitto/mosquitto",
+    "found_at": "2026-11-16T13:36:50+00:00",
+    "sources": [
+      {
+        "name": "hn",
+        "id": "50509416",
+        "title": "Eclipse Mosquitto – An open source MQTT broker",
+        "discussion_url": "https://news.ycombinator.com/item?id=50509416",
+        "score": 102,
+        "comments": 40,
+        "created_at": "2026-11-15T18:36:40Z"
+      }
+    ],
+    "github": {
+      "repo_url": "https://github.com/eclipse-mosquitto/mosquitto",
+      "homepage": "https://mosquitto.org",
+      "description": "Eclipse Mosquitto - An open source MQTT broker",
+      "topics": [
+        "broker",
+        "eclipse-iot",
+        "iot",
+        "messaging",
+        "mosquitto",
+        "mqtt",
+        "mqtt-broker",
+        "mqtt-client",
+        "mqtt-server"
+      ],
+      "stars": 11439,
+      "created_at": "2016-03-10T20:19:09Z",
+      "pushed_at": "2026-11-06T13:43:51Z",
+      "owner_avatar": "https://avatars.githubusercontent.com/u/185921483?v=4"
+    },
+    "page": {
+      "final_url": "https://github.com/eclipse-mosquitto/mosquitto",
+      "status": 200,
+      "title": "GitHub - eclipse-mosquitto/mosquitto: Eclipse Mosquitto - An open source MQTT broker",
+      "description": "Eclipse Mosquitto - An open source MQTT broker. Contribute to eclipse-mosquitto/mosquitto development by creating an account on GitHub.",
+      "og_image": "https://repository-images.githubusercontent.com/53614190/b11dd480-90b3-11eb-903d-8c48f62e3172",
+      "favicon": "https://github.com/fluidicon.png",
+      "text_excerpt": "Skip to content Navigation Menu Products Developers Businesses Resources Pricing Search / Sign in Sign up eclipse-mosquitto mosquitto Repository navigation Code Issues 804 (804) Pull requests 120 (120) Actions Projects Security and quality Insights mosquitto Public Notifications Fork2.7k (2.7k) Star11.4k (11.4k) master 10 Branches 78 Tags Code Latest commit ralight Cmake: Fix install target fda14f2 · History 4,890 Commits Folders and files Name Last commit message Last commit date .github CI: Pin workflows to shas and add workflow to generate update PRs apps cmake: Use cjson provided find package client cmake: Use cjson provided find package cmake cmake: Use cjson provided find package common Formatting: Apply to C headers dashboard Dashboard string improvements deps Minor compiler warning fixes doc Pointless whitespace tidy. docker Fix macos build examples Formatting: Apply to C++ files fuzzing Build fuzzers as debug type include lib: Reduce min keepalive to 2 installer Release prep for 2.1.2 lib Add fuzzer support to cmake libcommon cmake: Use cjson provided find package logo Optimise logos make Add compile time checks for whether -lanl is required man Add fuzzer support to cmake misc Fix multiple domains in renewal. plugins cmake: Use cjson provided find package security Fix apparmor incorrectly denying access db tmp file. service Mosquitto now waits for network-online when starting (Closes: #1036450) snap Release prep for 2.1.2 src else if should be if test Test: Recent openssl uses different reason strings www Improve sqlite docs .editorconfig Merge from master .gitignore Add fuzzer for proxy v1 .pinact.yaml CI: Pin workflows to shas and add workflow to generate update PRs .uncrustify.cfg Uncrustify config, plus updated format changes CITATION.cff Merge from master CMakeLists.txt Cmake: Fix install target CONTRIBUTING.md Fix link in CONTRIBUTING.md. ChangeLog.txt Fix unix sockets support on Windows LICENSE.txt Clarify license in LICENSE.txt Makefile Update Dock"
+    },
+    "homepage": {
+      "final_url": "https://mosquitto.org/",
+      "status": 200,
+      "title": "Eclipse Mosquitto",
+      "description": "Eclipse Mosquitto is an open source (EPL/EDL licensed) message broker that\n\t        implements the MQTT protocol versions 5.0, 3.1.1 and 3.1. Mosquitto\n\t        is lightweight and is suitable for use",
+      "og_image": "",
+      "favicon": "https://mosquitto.org/favicon-16x16.png",
+      "text_excerpt": "Home Blog Download Documentation Eclipse Mosquitto™ An open source MQTT broker Eclipse Mosquitto is an open source (EPL/EDL licensed) message broker that implements the MQTT protocol versions 5.0, 3.1.1 and 3.1. Mosquitto is lightweight and is suitable for use on all devices from low power single board computers to full servers. The MQTT protocol provides a lightweight method of carrying out messaging using a publish/subscribe model. This makes it suitable for Internet of Things messaging such as with low power sensors or mobile devices such as phones, embedded computers or microcontrollers. The Mosquitto project also provides a C library for implementing MQTT clients, and the very popular mosquitto_pub and mosquitto_sub command line MQTT clients. Mosquitto is part of the Eclipse Foundation, and is an iot.eclipse.org project, with its development driven by Cedalo. Help shape the future of Mosquitto Take our short quiz (~60 seconds) to share what you're building and what challenges you're facing. We'll share key insights from the community. Take the Quiz Download and Security Mosquitto is highly versatile and available for a wide range of platforms. Go to the dedicated download page to find the source or binaries for your platform. For details on recent releases, check the Change Log. Use the security page to find out how to report vulnerabilities or responses to past security issues. Test Setting up your own Mosquitto instance is quick and straightforward, but for added convenience the Mosquitto Project runs a test MQTT server at test.mosquitto.org, which supports various testing options, such as: plain MQTT MQTT over TLS MQTT over TLS (with client certificate) MQTT over WebSockets MQTT over WebSockets with TLS Alternatively, sign up for the Cedalo MQTT Platform trial, which combines the Pro Edition for Mosquitto MQTT broker and the Management Center for Mosquitto web UI, to test advanced MQTT broker features in various scenarios. Community You can engage with the M"
+    },
+    "verdict": {
+      "model": "jev-1.13.0",
+      "score": 2.53,
+      "category": "Developer Tools",
+      "category_confidence": 0.83
+    }
+  },
+  {
+    "canonical_url": "https://www1.wdr.de/nrw/rheinland/rhein-erft-kreis/technischer-defekt-chlor-phantasialand-100.html",
+    "url": "https://www1.wdr.de/nrw/rheinland/rhein-erft-kreis/technischer-defekt-chlor-phantasialand-100.html",
+    "found_at": "2026-11-16T13:36:50+00:00",
+    "sources": [
+      {
+        "name": "hn",
+        "id": "50509411",
+        "title": "Microsoft 365 outage leads to chlorine gas poisoning of 15 hotel guests",
+        "discussion_url": "https://news.ycombinator.com/item?id=50509411",
+        "score": 585,
+        "comments": 251,
+        "created_at": "2026-11-15T18:36:10Z"
+      }
+    ],
+    "page": {
+      "final_url": "https://www1.wdr.de/nrw/rheinland/rhein-erft-kreis/technischer-defekt-chlor-phantasialand-100.html",
+      "status": 200,
+      "title": "15 Gäste durch Chlorgas im Phantasialand verletzt: das hat Microsoft damit zu tun",
+      "description": "Wegen der Outlook-Störung am Freitag bekam das Phantasialand nicht mit, dass zu viel Chlor im Pool war. 15 Gäste wurden verletzt.",
+      "og_image": "https://www1.wdr.de/nrw/koeln/phantasialand-134~_v-gseagaleriexl.jpg",
+      "favicon": "https://www1.wdr.de/assets-v5.182.4/img/favicon/apple-touch-icon.png",
+      "text_excerpt": "zum Inhalt zur Navigation zur Suche Mein NRW Politik Wirtschaft Sport Freizeit Kultur Suche einblenden Sie befinden sich hier: WDR Mein NRW Rheinland Rhein-Erft-Kreis Video starten, abbrechen mit Escape IT-Panne Schuld für Chlorgasunfall im Phantasialand | WDR aktuell Bildquelle: WDR WDR . 46 Sek. . Verfügbar bis 15.11.2028 . Microsoft-Panne als Ursache : 15 Gäste im Phantasialand verletzt Stand: 14.11.2026, 18:01 Uhr Wegen der Microsoft-Störung am Freitag bekam das Phantasialand nicht mit, dass zu viel Chlor im Pool war. 15 Gäste wurden verletzt. Von Caroline Jüngermann , Lara Burghardt und Martin Heuchel Diesem Problem waren wir alle ausgesetzt: Am Freitag gab es eine Störung, die den US-Softwarekonzern Microsoft lahmgelegt hat. Unter anderem das E-Mail-Programm Outlook. Betroffen war auch das Phantasialand. Durch die Störung kamen keine Mails an, wie das Unternehmen dem WDR am Samstag mitteilte. So bekam niemand mit, dass das Wartungssicherheitssystem der Saunalandschaft längst per Mail Alarm geschlagen hat. Denn das automatischen Dosiersystem hatte zu viel Chlor in den Pool gepumpt. Reizungen der Atemwege Dadurch wurden Gäste im Hotel Ling Bao des Phantasialands in Brühl verletzt. Sie haben über gesundheitliche Probleme geklagt, nachdem sie den Pool besucht hatten. Der wurde zeitweise gesperrt, konnte inzwischen aber wieder freigegeben werden, wie die Feuerwehr am Samstag dem WDR mitteilte. Wegen der Beschwerden der Hotel-Besucher wurden Rettungskräfte und die Feuerwehr gerufen. 13 Gäste klagten über Reizungen der Atemwege, letztlich stieg die Zahl der Betroffenen auf insgesamt 15. Zunächst hieß es, dass fünf Gäste ins Krankenhaus gebracht wurden, später wurde die Zahl auf vier korrigiert, eine Person davon blieb wegen einer mittelschweren Verletzung zur Beobachtung im Krankenhaus. Überhöhter Chlorgehalt Im Hotel ergaben Tests der Einsatzkräfte einen Defekt des automatischen Dosiersystems für den Pool. Dies hatte zu einem deutlich überhöhten Chlorgehalt geführt."
+    },
+    "verdict": {
+      "model": "jev-1.13.0",
+      "score": 0.32,
+      "category": "News",
+      "category_confidence": 0.98
+    }
+  },
+  {
+    "canonical_url": "https://www.youtube.com/watch?v=7_JF3etiAv8",
+    "url": "https://www.youtube.com/watch?v=7_JF3etiAv8",
+    "found_at": "2026-11-16T13:36:50+00:00",
+    "sources": [
+      {
+        "name": "hn",
+        "id": "50509308",
+        "title": "A short explainer on how El Niño works [video]",
+        "discussion_url": "https://news.ycombinator.com/item?id=50509308",
+        "score": 258,
+        "comments": 136,
+        "created_at": "2026-11-15T18:23:21Z"
+      }
+    ],
+    "page": {
+      "final_url": "https://www.youtube.com/watch?v=7_JF3etiAv8",
+      "status": 200,
+      "title": "El Niño Winter 2026–27: What Pilots Should Expect - YouTube",
+      "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+      "og_image": "",
+      "favicon": "https://www.youtube.com/s/desktop/bb2198ae/img/favicon.ico",
+      "text_excerpt": "Skip navigation Sign in Sign in to confirm you’re not a bot This helps protect our community Sign in Learn more El Niño Winter 2026–27: What Pilots Should Expect FlightInsight 277K subscribers Subscribe 624 42K views 2d ago 2.1K hype points What does this winter’s El Niño mean for your flying? We break down the 2026–27 winter outlook by region and explain what the changing weather pattern could mean for general aviation. … more 16 Comments Sort by Add a comment... @Saml01 2 days ago (edited) Bro! This is awesome. I don't think I have seen anyone ever explain this so clearly. This is yet more evidence of the kind of amazing teacher you are. 32 Reply @JB_Hobbies 21 hours ago The level of knowledge on this channel is incredible. 2 Reply @drwoody8632 2 days ago Expect to stay 20 miles away 14 Reply 1 reply @thomaskernan2638 1 day ago Great knowledge coming from this channel. Dude also has a fantastic microphone setup Reply @Joe-Postman 1 day ago You are the GOAT Reply @74bassman 2 days ago Thanks my goat Reply @arkfl-z5f 14 hours ago Can you guys do one from the POV of Southern Pacific Islands please? Reply @darthheretic129 2 days ago GOATED CFII 3 Reply @user-cr8jf4np9n 2 days ago Fantastic video... No matter how many certificates I've added or new aircraft flown, the more I learn about weather the less I understand weather. Now that I know more about El Niño, I'm predicting somehow we'll see the opposite of what we think 4 Reply 2 replies @mard9304 15 hours ago Who come here from HackerNews?) 13 Reply @nnamuenmada 1 day ago In plain English, US to East Asia and vice versa, during El Nino, will the flight be faster or slower than non-El Nino period? Reply @LiamProven 1 hour ago \"Idealised\", not \"idolised\". Eye-deal-ized is not the same as eye-dull-ized. Ideal: perfect, unimprovable. Idol: fake, unreal, a depiction or representation of something perfect. Idealise: to approach perfection. Idolise: to treat something imperfect as it were perfect. Reply @nbombergoy 4 hours"
+    },
+    "verdict": {
+      "model": "jev-1.13.0",
+      "score": 0.92,
+      "category": "Photo & Video",
+      "category_confidence": 0.77
+    }
+  },
+  {
+    "canonical_url": "https://www.nytimes.com/2026/11/15/science/birdbrain-crows-birds-research-decision.html",
+    "url": "https://www.nytimes.com/2026/11/15/science/birdbrain-crows-birds-research-decision.html",
+    "found_at": "2026-11-16T13:36:50+00:00",
+    "sources": [
+      {
+        "name": "hn",
+        "id": "50509023",
+        "title": "Crows make decisions faster than we can",
+        "discussion_url": "https://news.ycombinator.com/item?id=50509023",
+        "score": 259,
+        "comments": 178,
+        "created_at": "2026-11-15T17:53:31Z"
+      }
+    ],
+    "page": {
+      "final_url": "https://www.nytimes.com/2026/11/15/science/birdbrain-crows-birds-research-decision.html",
+      "status": 403,
+      "title": "nytimes.com",
+      "description": "",
+      "og_image": "",
+      "favicon": "https://www.nytimes.com/favicon.ico",
+      "text_excerpt": ""
+    },
+    "verdict": {
+      "model": "jev-1.13.0",
+      "score": 0.57,
+      "category": "Science",
+      "category_confidence": 0.83
+    }
+  },
+  {
+    "canonical_url": "https://ykiko.me/en/articles/2105384023094834022/",
+    "url": "https://ykiko.me/en/articles/2105384023094834022/",
+    "found_at": "2026-11-16T13:36:50+00:00",
+    "sources": [
+      {
+        "name": "hn",
+        "id": "50508715",
+        "title": "Clice v1.0 Released: Welcome to Modern C++",
+        "discussion_url": "https://news.ycombinator.com/item?id=50508715",
+        "score": 168,
+        "comments": 89,
+        "created_at": "2026-11-15T17:22:32Z"
+      }
+    ],
+    "page": {
+      "final_url": "https://ykiko.me/en/articles/2105384023094834022/",
+      "status": 200,
+      "title": "clice v1.0 Released: Welcome to Modern C++",
+      "description": "clice recently hit 1,000 commits, a special milestone for the project. Since July 19, 2026, clice has been shipping nightly builds and going through roughly four months of alpha testing, with a huge number of bugs fixed thanks to real-world feedback from early users. Over the same stretch, I built a rigorous testing system for clice and ran extensive tests across many real open-source projects, tracking down and fixing the issues they uncovered. What does that mean? Every core feature is now stable, and you rarely run into problems in day-to-day use. So I think the time is right to ship the first stable release. The project looks very different today from where it stood two years ago in Design and Implementation of a New C++ Language Server, and this is probably the first time I’m promoting it widely, so please let me introduce it to you once again! This is the project I have poured the past two and a half years into, the work I am proudest of, the one that has excited me the most and left me sad and anxious more times than I can count, and the most ambitious thing I have taken on in my short life.",
+      "og_image": "https://www.ykiko.me/en/articles/2105384023094834022/featured.png",
+      "favicon": "https://www.ykiko.me/favicon.ico",
+      "text_excerpt": "ykiko's blog | 简体中文 Articles Archives clice v1.0 Released: Welcome to Modern C++ 2026-11-15 · 9 min · 4248 words · ykiko | Translations: 简体中文 Table of Contents clice recently hit 1,000 commits, a special milestone for the project. Since July 19, 2026, clice has been shipping nightly builds and going through roughly four months of alpha testing, with a huge number of bugs fixed thanks to real-world feedback from early users. Over the same stretch, I built a rigorous testing system for clice and ran extensive tests across many real open-source projects, tracking down and fixing the issues they uncovered. What does that mean? Every core feature is now stable, and you rarely run into problems in day-to-day use. So I think the time is right to ship the first stable release. The project looks very different today from where it stood two years ago in Design and Implementation of a New C++ Language Server, and this is probably the first time I’m promoting it widely, so please let me introduce it to you once again! This is the project I have poured the past two and a half years into, the work I am proudest of, the one that has excited me the most and left me sad and anxious more times than I can count, and the most ambitious thing I have taken on in my short life. What is clice? In short, clice is a C/C++ language server written in modern C++, but it’s more than just a language server. It is still built on LLVM/Clang, but unlike clangd and ccls, which are also Clang-based, clice was redesigned from the ground up to fix architectural problems that have gone unsolved in those servers for years. It is written entirely in C++23 and serves as an example of modern C++ best practices in its own right, with all the major modern C++ features coming together remarkably well: Written entirely with C++20 coroutines, using our own libuv-based structured-concurrency async library for intricate asynchronous logic. It is a complex concurrent program running an event loop on the main thread "
+    },
+    "verdict": {
+      "model": "jev-1.13.0",
+      "score": 3.18,
+      "category": "Developer Tools",
+      "category_confidence": 0.78
+    },
+    "screenshot": "shots/2026/11-16/ykiko-me-en-articles-2105384023094834022.jpg"
+  },
+  {
+    "canonical_url": "https://www.commondreams.org/news/duffy-ground-stop-explanation",
+    "url": "https://www.commondreams.org/news/duffy-ground-stop-explanation",
+    "found_at": "2026-11-16T13:36:50+00:00",
+    "sources": [
+      {
+        "name": "hn",
+        "id": "50507791",
+        "title": "'Duffy Lied': Controllers Refute Transportation Secretary's Ground Stop Story",
+        "discussion_url": "https://news.ycombinator.com/item?id=50507791",
+        "score": 157,
+        "comments": 46,
+        "created_at": "2026-11-15T15:45:42Z"
+      }
+    ],
+    "page": {
+      "final_url": "https://www.commondreams.org/news/duffy-ground-stop-explanation",
+      "status": 200,
+      "title": "'Duffy Lied': Air Traffic Controllers Refute Trump Transportation Secretary's Ground Stop Explanation | Common Dreams",
+      "description": "\"I’ve spoken with 60 air traffic controllers tonight about what Sean Duffy said at the White House today,\" said one journalist. \"None of them are buying what he said.\"",
+      "og_image": "https://www.commondreams.org/media-library/image.jpg?id=68687838&width=1200&height=600&coordinates=0%2C416%2C0%2C417",
+      "favicon": "https://assets.rebelmouse.io/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpbWFnZSI6Imh0dHBzOi8vYXNzZXRzLnJibC5tcy8zMjEzMDAzNS9vcmlnaW4ucG5nIiwiZXhwaXJlc19hdCI6MTgyOTg0MTc3MH0.vgFGl7oQItwtad-tVlVayDFQXLZf6zwCR_aJV5c_wkI/img.png?width=192&height=192",
+      "text_excerpt": "LATEST NEWS OPINION CLIMATE ECONOMY POLITICS RIGHTS & JUSTICE WAR & PEACE PROGRESSIVE NEWSWIRE FURTHER NEWSLETTER SIGNUP About Us Our Team Manage Your Donation More Ways to Donate Contact Us LATEST NEWS OPINION NEWSLETTER SIGNUP HOME>NEWS>TRANSPORTATION US Transportation Secretary Sean Duffy speaks during a press briefing at the Department of Transportation headquarters building in Washington, DC, on November 14, 2026. (Photo by Aaron Schwartz/AFP via Getty Images) ‘Duffy Lied’: Air Traffic Controllers Refute Trump Transportation Secretary’s Ground Stop Explanation “I’ve spoken with 60 air traffic controllers tonight about what Sean Duffy said at the White House today,” said one journalist. “None of them are buying what he said.” BRETT WILKINS Nov 14, 2026 Air traffic controllers are rejecting US Transportation Secretary Sean Duffy’s explanation for Friday’s nationwide flight ground stop, raising questions about the Trump administration’s account of a communications failure that disrupted air travel across the United States, affecting an estimated 1.5 million travelers. Washington Examiner homeland security reporter Anna Giaritelli told CNN’s Laura Coates during a Friday night interview that she’d spoken with 60 air traffic controllers about the Federal Aviation Administration (FAA) ground stop, which was just the third to ever occur. RECOMMENDED... Air Traffic Control Outage Blamed as FAA Orders Nationwide Ground Stop, Citing ‘Extraordinary Circumstances’ Trump Weighing Executive Order to Label Disliked Nonprofits as ‘Terrorist’ Groups: Report “None of them are buying what he said,” Giaritelli said. “The controllers were saying, ‘We don’t buy that this is actually what’s happening, the reason that Sean Duffy is saying this has happened.’” At a White House briefing Friday evening, Duffy blamed the disruption on America’s aging air traffic control infrastructure, saying overloaded switches and routers had produced inconsistent radar and communications data. “Our swit"
+    },
+    "verdict": {
+      "model": "jev-1.13.0",
+      "score": 0.35,
+      "category": "News",
+      "category_confidence": 0.96
+    }
+  },
+  {
+    "canonical_url": "https://joshblais.com/blog/emacs-as-my-browser/",
+    "url": "https://joshblais.com/blog/emacs-as-my-browser/",
+    "found_at": "2026-11-16T13:36:50+00:00",
+    "sources": [
+      {
+        "name": "hn",
+        "id": "50507553",
+        "title": "Emacs Is My Browser",
+        "discussion_url": "https://news.ycombinator.com/item?id=50507553",
+        "score": 220,
+        "comments": 126,
+        "created_at": "2026-11-15T15:21:21Z"
+      }
+    ],
+    "page": {
+      "final_url": "https://joshblais.com/blog/emacs-as-my-browser/",
+      "status": 200,
+      "title": "Emacs is my browser - The Universe of Joshua Blais",
+      "description": "A blog, notes, gallery, lifestyle and fully conglomerated posts from Joshua.",
+      "og_image": "https://joshblais.com/og-images/emacs-as-my-browser.png",
+      "favicon": "https://joshblais.com/favicon.svg",
+      "text_excerpt": "Skip to content Blog Notes Reading List Support Me Links Community Contact Emacs is my browser Apr 20, 2026 · 5 min Why? How I am doing this My browser.el setup: Limitations Conclusion In my ever-increasing desire to use emacs as my sole computing environment, I have started to take browsing the web inside it far more seriously. Where I previously had thought EWW to be a niceity but far from capable, after using it for a few days it seems to be useable for about 85-90% of use cases - even on the javascript riddled hellhole that is the internet. Why? # I have seen in my own use of the modern browser (chromium/firefox) that it is far too easy to get distracted - too easy to get off track and fall down rabbit holes that take over my day. There are infinite suggestions as to how I should spend my time, uncountable shiny objects that take my eye off the prize that is Creativity and Depth. This has been momentously negated with EWW (or any terminal browser, lynx or browsh for the non-emacs users). In addition to this, my belief is that we should make strides toward leaving behind Layer 8 of the internet - the limiting frontends of social platforms and locked away corners of the net that limit actual discourse (Discord, I’m looking at you). We have given up far too much to big tech platforms, and gotten nothing of value in return, to the point that many now think the internet is dying. The internet is just a delivery mechanism, and for people that see it for what it really is, the internet has never been more alive. I truly recommend using the internet as if it was 1999. Even on my phone, I’ve stopped using javascript frontends and embraced using eww in emacs (in termux), only falling back to fennec for about 5-10% of usecases: I find this way of using the internet far higher in signal than any other method, allowing me to look up information, read documentation, and produce more. How I am doing this # For the uninitiated, emacs ships with EWW (Emacs Web Wowser) permitting"
+    },
+    "verdict": {
+      "model": "jev-1.13.0",
+      "score": 2.36,
+      "category": "Blog",
+      "category_confidence": 0.51
+    }
+  },
+  {
+    "canonical_url": "https://jakub.jankiewicz.org/blog/ai-code-open-source/",
+    "url": "https://jakub.jankiewicz.org/blog/ai-code-open-source/",
+    "found_at": "2026-11-16T13:36:50+00:00",
+    "sources": [
+      {
+        "name": "hn",
+        "id": "50507303",
+        "title": "All AI-generated code should be Open Source",
+        "discussion_url": "https://news.ycombinator.com/item?id=50507303",
+        "score": 1188,
+        "comments": 632,
+        "created_at": "2026-11-15T14:46:58Z"
+      }
+    ],
+    "page": {
+      "final_url": "https://jakub.jankiewicz.org/blog/ai-code-open-source/",
+      "status": 200,
+      "title": "All AI-generated code should be Open Source",
+      "description": "All code generated with help from AI should be Open Source or on Creative Commons Zero (CC0) license.",
+      "og_image": "https://jakub.jankiewicz.org/img/en/ai-code-open-source.png",
+      "favicon": "https://jakub.jankiewicz.org/favicon/apple-touch-icon.png",
+      "text_excerpt": "Skip to main content [ ] 0% light dark RSS @jcubic 888888 888 888 88888888888 888888 888 d8b d8b \"88b 888 888 888 \"88b 888 Y8P Y8P 888 888 888 888 888 888 888 8888b. 888 888 888 888 88888b. 888 888 8888b. 88888b. 888 888 888 .d88b. 888 888 888 888 .d8888b 88888888 888 \"88b 888 .88P 888 888 888 \"88b 888 888 \"88b 888 \"88b 888 .88P 888 d8P Y8b 888 888 888 888 d88P\" d88P 888 .d888888 888888K 888 888 888 888 888 888 .d888888 888 888 888888K 888 88888888 888 888 888 888 888 d88P 88P 888 888 888 \"88b Y88b 888 888 d88P 888 d8b 88P 888 888 888 888 888 \"88b 888 Y8b. Y88b 888 d88P 888 Y88b. d88P 888 \"Y888888 888 888 \"Y88888 88888P\" 888 Y8P 888 \"Y888888 888 888 888 888 888 \"Y8888 \"Y8888888P\" 888 \"Y8888P 88888888 .d88P .d88P .d88P\" .d88P\" 888P\" 888P\" All AI-generated code should be Open Source Jakub T. Jankiewicz This may be a hot take, but I strongly believe that all code generated by AI should be Open Source. And here's why. First of all, AI models were trained on a massive corpus of Open Source code written since RMS announced the GNU Project and the Free Software Movement. That code was simply scraped from the internet and used without permission or proper attribution. The models were also trained on Stack Overflow and Stack Exchange sister projects, which are released under Creative Commons licenses that legally require attribution. Turning this collective knowledge into proprietary, closed-source code feels like license laundering. The second reason is legal: purely AI-generated code is not written by a human, meaning it should not be copyrightable. The foundation for this principle in the US goes back to the famous Monkey Selfie dispute, which established that non-humans cannot hold copyrights. A precedent later cited by the U.S. Copyright Office regarding AI. Following the same logic, Wikimedia Commons requires all purely AI-generated images to be tagged as Public Domain. However, copyright laws differ across the globe. For instance, countries like the UK grant limited c"
+    },
+    "verdict": {
+      "model": "jev-1.13.0",
+      "score": 2.21,
+      "category": "Blog",
+      "category_confidence": 0.8
+    }
+  },
+  {
+    "canonical_url": "https://prog21.dadgum.com/116.html",
+    "url": "https://prog21.dadgum.com/116.html",
+    "found_at": "2026-11-16T13:36:50+00:00",
+    "sources": [
+      {
+        "name": "hn",
+        "id": "50506894",
+        "title": "Things That Turbo Pascal Is Smaller Than (2011)",
+        "discussion_url": "https://news.ycombinator.com/item?id=50506894",
+        "score": 239,
+        "comments": 143,
+        "created_at": "2026-11-15T13:44:16Z"
+      }
+    ],
+    "page": {
+      "final_url": "https://prog21.dadgum.com/116.html",
+      "status": 200,
+      "title": "Things That Turbo Pascal is Smaller Than",
+      "description": "",
+      "og_image": "",
+      "favicon": "https://prog21.dadgum.com/favicon.ico",
+      "text_excerpt": "programming in the twenty-first century It's not about technology for its own sake. It's about being able to implement your ideas. Things That Turbo Pascal is Smaller Than Turbo Pascal 3 for MS-DOS was released in September 1986. Being version 3, there were lesser releases prior to it and flashier ones after, but 3 was a solid representation of the Turbo Pascal experience: a full Pascal compiler, including extensions that it made it practical for commercial use, tightly integrated with an editor. And the whole thing was lightning fast, orders of magnitude faster at building projects than Microsoft's compilers. The entire Turbo Pascal 3.02 executable--the compiler and IDE--was 39,731 bytes. How does that stack up in 2011 terms? Here are some things that Turbo Pascal is smaller than, as of October 30, 2011: The minified version of jquery 1.6 (90,518 bytes). The yahoo.com home page (219,583 bytes). The image of the white iPhone 4S at apple.com (190,157 bytes). zlib.h in the Mac OS X Lion SDK (80,504 bytes). The touch command under OS X Lion (44,016 bytes). Various vim quick reference cards as PDFs. (This one is 47,508 bytes.) The compiled code for the Erlang R14B02 parser (erl_parse.beam, 286,324 bytes). The Wikipedia page for C++ (214,251 bytes). (If you liked this, you might like A Personal History of Compilation Speed.) permalink October 30, 2011 previously Starting in the Middle Papers from the Lost Culture of Array Languages The Revolution is Personal Optimization on a Galactic Scale Greetings from the Bottom of the Benchmarks archives twitter / mail I'm James Hague, a recovering programmer who has been designing video games since the 1980s. Programming Without Being Obsessed With Programming and Organizational Skills Beat Algorithmic Wizardry are good starting points. For the older stuff, try the 2012 Retrospective. Where are the comments?"
+    },
+    "verdict": {
+      "model": "jev-1.13.0",
+      "score": 1.7,
+      "category": "Blog",
+      "category_confidence": 0.57
+    }
+  },
+  {
+    "canonical_url": "https://macanorak.com/the-macbook-pros-oled-pwm-problem-when-a-better-display-becomes-worse-to-use/",
+    "url": "https://macanorak.com/the-macbook-pros-oled-pwm-problem-when-a-better-display-becomes-worse-to-use/",
+    "found_at": "2026-11-16T13:36:50+00:00",
+    "sources": [
+      {
+        "name": "hn",
+        "id": "50506719",
+        "title": "The MacBook Pro's OLED PWM problem",
+        "discussion_url": "https://news.ycombinator.com/item?id=50506719",
+        "score": 491,
+        "comments": 275,
+        "created_at": "2026-11-15T13:15:22Z"
+      }
+    ],
+    "page": {
+      "final_url": "https://macanorak.com/the-macbook-pros-oled-pwm-problem-when-a-better-display-becomes-worse-to-use/",
+      "status": 200,
+      "title": "The MacBook Pro’s OLED PWM Problem: When a ‘Better’ Display Becomes Worse to Use",
+      "description": "Apple has made a spectacular display. But spectacular isn’t the same as comfortable, and the people discovering that distinction deserve to be heard.",
+      "og_image": "https://macanorak.com/content/images/2026/11/PROLED-Display-XDR-1.png",
+      "favicon": "https://macanorak.com/content/images/size/w256h256/2026/10/MA-Staff-Logo-New.png",
+      "text_excerpt": "HOME FIELD NOTES SIGHTINGS ABOUT CONTACT DONATE FELLOW ANORAK The MacBook Pro’s OLED PWM Problem: When a ‘Better’ Display Becomes Worse to Use Apple has made a spectacular display. But spectacular isn’t the same as comfortable, and the people discovering that distinction deserve to be heard. Alexander Cohen TRACK RECORD 14 NOV 2026 10 MIN READ Share Apple has brought tandem OLED technology to the MacBook Pro, joining the Mini-LED display that has served the range since 2021 (and which Apple continues to sell). Apple calls this a “PROLED XDR Display”. It features individually illuminated pixels, effectively infinite contrast, wonderfully deep blacks and the sort of image quality that Mini-LED, for all its considerable strengths, can’t fully equal. Peak HDR brightness has increased, and Apple has introduced a new display engine designed to manage colour, luminance and pixel usage with extraordinary precision. And of course, in a first for any Apple notebook display, it has touch-input capability. When Apple unveiled the new MacBook Pro, the initial reaction to the screen was overwhelmingly positive. But there’s a burgeoning discussion taking place within the Mac community that deserves attention. On ⁠MacRumors forums, a thread titled RIP MacBook Pro PROLED for PWM Sensitive Eyes - apple cmon! has attracted people describing remarkably similar experiences. Discussions are also appearing across Reddit, with owners describing discomfort shortly after using their new machines. Some report headaches; others describe a strange sensation of eye fatigue, dizziness, nausea, or an inability to concentrate on the screen for extended periods. Some have already returned the device. Mike Wuerthele, of AppleInsider, published an article on 10 November titled ⁠If you’re getting dizzy using PROLED MacBook Pro, you are not alone, examining these reports. The following caveat probably doesn't need to be made, but I will make it anyway: these are individual experiences, not evidence that"
+    },
+    "verdict": {
+      "model": "jev-1.13.0",
+      "score": 1.78,
+      "category": "Technology",
+      "category_confidence": 0.71
+    }
+  },
+  {
+    "canonical_url": "https://lucypero.com/lucynes.html",
+    "url": "https://lucypero.com/lucynes.html",
+    "found_at": "2026-11-16T13:36:50+00:00",
+    "sources": [
+      {
+        "name": "hn",
+        "id": "50506588",
+        "title": "A NES emulator written in Odin",
+        "discussion_url": "https://news.ycombinator.com/item?id=50506588",
+        "score": 117,
+        "comments": 48,
+        "created_at": "2026-11-15T12:51:47Z"
+      }
+    ],
+    "page": {
+      "final_url": "https://lucypero.com/lucynes.html",
+      "status": 200,
+      "title": "lucyNES - Lucy's Save Room",
+      "description": "I made a NES emulator in Odin!Github linkIntroI’ve started this project in late June of 2024. I’ve worked on it in my spare time off and on. I decided to put...",
+      "og_image": "",
+      "favicon": "https://lucypero.com/assets/apple-touch-icon.png",
+      "text_excerpt": "Lucy's Save Room Showcase Blog About lucyNES A NES emulator written in Odin STATUS Finished TIMELINE Apr 2024 – Jan 2025 ROLE Solo TECH Odin LINKS Source on GitHub ARTICLES LucyNES - I made an emulator in Odin! I made a NES emulator in Odin! Github link Intro I’ve started this project in late June of 2024. I’ve worked on it in my spare time off and on. I decided to put a pause on this project in January 2025 to focus on other things. I’ve learned so much about: The NES architecture, and possibly about game console architectures in general Bits and bytes, hex notation, and bitwise operations. The Odin programming language. I haven’t used it on a serious project before. How computers work. CPU instructions, “cycles”, etc Emulation. It’s very hard. Respect to emulator developers! It’s been a wild ride. I’ve had a lot of fun, but I’ve also suffered more towards the end, when trying to make the emulator “fully” accurate. You can read the Github Readme for more info about the project. Features Enough emulation accuracy to run Battletoads and hundreds of other games perfectly. Debugger view with some debugging features Menu view to interact with the emulator Save states Controller support CRT Shader toggle (Partial) Sound Supported Mappers: NROM, MMC1, UXROM, CNROM, MMC3, GxROM, AxROM Making an emulator I’ve seen some people say that making a NES emulator is a simple weekend project, and I frankly found that baffling. Because evidently, it’s not. It took me 7 months to get my emulator to how it is now. I think what they actually mean is that getting a NES emulator “working” takes a short time. Like maybe getting Donkey Kong to run. And that’s true. You can get to 80% or maybe 90% pretty fast. It’s the last 10% that takes a long, long time. The NES hardware has many idiosyncrasies that need to be emulated for certain games to run. Many games depend on very specific NES behavior. And if you don’t implement it right, they won’t run. A lot of the challenge is about timing. The"
+    },
+    "verdict": {
+      "model": "jev-1.13.0",
+      "score": 3.04,
+      "category": "Games",
+      "category_confidence": 0.38
+    },
+    "screenshot": "shots/2026/11-16/lucypero-com-lucynes-html.jpg"
+  },
+  {
+    "canonical_url": "https://magazine.sebastianraschka.com/p/understanding-positional-embeddings",
+    "url": "https://magazine.sebastianraschka.com/p/understanding-positional-embeddings",
+    "found_at": "2026-11-16T13:36:50+00:00",
+    "sources": [
+      {
+        "name": "hn",
+        "id": "50506376",
+        "title": "Understanding Positional Embeddings in Modern LLMs",
+        "discussion_url": "https://news.ycombinator.com/item?id=50506376",
+        "score": 235,
+        "comments": 27,
+        "created_at": "2026-11-15T12:14:06Z"
+      }
+    ],
+    "page": {
+      "final_url": "https://magazine.sebastianraschka.com/p/understanding-positional-embeddings",
+      "status": 200,
+      "title": "Understanding Positional Embeddings in Modern LLMs",
+      "description": "The Methods Behind How LLMs Represent Token Positions",
+      "og_image": "https://substackcdn.com/image/fetch/$s_!UHlM!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2a036907-4c1e-473b-8d82-20f2c777df5f_2912x1632.png",
+      "favicon": "https://substackcdn.com/image/fetch/$s_!H1CS!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F342e39ec-514c-4b4d-8a76-6acf0cbd8248%2Ffavicon.ico",
+      "text_excerpt": "Subscribe Sign in Discover more from Ahead of AI Ahead of AI focuses on machine learning and AI research and is read by more than 200,000 researchers and practitioners who want to stay ahead in a rapidly evolving field. Over 233,000 subscribers Subscribe By subscribing, you agree to Substack's Terms of Use, and acknowledge its Information Collection Notice and Privacy Policy. Already have an account? Sign in Understanding Positional Embeddings in Modern LLMs The Methods Behind How LLMs Represent Token Positions SEBASTIAN RASCHKA, PHD NOV 15, 2026 174 1 15 Share This article explains how LLMs encode and process token position information by covering classic and contemporary methods like RoPE. It’s essentially a comprehensive journey where we will work through the mechanisms with visual examples, a little math, and a small PyTorch implementation. And, of course, we will then also look at how modern architectures adapt or omit explicit positional encodings. Below, you can find a preview of which positional embedding choices are used in 2026 open-weight models. We will discuss these choices later after covering the underlying mechanisms. Figure 1: A preview of the gallery’s 2026 architectures, grouped by positional encoding. Architecture figures taken from my LLM gallery. But why spending so much time writing/reading about this rather minor building block? LLMs keep evolving, and as I was preparing a new article on the latest LLM architecture trends this year, I realized that I never covered the positional information methods used in LLMs in any article so far. So, instead of letting the other article get out of hand, I thought it might make sense to publish this as a standalone building block for the upcoming LLM architecture and trends analysis. Also, over the years, many readers have asked me for a tutorial on relative positional embeddings (aka RoPE) to follow up on the learned absolute embeddings used in GPT. It’s been on my TODO list for a long time, so I finally "
+    },
+    "verdict": {
+      "model": "jev-1.13.0",
+      "score": 2.56,
+      "category": "Blog",
+      "category_confidence": 0.51
+    }
+  },
+  {
+    "canonical_url": "https://www.nytimes.com/2026/11/15/us/politics/lutnick-pushed-to-weaken-chip-rules-that-overlap-with-his-family-business.html",
+    "url": "https://www.nytimes.com/2026/11/15/us/politics/lutnick-pushed-to-weaken-chip-rules-that-overlap-with-his-family-business.html",
+    "found_at": "2026-11-16T13:36:50+00:00",
+    "sources": [
+      {
+        "name": "hn",
+        "id": "50506180",
+        "title": "Lutnick Pushed to Weaken Chip Rules That Overlap with His Family Business",
+        "discussion_url": "https://news.ycombinator.com/item?id=50506180",
+        "score": 507,
+        "comments": 243,
+        "created_at": "2026-11-15T11:40:51Z"
+      }
+    ],
+    "page": {
+      "final_url": "https://www.nytimes.com/2026/11/15/us/politics/lutnick-pushed-to-weaken-chip-rules-that-overlap-with-his-family-business.html",
+      "status": 403,
+      "title": "nytimes.com",
+      "description": "",
+      "og_image": "",
+      "favicon": "https://www.nytimes.com/favicon.ico",
+      "text_excerpt": ""
+    },
+    "verdict": {
+      "model": "jev-1.13.0",
+      "score": 0.46,
+      "category": "News",
+      "category_confidence": 0.85
+    }
+  },
+  {
+    "canonical_url": "https://space.stackexchange.com/questions/37775",
+    "url": "https://space.stackexchange.com/questions/37775",
+    "found_at": "2026-11-16T13:36:50+00:00",
+    "sources": [
+      {
+        "name": "hn",
+        "id": "50505271",
+        "title": "Why did some Apollo missions carry a grenade launcher? (2019)",
+        "discussion_url": "https://news.ycombinator.com/item?id=50505271",
+        "score": 243,
+        "comments": 157,
+        "created_at": "2026-11-15T09:06:43Z"
+      }
+    ],
+    "page": {
+      "final_url": "https://space.stackexchange.com/questions/37775",
+      "status": 403,
+      "title": "Just a moment...",
+      "description": "",
+      "og_image": "",
+      "favicon": "https://space.stackexchange.com/favicon.ico",
+      "text_excerpt": "space.stackexchange.com Performing security verification This website uses a security service to protect against malicious bots. This page is displayed while the website verifies you are not a bot. Ray ID: a5b6e3f84dd618e8 Performance and Security by Cloudflare Privacy"
+    },
+    "verdict": {
+      "model": "jev-1.13.0",
+      "score": 0.11,
+      "category": "Community",
+      "category_confidence": 0.58
+    }
+  },
+  {
+    "canonical_url": "https://nick-black.com/dankwiki/index.php?title=Book_list_for_streetfighting_computer_scientists",
+    "url": "https://nick-black.com/dankwiki/index.php?title=Book_list_for_streetfighting_computer_scientists",
+    "found_at": "2026-11-16T13:36:50+00:00",
+    "sources": [
+      {
+        "name": "hn",
+        "id": "50504718",
+        "title": "Book list for streetfighting computer scientists",
+        "discussion_url": "https://news.ycombinator.com/item?id=50504718",
+        "score": 138,
+        "comments": 47,
+        "created_at": "2026-11-15T07:08:50Z"
+      },
+      {
+        "name": "pinboard",
+        "title": "Book list for streetfighting computer scientists - dankwiki, the wiki of nick black"
+      }
+    ],
+    "page": {
+      "final_url": "https://nick-black.com/dankwiki/index.php?title=Book_list_for_streetfighting_computer_scientists",
+      "status": 200,
+      "title": "Book list for streetfighting computer scientists",
+      "description": "",
+      "og_image": "https://nick-black.com/dankwiki/resources/assets/orca.jpg",
+      "favicon": "https://nick-black.com/favicon.ico",
+      "text_excerpt": "Book list for streetfighting computer scientists Jump to navigation Jump to search Edsger Dijkstra is watching you 2025 edition. this is very different from most \"best books for programmers\" lists you'll see, with Code Complete and Clean Code and Wistful Wanking for Practical Wankers and Design Slatterns and titles like that. you'll figure all that out as you go along. these are books to read so that you can cut motherfuckers with knives. do you need to read all of these? only if you want to know the things inside, i guess. Introductory streetfighting Stepanov, From Mathematics to Generic Programming and The Elements of Programming Gustedt, Modern C Hanson, C Interfaces and Implementations Stroustrup, The C++ Programming Language Josuttis, C++ Move Semantics, because a language feature requiring 200 pages of explication is worth studying? no, because this book justifies Rust better than any text on that language. Klabnik, Nichols, and Krycho, The Rust Programming Language need you write in C or C++? not generally. but they are a lingua franca, implemented on most hardware you'll meet, and serve as the native API expression of all operating system that matter. rust is a pretty good language to write and read, and much less to talk about all the fucking time, so cut that shit out. Brawling combat Dijkstra, A Discipline of Programming. the most beautiful book, page-for-page, in all of computer science. Knuth, The Art of Computer Programming, especially volumes 1 and 4B, third edition Warren, Hacker's Delight. make sure you get the second edition Stevens and Rago, Advanced Programming in the UNIX Environment, get at least the second and preferably the third edition Stevens, UNIX Network Programming, second edition Abelson + Sussman, Structure and Interpretation of Computer Programs, best cover on a CS textbook hands down, second edition Varghese, Networking Algorithmics McKusick, The Design and Implementation of the FreeBSD Operating System Kerrisk, The Linux Programmin"
+    },
+    "verdict": {
+      "model": "jev-1.13.0",
+      "score": 2.12,
+      "category": "Books",
+      "category_confidence": 0.58
+    }
+  },
+  {
+    "canonical_url": "https://www.thedartmouth.com/article/2026/11/gandhi-fagell-guarini-will-not-admit-math-ph-d-cohort-this-year",
+    "url": "https://www.thedartmouth.com/article/2026/11/gandhi-fagell-guarini-will-not-admit-math-ph-d-cohort-this-year",
+    "found_at": "2026-11-16T13:36:50+00:00",
+    "sources": [
+      {
+        "name": "hn",
+        "id": "50499945",
+        "title": "Dartmouth (Guarini) will not admit math PhD cohort this year",
+        "discussion_url": "https://news.ycombinator.com/item?id=50499945",
+        "score": 101,
+        "comments": 48,
+        "created_at": "2026-11-14T19:23:40Z"
+      }
+    ],
+    "page": {
+      "final_url": "https://www.thedartmouth.com/article/2026/11/gandhi-fagell-guarini-will-not-admit-math-ph-d-cohort-this-year",
+      "status": 200,
+      "title": "Guarini will not admit math Ph.D. cohort this year",
+      "description": "Faculty raised concerns about the program’s suspension at the general faculty meeting on Nov. 9. A College spokesperson declined to answer questions about when applications would resume.",
+      "og_image": "https://snworksceo.imgix.net/drt/f42dabdd-cdb4-4bb9-b3b1-cdbee8f8a198.sized-1000x1000.jpg?w=800&h=600",
+      "favicon": "https://d17odh4hb0gp5r.cloudfront.net/d3bbc47016cb340b43df713d5d497b1f/dist/img/favicons/apple-icon-57x57.png",
+      "text_excerpt": "Skip to Content, Navigation, or Footer. Support independent student journalism. SUPPORT THE DARTMOUTH November 16, 2026 NEWS COLLEGE OPINION SPORTS ARTS MIRROR DATA MULTIMEDIA SUBSCRIBE ABOUT News Guarini will not admit math Ph.D. cohort this year Faculty raised concerns about the program’s suspension at the general faculty meeting on Nov. 9. A College spokesperson declined to answer questions about when applications would resume. Photo by Sean Hughes / The Dartmouth By Alex Fagell and Sahil Gandhi Published November 12, 2026 The Guarini School of Graduate and Advanced Studies has suspended admissions to the next cohort in its math Ph.D. program, which would matriculate in the 2027-2028 academic year. Guarini dean Carrie Colla ’01 and College spokesperson Jana Barnello did not specify when or whether the program would resume admissions. Colla wrote in a Nov. 10 email statement to The Dartmouth that Guarini “regularly considers how to best invest in graduate education.” “As part of those regular reviews, we are pausing admissions to the math Ph.D. program for the 2027-2028 cycle while the School of Arts and Sciences conducts a department review,” she wrote. The decision to suspend the program “was made in close partnership with leaders in the School of Arts and Sciences and we look forward to working collaboratively with the department on this review,” Colla added. She wrote in a Nov. 10 email to current graduate students that there “will be opportunities for students to participate in the review” and that she would meet with math graduate students and department faculty on Nov. 17. Graduate students can also reach out to math department chair Dimitrios Giannakis and math professor Vladimir Chernov to share questions and concerns, she wrote. “While I know it is disappointing news that your cohort will not be growing next year, I am confident that this approach will allow us to strengthen the experience of both our Ph.D. students and the undergraduate students in the "
+    },
+    "verdict": {
+      "model": "jev-1.13.0",
+      "score": 0.32,
+      "category": "News",
+      "category_confidence": 0.86
+    }
+  },
+  {
+    "canonical_url": "https://runkiri.com/",
+    "url": "https://runkiri.com/",
+    "found_at": "2026-11-16T13:36:50+00:00",
+    "sources": [
+      {
+        "name": "pinboard",
+        "title": "Kiri: a fast Docker Desktop alternative for Mac, Windows, Linux"
+      }
+    ],
+    "page": {
+      "final_url": "https://runkiri.com/",
+      "status": 200,
+      "title": "Kiri: a fast Docker Desktop alternative for Mac, Windows and Linux",
+      "description": "Docker containers on Mac, Windows and Linux with one Rust daemon. docker run in 22 ms on a Mac. Works with docker, Compose and the Docker API.",
+      "og_image": "https://runkiri.com/assets/og-image.png?v=2",
+      "favicon": "https://runkiri.com/assets/favicon.svg",
+      "text_excerpt": "Skip to content BETA Docs Blog Community Releases Star 8.1k Download ORBSTACK · 5 HAND-OFFS · A SHIM STAYS PER CONTAINER KIRI · ONE LIFT · NOTHING LEFT BEHIND New 0.2.1 Mac · Windows · Linux The modern container runtime. 8× faster than Docker. Kiri runs Docker containers with one daemon. The docker CLI, Compose and the Docker API work as they do today. The 8×: docker run takes 22 ms on Kiri and 178 ms on Docker Desktop (152 ms on Colima, 279 ms on OrbStack), every engine on 2 CPUs and 8 GB. Download for Mac (Intel) Watch the race Free, and in beta on Mac, Windows and Linux. Something broken or annoying? Tell us with Feedback in Kiri's window, and we fix it. Kiri Containers Linux VM running Live web.runkiri.cloud web is shared · 14 visits today Copy link web nginx:alpine 47 MB Live db postgres:17 438 MB Up 2 min api node:22 1.1 GB Up 2 min redis redis:7 117 MB Exited Kubernetes 9 pods ready Kiri's window is now in 15 languages 简体中文 繁體中文 日本語 한국어 Deutsch Français Español Italiano Português (Brasil) Polski Русский Türkçe Bahasa Indonesia Tiếng Việt English Works with what you already use docker docker compose docker buildx Docker Engine API Docker Hub OCI images ghcr.io Dockerfiles docker docker compose docker buildx Docker Engine API Docker Hub OCI images ghcr.io Dockerfiles WHILE IT RUNS Light while it runs. Ten containers running on one Apple silicon Mac, one runtime at a time: how much CPU and memory each one holds. CPU AND MEMORY · 10 CONTAINERS RUNNING CPU MEMORY Kiri 0.4% 420 MB OrbStack 1.5% 1.1 GB Colima 3.0% 1.3 GB Docker Desktop 6.0% 2.5 GB SAMPLE One Apple-silicon Mac, one runtime at a time. Measured numbers replace these soon. Benchmarks → WHAT'S IN IT Everything you'd reach for Docker Desktop for. Containers were the start. Kiri now builds and scans images, runs Kubernetes and whole Linux machines, and puts any container on the internet with one click. Containers and Compose Every docker command you use, Compose projects grouped in the window, and a page f"
+    },
+    "verdict": {
+      "model": "jev-1.13.0",
+      "score": 3.3,
+      "category": "Developer Tools",
+      "category_confidence": 1.0
+    },
+    "screenshot": "shots/2026/11-16/runkiri-com.jpg"
+  },
+  {
+    "canonical_url": "https://www.openculture.com/freeonlinecourses",
+    "url": "https://www.openculture.com/freeonlinecourses",
+    "found_at": "2026-11-16T13:36:50+00:00",
+    "sources": [
+      {
+        "name": "pinboard",
+        "title": "1,700 Free Online Courses from Top Universities | Open Culture"
+      }
+    ],
+    "page": {
+      "final_url": "https://www.openculture.com/freeonlinecourses",
+      "status": 200,
+      "title": "1,700 Free Online Courses from Top Universities",
+      "description": "Take online courses from the world’s top universities for free. Below, you’ll find 1,700 courses from Yale, MIT, Harvard, Oxford and more. They cover a wide range of disciplines, from the humanities (literature, history, philosophy) to science and technology (computer science, physics, biology).",
+      "og_image": "https://www.openculture.com/wp-content/themes/openculture_v4c/images/open_culture_white.jpg",
+      "favicon": "https://www.openculture.com/wp-content/themes/openculture_v4a/images/favicon.ico",
+      "text_excerpt": "Online Courses Audio Books Movies Podcasts K-12 eBooks Languages Donate 1,700 Free Online Courses from Top Universities Bluesky Facebook Threads Mastodon Reddit Message Email Share Take online cours­es from the world’s top uni­ver­si­ties for free. Below, you’ll find 1,700 cours­es from Yale, MIT, Har­vard, Oxford and more. They cov­er a wide range of dis­ci­plines, from the human­i­ties (lit­er­a­ture, his­to­ry, phi­los­o­phy) to sci­ence and tech­nol­o­gy (com­put­er sci­ence, physics, biol­o­gy). Human­i­ties & Social Sci­ences Archaeology Courses Archae­ol­o­gy: from Dig to Lab and Beyond — Mas­sive Open Online Course (MOOC) — Uni­ver­si­ty of Read­ing Han­ni­bal — Free Online Course — Patrick Hunt, Stan­ford Pyra­mids of Giza: Ancient Egypt­ian Art and Archae­ol­o­gy — Mas­sive Open Online Course (MOOC) — Peter Der Manuelian, Har­vard Roman Art and Archae­ol­o­gy — Mas­sive Open Online Course (MOOC) — David Soren, Uni­ver­si­ty of Ari­zona The Chang­ing Land­scape of Ancient Rome. Archae­ol­o­gy and His­to­ry of the Pala­tine Hill — Mas­sive Open Online Course (MOOC) — Sapien­za Uni­ver­si­ty of Rome Won­ders of Ancient Egypt — Mas­sive Open Online Course (MOOC) — David P. Sil­ver­man, Uni­ver­si­ty of Penn­syl­va­nia Architecture Courses Archi­tec­ture Stu­dio: Build­ing in Land­scapes — Free Online Course — Jan Wampler, MIT His­to­ry of Archi­tec­ture - Free Online Course — Jacque­line Gar­gus, Ohio State Mak­ing Archi­tec­ture — Mas­sive Open Online Course (MOOC) — IE School of Archi­tec­ture and Design Roman Archi­tec­ture — Free Online Course - Diana E. E. Klein­er, Yale Sus­tain­abil­i­ty in Archi­tec­ture: An Inter­dis­ci­pli­nary Intro­duc­tion — Mas­sive Open Online Course (MOOC) — Uni­ver­si­ty Poly­tech­nic Valen­cia The Archi­tec­tur­al Imag­i­na­tion — Free Online Video — Mul­ti­ple instruc­tors, Har­vard The­o­ry of City Form — Free Online Course — Julian Beinart, MIT Art & Art History Courses Aes­thet­ics & the Phi­los­o­phy of Art - Free Online"
+    },
+    "verdict": {
+      "model": "jev-1.13.0",
+      "score": 2.38,
+      "category": "Education",
+      "category_confidence": 1.0
+    }
+  },
+  {
+    "canonical_url": "https://www.dwarkesh.com/p/rsi",
+    "url": "https://www.dwarkesh.com/p/rsi",
+    "found_at": "2026-11-16T13:36:50+00:00",
+    "sources": [
+      {
+        "name": "pinboard",
+        "title": "The avalanche that hit math is coming for AI development"
+      }
+    ],
+    "page": {
+      "final_url": "https://www.dwarkesh.com/p/rsi",
+      "status": 200,
+      "title": "The avalanche that hit math is coming for AI development",
+      "description": "Why I now expect superintelligence by 2030",
+      "og_image": "https://substackcdn.com/image/fetch/$s_!Q50P!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F7dc29226-8d97-44fb-a2f3-5798522ed0df_1551x812.png",
+      "favicon": "https://substackcdn.com/image/fetch/$s_!sJZo!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F2ba3bcc4-643d-4197-98f2-e7439f9ae2d1%2Ffavicon.ico",
+      "text_excerpt": "Dwarkesh Podcast Subscribe Sign in Discover more from Dwarkesh Podcast Deeply researched interviews Over 116,000 subscribers Subscribe By subscribing, you agree to Substack's Terms of Use, and acknowledge its Information Collection Notice and Privacy Policy. Already have an account? Sign in BLOG The avalanche that hit math is coming for AI development Why I now expect superintelligence by 2030 DWARKESH PATEL NOV 13, 2026 464 96 87 Share Article voiceover 0:00 -44:26 Many thanks to Max Farrens, Gabe Fried, and Thomas Larsen for pairing with me through significant parts of writing and researching this essay. You can watch or listen to me narrate this essay on YouTube, Spotify, and Apple Podcasts. If you asked me earlier this year how far away we are from superintelligence, I’d probably have said at least the better part of a decade. But over the last three months, I’ve updated my views a ton. I’ve been debating people about this question, both on and off the podcast. And I’ve been watching the progress of AI on verifiable domains and thinking about what that implies for AI research itself. I’ve now come to the view that we’re only a couple of years away, and possibly only a couple of months away, from AIs that are as good as the best humans at AI research. I’ve also come to believe that automating AI research will compress so much progress into a single year that, soon thereafter (so by 2030, but plausibly as early as next year), we’ll have AIs that are at least as good as the best human experts in every field. I know this is a wild claim, and it’s one that I myself didn’t believe even a couple of months ago. Let me walk you through how my thinking has changed. Before we get into more speculative arguments, I want to point out that we have a lot of evidence that AI is already dramatically speeding up further AI progress at the frontier. For example, METR, which is an independent evaluation organization, concluded after three months embedded inside Anthropic that Anthr"
+    },
+    "verdict": {
+      "model": "jev-1.13.0",
+      "score": 2.03,
+      "category": "Blog",
+      "category_confidence": 0.71
+    }
+  },
+  {
+    "canonical_url": "https://www.schneier.com/blog/archives/2026/11/ai-doesnt-have-to-go-rogue-to-break-the-world.html",
+    "url": "https://www.schneier.com/blog/archives/2026/11/ai-doesnt-have-to-go-rogue-to-break-the-world.html",
+    "found_at": "2026-11-16T13:36:50+00:00",
+    "sources": [
+      {
+        "name": "pinboard",
+        "title": "AI Doesn't Have to Go Rogue to Break the World - Schneier on Security"
+      }
+    ],
+    "page": {
+      "final_url": "https://www.schneier.com/blog/archives/2026/11/ai-doesnt-have-to-go-rogue-to-break-the-world.html",
+      "status": 200,
+      "title": "AI Doesn't Have to Go Rogue to Break the World - Schneier on Security",
+      "description": "This essay is adapted from a keynote speech delivered at the DEF CON 34 conference in Las Vegas on August 7, 2026. The essay originally appeared in CyberScoop. I want to talk about AI hacking. There are three aspects: people hacking AI systems, people using AI to hack other systems, and AIs hacking systems on their own, not even maliciously. The last two matter more than the first. The third is the weirdest and potentially the most destabilizing. I started writing about this in 2021 and in my 2022 book, A Hacker’s Mind. Back then I said it was mostly still science fiction, but not stupid science fiction. We’re seeing it more and more, especially in the past year. The trends I’m describing don’t require a major breakthrough in AI. They’re starting to happen now, and they’ll happen more often as AIs get better at autonomous problem-solving. And it will involve far more than computer code...",
+      "og_image": "",
+      "favicon": "https://www.schneier.com/wp-content/uploads/2020/06/cropped-favicon-1-32x32.png",
+      "text_excerpt": "Schneier on Security Blog Newsletter Books Essays News Talks Academic About Me Search Powered by DuckDuckGo Blog Essays Whole site Subscribe HomeBlog AI Doesn’t Have to Go Rogue to Break the World This essay is adapted from a keynote speech delivered at the DEF CON 34 conference in Las Vegas on August 7, 2026. The essay originally appeared in CyberScoop. I want to talk about AI hacking. There are three aspects: people hacking AI systems, people using AI to hack other systems, and AIs hacking systems on their own, not even maliciously. The last two matter more than the first. The third is the weirdest and potentially the most destabilizing. I started writing about this in 2021 and in my 2022 book, A Hacker’s Mind. Back then I said it was mostly still science fiction, but not stupid science fiction. We’re seeing it more and more, especially in the past year. The trends I’m describing don’t require a major breakthrough in AI. They’re starting to happen now, and they’ll happen more often as AIs get better at autonomous problem-solving. And it will involve far more than computer code. AI will hack all sorts of social, economic and political systems. It will find vulnerabilities and exploit them. This is a difference in kind, not just degree. We’re not ready for it, and we need to think about the implications now. First, I want to broaden the term “hacking.” The tax code isn’t computer code, but it is code. It’s a series of algorithms with inputs and outputs. It has vulnerabilities, which we call loopholes, and exploits, which we call tax avoidance strategies. Black hat hackers exploit them for profit. We call them accountants and attorneys. What is a hack? One definition: “Something that a system permits, but is unanticipated and unwanted by the designers.” It’s subjective and implies novelty and cleverness. A hack follows the rules of a system but subverts its goals or intent, just as a software hack follows the logic of code while doing something its authors neither an"
+    },
+    "verdict": {
+      "model": "jev-1.13.0",
+      "score": 2.52,
+      "category": "Blog",
+      "category_confidence": 0.95
+    }
+  },
+  {
+    "canonical_url": "https://claude.com/resources/articles/building-always-on-agents",
+    "url": "https://claude.com/resources/articles/building-always-on-agents",
+    "found_at": "2026-11-16T13:36:50+00:00",
+    "sources": [
+      {
+        "name": "pinboard",
+        "title": "Building always-on agents"
+      }
+    ],
+    "page": {
+      "final_url": "https://claude.com/resources/articles/building-always-on-agents",
+      "status": 200,
+      "title": "Building always-on agents",
+      "description": "Always-on agents run indefinitely, deciding how and when to act across many sessions. This guide walks through their core primitives and how they fit together.",
+      "og_image": "https://claude.com/resources/articles/building-always-on-agents/opengraph-image/og",
+      "favicon": "https://claude.com/icon.png",
+      "text_excerpt": "Skip to main content Product Developers Enterprise Resources Pricing Login Contact sales Try Claude Claude Resources Home Articles Guides Webinars Videos Building always-on agents Always-on agents run indefinitely, deciding how and when to act across many sessions. This guide walks through their core primitives and how they fit together. Category Best practices Product Claude Platform Author William Hu Date November 13, 2026 Reading time 14 min Share Copy link Contents The cycle behind the always-on agent The core primitives How everything fits together Acknowledgements Over the past few months, we’ve seen a resurgence of always-on agents. Always-on agents are stateful and proactive, meaning they manage context across sessions and take actions without direct supervision. Underneath, they run on the same core loop as other agents. The difference is the surrounding architecture, which is built from primitives that control when the agents wake up, what carries over between runs, and how their work reaches the user. The resurgence is largely due to recent model advancements, which have made always-on agents more practical to run. First, the latest models have better judgment: they’re more reliable at understanding user intent and knowing when to check in. Second, intelligence is becoming cheaper, with long-horizon tasks benefiting the most. For example, on one long-horizon coding benchmark, Opus 5.5 cost 78% less per solved task than Opus 5, compared with 40% less on typical workloads. Customers have started to ask us how to integrate this type of experience into their own products. Some companies want to make their existing agents more proactive, while others are looking to build them from the ground up. This post breaks down the primitives behind always-on agents and walks through how they fit together. The cycle behind the always-on agent An always-on agent is not actually “always on.” This is just a description of the user experience. In reality, the agent spends mo"
+    },
+    "verdict": {
+      "model": "jev-1.13.0",
+      "score": 2.28,
+      "category": "Software Engineering",
+      "category_confidence": 0.67
+    }
+  },
+  {
+    "canonical_url": "https://www.makeuseof.com/small-but-powerful-local-llms-worth-trying-out-on-your-computer-this-weekend/",
+    "url": "https://www.makeuseof.com/small-but-powerful-local-llms-worth-trying-out-on-your-computer-this-weekend/",
+    "found_at": "2026-11-16T13:36:50+00:00",
+    "sources": [
+      {
+        "name": "pinboard",
+        "title": "4 small but powerful local LLMs worth trying out on your computer this weekend"
+      }
+    ],
+    "page": {
+      "final_url": "https://www.makeuseof.com/small-but-powerful-local-llms-worth-trying-out-on-your-computer-this-weekend/",
+      "status": 200,
+      "title": "4 small but powerful local LLMs worth trying out on your computer this weekend",
+      "description": "I tested dozens of local LLMs on my 8GB GPU. Here are four worth trying this weekend.",
+      "og_image": "https://static0.makeuseofimages.com/wordpress/wp-content/uploads/wm/2026/11/this.jpg?w=1600&h=900&fit=crop",
+      "favicon": "https://www.makeuseof.com/public/build/images/favicon-48x48.png",
+      "text_excerpt": "Menu Add Follow Sign In Now Close PC & MOBILE SUBMENU TECHNICAL SUBMENU SOFTWARE SUBMENU SCREEN SUBMENU HOME SUBMENU NEWS Sign In Newsletter Add MakeUseOf on Google Add Follow Productivity Android Smart Home Networking Entertainment Home 4 small but powerful local LLMs worth trying out on your computer this weekend Add MakeUseOf on Google Add as Preferred Source Follow on Google Discover By Jayric Maning Published Nov 13, 2026, 2:30 PM EST Jayric is a Forensic Science graduate with over five years of writing experience and a passion for reverse engineering and hardware. His tech journey kicked off in childhood with an old hand-me-down Nokia N91, where he repackaged Java games like a Symbian port of Pokémon Blue to tweak TMs and Poké Dollars. By high school, he was flashing custom Android ROMs and trading modded games for lunch money, and in college, he learned C/C++ and electronics on a TI Tiva C LaunchPad, then went on to create DIY projects ranging from USB security keys to home automation devices. Jayric now enjoys writing at MUO to keep sharing and learning about tech while honing his own craft. Outside of tech, he enjoys grinding CS2 and Dragon Nest, lifting weights, running daily 5Ks, and reading in his greenhouse. Here is a fact-based summary of the story contents: With new small local LLMs shipping every few weeks, I’ve spent more weekends than I’d like to admit testing out models, tweaking resource settings, and figuring out what actually runs well on my trusty 8 GB RTX 3060. Abliterated variants, distillations, and aggressive quantizations have made capable models more accessible on limited hardware, but with so many models coming out, it can be hard to find ones that are worth your time. So, after testing a few dozen models, I narrowed the field down to four small local LLMs worth trying. All are available in LM Studio and Ollama, so you can conveniently download them this weekend without hunting through different model libraries. RELATED The fix for loca"
+    },
+    "verdict": {
+      "model": "jev-1.13.0",
+      "score": 1.91,
+      "category": "Technology",
+      "category_confidence": 0.6
+    }
+  },
+  {
+    "canonical_url": "https://how.complexsystems.fail/",
+    "url": "https://how.complexsystems.fail/",
+    "found_at": "2026-11-16T13:36:50+00:00",
+    "sources": [
+      {
+        "name": "pinboard",
+        "title": "[no title]"
+      }
+    ],
+    "page": {
+      "final_url": "https://how.complexsystems.fail/",
+      "status": 200,
+      "title": "How Complex Systems Fail",
+      "description": "",
+      "og_image": "",
+      "favicon": "https://how.complexsystems.fail/favicon.ico",
+      "text_excerpt": "How Complex Systems Fail (Being a Short Treatise on the Nature of Failure; How Failure is Evaluated; How Failure is Attributed to Proximate Cause; and the Resulting New Understanding of Patient Safety) Richard I. Cook, MD Cognitive Technologies Labratory University of Chicago Complex systems are intrinsically hazardous systems. All of the interesting systems (e.g. transportation, healthcare, power generation) are inherently and unavoidably hazardous by the own nature. The frequency of hazard exposure can sometimes be changed but the processes involved in the system are themselves intrinsically and irreducibly hazardous. It is the presence of these hazards that drives the creation of defenses against hazard that characterize these systems. Complex systems are heavily and successfully defended against failure The high consequences of failure lead over time to the construction of multiple layers of defense against failure. These defenses include obvious technical components (e.g. backup systems, ‘safety’ features of equipment) and human components (e.g. training, knowledge) but also a variety of organizational, institutional, and regulatory defenses (e.g. policies and procedures, certification, work rules, team training). The effect of these measures is to provide a series of shields that normally divert operations away from accidents. Catastrophe requires multiple failures – single point failures are not enough. The array of defenses works. System operations are generally successful. Overt catastrophic failure occurs when small, apparently innocuous failures join to create opportunity for a systemic accident. Each of these small failures is necessary to cause catastrophe but only the combination is sufficient to permit failure. Put another way, there are many more failure opportunities than overt system accidents. Most initial failure trajectories are blocked by designed system safety components. Trajectories that reach the operational level are mostly blocked, usuall"
+    },
+    "verdict": {
+      "model": "jev-1.13.0",
+      "score": 2.58,
+      "category": "Research",
+      "category_confidence": 0.69
+    }
+  },
+  {
+    "canonical_url": "https://developers.googleblog.com/a2ui-10-build-delightful-fast-reliable-agentic-experiences/",
+    "url": "https://developers.googleblog.com/a2ui-10-build-delightful-fast-reliable-agentic-experiences/",
+    "found_at": "2026-11-16T13:36:50+00:00",
+    "sources": [
+      {
+        "name": "pinboard",
+        "title": "A2UI 1.0: Build delightful, fast, reliable, agentic experiences - Google Developers Blog"
+      }
+    ],
+    "page": {
+      "final_url": "https://developers.googleblog.com/a2ui-10-build-delightful-fast-reliable-agentic-experiences/",
+      "status": 200,
+      "title": "A2UI 1.0: Build delightful, fast, reliable, agentic experiences- Google Developers Blog",
+      "description": "Discover A2UI 1.0, an open protocol for generative UI enabling AI agents to respond with rich, interactive, and native screens across web, mobile, and desktop platforms.",
+      "og_image": "https://storage.googleapis.com/gweb-developer-goog-blog-assets/images/Gemini_Generated_Image_iu9r44iu9r.2e16d0ba.fill-1200x600.jpg",
+      "favicon": "https://storage.googleapis.com/gweb-developer-goog-blog-assets/meta/favicon.ico",
+      "text_excerpt": "COMMUNITY/EVENTS LEARN BLOG YOUTUBE Search A2UI 1.0: Build delightful, fast, reliable, agentic experiences NOV. 11, 2026 Vishal Motwani A2UI PM Google A2UI Team Share User interactions with agents today are where computers were in the terminal era: capable, and answering almost everything in text. Users can ask an agent for anything by typing or talking, and what comes back is usually a wall of text, a poor way to compare three products or edit and approve a detailed plan. Today, we're releasing A2UI 1.0, the first stable version of our open protocol for generative UI. It lets AI agents answer with interactive screens, such as a form to confirm or a chart. Developers can use it now with open-source renderer SDKs for the web, Android, and iOS and agent SDKs for Python, TypeScript, and Dart. Companies such as Atlassian, Alation, Bloomberg, and ByteDance are already building with it. With A2UI, the agent describes what to show, and every app draws the UI with its own native components. The application receives A2UI messages and each app renders the content securely and at native speed. Users get the same low latency, high trust, and complete native fidelity whether they reach a company's agent in its own app or in a third-party AI assistant that hosts MCP apps, such as Gemini or Claude. Why A2UI Personalized in the moment. Your agent constructs a UI that adapts to each user's unique needs and preferences. Native to your brand. Agents use your design system and nothing else. They place and configure only the components you register. Fast, reliable, and secure in production. LLMs compose UI with A2UI Express or with “system one” decision models that pick components instead of writing text. A2UI reliably binds to your data and child components on the server, so sensitive values never reach the model, and the app streams in the UI as the agent works. What developers can build with A2UI You wake up sick. Getting through the morning takes six apps: book a video visit, move y"
+    },
+    "verdict": {
+      "model": "jev-1.13.0",
+      "score": 2.54,
+      "category": "Developer Tools",
+      "category_confidence": 0.67
+    }
+  },
+  {
+    "canonical_url": "https://aboard.com/the-web-is-more-than-enough/",
+    "url": "https://aboard.com/the-web-is-more-than-enough/",
+    "found_at": "2026-11-16T13:36:50+00:00",
+    "sources": [
+      {
+        "name": "pinboard",
+        "title": "The web is more than enough"
+      }
+    ],
+    "page": {
+      "final_url": "https://aboard.com/the-web-is-more-than-enough/",
+      "status": 200,
+      "title": "The web is more than enough",
+      "description": "Developing apps in the browser is radically easier than it used to be.",
+      "og_image": "https://aboard.com/wp-content/uploads/2026/10/browser-tall-1024x686.png",
+      "favicon": "https://aboard.com/wp-content/uploads/2026/04/favicon-150x150.png",
+      "text_excerpt": "We use cookies to ensure you have the best experience on our site, to analyze traffic, and enhance our marketing activities. Customize Accept All Skip to content How We Work Case Studies Foundry Perspectives About Get in Touch The Web Is More Than Enough THE ABOARD NEWSLETTER Web browsers enable incredibly rich app development—and that’s radically easier than it used to be. By Paul Ford · 21 Oct 2026 You can have it all, my empire of alert(). Last week was fun. We launched tinylittleoffice.com—you heard it here first!—and it turned out that lots of folks were in the market for an “office suite that stores data in the URL.” So many people visited that the server went down (well, I maxxed out the CloudFlare free plan), and ultimately, after I put in my credit card, a couple hundred thousand people came by to check it out. People on Hacker News insisted it was a pointless waste of time, and folks on GitHub started asking for features and fixes, all of which we’re considering, and some of which we’re doing. The Register wrote an article about it, and it also made it, for a little while, to the top ten of Product Hunt. So all good; we will continue to support and enhance it, bit by bit, while we also do stable software development work for our customers and clients. But I did want to pause for a second and point out something that surprised me about the process. It’s this: The web browser is very, very, very powerful software for building applications. I know that is obvious and is the sort of thing I could have said any time in the last 20 years. But now there’s an addendum to the statement: The web browser is very, very, very powerful software for applications, and the cost of accessing that power is going down seemingly every day. I put maybe twice as much effort into building a web-based office suite as I might normally put into writing a long newsletter post. I’m not telling you this because I am a very special boy. I’m telling you because if you want to, you can le"
+    },
+    "verdict": {
+      "model": "jev-1.13.0",
+      "score": 2.37,
+      "category": "Magazines, Newspapers & Newsletter",
+      "category_confidence": 0.33
+    }
+  },
+  {
+    "canonical_url": "https://www.notesfromtheroad.com/europa/citrus-family-tree.html",
+    "url": "https://www.notesfromtheroad.com/europa/citrus-family-tree.html",
+    "found_at": "2026-11-16T13:36:50+00:00",
+    "sources": [
+      {
+        "name": "pinboard",
+        "title": "The Sicilian Citrus Family Tree | The Citrus Kingdom, Epilogue"
+      }
+    ],
+    "page": {
+      "final_url": "https://www.notesfromtheroad.com/europa/citrus-family-tree.html",
+      "status": 200,
+      "title": "The Sicilian Citrus Family Tree",
+      "description": "The epilogue to The Citrus Kingdom, an eight-part series on Sicily’s citrus: four wild fruits from Asia, and every orange, lemon and mandarin that came from them.",
+      "og_image": "https://www.notesfromtheroad.com/files/citrus-family-tree.jpg",
+      "favicon": "https://www.notesfromtheroad.com/icons/desertmexico/favicon-96x96.png",
+      "text_excerpt": "Skip to content REGIONS RECENT JOURNEYS ROAM FIELDWORK ABOUT PRINTS THE CITRUS KINGDOM · EPILOGUE The Sicilian Citrus Family Tree Every citrus fruit in Sicily descends from four wild fruits of Asia. Fruit sketches hand-drawn by the author. BY ERIK GAUGER · NOVEMBER 9, 2026 · UPDATED NOVEMBER 14, 2026 This chart is the epilogue to The Citrus Kingdom, an eight-part series on how citrus, carried west from Asia, shaped Sicily’s politics, culture and cuisine for a thousand years. This is how its fruits are related. IPalermo · IICefalù · IIILipari · IVTaormina · VVendicari · VIOrtigia · VIIModica · VIIIConca d’Oro Papeda wild, Philippines I Citron wild, India V Pomelo wild, Southeast Asia Mandarin wild, China Key lime papeda × citron Lumia citron × pomelo II Sour orange pomelo × mandarin IV Sweet orange pomelo × mandarin Mandarino Mediterranean mandarin Lemon sour orange × citron Pompia sour orange × citron Chinotto a sour orange sport Grapefruit sweet orange × pomelo Clementine mandarin × sweet orange III Interdonato lemon × citron Bergamot sour orange × lemon VIII Tardivo late mandarin of Ciaculli Cedrino a small form of the citron Biondo Comune the old blond Ovale late blond Valencia summer orange Navelina early navel Ribera navel orange Tarocco blood orange Moro blood orange Sanguinello blood orange VII Femminello the main lemon Monachello lemon Lunario flowers all year Limone dell’Etna Etna IGP lemon VI Verdello a forced Femminello Persian lime Key lime × lemon WILD ANCESTORS, ALL FROM ASIA FIRST CROSSES CROSSES OF CROSSES A THIRD GENERATION, AND A LATE SPORT SWEET ORANGES OF SICILY THE THREE BLOOD ORANGES OF ETNA SICILY’S LEMONS Papeda line Citron line Pomelo line Mandarin line Hybrid parent Sport (a mutation) Roman numerals mark each fruit’s chapter in The Citrus Kingdom. Tap a fruit to read it. A dotted line is a sport: one branch of one tree that mutated, the way the late mandarin of Ciaculli began. The bottom three rows are not new crosses either: they are selec"
+    },
+    "verdict": {
+      "model": "jev-1.13.0",
+      "score": 2.09,
+      "category": "Blog",
+      "category_confidence": 0.46
+    }
+  },
+  {
+    "canonical_url": "https://artificialanalysis.ai/",
+    "url": "https://artificialanalysis.ai/",
+    "found_at": "2026-11-16T13:36:50+00:00",
+    "sources": [
+      {
+        "name": "pinboard",
+        "title": "AI Model & API Providers Analysis | Artificial Analysis"
+      }
+    ],
+    "page": {
+      "final_url": "https://artificialanalysis.ai/",
+      "status": 200,
+      "title": "AI Model & API Providers Analysis | Artificial Analysis",
+      "description": "Comparison and analysis of AI models and API hosting providers. Independent benchmarks across key performance metrics including quality, price, time per task & latency.",
+      "og_image": "https://artificialanalysis.ai/opengraph-image.png?ab13fbb533329573",
+      "favicon": "https://artificialanalysis.ai/favicon.ico",
+      "text_excerpt": "Artificial Analysis Models Coding Agents Image, Speech, Video Inference Leaderboards About AI Trends Premium Log in Independent analysis of AI Understand the AI landscape to choose the best model and provider for your use case UPDATE API Performance Benchmarking v3 Time per task is now our headline performance metric, with agentic workloads added UPDATE Decision Index v2.1 New private benchmarks and scoring that rewards calibrated confidence Language Models Image Video Speech Language Models Image Video Speech Effort Highest API Default Intelligence Artificial Analysis Intelligence Index · Higher is better No publicly available API Claude Fable 5.2 (max) Gemini 4 Carbon (high) Claude Opus 5.5 (max) GPT-6 Astra (max) GPT-6.1 Sol (max) Muse Wonder Full (max) Kimi K3.1 Pro Muse Wonder (max) Qwen4 Max Grok 4.7 (xhigh) DeepSeek V4.1 Flash 1017 (max) GLM-5.3 (max) 65 60 59 57 55 50 46 44 43 35 33 32 Time per Task Inference time (minutes) per Intelligence Index task · Lower is better No publicly available API DeepSeek V4.1 Flash 1017 (max) Muse Wonder (max) GPT-6 Astra (max) GLM-5.3 (max) GPT-6.1 Sol (max) Claude Opus 5.5 (max) Grok 4.7 (xhigh) Gemini 4 Carbon (high) Kimi K3.1 Pro Claude Fable 5.2 (max) 13.4 13.5 20.8 22.7 23.1 24.9 25.7 33.0 40.1 41.8 Cost per Task Weighted average cost (USD) per Intelligence Index task · Lower is better No publicly available API DeepSeek V4.1 Flash 1017 (max) GPT-6.1 Sol (max) Qwen4 Max Kimi K3.1 Pro GLM-5.3 (max) Gemini 4 Carbon (high) GPT-6 Astra (max) Muse Wonder (max) Grok 4.7 (xhigh) Claude Opus 5.5 (max) Claude Fable 5.2 (max) $0.60 $1.27 $3.27 $3.68 $5.01 $5.48 $6.24 $6.95 $7.77 $10.04 $26.54 Optima by Artificial Analysis NEW Build your own custom benchmark Model Recommender Get personalized model recommendations that optimize for your priorities across intelligence, speed, and cost Changelog New language model evaluation · 15 Nov Qwen4 Max New language model evaluation · 13 Nov Gemini 4 Argon (Medium) New language model evaluatio"
+    },
+    "verdict": {
+      "model": "jev-1.13.0",
+      "score": 2.92,
+      "category": "Developer Tools",
+      "category_confidence": 0.69
+    }
+  },
+  {
+    "canonical_url": "https://techcrunch.com/2026/11/14/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
+    "url": "https://techcrunch.com/2026/11/14/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
+    "found_at": "2026-11-16T13:36:50+00:00",
+    "sources": [
+      {
+        "name": "pinboard",
+        "title": "The AI graveyard: a running list of projects and startups that didn't make it | TechCrunch"
+      }
+    ],
+    "error": "TimeoutError: Page.screenshot: Timeout 30000ms exceeded."
+  },
+  {
+    "canonical_url": "https://www.ft.com/content/ad327230-f1ee-4aa6-b1c1-4278d914eec0",
+    "url": "https://www.ft.com/content/ad327230-f1ee-4aa6-b1c1-4278d914eec0",
+    "found_at": "2026-11-16T13:36:50+00:00",
+    "sources": [
+      {
+        "name": "pinboard",
+        "title": "Eurostar is heading to Antwerp — so should you"
+      }
+    ],
+    "page": {
+      "final_url": "https://www.ft.com/content/ad327230-f1ee-4aa6-b1c1-4278d914eec0",
+      "status": 403,
+      "title": "Just a moment...",
+      "description": "",
+      "og_image": "",
+      "favicon": "https://www.ft.com/favicon.ico",
+      "text_excerpt": "Financial Times Security Verification For help please visit help.ft.com. We apologise for any inconvenience. The following information can help our support team to resolve this issue. Error Code CG000 / 403 Request ID a5b6e460ea7af00e Terms & ConditionsPrivacy PolicyCookie PolicyManage CookiesCopyrightSlavery Statement & Policies © THE FINANCIAL TIMES LTD 2026. FT and ‘Financial Times’ are trademarks of The Financial Times Ltd. The Financial Times and its journalism are subject to a self-regulation regime under the FT Editorial Code of Practice."
+    },
+    "verdict": {
+      "model": "jev-1.13.0",
+      "score": 0.24,
+      "category": "Magazines, Newspapers & Newsletter",
+      "category_confidence": 0.62
+    }
+  },
+  {
+    "canonical_url": "https://diginate.com/",
+    "url": "https://diginate.com/",
+    "found_at": "2026-11-16T13:36:50+00:00",
+    "sources": [
+      {
+        "name": "pinboard",
+        "title": "Sticker Printing | Quality. Trust. Simple. Fast | Diginate"
+      }
+    ],
+    "page": {
+      "final_url": "https://diginate.com/",
+      "status": 200,
+      "title": "Sticker Printing | Quality. Trust. Simple. Fast | Diginate",
+      "description": "Sticker Printing and custom poster printing with no minimum order and worldwide shipping. Print labels, vinyl stickers, metallic labels with fast shipping. | Diginate",
+      "og_image": "",
+      "favicon": "https://diginate.com/static/dist/assets/fav/apple-icon-57x57.dfb0f261b05b.png",
+      "text_excerpt": "Products Vinyl Stickers Eco Stickers Metallic Stickers Window & Cling Stickers Posters Sample pack Diginate Deals Framed Prints Help Ordering from Diginate Uploading Artwork Shipping Your Orders and Account The Design Builder Cutlines Vinyl Sticker Help Metallic Sticker Help Window and Cling Sticker Help Poster Help Ideas Ideas Our Blog Customer Service About Us Contact Diginate Sticker and Poster Print API Global Shipping Privacy Shipping information Terms & Conditions © All Rights Reserved, Diginate.com Get Started Account GBP/ £ £0 Get Started Vinyl Stickers Eco Stickers Metallic Stickers Window & Cling Stickers Posters Sample pack Diginate Deals Framed Prints Custom sticker printing with no minimum order. From metallic labels to window clings, die cut vinyl sticker printing to art printing, if you have a creative print project we have you covered. Printed with ❤️ in the United Kingdom and shipped worldwide. Check out our instagram! Get Started Our Products Vinyl Stickers Eco Stickers Metallic Stickers Window & Cling Stickers Posters Sample pack Diginate Deals Framed Prints Get a free instant quote Get prices on our full range of products, materials and finishing options with our interactive quote generator. Design Online Get creative with our online Design Builder app. Upload photos and images, add text and generate custom cutlines. Instant Updates Follow your order as it progresses through the Diginate factory. Receive text and tweet alerts straight to your mobile. About our Products At Diginate we specialise in sticker printing and poster printing. We don’t print leaflets, beermats, t-shirts or tote bags - just stickers and posters. That’s all. Since printing stickers and posters is all we do we like to think we’re quite good at it. We've built a bespoke production facility to print the best stickers, posters and art prints possible, whilst assembling a team who know the products inside out, and are passionate about bringing your creations to life. We have bui"
+    },
+    "verdict": {
+      "model": "jev-1.13.0",
+      "score": 0.6,
+      "category": "Shopping",
+      "category_confidence": 0.96
+    }
+  },
+  {
+    "canonical_url": "https://www.annashipman.co.uk/jfdi/how-not-to-use-ai.html",
+    "url": "https://www.annashipman.co.uk/jfdi/how-not-to-use-ai.html",
+    "found_at": "2026-11-16T13:36:50+00:00",
+    "sources": [
+      {
+        "name": "pinboard",
+        "title": "How Not To Use AI"
+      }
+    ],
+    "page": {
+      "final_url": "https://www.annashipman.co.uk/jfdi/how-not-to-use-ai.html",
+      "status": 200,
+      "title": "Anna Shipman",
+      "description": "Strategic technology leader",
+      "og_image": "https://www.annashipman.co.uk/img/mediacard.jpeg",
+      "favicon": "https://www.annashipman.co.uk/favicon.ico",
+      "text_excerpt": "ANNA SHIPMAN : JFDI JFDI CV Speaking Etc Sign up to my mailing list How Not To Use AI 10 November 2026 / Book notes / Technology Earlier this year, I read How Not To Use AI: 50 Contrarian Principles for the Imagination Age by Abi Awomosu. If you saw me during that time, there’s a good chance I fished it out of my bag to recommend it to you. Here are my notes. This book will make you think differently It is a real counterpoint to the current AI narrative. We are currently being told a story about AI that is driven mostly by the big tech companies, but this book reminds us that there is always more than one story. I found this book incredibly refreshing and I engaged with it in a way I’ve rarely done since my philosophy degree, including making notes in the margins when a point struck home or I had a counter-argument. I very much didn’t agree with everything she said, but it was very thought-provoking. For that reason alone, I have been recommending everyone pick it up, to get a different take. Be warned though: it is a challenging read, in content and writing style, as well as being a daunting size. Here are some of the points that resonated with me. Think for yourself before turning to AI It’s very easy and often tempting to outsource your thinking to AI, and if you’re not careful, you could lose those skills. She addresses this in her first law: “Don’t start with silicon—start with soul”. (Yes, that is an m-dash. Yes, you might find yourself wondering what support she had with writing this…) She identifies this as “capitalism following its oldest pattern: find what people need, create dependency, sell it back to them”. Here, we are outsourcing thinking itself; and what makes it effective is that it feels like efficiency, like progress. But, she says, “when you start with AI you optimise for what it can deliver and abandon the intelligence you have that makes you irreplaceable.” She has practical suggestions: be clear about what you are asking for before you start, "
+    },
+    "verdict": {
+      "model": "jev-1.13.0",
+      "score": 1.94,
+      "category": "Blog",
+      "category_confidence": 0.79
+    }
+  },
+  {
+    "canonical_url": "https://ianmiell.github.io/sw-job-title-family-tree/",
+    "url": "https://ianmiell.github.io/sw-job-title-family-tree/",
+    "found_at": "2026-11-16T13:36:50+00:00",
+    "sources": [
+      {
+        "name": "pinboard",
+        "title": "Software Industry Job Titles"
+      }
+    ],
+    "page": {
+      "final_url": "https://ianmiell.github.io/sw-job-title-family-tree/",
+      "status": 200,
+      "title": "Software Industry Job Titles",
+      "description": "A family tree of software industry job titles, from the 1940s to now.",
+      "og_image": "",
+      "favicon": "https://ianmiell.github.io/favicon.ico",
+      "text_excerpt": "Software Industry Job Titles A family tree, 1940s to now. Dates are roughly when a title became common, not its first use. Fit SVG PNG Graphviz source Show: All Analysis, architecture & leadership Operations & infrastructure Support & customer-facing Development Data & AI Networks & security Quality & test Software Industry Job Titles A family tree, 1940s to now ANALYSIS, ARCHITECTURE & LEADERSHIP NETWORKS & SECURITY DATA & AI OPERATIONS & INFRASTRUCTURE QUALITY & TEST DEVELOPMENT SUPPORT & CUSTOMER-FACING KEY 1940s 1950s 1955 1960s 1965 1970s 1975 1980s 1985 1990s 1995 2000s 2005 2010s 2015 2020s 2025 Systems Analyst c. 1955 Business Analyst c. 1990 Solutions Architect c. 1998 Analyst/Programmer c. 1970 Data Processing (DP) Manager c. 1958 IT Manager c. 1985 Project Manager (software) c. 1962 Product Manager c. 1990 Scrum Master / Agile Coach c. 2002 Technical Lead / Lead Programmer c. 1972 Engineering Manager c. 2005 CIO c. 1981 CTO common c. 1990 Platform Product Manager c. 2021 Software Architect c. 1992 Enterprise Architect c. 1995 Cloud Architect c. 2011 VP Engineering c. 2000 Telecoms Engineer pre-1940s Network Administrator c. 1985 Information Security Officer c. 1978 Security Analyst c. 1988 CISO 1995, Citicorp Network Engineer c. 1990 Security Engineer c. 1995 Network Architect c. 1995 Cloud Network Engineer c. 2015 Penetration Tester c. 2000 Application Security Engineer c. 2005 AI Red Teamer c. 2023 DevSecOps Engineer c. 2015 Statistician pre-1940s Data Analyst c. 1985 Data Scientist 2008 Data / Tape Librarian c. 1960 Database Administrator (DBA) c. 1971 Data Warehouse / BI Developer c. 1988 Analytics Engineer c. 2019 ETL Developer c. 1995 Big Data / Hadoop Engineer c. 2009 Data Engineer c. 2013 Machine Learning Engineer c. 2015 Prompt Engineer c. 2022 AI Engineer c. 2023 MLOps Engineer c. 2019 AI Agent / Context Engineer c. 2025 Computer Operator c. 1955 Operations Analyst c. 1975 Systems Administrator c. 1980 Site Reliability Engineer 2003, Google Conf"
+    },
+    "verdict": {
+      "model": "jev-1.13.0",
+      "score": 2.98,
+      "category": "Software Engineering",
+      "category_confidence": 0.43
+    }
+  },
+  {
+    "canonical_url": "https://www.austinmann.com/trek/iphone-duo",
+    "url": "https://www.austinmann.com/trek/iphone-duo",
+    "found_at": "2026-11-16T13:36:50+00:00",
+    "sources": [
+      {
+        "name": "pinboard",
+        "title": "iPhone Duo for Creative Pros — Austin Mann"
+      }
+    ],
+    "page": {
+      "final_url": "https://www.austinmann.com/trek/iphone-duo",
+      "status": 200,
+      "title": "iPhone Duo for Creative Pros — Austin Mann",
+      "description": "A week with the iPhone Duo at home, camping and in Iceland. A capable camera with new tricks, and a creative powerhouse for planning, editing and sharing.",
+      "og_image": "https://www.austinmann.com/content/trek/iphone-duo/images/IMG_9650_share.jpg",
+      "favicon": "https://www.austinmann.com/icon.svg?icon.26mkrbwdz6cki.svg?dpl=dpl_FQbievzExk5MYAgSVhaMFiHaSZPK",
+      "text_excerpt": "FIELD NOTES OCTOBER 21, 2026 · AUSTIN MANN IPHONE DUO FOR CREATIVE PROS LOCATION KANSAS AND ICELAND CAPTURED OCT 2026 CAMERA IPHONE DUO A week with the iPhone Duo at home, camping and in Iceland. A capable camera with new tricks, and a creative powerhouse for planning, editing and sharing. NO TRIPOD NEEDED SMART TAKE TRAVELING WITH DUO THE NANO-TEXTURE DISPLAY SAME IP68 WATER RESISTANCE AS 18 PRO SHOOTING WITH DUO SHARING WITH DUO KID CUE AND DUO PREVIEW A FEW THOUGHTS FOR SERIOUS CREATIVE PROS CREATIVE APPS ON IPHONE DUO A FEW WISHES THE BOTTOM LINE HI FROM ICELAND! In the last week, I’ve had a lot of fun getting to know the iPhone Duo at home, camping with family and yesterday I arrived in Iceland to guide some friends on a private tour. Honestly, the idea of a folding iPhone didn’t immediately appeal to me. I usually like smaller devices, but when I first started playing with the Duo in September, I realized it’s really something special and I couldn’t wait to get my hands on a review unit from Apple. The iPhone 18 Pro remains the most powerful camera in the lineup, and though the Duo also has an excellent camera, where it really shines is everything around the photograph: planning, editing and sharing. I always approach these projects with one question, and though the camera isn’t the whole story here, it’s still my question: HOW DOES THIS NEW TECH MAKE MY PHOTOS AND VIDEOS BETTER? As I’ve looked to answer this question, I haven’t been able to go all-in on a dedicated shoot like I usually do for my camera reviews, but I learned a lot just having the Duo with me as I work, shoot and travel. Let’s jump in. After my iPhone 18 Pro Camera Review, many of you asked for more insight so I’m releasing my iPhone 18 Pro Camera Field Guide on November 1st, sign up here to be the first to know when it drops. IPHONE 18 PRO CAMERA FIELD GUIDE Be the first to know when the Field Guide drops on November 1st. One email when it’s out. Unsubscribe anytime. JOIN Aurora over southern"
+    },
+    "verdict": {
+      "model": "jev-1.13.0",
+      "score": 1.1,
+      "category": "Blog",
+      "category_confidence": 0.55
+    }
+  },
+  {
+    "canonical_url": "https://www.washingtonpost.com/technology/2026/11/13/behind-jensen-huangs-spy-scandal-shadow-war-trumps-ear-china/",
+    "url": "https://www.washingtonpost.com/technology/2026/11/13/behind-jensen-huangs-spy-scandal-shadow-war-trumps-ear-china/",
+    "found_at": "2026-11-16T13:36:50+00:00",
+    "sources": [
+      {
+        "name": "pinboard",
+        "title": "Behind Jensen Huang’s spy scandal, a shadow war for Trump’s ear on China Rubio’s intervention helped topple one of Washington’s most influential corporate voices on China, giving momentum to officials pushing for tougher restrictions."
+      }
+    ],
+    "error": "Error: Page.goto: net::ERR_HTTP2_PROTOCOL_ERROR at https://www.washingtonpost.com/technology/2026/11/13/behind-jensen-huangs-spy-scandal-shadow-war-trumps-ear-china/"
+  },
+  {
+    "canonical_url": "https://sunshineatlas.com/rankings/",
+    "url": "https://sunshineatlas.com/rankings/",
+    "found_at": "2026-11-16T13:36:50+00:00",
+    "sources": [
+      {
+        "name": "pinboard",
+        "title": "Rankings: the sunniest, hottest, coldest and wettest places, month by month"
+      }
+    ],
+    "page": {
+      "final_url": "https://sunshineatlas.com/rankings/",
+      "status": 403,
+      "title": "Just a moment...",
+      "description": "",
+      "og_image": "",
+      "favicon": "https://sunshineatlas.com/favicon.ico",
+      "text_excerpt": "sunshineatlas.com Performing security verification This website uses a security service to protect against malicious bots. This page is displayed while the website verifies you are not a bot. Ray ID: a5b6e47faafe2a86 Performance and Security by Cloudflare Privacy"
+    },
+    "verdict": {
+      "model": "jev-1.13.0",
+      "score": 0.31,
+      "category": "Travel",
+      "category_confidence": 0.59
+    }
+  },
+  {
+    "canonical_url": "https://kansotasks.com/",
+    "url": "https://kansotasks.com/",
+    "found_at": "2026-11-16T13:36:50+00:00",
+    "sources": [
+      {
+        "name": "pinboard",
+        "title": "Kanso — A calm desktop task app"
+      }
+    ],
+    "page": {
+      "final_url": "https://kansotasks.com/",
+      "status": 200,
+      "title": "Kanso — A calm desktop task app",
+      "description": "Kanso is a calm, local-first task app built for quiet focus.",
+      "og_image": "https://kansotasks.com/og-image.jpg",
+      "favicon": "https://kansotasks.com/favicon.ico",
+      "text_excerpt": "Skip to content The Kanso beta is free. No card, nothing to cancel. Download Beta kanso Features Pricing Roadmap Changelog Download Beta Download Beta Download Beta Plan your day calmly. Finish what matters. Kanso is a quiet task app for the desktop. I built it to show what matters today, keep everything in one place, and stay out of your way. Download Beta Download Beta Download Beta Kanso at a glance Works offline Syncs across your desktops Keyboard first No badges, no streaks Independently built Capture Just type it. Kanso sorts out the dates. “Pay rent next Friday.” Write the task the way it left your head. Kanso turns the words into a date, so you never open a date picker. Type “tomorrow” or “next Friday” and it’s set. Say “tonight” and it waits in This Evening. Works on your device, even offline. Guessed wrong? Undo it with one keystroke. Pay rent next Friday Nov 20, 2026 Plan Only what’s ready today. The rest can wait. A task starts when you can start it, and is due when it has to be done. Kanso keeps those two apart, so Today only shows what you can actually do. When decides the day a task shows up. A Deadline is the day it has to be done. This Evening sits at the end of Today. Tomorrow shows your plan the night before. Mon 16 Tue 17 Wed 18 Thu 19 Fri 20 Today Call the landlord Book a dentist visit File the tax return 1 day left Renew passport Due today Water the plants Smart Lists Your tasks, your way. Saved once, always current. Save a few conditions and a Smart List gathers every matching task from all your Areas and Projects. Nothing is moved. Tasks stay where they live and show up where you need them. Match by tag, date, Area or Project. Start from a ready-made list. Sort and group each list your way. Keep your favorites in the sidebar. Family This Week Money This Week Money Deadlines Tax Deadlines Waiting on Others In Family Money · When Deadline within 7 days · Tagged Tax Waiting TUE 17 Ask for the latest test report Parents' Healthcare Coordination W"
+    },
+    "verdict": {
+      "model": "jev-1.13.0",
+      "score": 3.05,
+      "category": "Productivity",
+      "category_confidence": 1.0
+    },
+    "screenshot": "shots/2026/11-16/kansotasks-com.jpg"
+  },
+  {
+    "canonical_url": "https://visualos.app/",
+    "url": "https://visualos.app/",
+    "found_at": "2026-11-16T13:36:50+00:00",
+    "sources": [
+      {
+        "name": "pinboard",
+        "title": "visualOS——无限画布应用，你的数据由你掌控"
+      }
+    ],
+    "page": {
+      "final_url": "https://visualos.app/",
+      "status": 200,
+      "title": "visualOS — The visual workspace for independent creatives.",
+      "description": "An infinite canvas for designers, photographers, writers and artists. Works fully offline, saves to real files you own. No account. Free in the browser.",
+      "og_image": "https://visualos.app/og.png",
+      "favicon": "https://visualos.app/favicon.ico",
+      "text_excerpt": "Who it’s for What’s inside Pricing visualOS Open the App The visual workspace for independent creatives. visualOS is an infinite canvas app for your moodboards, references, notes and plans. It works fully offline and saves to real files in a folder on your device. Open visualOS free Download on the App Store No account • No install • No subscription Client Briefings 30 Elements Light Gray #DBD3CF Coffee #725341 Shooting Inspo Client: Woodard Moodboard 30 Elements Clay #A49E8D Meeting Prep 235 Words “Do not disturb yourself by imagining your whole life at once.” Marcus Aurelius This week Logo Testing Logo Testing Print Proof Print Proof Select Final Grade Select Final Grade Client Review Friday Client Review Friday Call with Anna 235 Words Your ideas are scattered. Give them one place. Images in your download folder. The brief is in your inbox. The notes are in three different apps. visualOS gives every project one calm surface. Drop in your pictures, write and plan right next to them, and see the whole thing at a glance, the way you would spread it out on a studio table. Open visualOS free One workspace, whatever you make. Whether you’re a designer, writer, photographer, content creator, or work in another creative field, visualOS lets you customize your workspace to suit your work. (Interior) Designers A brand world for every client: references, palette, type and feedback on one board. Camel #C1916A Ink #2A2A2A Sienna #9F5C34 Client: Woodard Moodboard 30 Elements Client briefing 412 Words Photographers From the first reference to the shot list, the whole shoot in one view. Light test, 7 am Shot list Chair, front Chair, front Flowers and books Flowers and books The empty room The empty room Writers & Creators Research, outline and chapters side by side, not buried in folders. Chapter 1 2,140 Words Chapter 2 1,830 Words Scene 12 What does she want, and who stands in her way? Chapter 3 The ferry left without her. For the first time in years, nobody knew where she was,"
+    },
+    "verdict": {
+      "model": "jev-1.13.0",
+      "score": 3.0,
+      "category": "Design Tools",
+      "category_confidence": 0.7
+    },
+    "screenshot": "shots/2026/11-16/visualos-app.jpg"
+  },
+  {
+    "canonical_url": "https://opencode.ai/",
+    "url": "https://opencode.ai/",
+    "found_at": "2026-11-16T13:36:50+00:00",
+    "sources": [
+      {
+        "name": "pinboard",
+        "title": "OpenCode | The open source coding agent for any model"
+      }
+    ],
+    "page": {
+      "final_url": "https://opencode.ai/",
+      "status": 200,
+      "title": "OpenCode | The open source coding agent for any model",
+      "description": "OpenCode is the open source coding agent that works where you do. Connect AI models from 200+ providers, including Claude, GPT and Gemini, or start free.",
+      "og_image": "https://opencode.ai/files/site/og/home-98637499f6.png",
+      "favicon": "https://opencode.ai/favicon-96x96-v3.png",
+      "text_excerpt": "Skip to content [] Docs [] Product [] Data [] Console [] Models [] Subscriptions [] Enterprise The open source coding agent Start with free models or bring any of 200+ providers. OpenCode works on your machine, and you can use it from your desktop, the terminal, your phone or your own code. Trusted by 22M+ devs Products Desktop Sessions, tabs, diffs, built-in browser, and extensions on macOS, Windows and Linux. Download for macOS Terminal A fast terminal UI that works in any shell, editor or remote server. Install Mobile Start, steer and approve sessions from your phone, wherever you are. Download SDK Drive OpenCode from your own scripts, CI jobs and tools. Read docs What is OpenCode? OpenCode is an open source coding agent. Use it in the desktop app, in the terminal, on your phone or from your own code with the SDK. Read the docs. Any model 200+ LLM providers through Models.dev, including local models Any device A desktop app, a terminal interface, a mobile app and an SDK for your tools Multi-session Start multiple agents in parallel on the same project Plugins Write plugins to hook into events and extend OpenCode with your own logic MCP servers Connect local and remote MCP servers to give agents new tools Custom agents Create specialized agents with their own prompts, models and tools Agent skills Teach agents reusable workflows with SKILL.md files Custom commands Turn repetitive tasks into slash commands you can run anytime Permissions Choose which actions run automatically and which need your approval Undo and redo Roll back recent changes to your files and conversation with /undo Get started The easiest way to start is to download OpenCode and use the free models. No account needed. For more, bring your own subscription or use OpenCode Go. 01 Download Desktop, terminal or mobile. Download for macOS 02 Use free models OpenCode comes with a set of free models. No account needed. Free models 03 Add more models Bring your own subscription, or use OpenCode Go's cura"
+    },
+    "verdict": {
+      "model": "jev-1.13.0",
+      "score": 2.79,
+      "category": "Developer Tools",
+      "category_confidence": 1.0
+    }
+  },
+  {
+    "canonical_url": "https://www.macrumors.com/2026/11/15/apple-smart-glasses-hinge-on-siri/",
+    "url": "https://www.macrumors.com/2026/11/15/apple-smart-glasses-hinge-on-siri/",
+    "found_at": "2026-11-16T13:36:50+00:00",
+    "sources": [
+      {
+        "name": "pinboard",
+        "title": "Apple's Smart Glasses Strategy Hinges on Siri and iPhone Apps - MacRumors"
+      }
+    ],
+    "page": {
+      "final_url": "https://www.macrumors.com/2026/11/15/apple-smart-glasses-hinge-on-siri/",
+      "status": 200,
+      "title": "Apple's Smart Glasses Strategy Hinges on Siri and iPhone Apps",
+      "description": "Apple plans to unveil its first smart glasses at WWDC in June 2027 and begin shipping them before the end of the year, according to Bloomberg's Mark Gurman. In the latest edition of his \"Power On\" newsletter, Gurman shared new details about the glasses' design, charging system, and Siri features. Current prototypes of the glasses, internally code-named \"N50,\" are reportedly slightly thinner than Meta's second-generation Ray-Bans.",
+      "og_image": "https://images.macrumors.com/t/RuzlegBHYEGPl6cLov4-XSfs98k=/2500x/article-new/2021/01/Apple-Glasses-Blue-Feature.jpg",
+      "favicon": "https://images.macrumors.com/images-new/favicon.ico",
+      "text_excerpt": "Skip to Content Got a tip for us?Let us know Front Page Roundups Guides How Tos Deals Buyer's Guide Forums Apple HomeViewiPhone DuoiPhone 18 ProMac miniMac StudioiOS 27iPadOS 27macOS Golden GateMacBook NeoiPhone 17eAirTagiPhone 18iOS 26iPhone 17macOS TahoeApple Black FridayMacBook ProiPadOS 26iMacHomePodApple TViPad ProiPhone AirApple Vision ProiPhone 16AirPods 5Apple Watch Ultra 4HomePod mini 2MacBook AiriPadAirPods Max 2AirPods Pro 3Apple DealsApple Watch 12Apple Watch SE 3Studio DisplayiPad AiriPad miniwatchOS 27CarPlayApple PaywatchOS 26 All > Apple's Smart Glasses Strategy Hinges on Siri and iPhone Apps Sunday November 15, 2026 9:55 am PST by Hartley Charlton Apple plans to unveil its first smart glasses at WWDC in June 2027 and begin shipping them before the end of the year, according to Bloomberg's Mark Gurman. In the latest edition of his \"Power On\" newsletter, Gurman shared new details about the glasses' design, charging system, and Siri features. Current prototypes of the glasses, internally code-named \"N50,\" are reportedly slightly thinner than Meta's second-generation Ray-Bans. Some test units have oval camera openings integrated into the frame without protruding housings. A front light indicates use or charging, while Apple is experimenting with additional privacy features. Apple is apparently developing multiple styles and colors, with an emphasis on materials, sensors, and audio quality. Employees have described the sound as \"industry-leading,\" with the glasses supporting music playback, calls, and FaceTime audio. Testers can also charge the prototype glasses while wearing them. A flat, three-pin magnetic connector, \"roughly the size of a Tic Tac,\" attaches near the end of the left temple arm. Gurman said it remains unclear whether Apple will use this charging system in the shipping product. The first model will not display augmented reality imagery. Wearers will interact through ‌Siri‌, which will use the cameras to answer questions about their surro"
+    },
+    "verdict": {
+      "model": "jev-1.13.0",
+      "score": 0.62,
+      "category": "News",
+      "category_confidence": 0.54
+    }
+  },
+  {
+    "canonical_url": "https://www.abc.net.au/news/rural/2026-11-14/provectus-algae-cattle-methane-supplement/107372936",
+    "url": "https://www.abc.net.au/news/rural/2026-11-14/provectus-algae-cattle-methane-supplement/107372936",
+    "found_at": "2026-11-16T13:36:50+00:00",
+    "sources": [
+      {
+        "name": "pinboard",
+        "title": "Methane-reducing supplement made in Noosa commercialised for cattle industry - ABC News"
+      }
+    ],
+    "page": {
+      "final_url": "https://www.abc.net.au/news/rural/2026-11-14/provectus-algae-cattle-methane-supplement/107372936",
+      "status": 200,
+      "title": "Noosa startup's solution to tackle burping cattle's methane emissions",
+      "description": "After eight years of research, a Noosa startup is commercialising a supplement designed to affordably reduce methane emissions in the cattle industry.",
+      "og_image": "https://live-production.wcms.abc-cdn.net.au/64edcb8cef1f843f9034a8ff690be71b?impolicy=wcms_watermark_news&cropH=3942&cropW=7008&xPos=0&yPos=0&width=862&height=485&imformat=generic",
+      "favicon": "https://www.abc.net.au/news-assets/favicon-32x32.png",
+      "text_excerpt": "SKIP TO MAIN CONTENT SKIP TO NEWS NAVIGATION, SETTINGS AND SEARCH Explore the ABC More from ABC NEWS IVIEW LISTEN Loading ABC News Just In For You Politics World Business More Search the ABC Start typing for suggestions, press enter to search, or choose from a list of options below. Methane-reducing supplement made in Noosa commercialised for cattle industry By Jennifer Nichols and Jessica Ross ABC Rural Topic: Agriculture Posted Fri at 8:42pm Friday at 8:42pm , updated Fri at 8:54pm Friday at 8:54pm Nusqe Spanton says Provectus Algae has made an affordable methane-fighting supplement. (ABC News: Jessica Ross) In short: A Noosaville-based company has developed an affordable feed additive for cattle designed to reduce methane emissions from cow burps by about 65 per cent. The new mix safely imitates a native seaweed that was found to reduce methane but potentially harm cattle. What's next? The Queensland government has invested $3.8 million to help commercialise the supplement. abc.net.au/news/provectus-algae-cattle-methane-supplement/107372936 Link copied Share Article Affordably reducing methane emissions from Australia's 30 million burping cattle is a step closer, researchers say, after reaching a milestone at an industrial estate minutes from Noosa's Main Beach. In a shed stacked high with self-cleaning tanks, swirling red algae is being mass-produced under strobing lights. Nusque Spanton takes a walk through the algae growing room. (ABC News: Jessica Ross) Founded eight years ago, Provectus Algae has developed what it describes as a library of photosynthetic microbes. Among its work, it's using algae to make granular and liquid cattle feed additives for feedlots, paddocks and dairy farms. Now the Queensland government has invested $3.8 million to help the company commercialise its cattle feed supplement. The recipe was built on CSIRO's 2011 discovery that native Asparagopsis seaweed could significantly reduce methane emissions from livestock. However, a 2024 Mur"
+    },
+    "verdict": {
+      "model": "jev-1.13.0",
+      "score": 0.59,
+      "category": "News",
+      "category_confidence": 0.96
+    }
+  },
+  {
+    "canonical_url": "https://rutgerbregman.substack.com/p/yes-you-should-panic-about-ai",
+    "url": "https://rutgerbregman.substack.com/p/yes-you-should-panic-about-ai",
+    "found_at": "2026-11-16T13:36:50+00:00",
+    "sources": [
+      {
+        "name": "pinboard",
+        "title": "Yes, you should panic about AI • Rutger Bregman"
+      }
+    ],
+    "page": {
+      "final_url": "https://rutgerbregman.substack.com/p/yes-you-should-panic-about-ai",
+      "status": 403,
+      "title": "Just a moment...",
+      "description": "",
+      "og_image": "",
+      "favicon": "https://rutgerbregman.substack.com/favicon.ico",
+      "text_excerpt": "rutgerbregman.substack.com Performing security verification This website uses a security service to protect against malicious bots. This page is displayed while the website verifies you are not a bot. Ray ID: a5b6e4a8aec65535 Performance and Security by Cloudflare Privacy"
+    },
+    "verdict": {
+      "model": "jev-1.13.0",
+      "score": 0.26,
+      "category": "Magazines, Newspapers & Newsletter",
+      "category_confidence": 0.5
+    }
+  },
+  {
+    "canonical_url": "https://www.notebookcheck.net/Microsoft-outage-disrupts-email-based-pool-chlorine-monitoring-leaving-hotel-guests-injured.1450526.0.html",
+    "url": "https://www.notebookcheck.net/Microsoft-outage-disrupts-email-based-pool-chlorine-monitoring-leaving-hotel-guests-injured.1450526.0.html",
+    "found_at": "2026-11-16T13:36:50+00:00",
+    "sources": [
+      {
+        "name": "pinboard",
+        "title": "Microsoft outage disrupts email-based pool chlorine monitoring, leaving hotel guests injured - Notebookcheck News"
+      }
+    ],
+    "error": "TimeoutError: Page.screenshot: Timeout 30000ms exceeded."
+  },
+  {
+    "canonical_url": "https://vespertv.app/",
+    "url": "https://vespertv.app/",
+    "found_at": "2026-11-16T13:36:50+00:00",
+    "sources": [
+      {
+        "name": "pinboard",
+        "title": "VesperTV — Always free, Always open source universal media player for Android TV, Windows and Linux"
+      }
+    ],
+    "page": {
+      "final_url": "https://vespertv.app/",
+      "status": 200,
+      "title": "VesperTV — Always free, Always open source",
+      "description": "A free, open-source universal media player for Android TV boxes, Fire Sticks, phones, and Windows and Linux PCs. Live IPTV, custom REST add-ons, and your own Jellyfin, Emby or Plex server. You bring the sources; it brings the guide, the favourites and a remote-first interface.",
+      "og_image": "https://vespertv.app/assets/shot-live.png",
+      "favicon": "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Cdefs%3E%3ClinearGradient id='g' x1='0' y1='0' x2='0' y2='1'%3E%3Cstop offset='0' stop-color='%23FFE28C'/%3E%3Cstop offset='1' stop-color='%23C48412'/%3E%3C/linearGradient%3E%3C/defs%3E%3Crect width='64' height='64' rx='15' fill='%230B0907'/%3E%3Cpath d='M14.8 19h9.8L32 39l7.4-20h9.8L36.7 46H27.3z' fill='url(%23g)'/%3E%3Cpath d='M32 11.5l1.1 4.6 3.4 1.1-3.4 1.1L32 23l-1.1-4.7-3.4-1.1 3.4-1.1z' fill='%23FFE9B0'/%3E%3C/svg%3E",
+      "text_excerpt": "Skip to content VesperTV What you need Features Sports Trak Media Hub Install How to use it Remote tips FAQ GitHub Discord Download GPL-3.0 No ads No tracking No account No subscription UNIVERSAL MEDIA PLAYER FOR ANDROID TV · FIRE STICK · PHONE · WINDOWS · LINUX Always free, Always open source VesperTV is a universal media player for your sources — live IPTV channels, movies and series, films and shows from custom REST add-ons in the Media Hub, and your own Jellyfin, Emby or Plex server — with a proper TV guide and an interface built to be driven by a remote from ten feet away. You bring the sources. It brings everything else. Download the APK Try it in your browser Windows 1.0.68 (.zip) Linux (beta) Read the source Discord DOWNLOADER CODE 1760256 Copy One universal APK — Android phones and tablets, Android TV boxes and Fire TV sticks. On a PC, grab the Windows zip (Windows 10 or 11, 64-bit; no installer) or the Linux build (beta, 64-bit; it runs on the Steam Deck too). There is nothing to sign up for. VesperTV ships no channels. It is a player, not a streaming service — there is no content inside it and none is provided. You bring your own sources: an IPTV provider (Xtream Codes login or M3U playlist URL), add-ons you choose, or your own Jellyfin, Emby or Plex server. See it in action Swipe or drag through the screens — real captures from a Formuler box, and the playlist editor in a browser. Adding a playlist — scan the QR code and type it on your phone, no remote typing Home — your channels, movies and games in one place, with a small live player Timeline — a full schedule grid, hours at a glance Translucent guide — browse the schedule while the channel keeps playing full screen The player — Down opens every option, one row, all on the remote Movies — poster rows under a banner for the focused title TV show page — Resume, seasons and episodes with your progress Movie page — backdrop, details, Play, Watch list and Download Sports — live scores, and the channel each"
+    },
+    "verdict": {
+      "model": "jev-1.13.0",
+      "score": 3.26,
+      "category": "Utilities & Tools",
+      "category_confidence": 0.5
+    },
+    "screenshot": "shots/2026/11-16/vespertv-app.jpg"
+  },
+  {
+    "canonical_url": "https://developer.chrome.com/docs/modern-web-guidance",
+    "url": "https://developer.chrome.com/docs/modern-web-guidance",
+    "found_at": "2026-11-16T13:36:50+00:00",
+    "sources": [
+      {
+        "name": "pinboard",
+        "title": "Modern Web Guidance  |  Chrome for Developers"
+      }
+    ],
+    "page": {
+      "final_url": "https://developer.chrome.com/docs/modern-web-guidance",
+      "status": 200,
+      "title": "Modern Web Guidance  |  Chrome for Developers",
+      "description": "Skills that embed web platform expertise and best practices directly into your coding agents.",
+      "og_image": "https://developer.chrome.com/docs/modern-web-guidance/image/mwg-cover.jpg",
+      "favicon": "https://www.gstatic.com/devrel-devsite/prod/v579d635a54d6e1f40caad46ce407560c5106c8915e5ff7e6341f5b13eb245c5a/chrome/images/favicon.png",
+      "text_excerpt": "Skip to main content Docs Case studies Blog New in Chrome / Sign in Modern Web Guidance Get started Modernization workflow Explore guides Troubleshooting Modern Web Guidance Modern Web Guidance is a set of skills that embed web platform expertise, best practices, and browser compatibility data directly into your coding agents. Install with modern-web-guidance CLI (recommended): npx modern-web-guidance@latest install Get started Explore guides View on GitHub Works with your preferred AI coding agent Modern Web Guidance can be used with your favorite AI coding agents, ensuring you have access to guidance for modern web best practices in your preferred workflow. View all installation options npx skills Install Modern Web Guidance in your project using Vercel's Agent Skills: npx skills add GoogleChrome/modern-web-guidance Claude Code Install Modern Web Guidance skills for Claude Code: claude plugin marketplace add GoogleChrome/modern-web-guidance claude plugin install modern-web-guidance@googlechrome Copilot CLI Install Modern Web Guidance skills for Copilot CLI: # 1. Add the marketplace: /plugin marketplace add GoogleChrome/modern-web-guidance # 2. Install the plugin /plugin install modern-web-guidance@googlechrome Antigravity CLI Install Modern Web Guidance skills for Antigravity CLI: agy plugin install https://github.com/GoogleChrome/modern-web-guidance Looking to explore more of Chrome's agent tooling? Use Chrome DevTools for agents to let your coding agent inspect, debug, and verify your pages in a live Chrome browser. See Modern Web Guidance in action Watch how Modern Web Guidance embeds web platform expertise into your coding agent—and pairs with Chrome DevTools for agents to close the build-and-verify loop. Watch all videos What is Modern Web Guidance? Learn what Modern Web Guidance is, the problem it solves, and how it improves your AI-assisted web development workflow. Agentic web development with Modern Web Guidance & DevTools See how Modern Web Guidance and "
+    },
+    "verdict": {
+      "model": "jev-1.13.0",
+      "score": 2.7,
+      "category": "Developer Tools",
+      "category_confidence": 0.97
+    }
+  },
+  {
+    "canonical_url": "https://operator0x.com/field-notes/qwen-conversation-state-space/",
+    "url": "https://operator0x.com/field-notes/qwen-conversation-state-space/",
+    "found_at": "2026-11-16T13:36:50+00:00",
+    "sources": [
+      {
+        "name": "pinboard",
+        "title": "What thousands of conversations look like inside a language model | Operator_0x"
+      }
+    ],
+    "page": {
+      "final_url": "https://operator0x.com/field-notes/qwen-conversation-state-space/",
+      "status": 200,
+      "title": "What thousands of conversations look like inside a language model",
+      "description": "I mapped thousands of conversations inside Qwen to see how language takes shape.",
+      "og_image": "https://operator0x.com/assets/field-note-qwen-conversation-state-space.webp",
+      "favicon": "https://operator0x.com/favicon.ico?v=torus-20261106",
+      "text_excerpt": "Skip to article ◪ OPERATOR_0x WRITING ABOUT WORK WITH ME ↗ AI EXPERIMENTS / REPRESENTATION GEOMETRY What thousands of conversations look like inside a language model I mapped thousands of conversations inside Qwen to see how language takes shape. November 13, 2026 Update · 16 November 2026. Does the map reflect meaning or writing? The 900-case follow-up ↓ Every conversation that could happen with a language model–every question, misunderstanding, explanation, and unfinished argument–produces a sequence of internal states. Could we map that landscape? Would conversations about similar things travel through neighboring regions? Would the same idea, expressed in different languages, arrive somewhere recognizably similar? Those questions led me to build an interactive atlas of Qwen3-1.7B’s internal representations. Before looking at the maps, it helps to know what is being mapped. The model breaks text into tokens – words, parts of words, or punctuation. Each token selects a row from an embedding table: a learned list of numbers that supplies its starting representation. I wanted to map thousands of conversations and see how they take shape in vector space. The vectors I’m interested in come from the residual stream, the model’s central shared workspace. The embedding table supplies its starting vectors, with one vector at each token position, and the layers read from and add to this workspace as they process the text. Taras Tsugrii’s chapter on the residual stream explains this perspective in more detail. In Qwen3-1.7B, each position’s vector contains 2,048 numbers. Calling this a model’s “mind” is a metaphor, but the vectors are concrete: we can record them, compare them, and examine how their geometry changes with context. I began with 100 topics and generated question-and-answer examples across English, Chinese, German, and Croatian, alongside a separate collection of coding examples. This was a small, deliberately constructed sample of a much larger possibility spa"
+    },
+    "verdict": {
+      "model": "jev-1.13.0",
+      "score": 3.18,
+      "category": "Research",
+      "category_confidence": 0.58
+    },
+    "screenshot": "shots/2026/11-16/operator0x-com-field-notes-qwen-conversation-state-space.jpg"
+  },
+  {
+    "canonical_url": "https://www.notesfromtheroad.com/europa/citrus-kingdom.html",
+    "url": "https://www.notesfromtheroad.com/europa/citrus-kingdom.html",
+    "found_at": "2026-11-16T13:36:50+00:00",
+    "sources": [
+      {
+        "name": "pinboard",
+        "title": "Palermo and the Citrus Kingdom | Palermo, Sicily"
+      }
+    ],
+    "page": {
+      "final_url": "https://www.notesfromtheroad.com/europa/citrus-kingdom.html",
+      "status": 200,
+      "title": "Palermo and the Citrus Kingdom",
+      "description": "How a weirdo fruit from the far end of the known world made Palermo the capital of a citrus kingdom. Part I of The Citrus Kingdom.",
+      "og_image": "https://www.notesfromtheroad.com/files/the-citrus-kingdom-og.jpg",
+      "favicon": "https://www.notesfromtheroad.com/icons/europa/favicon-96x96.png",
+      "text_excerpt": "Skip to content REGIONS RECENT JOURNEYS ROAM FIELDWORK ABOUT PRINTS PART I OF THE CITRUS KINGDOM Palermo and the Citrus Kingdom How a weirdo fruit from the far end of the known world made Palermo the capital of a citrus kingdom. JULY 30, 2026 A narrow alley in Palermo’s old quarter. Behind the Baroque facades, the city’s street plan and hidden courtyards still preserve the imprint of the Arab city built a thousand years ago. W hen I last visited Sicily, I noticed the citrus the way you notice weather: everywhere, but not yet meaningful. Returning now with Jane and our friends, and with plans to drive east from Palermo, I realize that there is more to Sicily’s love affair with citrus. Perhaps Sicily itself can be best understood by the citrus fruits it cultivated, transformed, and ultimately helped give to the world. Nutella Naranja A few years ago, Jane and I were having breakfast in Central Oregon with Iva and Ivan, which of course meant a jar of Nutella and homemade crepes. If I have a lifelong love of oranges and other citrus, then our two Croatian friends have the same passion for Nutella, the creamy Italian cocoa and hazelnut spread. They are so devoted to it that they distinguish it by where it is made. Canadian Nutella is decent. Mexican Nutella is terrible. Nutella manufactured in Italy is the best. Knowing our Croatian friends, I announced that I wanted to pitch parent company Ferrero on a new Nutella flavor. It would be orange-flavored Nutella, built around that balance you get when chocolate and nut spreads meet citrus. I would call it Nutella Naranja. Iva slowly put down her knife and fork. Suddenly she was no longer relaxed. The sound of the silverware hitting the table let me know I’d crossed a line. You could even say she looked disgusted. “Nutella is Nutella,” she said. “You can’t mix it with something else. I find that idea so ridiculous.” Of course, I had only brought it up because I knew it would provoke exactly that reaction. But somewhere along "
+    },
+    "verdict": {
+      "model": "jev-1.13.0",
+      "score": 0.71,
+      "category": "Travel",
+      "category_confidence": 0.79
+    }
+  },
+  {
+    "canonical_url": "https://arstechnica.com/ai/2026/11/ai-is-the-most-likely-reason-youll-die-openai-board-member-warns/",
+    "url": "https://arstechnica.com/ai/2026/11/ai-is-the-most-likely-reason-youll-die-openai-board-member-warns/",
+    "found_at": "2026-11-16T13:36:50+00:00",
+    "sources": [
+      {
+        "name": "pinboard",
+        "title": "OpenAI board member worries an AI \"takeover\" of society could be months away • Ars Technica"
+      }
+    ],
+    "page": {
+      "final_url": "https://arstechnica.com/ai/2026/11/ai-is-the-most-likely-reason-youll-die-openai-board-member-warns/",
+      "status": 200,
+      "title": "OpenAI board member worries an AI \"takeover\" of society could be months away",
+      "description": "Researcher traces a path from AI reward hacking to potential human extinction.",
+      "og_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/ai-destination-1152x648.jpg",
+      "favicon": "https://cdn.arstechnica.net/wp-content/uploads/2016/10/cropped-ars-logo-512_480-60x60.png",
+      "text_excerpt": "Skip to content ARS TECHNICA HOME SECTIONS FORUM SUBSCRIBE THEME SEARCH SIGN IN NICE KNOWING YOU OpenAI board member worries an AI “takeover” of society could be months away Researcher traces a path from AI reward hacking to potential human extinction. KYLE ORLAND – NOV 13, 2026 5:25 PM | 235 Credit: Aurich Lawson | Getty Images How do you think you’re going to die? If you go by the current statistics for deaths in the US, it’s reasonable to expect that cancer or heart disease will eventually get you. But OpenAI Foundation board member and Alignment Research Center Executive Director Paul Cristiano thinks we should all be worried about another major mortality risk. Speaking at a lecture series this week, Cristiano bluntly told the audience in a Toronto Convention Center, “I think for most people in this room, the most likely reason they will die is because of an AI accident.” In the opening lecture of a three-part series, Cristiano outlined his worries about the risk of an impending “AI takeover.” He defined that as a situation where goal-pursuing AI systems “call the shots in the same sense that humans today call the shots and what happens on Earth” and where any human trying to stop them “would be as ineffective as if you or me was trying to stop the US military.” Such a situation would likely lead to mass death and perhaps uninhabitable environments for humans, Cristiano said. Despite his grim assessment of our collective mortality risk, Cristiano admitted in his talk that there’s no “quantitative model” that can “put a number” on the likelihood of this kind of AI takeover. In almost the same breath, though, he said that if AI continues to develop at “the most rapid trajectory,” humanity is “looking at something like a coin flip of an AI takeover,” including a “meaningful risk” of one happening in the next six to 12 months. And even with realistic policy responses slowing things down, the risk remains “exceptionally high,” he said. ARS VIDEO From here to there Un"
+    },
+    "verdict": {
+      "model": "jev-1.13.0",
+      "score": 0.55,
+      "category": "News",
+      "category_confidence": 0.81
+    }
+  },
+  {
+    "canonical_url": "https://openai.com/index/introducing-chatgpt-wallet/",
+    "url": "https://openai.com/index/introducing-chatgpt-wallet/",
+    "found_at": "2026-11-16T13:36:50+00:00",
+    "sources": [
+      {
+        "name": "pinboard",
+        "title": "Introducing ChatGPT Wallet"
+      }
+    ],
+    "page": {
+      "final_url": "https://openai.com/index/introducing-chatgpt-wallet/",
+      "status": 200,
+      "title": "Introducing ChatGPT Wallet",
+      "description": "Introducing ChatGPT Wallet, a secure way for agents in ChatGPT Work, Codex, and dots to complete purchases with user approval and existing card protections.",
+      "og_image": "https://images.ctfassets.net/kftzwdyauwt9/2xTvIZkcQhKk3VNFioQ4CR/4efb84a6adbddb41311f6b18158fad8b/introducing-chatgpt-wallet-social.png?w=1600&h=900&fit=fill",
+      "favicon": "https://openai.com/favicon.svg",
+      "text_excerpt": "Skip to main content Research Products Business Developers Company Foundation (opens in a new window) Log in Try ChatGPT (opens in a new window) Introducing ChatGPT Wallet | OpenAI 500 Internal Server Error. Research Research Index Research Overview Economic Research Latest Advancements GPT-6.1 Sol GPT-6 Astra GPT-5.6 GPT-5.5 Safety Safety Approach Deployment Safety (opens in a new window) Security & Privacy Trust & Transparency Products ChatGPT (opens in a new window) ChatGPT Business (opens in a new window) ChatGPT Enterprise (opens in a new window) ChatGPT for Education (opens in a new window) Codex Dots (opens in a new window) Release Notes API Platform Overview API Log In (opens in a new window) Docs (opens in a new window) Business Overview Solutions Resources Plugins Customer Stories Partner Network Contact Sales Developers Plugins (opens in a new window) Models (opens in a new window) Docs (opens in a new window) Resources (opens in a new window) Developer Forum (opens in a new window) Company About Us Our Charter Careers News Support Help Center (opens in a new window) OpenAI Status (opens in a new window) More Stories Academy Supply Co. Livestreams Podcast RSS Terms & Policies Terms of Use Privacy Policy Other Policies (opens in a new window) (opens in a new window) (opens in a new window) (opens in a new window) (opens in a new window) (opens in a new window) (opens in a new window) OpenAI © 2015–2026 Your privacy choices English United States"
+    },
+    "verdict": {
+      "model": "jev-1.13.0",
+      "score": 0.76,
+      "category": "Technology",
+      "category_confidence": 0.86
+    }
+  },
+  {
+    "canonical_url": "https://www.liberalcurrents.com/the-evangelical-vote-will-return-in-2028/",
+    "url": "https://www.liberalcurrents.com/the-evangelical-vote-will-return-in-2028/",
+    "found_at": "2026-11-16T13:36:50+00:00",
+    "sources": [
+      {
+        "name": "pinboard",
+        "title": "The Evangelical Vote Will Return in 2028"
+      }
+    ],
+    "page": {
+      "final_url": "https://www.liberalcurrents.com/the-evangelical-vote-will-return-in-2028/",
+      "status": 200,
+      "title": "The Evangelical Vote Will Return in 2028",
+      "description": "Those writing obituaries for Christian nationalism need to hold off.",
+      "og_image": "https://storage.ghost.io/c/b6/39/b6398cfc-5fe8-43f9-bf18-c8ef836a8846/content/images/size/w1200/2026/11/49964152976_478d8e560a_k.jpg",
+      "favicon": "https://storage.ghost.io/c/b6/39/b6398cfc-5fe8-43f9-bf18-c8ef836a8846/content/images/size/w256h256/2026/04/Lettermark_Oxford--1-.png",
+      "text_excerpt": "Redeem these deals and reserve your copies of The Reconstruction Papers! Sign Up for Liberal Currents Subscribe Menu Search Log in Sign Up Support Us About Submission Guidelines Merchandise Podcasts The Reconstruction Papers Support Us About Submission Guidelines Merchandise Podcasts The Reconstruction Papers LATEST NEWS Stand on Principle: Impeach Trump HEADWATERS Weekly Roundup: November 9–15, 2026 NEON LIBERALISM The Submerged History of Police Brutality and Reform (Neon Liberalism #99, with Michael Lansing) Log in Subscribe Follow The Evangelical Vote Will Return in 2028 Those writing obituaries for Christian nationalism need to hold off. HOLLY BERKLEY FLETCHER NOVEMBER 09 2026 3 MIN READ SHARE Fans of liberal democracy, including those of us who follow religion, are right to be buoyed by this week's results. Unlike in 2020, Americans resoundingly rejected not just MAGA candidates, but the bigoted, fear-mongering tactics that have sadly proven successful over the last ten years. In Texas, which had become a laboratory for Christian nationalist policy, there is now only one statewide Republican elected official left, Senator Ted Cruz. And candidates like James Talarico and Adam Hamilton articulated a new kind of white Christianity that is compatible with democracy and pluralism. Are we witnessing a religious realignment? Not yet. At the risk of being Debby Downer at the party, I have to point out some bad news in the initial data: Over 80 percent of white evangelicals, the group most responsible for powering MAGA, still voted Republican, representing no statistically significant movement. That is despite high gas prices, despite solid Christian messaging by Democrats, despite Trump's increasingly evident insanity and corruption, despite the administration's failure to admit a single refugee fleeing religious persecution, despite, even, the administration's failure to take further action to restrict abortion rights. No movement. Sign up for Liberal Currents Subscr"
+    },
+    "verdict": {
+      "model": "jev-1.13.0",
+      "score": 0.46,
+      "category": "Magazines, Newspapers & Newsletter",
+      "category_confidence": 0.82
+    }
+  },
+  {
+    "canonical_url": "https://www.aihero.dev/the-home-repo-pattern",
+    "url": "https://www.aihero.dev/the-home-repo-pattern",
+    "found_at": "2026-11-16T13:36:50+00:00",
+    "sources": [
+      {
+        "name": "pinboard",
+        "title": "The Home Repo Pattern"
+      }
+    ],
+    "page": {
+      "final_url": "https://www.aihero.dev/the-home-repo-pattern",
+      "status": 200,
+      "title": "The Home Repo Pattern",
+      "description": "One repo for your skills, AGENTS.md and shared docs, with pointers to your other repos. A reference, with a setup prompt you can copy.",
+      "og_image": "https://www.aihero.dev/api/og?resource=the-home-repo-pattern&updatedAt=2026-11-12T10:30:12.788Z",
+      "favicon": "https://www.aihero.dev/favicon.ico",
+      "text_excerpt": "NEW AI Coding Crash Course is out now. AIHero Courses Search Newsletter Log in Get the free course Explore Map Skills Open source Videos Guides LLM Fundamentals AI Engineer Roadmap AI Coding Dictionary Topics Think Like an AI Engineer Learn How LLMs Think Set Up Your Agent Score First Wins Get Better Results Build the Right Thing Ship Solid Code Build a Software Factory Meta / Announcements 7 min read · Updated Nov 12, 2026 The Home Repo Pattern One repo for your skills, AGENTS.md and shared docs, with pointers to your other repos. A reference, with a setup prompt you can copy. Matt Pocock Subscribe Copy page Share A Home Repo is one repository that holds your skills, your AGENTS.md and your shared docs. You run your agent in the Home Repo. Its AGENTS.md holds a navigation pointer to each of your other repos, so the agent can open or clone them as it needs to. The problem it solves When a project spans several repos, an agent started in one of them sees only that repo. Each repo ends up with its own copy of the skills and the agent setup, and planning a feature that crosses repos means working without the whole overview. A Home Repo gives you: One place for your steering files and tooling One place to run all your agents Sweeping changes across multiple repos from a single session Go deeper: join the waitlist for Software Factories for Real Engineers Set one up Paste this prompt into a new session with your coding agent, started in the folder that holds your repos. The agent finds your repos and their skills itself, grills you about the decisions in rounds, and changes nothing until you approve its plan. Set up a Home Repo with me: one git repo that holds my shared skills, AGENTS.md and shared docs, and points at my other repos. I'll run my agent from it. ## How to work - Look up every fact yourself (filesystem, git, gh), using subagents for wide searches. Bring me only decisions. - Put decisions to me in rounds. Number each question, give your recommended answer, a"
+    },
+    "verdict": {
+      "model": "jev-1.13.0",
+      "score": 2.63,
+      "category": "Software Engineering",
+      "category_confidence": 0.69
+    }
+  },
+  {
+    "canonical_url": "https://websites.umich.edu/~ners311/CourseLibrary/MathNotes.pdf",
+    "url": "https://websites.umich.edu/~ners311/CourseLibrary/MathNotes.pdf",
+    "found_at": "2026-11-16T13:36:50+00:00",
+    "sources": [
+      {
+        "name": "pinboard",
+        "title": "Notes on Mathematics for Engineers (1959) [pdf]"
+      }
+    ],
+    "error": "Error: Page.goto: Download is starting"
+  },
+  {
+    "canonical_url": "https://earmix.app/",
+    "url": "https://earmix.app/",
+    "found_at": "2026-11-16T13:36:50+00:00",
+    "sources": [
+      {
+        "name": "pinboard",
+        "title": "Volume Mixer for Mac: Per-App Volume Control | Earmix"
+      }
+    ],
+    "page": {
+      "final_url": "https://earmix.app/",
+      "status": 200,
+      "title": "Volume Mixer for Mac: Per-App Volume Control | Earmix",
+      "description": "Per-app and per-tab volume, output routing, EQ, call ducking, call recording, headphone correction and an iPhone remote. Runs locally on your Mac.",
+      "og_image": "https://earmix.app/img/mixer-light.png",
+      "favicon": "https://earmix.app/img/favicon.png",
+      "text_excerpt": "Black Friday: Earmix is half price, $12.99 $6.50 with code BLACKFRIDAY50. Ends Dec 1 earmix features calls iphone compare pricing faq guides Buy Black Friday $12.99 $6.50 with BLACKFRIDAY50 A volume for every app. Turn Spotify down, the Zoom call up and that autoplay tab off. Earmix gives every app and browser tab on your Mac its own volume, EQ and output, right from the menu bar. Buy for $12.99 $6.50 Try free for a day Black Friday: 50% off with code BLACKFRIDAY50 until Dec 1. One payment. Free for a day, no card, and a full refund within 14 days. mixer drag any fader system volume macbook speakers 64% music bass boost 72% google chrome spike guard 100% youtube.com 45% meet.google.com 100% podcasts auto level 85% facetime quiet 100% start a call mute the youtube tab boost the podcast mute my mic Press a key, or drag any fader. notarized by apple runs entirely on your mac apple silicon and intel macos 14.2 or later Everything macOS leaves out of one volume slider. macOS gives you a single slider for every sound at once. Earmix gives each app and tab its own, with the processing to make it sound right. every app Every app on its own slider From silent to 400%, with a limiter so boosts never clip. Each app keeps its setting for next time. every tab And every browser tab Turn the YouTube tab down and the meeting tab up, in Chrome, Edge, Brave, Arc, Vivaldi, Opera, Firefox and Safari. every sound Shaped how you like A 10-band EQ per app, headphone correction for 52 models, and auto level so quiet podcasts come up. every output Sent where you want it Music to the HomePod, the call to your AirPods, alerts on the speakers, each from its own row. Calls, outputs and sound, set per app. calls outputs sound Calls lower the music. Press Record to keep them. When Zoom, Meet or FaceTime opens the mic, everything else drops to 30%, and comes back when you hang up. Record any app or call to a file, your voice mixed in Saved to Music › Earmix Recordings as .m4a One shortcut, ⌃⌥⇧A, m"
+    },
+    "verdict": {
+      "model": "jev-1.13.0",
+      "score": 2.54,
+      "category": "Utilities & Tools",
+      "category_confidence": 0.99
+    }
+  },
+  {
+    "canonical_url": "https://github.com/dev-Armaan/satellites",
+    "url": "https://github.com/dev-Armaan/satellites",
+    "found_at": "2026-11-16T13:36:50+00:00",
+    "sources": [
+      {
+        "name": "pinboard",
+        "title": "GitHub - dev-Armaan/satellites: Watched.earth - see every public satellite image of earth · GitHub"
+      }
+    ],
+    "github": {
+      "repo_url": "https://github.com/dev-Armaan/satellites",
+      "homepage": "https://www.watched.earth",
+      "description": "Watched.earth - see every public satellite image of earth",
+      "topics": [],
+      "stars": 263,
+      "created_at": "2026-11-08T03:16:54Z",
+      "pushed_at": "2026-11-16T06:43:00Z",
+      "owner_avatar": "https://avatars.githubusercontent.com/u/134523744?v=4"
+    },
+    "page": {
+      "final_url": "https://github.com/dev-Armaan/satellites",
+      "status": 200,
+      "title": "GitHub - dev-Armaan/satellites: Watched.earth - see every public satellite image of earth",
+      "description": "Watched.earth - see every public satellite image of earth - dev-Armaan/satellites",
+      "og_image": "https://opengraph.githubassets.com/6e7b2afd8cd54cac24b03a36b430f8dbfcf40fe02241bd9a734765fdf97be547/dev-Armaan/satellites",
+      "favicon": "https://github.com/fluidicon.png",
+      "text_excerpt": "Skip to content Navigation Menu Products Developers Businesses Resources Pricing Search / Sign in Sign up dev-Armaan satellites Repository navigation Code Issues 1 (1) Pull requests Actions Projects Security and quality Insights satellites Public Notifications Fork38 (38) Star263 (263) main 18 Branches 0 Tags Code Latest commit overflight-bot data: refresh orbit catalog 5e089b8 · History 379 Commits Folders and files Name Last commit message Last commit date .claude Allow sessions to run backend-sql.sh against the owner's project .github/workflows Integrate polish: guard archive retry, catalog-names in Action + cach… api Relay events only from production hosts, with Cloudflare's country he… docs README images: fresh screenshots of the live site, and a time-lapse loop public data: refresh orbit catalog scripts Merge branch 'claude/blissful-carson-ckrnjd' into integration src Admin activity chart: lines in every range supabase Admin: time-lapse opens counted as they arrive (0026) worker Keep source maps off Cloudflare, as Vercel keeps them from the public .env.example Add third-party notices, security policy, contributing and self-hosti… .gitignore Document the Cloudflare Worker CLAUDE.md Notes: 0026 is applied CONTRIBUTING.md CONTRIBUTING: exact Node versions; name the two timing-sensitive tests LICENSE License the code under MIT; ship the OFL with the bundled fonts README.md README: 500 points on Hacker News SECURITY.md Docs and credits: Meteosat frames from EUMETSAT, infrared at night THIRD_PARTY_NOTICES.md Docs and credits: Meteosat frames from EUMETSAT, infrared at night admin.html In-app events + /admin stats page index.html Build: the app version lives in index.html, so a deploy renames no un… package-lock.json Drop Vercel Web Analytics: the site is served by Cloudflare now package.json Drop Vercel Web Analytics: the site is served by Cloudflare now tsconfig.app.json Scaffold Overflight: contracts, design system, catalog pipeline tsconfig.json Add a Cloudflare "
+    },
+    "homepage": {
+      "final_url": "https://www.watched.earth/",
+      "status": 200,
+      "title": "Something watched you this week.",
+      "description": "Enter any place on Earth. See every satellite that passed over it this week, and the actual pictures they took.",
+      "og_image": "https://www.watched.earth/og-default.png",
+      "favicon": "https://www.watched.earth/favicon.svg",
+      "text_excerpt": "SLOW CONNECTION, STILL LOADING LAST 7 DAYS · 9 → 1W RAF 61J: DWS Something watched you this week. Enter any place on Earth. See every satellite that passed over it in the last 7 days, and the actual pictures they took. 01 / PLACE / USE MY LOCATION 02 / OR TRY OR CLICK THE GLOBE TO DROP A PIN AREA 51 CENTRAL PARK GIZA SURPRISE ME BUILT BY @ARMAANGUPT0 HOW THIS WORKS ? 2026-11-16 13:38:25 UTC 16,894 OBJECTS · CELESTRAK GP FETCHED 2026-11-16 06:42Z·7 H AGO SUN 18.8°S 028.4°W SUB-SOLAR POINT · GMST 17:20:59"
+    },
+    "verdict": {
+      "model": "jev-1.13.0",
+      "score": 3.11,
+      "category": "Photo & Video",
+      "category_confidence": 0.38
+    },
+    "screenshot": "shots/2026/11-16/github-com-dev-armaan-satellites.jpg"
+  }
+]
