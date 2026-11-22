@@ -1,0 +1,1824 @@
+[
+  {
+    "canonical_url": "https://betterdatacenterproject.com/2026/11/16/how-ai-is-powered-a-breakdown-of-byop-and-grid-power/",
+    "url": "https://betterdatacenterproject.com/2026/11/16/how-ai-is-powered-a-breakdown-of-byop-and-grid-power/",
+    "found_at": "2026-11-22T13:19:34+00:00",
+    "sources": [
+      {
+        "name": "hn",
+        "id": "50597612",
+        "title": "87% of the Anthropic power will come from gas and 11% from coal in 2028",
+        "discussion_url": "https://news.ycombinator.com/item?id=50597612",
+        "score": 243,
+        "comments": 335,
+        "created_at": "2026-11-22T08:57:34Z"
+      }
+    ],
+    "page": {
+      "final_url": "https://betterdatacenterproject.com/2026/11/16/how-ai-is-powered-a-breakdown-of-byop-and-grid-power/",
+      "status": 200,
+      "title": "How AI is powered: a breakdown of BYOP and grid power",
+      "description": "A case study of Anthropic’s total power use and emissions. We find the company could emit 32 million metric tons of carbon dioxide in 2028.",
+      "og_image": "https://i0.wp.com/betterdatacenterproject.com/wp-content/uploads/2026/11/anthropic-total-co2.png?fit=1200%2C1065&ssl=1",
+      "favicon": "https://i0.wp.com/betterdatacenterproject.com/wp-content/uploads/2025/09/bdcp_logo.png?fit=32%2C32&ssl=1",
+      "text_excerpt": "Skip to content About Resources Contact Donate How AI is powered: a breakdown of BYOP and grid power A case study of Anthropic’s total power use and emissions. We find the company could emit 32 million metric tons of carbon dioxide in 2028. NOVEMBER 16, 2026 · CASE STUDY Better Data Center Project AIR QUALITY, CO2, COAL, ENERGY, GAS In The AI Gas Rush: Risks and Implications of “Bring Your Own Power”, we dug into how data centers are increasingly securing their own dedicated primary power generation rather than relying solely on utilities to procure power (“BYOP”). We identified 177 GW of planned BYOP gas capacity—enough to power 65% of all US homes. Conversely, we found renewables are much less common than gas for BYOP: we estimate that for current proposals, less than 20% of energy generation will come from renewable sources by 2032. But BYOP projects aren’t the only new fossil sources that are coming online to meet the skyrocketing energy demands of AI data centers. Another 200 GW of new fossil power plants is being built on the grid to meet growing demand, due in large part to data centers.1 As a case study of how the AI buildout is driving both new BYOP and grid fossil infrastructure, we analyzed the compute commitments of a single company: Anthropic. Map of Anthropic’s data centers and associated power plants. See our full dataset for details of each site. Figure 1. Breakdown of power source for Anthropic’s compute. Finding 1: Anthropic has made no direct commitments to renewable energy in the U.S. Though Anthropic has stated “We’re also working to broaden our energy mix with geothermal, wind, solar, and emerging technologies”, its only publicly disclosed commitments, contract, or investments in renewable power are in Norway and Canada (as of November 2026). In contrast, Anthropic is directly procuring fossil power equipment—it recently “bought commitments for 1.7 gigawatts of heavy-duty [gas] generators for $3.4bn”. Finding 2: Anthropic’s currently contracted"
+    },
+    "verdict": {
+      "model": "jev-1.13.0",
+      "score": 2.3,
+      "category": "Research",
+      "category_confidence": 0.48
+    }
+  },
+  {
+    "canonical_url": "https://www.caranddriver.com/news/a74490092/toyota-nissan-honda-standardize-parts-lower-costs/",
+    "url": "https://www.caranddriver.com/news/a74490092/toyota-nissan-honda-standardize-parts-lower-costs/",
+    "found_at": "2026-11-22T13:19:34+00:00",
+    "sources": [
+      {
+        "name": "hn",
+        "id": "50596133",
+        "title": "Toyota, Nissan, and Honda to standardize parts to lower costs",
+        "discussion_url": "https://news.ycombinator.com/item?id=50596133",
+        "score": 680,
+        "comments": 409,
+        "created_at": "2026-11-22T04:04:56Z"
+      }
+    ],
+    "page": {
+      "final_url": "https://www.caranddriver.com/news/a74490092/toyota-nissan-honda-standardize-parts-lower-costs/",
+      "status": 200,
+      "title": "Toyota, Nissan, and Honda to Reportedly Standardize Vehicle Parts in Bid to Lower Costs",
+      "description": "Japan’s automakers will work together to lower production costs as they band together to compete against China’s growing automotive sector.",
+      "og_image": "https://hips.hearstapps.com/hmg-prod/images/d8009593-6fd1-4860-b42e-c59e9945155a.jpeg?crop=1xw:0.75xh;0xw,0.184xh&resize=1200:*",
+      "favicon": "https://www.caranddriver.com/_assets/design-tokens/caranddriver/static/images/favicon.02aa5c3.ico",
+      "text_excerpt": "Skip to Content Global Nav Search SUBSCRIBE SIGN IN SHOP NEW CARS New!Shop For Cars Available Near You. Got it! SHOP USED CARS RESEARCH CARS EXPERT REVIEWS WHAT’S MY CAR WORTH? EXPERT-TESTED GEAR NEWS + STORIES HomeNews Toyota, Nissan, and Honda to Standardize Parts to Lower Costs Japan’s automakers will work together to lower production costs as they band together to compete against China’s growing automotive sector. By Jack FitzgeraldPublished: Nov 20, 2026 Save TOMOHIRO OHSUMI|GETTY IMAGES Toyota, Nissan, and Honda will begin standardizing some vehicle parts in an effort to lower production costs, according to a report by Automotive News. The automakers will start with equalized quality criteria for steel, consistent protocols for plastics, and a universal color-coding scheme for wiring harnesses. Discussions are starting with Japan’s domestic suppliers, though international suppliers will be looped in soon. Japan’s three largest automakers have agreed to begin standardizing vehicle parts in an effort to reduce costs, according to Automotive News. The outlet reports that Japan Automobile Manufacturers Association chairman Koji Sato, who is also the vice chairman of Toyota, announced the decision at a news conference in Tokyo this week. In the short term, the standardization efforts will begin with unified quality criteria for steel, consistent protocols for plastics and resins, and a universal color-coding scheme for wiring harnesses. In the long term, the Japan Automobile Manufacturers Association has plans to move to more components that cover the entire car. The three areas were chosen as the first to be standardized because they are parts that are generally not noticed by consumers, and they shouldn’t have an impact on any brand’s individual identity. All three are also areas that account for significant production costs for the automakers, meaning they can have an immediate impact. CFOTO/FUTURE PUBLISHING VIA GETTY IMAGES|GETTY IMAGES The first discussions o"
+    },
+    "verdict": {
+      "model": "jev-1.13.0",
+      "score": 0.46,
+      "category": "News",
+      "category_confidence": 0.93
+    }
+  },
+  {
+    "canonical_url": "https://openrouter.ai/blog/announcements/data-processing-incidents-on-inference-providers/",
+    "url": "https://openrouter.ai/blog/announcements/data-processing-incidents-on-inference-providers/",
+    "found_at": "2026-11-22T13:19:34+00:00",
+    "sources": [
+      {
+        "name": "hn",
+        "id": "50595554",
+        "title": "Data Processing Incidents on Inference Providers",
+        "discussion_url": "https://news.ycombinator.com/item?id=50595554",
+        "score": 187,
+        "comments": 68,
+        "created_at": "2026-11-22T02:14:14Z"
+      }
+    ],
+    "page": {
+      "final_url": "https://openrouter.ai/blog/announcements/data-processing-incidents-on-inference-providers/",
+      "status": 200,
+      "title": "Data Processing Incidents on Inference Providers",
+      "description": "OpenRouter off-boarded three providers, removed 125 endpoints from Zero Data Retention eligibility, and notified potentially affected customers after canary token research on inference providers.",
+      "og_image": "https://openrouter.ai/og.png",
+      "favicon": "https://openrouter.ai/blog/brand/openrouter-favicon.svg",
+      "text_excerpt": "Models Benchmarks Chat Rankings Apps Ori Pricing Docs Blog / Announcements / Data Processing Incidents on Inference Providers ON THIS PAGE Provider security announcements Data Processing Incidents on Inference Providers OpenRouter ·11/22/2026 Earlier this week, security researchers reported that certain inference providers had data compromised or otherwise shown evidence that their data policies were not being upheld. We have been collaborating closely with the researchers and with providers to understand the findings and encourage the providers to address them. These findings did not show any breach or unauthorized access of OpenRouter. The results of this testing revealed new findings about specific inference providers. A live list of the security announcements we have received from providers is below. As the operating layer between customers and a fast-moving ecosystem of models and providers, we take data policy enforcement very seriously. We have taken the following actions: Off-boarded three providers from OpenRouter, based on the results of our investigations. Removed 125 endpoints from Zero Data Retention (ZDR) eligibility. The removals included providers flagged by researchers, plus additional endpoints that we removed as a precautionary measure. Notified all potentially affected customers. The following work is underway: We are adapting the researchers’ testing approach so we can run these checks on an ongoing basis. We are conducting technical verification of network paths to identify instances where requests and responses may be being forwarded to third parties. We are requiring appropriate assurances and validation before restoring ZDR eligibility to any endpoint removed in this review. We are grateful for the Dragos report. As we integrate similar testing techniques into OpenRouter, we will keep raising the bar, and providers that want to be on OpenRouter will need to meet it. Provider security announcements Novita: Privacy notice regarding MiniMax req"
+    },
+    "verdict": {
+      "model": "jev-1.13.0",
+      "score": 1.19,
+      "category": "Blog",
+      "category_confidence": 0.41
+    }
+  },
+  {
+    "canonical_url": "https://github.com/ItsNotRexed/Leonida",
+    "url": "https://github.com/ItsNotRexed/Leonida",
+    "found_at": "2026-11-22T13:19:34+00:00",
+    "sources": [
+      {
+        "name": "hn",
+        "id": "50595168",
+        "title": "Leonida – PC Recompilation of the Xbox Version of GTA 6",
+        "discussion_url": "https://news.ycombinator.com/item?id=50595168",
+        "score": 174,
+        "comments": 135,
+        "created_at": "2026-11-22T00:57:26Z"
+      }
+    ],
+    "github": {
+      "repo_url": "https://github.com/ItsNotRexed/Leonida",
+      "homepage": "",
+      "description": "Leonida Is A Native PC Recompilation Of The Xbox Version Of Grand Theft Auto 6",
+      "topics": [],
+      "stars": 10173,
+      "created_at": "2026-11-20T20:07:13Z",
+      "pushed_at": "2026-11-22T13:02:27Z",
+      "owner_avatar": "https://avatars.githubusercontent.com/u/300290919?v=4"
+    },
+    "page": {
+      "final_url": "https://github.com/ItsNotRexed/Leonida",
+      "status": 200,
+      "title": "GitHub - ItsNotRexed/Leonida: Leonida Is A Native PC Recompilation Of The Xbox Version Of Grand Theft Auto 6",
+      "description": "Leonida Is A Native PC Recompilation Of The Xbox Version Of Grand Theft Auto 6 - ItsNotRexed/Leonida",
+      "og_image": "https://opengraph.githubassets.com/31f0ac7b3db7646359d2aaa82567fad2b54135c487b51090bdee19e8dd839f89/ItsNotRexed/Leonida",
+      "favicon": "https://github.com/fluidicon.png",
+      "text_excerpt": "Skip to content Navigation Menu Products Developers Businesses Resources Pricing Search / Sign in Sign up ItsNotRexed Leonida Repository navigation Code Issues 37 (37) Pull requests 193 (193) Actions Projects Security and quality Insights Leonida Public Notifications Fork781 (781) Star10.2k (10.2k) main 1 Branch 0 Tags Code Latest commit ItsNotRexed and claude Docs: one Other languages line, and runtime/README links docs/runtime… a0acd33 · History 3,595 Commits Folders and files Name Last commit message Last commit date .github Include occlusion shader fixtures in the Wine CI artifact assets Logo: SlyDevil's VI icon from SteamGridDB docs Docs: one Other languages line, and runtime/README links docs/runtime… game Initial commit: Leonida, build-it-yourself PC port groundwork runtime Docs: one Other languages line, and runtime/README links docs/runtime… scripts run_gpu_tests checks ps_ij_computed with check.py's rule tests Merge pull request #1609 from Luiz Neves third_party Restore the rpf9-explorer pin to e293917 tools Merge pull request #1607 from undeadhuman37 viewer Merge pull request #1425 from bbareth .gitattributes Find the user's copy automatically; Build.bat; prerequisite and disk … .gitignore Guards: ignore and detect the model, audio and world files the build … .gitmodules Initial commit: Leonida, build-it-yourself PC port groundwork AGENTS.md AGENTS.md: name the numpy/Pillow exceptions, add the omitted smoke te… Build.bat Enhance Build.bat with title and header messages CONTRIBUTING.md Merge pull request #505 from Koert Lichtendonk LICENSE Initial commit: Leonida, build-it-yourself PC port groundwork README.md Merge pull request #1358 from liang-kai-shui global.json CI: upgrade viewer-tests to Node 24 LTS and add pip/NuGet caching wit… make_game.py Merge pull request #1590 from anusara-bemal Repository files navigation README Contributing GPL-3.0 license Leonida Grand Theft Auto VI (Xbox Series) running natively on Windows, built on your PC from your own c"
+    },
+    "verdict": {
+      "model": "jev-1.13.0",
+      "score": 2.37,
+      "category": "Games",
+      "category_confidence": 0.6
+    }
+  },
+  {
+    "canonical_url": "https://stulle.app/",
+    "url": "https://stulle.app/",
+    "found_at": "2026-11-22T13:19:34+00:00",
+    "sources": [
+      {
+        "name": "hn",
+        "id": "50594911",
+        "title": "Sandwich Simulator",
+        "discussion_url": "https://news.ycombinator.com/item?id=50594911",
+        "score": 334,
+        "comments": 119,
+        "created_at": "2026-11-22T00:07:59Z"
+      }
+    ],
+    "error": "TimeoutError: Page.screenshot: Timeout 30000ms exceeded."
+  },
+  {
+    "canonical_url": "https://github.com/sebaandrada-cell/PcapAnalyzer",
+    "url": "https://github.com/sebaandrada-cell/PcapAnalyzer",
+    "found_at": "2026-11-22T13:19:34+00:00",
+    "sources": [
+      {
+        "name": "hn",
+        "id": "50594132",
+        "title": "PcapAnalyzer – self-hosted pcap analyzer with 27 problem detectors",
+        "discussion_url": "https://news.ycombinator.com/item?id=50594132",
+        "score": 130,
+        "comments": 18,
+        "created_at": "2026-11-21T22:09:58Z"
+      }
+    ],
+    "github": {
+      "repo_url": "https://github.com/sebaandrada-cell/PcapAnalyzer",
+      "homepage": "https://pcap-analyzer-seven.vercel.app",
+      "description": "Free, self-hosted pcap analyzer with 27 problem detectors and AI investigation",
+      "topics": [
+        "fastapi",
+        "network-troubleshooting",
+        "packet-analysis",
+        "pcap",
+        "tshark",
+        "wireshark"
+      ],
+      "stars": 154,
+      "created_at": "2026-10-21T13:53:46Z",
+      "pushed_at": "2026-11-21T08:40:36Z",
+      "owner_avatar": "https://avatars.githubusercontent.com/u/255527829?v=4"
+    },
+    "page": {
+      "final_url": "https://github.com/sebaandrada-cell/PcapAnalyzer",
+      "status": 200,
+      "title": "GitHub - sebaandrada-cell/PcapAnalyzer: Free, self-hosted pcap analyzer with 27 problem detectors and AI investigation",
+      "description": "Free, self-hosted pcap analyzer with 27 problem detectors and AI investigation - sebaandrada-cell/PcapAnalyzer",
+      "og_image": "https://opengraph.githubassets.com/c4df0fd5a5a91855f967914071d489cbc04cd9b9ef433a3afbe6b78810a7a362/sebaandrada-cell/PcapAnalyzer",
+      "favicon": "https://github.com/fluidicon.png",
+      "text_excerpt": "Skip to content Navigation Menu Products Developers Businesses Resources Pricing Search / Sign in Sign up sebaandrada-cell PcapAnalyzer Repository navigation Code Issues Pull requests Discussions Actions Projects Security and quality Insights PcapAnalyzer Public Notifications Fork1 (1) Star154 (154) main 1 Branch 0 Tags Code Latest commit sebaandrada-cell Merge pull request #29 from sebaandrada-cell/docs/readme-english 665ddd1 · History 117 Commits Folders and files Name Last commit message Last commit date .claude docs: mark 1.4.1 uploaded; Gumroad attached-files notice is not alway… .github/workflows Añadir escaneo de claves con gitleaks (PR y semanal) backend release: 1.5.0 - free under Apache 2.0, English web app, security and… docs docs: implementation plan for the investigation agent frontend (part 2) frontend feat: link the public GitHub repository marketing release: 1.5.0 - free under Apache 2.0, English web app, security and… scripts chore: free and open source under Apache 2.0 supabase/migrations Límites de coste y abuso: tope por IP, tope diario de llamadas IA, ng… .env.example Make the self-hosted download work out of the box .gitattributes chore: add project skills (fastapi, python-testing-patterns, docker-c… .gitignore chore: ignore .superpowers scratch workspace CLAUDE.md Prepare PcapAnalyzer beta deployment DEPLOYMENT.md DEPLOYMENT.md: no nombrar el dominio de la beta en la guía de Google LICENSE chore: free and open source under Apache 2.0 NOTICE chore: free and open source under Apache 2.0 PLAN-DIFUSION.md docs: mark 1.5.0 uploaded to Gumroad at 0 EUR QUICKSTART.md docs: English README as the front page, Spanish one moves to README.e… README.es.md docs: English README as the front page, Spanish one moves to README.e… README.md docs: English README as the front page, Spanish one moves to README.e… SPEC.md Prepare PcapAnalyzer beta deployment docker-compose.yml docs: investigation sessions and agent configuration; map Anthropic A… landing.html feat: "
+    },
+    "homepage": {
+      "final_url": "https://pcap-analyzer-seven.vercel.app/",
+      "status": 429,
+      "title": "Vercel Security Checkpoint",
+      "description": "",
+      "og_image": "",
+      "favicon": "data:,",
+      "text_excerpt": "We're verifying your browser Vercel Security Checkpoint | pdx1::1795353586-3b6UKqOS1IdUF8TJubzUJVWGcgePtL5n"
+    },
+    "verdict": {
+      "model": "jev-1.13.0",
+      "score": 2.08,
+      "category": "Developer Tools",
+      "category_confidence": 0.92
+    }
+  },
+  {
+    "canonical_url": "https://linebender.org/blog/next-100-guis/",
+    "url": "https://linebender.org/blog/next-100-guis/",
+    "found_at": "2026-11-22T13:19:34+00:00",
+    "sources": [
+      {
+        "name": "hn",
+        "id": "50593737",
+        "title": "Advice for the next 100 Rust GUIs",
+        "discussion_url": "https://news.ycombinator.com/item?id=50593737",
+        "score": 198,
+        "comments": 89,
+        "created_at": "2026-11-21T21:17:53Z"
+      }
+    ],
+    "page": {
+      "final_url": "https://linebender.org/blog/next-100-guis/",
+      "status": 200,
+      "title": "Advice for the next 100 Rust GUIs",
+      "description": "Advice for the next 100 Rust GUIs",
+      "og_image": "",
+      "favicon": "https://linebender.org/favicon.ico",
+      "text_excerpt": "Linebender About Blog Wiki Advice for the next 100 Rust GUIs Raph Levien, November 21, 2026 This is a followup to Advice for the next dozen Rust GUIs, published 4.5 years ago. The world is different in many ways, but some of the advice there is still valid. There have been roughly 20 Rust GUI toolkits announced since that blog post (see 2026 survey), but also a recent rapid acceleration of interest in Rust GUI, fueled by AI. Rust GUI is still compelling The motivation to build GUI apps in Rust remains strong. Many shipping GUI apps suffer from poor performance, especially when built with cross-platform technology. GUI toolkits shipped by platforms have largely stagnated, and system vendors remain uninterested in solving the cross-platform problem, so Electron has grown in popularity. RAM remains expensive and the focus is shifting to mobile, so bloat has real consequences. Building high-performance UI in Rust is a practical alternative. Adoption of Rust UI in the past few years has been slow. Few flagship apps use Rust for their UI. One of the most notable is the Zed editor, built on their own GPUI framework. It proves that shipping Rust UI is practical, and indeed, GPUI is emerging as a major choice for AI-driven rewrites, most notably Discord. My personal sense is that GPUI is well suited to the Zed use case, and shipping in a real project boosts its visibility and credibility quite a bit, but it’s not necessarily the ideal choice for more general purpose applications. Among other things, its 2D rendering engine is well suited to a text editor, but lacks full gradient support, blending, filters, and other features expected of a renderer in the same class as Vello or Skia. The reasons for slow adoption may be melting away. Writing Rust code is harder than languages more traditionally used for UI (TypeScript, Kotlin, Swift), and finding engineers skilled in both Rust and UI is challenging. But AI is changing the game. There’s evidence that the LLM cost of writing Ru"
+    },
+    "verdict": {
+      "model": "jev-1.13.0",
+      "score": 2.8,
+      "category": "Software Engineering",
+      "category_confidence": 0.69
+    }
+  },
+  {
+    "canonical_url": "https://www.pandex.io/",
+    "url": "https://www.pandex.io",
+    "found_at": "2026-11-22T13:19:34+00:00",
+    "sources": [
+      {
+        "name": "hn",
+        "id": "50593481",
+        "title": "Pandex – Official European Law for AI Agents, over MCP",
+        "discussion_url": "https://news.ycombinator.com/item?id=50593481",
+        "score": 109,
+        "comments": 29,
+        "created_at": "2026-11-21T20:47:41Z"
+      }
+    ],
+    "page": {
+      "final_url": "https://www.pandex.io/",
+      "status": 200,
+      "title": "Pandex: Europe's law, in one API.",
+      "description": "Legislation and highest-court decisions of the EU, seven European countries and the European Court of Human Rights, from the institutions that publish them, in one API and MCP server built for search and AI.",
+      "og_image": "https://www.pandex.io/opengraph-image?6367cd8c0b666bc6",
+      "favicon": "https://www.pandex.io/icon.svg?icon.11273l3_3jrqf.svg",
+      "text_excerpt": "Pandex Product Coverage Law Pricing Docs Get a free key Europe's law, in one API Legislation and highest-court decisions of the EU and seven European countries, straight from the institutions that publish them, ready for search and AI agents. Get a free key See the product 2.8M official documents 33 of 41 institutions held complete 37M citations linked to their text 8 more next Works with the AI tools you already use. Claude Cursor GitHub Copilot Windsurf Zed Gemini Built for software that has to get the law right. One API and one MCP server for every jurisdiction we hold. REST API MCP server Markdown or JSON Ask in plain language. Keyword, semantic or hybrid search in any language. Ask in English, find the French ruling and the passage that answers it. Point-in-time law. A full citation graph. Exact lookup. Official sources only. Is a bike courier working for a delivery app an employee? France Case law 28 Nov 2018 Cour de cassation, chambre sociale, 28 novembre 2018, n° 17-20.079 … le lien de subordination est caractérisé par l'exécution d'un travail sous l'autorité d'un employeur qui a le pouvoir de donner des ordres et des directives … Built for teams that work with the law. How long does a German employer have to dismiss without notice? Two weeks from learning of the facts that justify it. § 626 Abs. 2 BGB Legal AI and agents Ground every answer in real law, with citations. Connect over MCP or the API. Regulation (EU) No 575/2013 New version Code du travail Article amended Companies Act 2006 New version Compliance and monitoring Follow every change to the law across jurisdictions: each article with its past versions and the date each one took effect. Text Dates Issuer Citations Identifiers Legal research products One API and one schema across countries, instead of a scraper for every court. Coverage you can check, straight from the source. National legislation with its past versions and the decisions of the highest courts, institution by institution. We publish "
+    },
+    "verdict": {
+      "model": "jev-1.13.0",
+      "score": 2.29,
+      "category": "Developer Tools",
+      "category_confidence": 0.87
+    }
+  },
+  {
+    "canonical_url": "https://pwn.ai/upload2shell",
+    "url": "https://pwn.ai/upload2shell",
+    "found_at": "2026-11-22T13:19:34+00:00",
+    "sources": [
+      {
+        "name": "hn",
+        "id": "50592097",
+        "title": "Upload2Shell (CVE-2026-125396)",
+        "discussion_url": "https://news.ycombinator.com/item?id=50592097",
+        "score": 131,
+        "comments": 62,
+        "created_at": "2026-11-21T18:29:29Z"
+      }
+    ],
+    "page": {
+      "final_url": "https://pwn.ai/upload2shell",
+      "status": 200,
+      "title": "Upload2Shell",
+      "description": "",
+      "og_image": "https://pwn.ai/upload2shell-share.png?v=2",
+      "favicon": "https://pwn.ai/favicon.ico",
+      "text_excerpt": "Skip to content TIMELINE APPLICATIONS PATCH TECHNICAL WRITEUP ↗ Research / 2026 CVE-2026-125396 Upload 2Shell A use-after-free in Ghostscript’s Type 1 font loader lets a crafted document cross Ghostscript’s -dSAFER sandbox, alter native path controls, and execute attacker-chosen commands as the rendering process. Ghostscript sits beneath print, email, upload, and preview workflows. Our ImageMagick research showed how files named .png or .jpg can still reach Ghostscript through image conversion. The index below records confirmed affected paths alongside additional applications whose renderer routes we traced. EXPLORE APPLICATION PATHS ↘ READ THE TECHNICAL WRITEUP ↗ UPLOAD2SHELL / PUBLIC RECORD Disclosure sequence From the first escape to the downstream reports, fixes, and publication. 27 JUL 2026 DISCOVERY Upload2Shell We found a Type 1 font-loader path out of Ghostscript's -dSAFER boundary. A crafted document gained native access inside the rendering process. BY 30 JUL GOOGLE PROOF Google's image and document pipeline A signed-out request for an attacker-hosted file reached Ghostscript in Google's document renderer. We sent the production proof to Google. 12 AUG 2026 WORDPRESS FIX WordPress Core Core's upload path exposed the renderer to Author+ users and any Contributor granted upload_files. Public upload fields in multiple plugins required no WordPress login. WordPress shipped its separate CVE-2026-65640 fix. BY 02 SEP UPSTREAM REPORT Artifex received the Ghostscript root We filed the Type 1 loader flaw upstream as Artifex Bug 709684. Our broader audit also produced other independent Ghostscript findings. 08 SEP 2026 UPSTREAM RELEASE Ghostscript 10.08.0 Artifex released the fix for the Type 1 loader flaw. BY 09 SEP OTHER GHOSTSCRIPT ROOT Dropbox We confirmed a production document-processing finding in our broader Ghostscript research. Its individual root and proof belong to a separate case study. 12 SEP 2026 DISTRIBUTION UPDATE Debian packaged the upstream release"
+    },
+    "verdict": {
+      "model": "jev-1.13.0",
+      "score": 1.87,
+      "category": "Research",
+      "category_confidence": 0.8
+    }
+  },
+  {
+    "canonical_url": "https://github.com/ShinMegamiBoson/lookatmyquant",
+    "url": "https://github.com/ShinMegamiBoson/lookatmyquant",
+    "found_at": "2026-11-22T13:19:34+00:00",
+    "sources": [
+      {
+        "name": "hn",
+        "id": "50591853",
+        "title": "Inkling-2-Mini in 5.4 GB Memory",
+        "discussion_url": "https://news.ycombinator.com/item?id=50591853",
+        "score": 490,
+        "comments": 124,
+        "created_at": "2026-11-21T18:02:19Z"
+      }
+    ],
+    "github": {
+      "repo_url": "https://github.com/ShinMegamiBoson/lookatmyquant",
+      "homepage": "https://lookatmyquant.pages.dev",
+      "description": "A quantization compiler that delivers 12× lower KL than Q4_K_M at the same file size",
+      "topics": [],
+      "stars": 439,
+      "created_at": "2026-10-31T17:40:04Z",
+      "pushed_at": "2026-11-22T07:24:58Z",
+      "owner_avatar": "https://avatars.githubusercontent.com/u/191285399?v=4"
+    },
+    "page": {
+      "final_url": "https://github.com/ShinMegamiBoson/lookatmyquant",
+      "status": 200,
+      "title": "GitHub - ShinMegamiBoson/lookatmyquant: A quantization compiler that delivers 12× lower KL than Q4_K_M at the same file size",
+      "description": "A quantization compiler that delivers 12× lower KL than Q4_K_M at the same file size - ShinMegamiBoson/lookatmyquant",
+      "og_image": "https://opengraph.githubassets.com/3ab2d21f367ec3d285764ae32f0c63672e53bbcebda2cfa343c8851c67f854ef/ShinMegamiBoson/lookatmyquant",
+      "favicon": "https://github.com/fluidicon.png",
+      "text_excerpt": "Skip to content Navigation Menu Products Developers Businesses Resources Pricing Search / Sign in Sign up ShinMegamiBoson lookatmyquant Repository navigation Code Issues 3 (3) Pull requests 7 (7) Actions Projects Security and quality Insights lookatmyquant Public Notifications Fork19 (19) Star439 (439) main 1 Branch 2 Tags Code Latest commit ShinMegamiBoson Add Inkling-2-Mini 3.9 GB, 4.7 GB, and updated 5.4 GB SQYFR v2 models ae0ca83 · History 40 Commits Folders and files Name Last commit message Last commit date cache/codes Add the LookAtMyQuant 2 recipe: row allocation, digit-weighted calibr… drafter LookAtMyQuant 2: the Apple Silicon runtime for the packed file, specu… opgraph Add the LookAtMyQuant 2 recipe: row allocation, digit-weighted calibr… results Add the LookAtMyQuant 2 recipe: row allocation, digit-weighted calibr… runtime_mlx Add Inkling-2-Mini 3.9 GB, 4.7 GB, and updated 5.4 GB SQYFR v2 models site Link LookAtMyQuant 2 from the site and add a not-found page site2 LookAtMyQuant 2: the page links the released file and drafter tests Add Softmax-Fisher table ranking, proximal-gap reallocation, and adap… .gitignore Add the LookAtMyQuant 2 recipe: row allocation, digit-weighted calibr… LICENSE Add the compiler, the Apple Silicon runtime, tests and result data un… README.md Add Inkling-2-Mini 3.9 GB, 4.7 GB, and updated 5.4 GB SQYFR v2 models analyze_compiler.py Add the compiler, the Apple Silicon runtime, tests and result data un… calc_check.py Add the LookAtMyQuant 2 recipe: row allocation, digit-weighted calibr… checked_solutions.py Add the LookAtMyQuant 2 recipe: row allocation, digit-weighted calibr… compiler.py Add Softmax-Fisher table ranking, proximal-gap reallocation, and adap… compiler_arch.py Add the LookAtMyQuant 2 recipe: row allocation, digit-weighted calibr… compiler_artifact.py Add the LookAtMyQuant 2 recipe: row allocation, digit-weighted calibr… eval_tasks.py Add the compiler, the Apple Silicon runtime, tests and result data un… fast_delta.p"
+    },
+    "homepage": {
+      "final_url": "https://lookatmyquant.pages.dev/",
+      "status": 200,
+      "title": "LookAtMyQuant",
+      "description": "A quantization compiler that delivers 12× lower KL than Q4_K_M at the same file size, measured on Gemma 4 E2B. The compiled GGUF uses only llama.cpp's own quantization types.",
+      "og_image": "https://lookatmyquant.pages.dev/og.jpg",
+      "favicon": "https://lookatmyquant.pages.dev/favicon.ico",
+      "text_excerpt": "LookAtMyQuant A quantization compiler that delivers 12× lower KL than Q4_K_M at the same file size Shin Megami Boson October 2026 Results Method Citation Code LookAtMyQuant 2 LookAtMyQuant, GGUF (llama.cpp types) LookAtMyQuant, own codes Public files Google QAT (retrained) 0.005 0.01 0.03 0.1 0.3 1 1.5 GB 2.0 GB 2.5 GB 3.0 GB 3.5 GB KL to the original (lower is closer) llama.cpp Q5_K_M unsloth UD-Q4_K_XL bartowski Q4_K_M llama.cpp Q4_K_M llama.cpp IQ4_XS LM Studio MLX 4-bit Google QAT q4_0 llama.cpp Q3_K_M GGUF own codes 3.39 GB Figure 1. Size and KL divergence from the original model for each quantized Gemma 4 E2B file. The blue files are made by the compiler from llama.cpp's own quantization types and load in llama.cpp. At every size where a public file exists, they have at least 6 times lower KL divergence. At the size of llama.cpp Q4_K_M, the KL is 12 times lower. KL is averaged over held-out text in 13 languages and domains; log scale. ABSTRACT Most quantized language models use one format and one bit width for every tensor, with a few hand-written exceptions. LookAtMyQuant is a quantization compiler. It measures how much each stored piece of a model hurts the whole model when that piece alone is compressed. The pieces are every weight matrix, buckets of embedding rows grouped by token frequency, and each layer's key–value cache. It measures a few codes for each piece and predicts the rest. Then it gives each piece the code that keeps total damage lowest while the model fits the size or speed budget of a target device. Each code is a short program in a grammar of tensor-network rewrites. Nine published quantization and pruning methods are short programs in this grammar, reproduced exactly. On Gemma 4 E2B, the compiler restricted to llama.cpp's types makes ordinary GGUF files. At the size of llama.cpp's Q4_K_M, the compiled file has 12 times lower KL divergence from the original model, and it solves 59% of GSM8K problems against 50% for Q4_K_M and 61% for the or"
+    },
+    "verdict": {
+      "model": "jev-1.13.0",
+      "score": 3.53,
+      "category": "Developer Tools",
+      "category_confidence": 0.62
+    },
+    "screenshot": "shots/2026/11-22/github-com-shinmegamiboson-lookatmyquant.jpg"
+  },
+  {
+    "canonical_url": "https://www.economist.com/business/2026/11/19/jensen-huangs-fall-is-bad-news-for-silicon-valleys-accelerationists",
+    "url": "https://www.economist.com/business/2026/11/19/jensen-huangs-fall-is-bad-news-for-silicon-valleys-accelerationists",
+    "found_at": "2026-11-22T13:19:34+00:00",
+    "sources": [
+      {
+        "name": "hn",
+        "id": "50591835",
+        "title": "Jensen Huang's fall is bad news for Silicon Valley's accelerationists",
+        "discussion_url": "https://news.ycombinator.com/item?id=50591835",
+        "score": 170,
+        "comments": 362,
+        "created_at": "2026-11-21T17:59:59Z"
+      }
+    ],
+    "page": {
+      "final_url": "https://www.economist.com/business/2026/11/19/jensen-huangs-fall-is-bad-news-for-silicon-valleys-accelerationists",
+      "status": 403,
+      "title": "Just a moment...",
+      "description": "",
+      "og_image": "",
+      "favicon": "https://www.economist.com/favicon.ico",
+      "text_excerpt": "www.economist.com Performing security verification This website uses a security service to protect against malicious bots. This page is displayed while the website verifies you are not a bot. Ray ID: a5e83a73ce76354f Performance and Security by Cloudflare Privacy"
+    },
+    "verdict": {
+      "model": "jev-1.13.0",
+      "score": 0.31,
+      "category": "Magazines, Newspapers & Newsletter",
+      "category_confidence": 0.45
+    }
+  },
+  {
+    "canonical_url": "https://jespino.github.io/gopgext/",
+    "url": "https://jespino.github.io/gopgext/",
+    "found_at": "2026-11-22T13:19:34+00:00",
+    "sources": [
+      {
+        "name": "hn",
+        "id": "50591260",
+        "title": "PostgreSQL Extensions in Go",
+        "discussion_url": "https://news.ycombinator.com/item?id=50591260",
+        "score": 159,
+        "comments": 29,
+        "created_at": "2026-11-21T17:08:04Z"
+      },
+      {
+        "name": "pinboard",
+        "title": "gopgext — PostgreSQL extensions in Go"
+      }
+    ],
+    "page": {
+      "final_url": "https://jespino.github.io/gopgext/",
+      "status": 200,
+      "title": "gopgext — PostgreSQL extensions in Go",
+      "description": "Build PostgreSQL extensions from plain Go code, using TinyGo: functions marked with //gopgext:function become SQL functions.",
+      "og_image": "https://jespino.github.io/gopgext/img/social.png",
+      "favicon": "https://jespino.github.io/gopgext/img/gopher-elephant.png",
+      "text_excerpt": "gopgext EXPERIMENTAL Docs Tutorial API PostgreSQL extensions in Go gopgext builds PostgreSQL extensions from plain Go code, using TinyGo. Mark a function with //gopgext:function and it becomes a SQL function: gopgext writes the C glue, the install script and the control file. Get started Documentation GitHub Experimental gopgext is experimental. Don’t use it in production: a bug in the generated code or the Go runtime runs inside the server, where it can crash it or corrupt data, and the API and generated SQL may change without notice. Just Go A project is plain Go files. The standard library works: fmt, regexp, encoding/json, crypto/*, maps, generics, iterators, defer/recover. Types map to SQL Strings, numbers, arrays, NULLs, sets, rows, timestamps, UUIDs and JSON map to SQL types. Define your own data types and composite types in Go. Queries and errors Run SQL through SPI, return errors with SQLSTATE codes, log, read settings and stay responsive to query cancellation. Beyond functions Write triggers, aggregates, GiST, GIN, SP-GiST and BRIN operator classes, index access methods, foreign data wrappers and query hooks. Proven on contrib Ports of PostgreSQL’s contrib modules (pgcrypto, hstore, pg_stat_statements, cube, …) pass upstream’s regression tests. Safe coexistence Several Go extensions load in one backend. PostgreSQL errors never unwind through Go frames, and results are copied into PostgreSQL memory. Hello, world# package main import ( \"strings\" \"gopgext/pg\" ) // Hello returns a greeting for name. // //gopgext:function immutable parallel=safe func Hello(name string) string { return \"Hello, \" + name + \"!\" } // Shout upper-cases s. An empty string raises an error. // //gopgext:function immutable parallel=safe func Shout(s string) (string, error) { if s == \"\" { return \"\", pg.Errorf(pg.CodeInvalidParameterValue, \"nothing to shout\") } return strings.ToUpper(s) + \"!\", nil } func main() {} // runs once per backend, when PostgreSQL loads the library Copy gopgext ini"
+    },
+    "verdict": {
+      "model": "jev-1.13.0",
+      "score": 3.26,
+      "category": "Developer Tools",
+      "category_confidence": 0.8
+    },
+    "screenshot": "shots/2026/11-22/jespino-github-io-gopgext.jpg"
+  },
+  {
+    "canonical_url": "https://math.mit.edu/~drew/grh/",
+    "url": "https://math.mit.edu/~drew/grh/",
+    "found_at": "2026-11-22T13:19:34+00:00",
+    "sources": [
+      {
+        "name": "hn",
+        "id": "50590441",
+        "title": "Verification files for the Lean proof of the Riemann Hypothesis",
+        "discussion_url": "https://news.ycombinator.com/item?id=50590441",
+        "score": 119,
+        "comments": 42,
+        "created_at": "2026-11-21T15:54:34Z"
+      }
+    ],
+    "page": {
+      "final_url": "https://math.mit.edu/~drew/grh/",
+      "status": 200,
+      "title": "RH Lean proof: verification files",
+      "description": "",
+      "og_image": "",
+      "favicon": "https://math.mit.edu/favicon.ico",
+      "text_excerpt": "Verification files for the Lean proof of the Riemann Hypothesis Announced at alpo.ge/remark.pdf on 20 November 2026. Andrew Sutherland (MIT), checks run with Claude Code. Page last updated 2026-11-22 04:35 UTC. Results below are as of that time and this page will be updated as the remaining checks finish. Summary The published Lean source compiles without errors, the five headline theorems depend only on the three standard axioms, every module has been replayed through the Lean kernel, two independently written kernels, nanoda and con-leche, accept the full exported proof, and lean4lean accepts every compiled module. The --compare modes of con-leche and of its Rust port con-ron, independent implementations of Comparator's statement matching, each confirm all five theorems against the challenge. An independent sandboxed lake build of the archive reproduces the export byte for byte. The lake comparator run and the Lean-kernel replay of the export are still in progress. CHECK RESULT DETAIL All 175,187 modules compile (Lean v4.33.1, Mathlib v4.33.1) pass zero errors; finished 16:43:21 UTC #print axioms for the five theorems in Main.lean pass propext, Classical.choice, Quot.sound only (audit.log) No axioms declared outside Lean core pass 15 axioms in the environment, all in Init Mathlib files identical to the official cache pass 8,322 Mathlib and 378 dependency .olean files, byte for byte Independent rebuild with lake build Main in a sandbox (no network, read-only source), on a separate machine pass exit 0, zero errors; finished 18:07:21 UTC on 21 November (timeline, script) Export made inside that sandbox, compared with the published export identical 61,570,595,788 bytes, sha256 5ea74b91…244e; finished 19:32:56 UTC Compiled files of the sandboxed lake build, compared with our manifest 175,186 of 175,187 identical the one differing module compiles non-deterministically; see the note below (its manifest) leanchecker kernel replay of every module pass 175,187 of 175,187; z"
+    },
+    "verdict": {
+      "model": "jev-1.13.0",
+      "score": 2.08,
+      "category": "Research",
+      "category_confidence": 0.72
+    }
+  },
+  {
+    "canonical_url": "https://onurgumus.github.io/zero-csharp/index.html",
+    "url": "https://onurgumus.github.io/zero-csharp/index.html",
+    "found_at": "2026-11-22T13:19:34+00:00",
+    "sources": [
+      {
+        "name": "hn",
+        "id": "50590279",
+        "title": "Show HN: Zero C# – C# without a runtime or GC",
+        "discussion_url": "https://news.ycombinator.com/item?id=50590279",
+        "score": 163,
+        "comments": 113,
+        "created_at": "2026-11-21T15:39:09Z"
+      }
+    ],
+    "page": {
+      "final_url": "https://onurgumus.github.io/zero-csharp/index.html",
+      "status": 200,
+      "title": "Zero C#: C# with nothing underneath",
+      "description": "A bflat fork that compiles C# to small native programs with no .NET runtime and no garbage collector, for Linux, macOS, Windows, WebAssembly and DOS on a 386.",
+      "og_image": "https://onurgumus.github.io/zero-csharp/img/social.png?v=2",
+      "favicon": "https://onurgumus.github.io/zero-csharp/img/favicon.svg",
+      "text_excerpt": "Zero C# Get started Tutorial Concepts Reference GitHub C# with nothing underneath A fork of bflat compiles C# straight to a small native program: no .NET runtime, no garbage collector, nothing to install where it runs. You keep C#'s syntax, type checking and generics. Memory comes from arenas you free all at once, and a small library gives you strings, collections, input and output on those terms. The same source runs on Linux, macOS and Windows, on WebAssembly, and on DOS on a 386. Get started Build the quiz tutorial Run it in your browser // Read into a stack buffer: nothing allocated per answer. Span<char> buffer = stackalloc char[32]; Out.Write($\"Q{i}: {a} + {b} = \"); int length = In.ReadLine(buffer); // Kept until the end, so it goes into an arena. mistakes.Add(Str.Format(keep, $\"{a} + {b} = {a + b}, not {value}\")); From the quiz the tutorial builds, step by step. The language stays, the runtime goes The compiler still checks everything it checks in .NET. What's missing is what a runtime would do while your program runs. You keep C# 15 Unions, extension members and the new memory safety rules. Real generics A specialized copy for each type, and static abstract members. Interfaces and virtual methods Default interface methods, casts, is and as. Records, tuples, anonymous types Value equality, with, and the generated ToString. Lambdas and queries Where, Select and GroupBy, from a small library instead of LINQ. Threads Parallel.For runs a loop on every core. You do without Garbage collector Arenas free their memory all at once, when you say. .NET runtime Hello world is 11 KB on Windows and 40 KB on Linux, with nothing to install. Catching exceptions throw ends the program. Return errors as unions. Reflection and async A type can be compared, but it has no name. One program, five machines The hello-world sample, unchanged, built for each target. Each build is checked by the same test suite, which requires the same output everywhere. $ ./build.sh Minimal $ ./run.sh "
+    },
+    "verdict": {
+      "model": "jev-1.13.0",
+      "score": 3.54,
+      "category": "Developer Tools",
+      "category_confidence": 0.82
+    },
+    "screenshot": "shots/2026/11-22/onurgumus-github-io-zero-csharp-index-html.jpg"
+  },
+  {
+    "canonical_url": "https://leanprover-community.github.io/blog/posts/riemann-hypothesis/",
+    "url": "https://leanprover-community.github.io/blog/posts/riemann-hypothesis/",
+    "found_at": "2026-11-22T13:19:34+00:00",
+    "sources": [
+      {
+        "name": "hn",
+        "id": "50589618",
+        "title": "Lean verification of the Riemann Hypothesis",
+        "discussion_url": "https://news.ycombinator.com/item?id=50589618",
+        "score": 1089,
+        "comments": 907,
+        "created_at": "2026-11-21T14:36:45Z"
+      },
+      {
+        "name": "pinboard",
+        "title": "Lean verification of the Riemann Hypothesis | Lean community blog"
+      }
+    ],
+    "page": {
+      "final_url": "https://leanprover-community.github.io/blog/posts/riemann-hypothesis/",
+      "status": 200,
+      "title": "Lean verification of the Riemann Hypothesis",
+      "description": "Lean verification of the Riemann Hypothesis\nJoint statement by the Lean and Mathlib communities, endorsed by the Lean FRO and the Mathlib Initiative.\nOn November 20, 2026, Levent Alpöge released a pro",
+      "og_image": "https://leanprover-community.github.io/blog/meta-twitter.png",
+      "favicon": "https://leanprover-community.github.io/img/favicon.ico",
+      "text_excerpt": "Skip to main content Lean community blog Main site Archive Tags About RSS feed Lean verification of the Riemann Hypothesis Lean and Mathlib communities 2026-11-21 13:55 Source Lean verification of the Riemann Hypothesis Joint statement by the Lean and Mathlib communities, endorsed by the Lean FRO and the Mathlib Initiative. On November 20, 2026, Levent Alpöge released a proof of the Riemann Hypothesis as a Lean library comprising 17 million lines of code. We have full confidence that Alpöge's proof of the Riemann Hypothesis is correct, and we congratulate him on this achievement. Our rationale is outlined below. The codebase depends directly only on Mathlib. Over the past day, the Lean and Mathlib communities have rallied to verify the proof's correctness. We hereby certify that both the statement and the proof of the Riemann Hypothesis are correct. The four criteria in https://xenaproject.wordpress.com/2026/11/12/and-the-proof-is-checked-in-lean/ are all satisfied. The statement of the Riemann Hypothesis is correct. This statement is part of Mathlib: RiemannHypothesis and has been carefully vetted by experts in Lean and number theory. Alpöge’s library compiles correctly. By now, dozens of people have reported correct compilation of the codebase, reproducing the same raw proof export file. The library compiles without errors or build failures. The code proves the correct statement. Crucially, the community has added a file that isolates the statement of the Riemann Hypothesis and imports only Mathlib. That statement was compared against the theorem proved by Alpöge using two independent tools (comparator and con-leche –compare), both confirming that the theorem proved in Alpöge’s library is exactly Mathlib’s statement of the Riemann Hypothesis. The Lean proof is valid. The exported raw proof has been checked by several proof checkers, including Lean’s official kernel, the con-leche and con-ron checkers, and several independent checkers contributed by third parties a"
+    },
+    "verdict": {
+      "model": "jev-1.13.0",
+      "score": 1.67,
+      "category": "Blog",
+      "category_confidence": 0.35
+    }
+  },
+  {
+    "canonical_url": "https://www.science.org/content/blog-post/detonating-huge-pile-lead-azide-really",
+    "url": "https://www.science.org/content/blog-post/detonating-huge-pile-lead-azide-really",
+    "found_at": "2026-11-22T13:19:34+00:00",
+    "sources": [
+      {
+        "name": "hn",
+        "id": "50588982",
+        "title": "Detonating a pile of lead azide",
+        "discussion_url": "https://news.ycombinator.com/item?id=50588982",
+        "score": 634,
+        "comments": 399,
+        "created_at": "2026-11-21T13:23:14Z"
+      }
+    ],
+    "page": {
+      "final_url": "https://www.science.org/content/blog-post/detonating-huge-pile-lead-azide-really",
+      "status": 403,
+      "title": "Just a moment...",
+      "description": "",
+      "og_image": "",
+      "favicon": "https://www.science.org/favicon.ico",
+      "text_excerpt": "www.science.org Performing security verification This website uses a security service to protect against malicious bots. This page is displayed while the website verifies you are not a bot. Ray ID: a5e83b40a88cc274 Performance and Security by Cloudflare Privacy"
+    },
+    "verdict": {
+      "model": "jev-1.13.0",
+      "score": 0.26,
+      "category": "Science",
+      "category_confidence": 0.9
+    }
+  },
+  {
+    "canonical_url": "https://simple-bench.com/",
+    "url": "https://simple-bench.com/",
+    "found_at": "2026-11-22T13:19:34+00:00",
+    "sources": [
+      {
+        "name": "hn",
+        "id": "50588916",
+        "title": "Astra 6.2 and Sol 6.2 flop at Simple Bench",
+        "discussion_url": "https://news.ycombinator.com/item?id=50588916",
+        "score": 177,
+        "comments": 164,
+        "created_at": "2026-11-21T13:16:12Z"
+      }
+    ],
+    "page": {
+      "final_url": "https://simple-bench.com/",
+      "status": 200,
+      "title": "SimpleBench",
+      "description": "SimpleBench",
+      "og_image": "",
+      "favicon": "https://simple-bench.com/static/favicon.ico",
+      "text_excerpt": "SimpleBench Where Everyday Human Reasoning Still Surpasses Frontier Models SimpleBench Team Latest Leaderboard Report Try Yourself Public Dataset Code Introduction We introduce SimpleBench, a multiple-choice text benchmark for LLMs where individuals with unspecialized (high school) knowledge outperform SOTA models. SimpleBench includes over 200 questions covering spatio-temporal reasoning, social intelligence, and what we call linguistic adversarial robustness (or trick questions). For the vast majority of text-based benchmarks LLMs outperform a non-specialized human, and increasingly, exceed expert human performance. However, on SimpleBench, a non-specialized human baseline is 83.7%, based on our small sample of nine participants, outperforming every tested LLM, including today's top model, Claude Fable, which scored 81.9%. While we expect model performance to improve over time, the results of SimpleBench confirm that the memorized knowledge, and approximate reasoning retrieval, utilized by frontier LLMs is not always enough to answer basic questions just yet. For a deeper dive into our results and our methods, check out the full technical report here. Use all of these models on the Simple Bench app - LMcouncil.ai Leaderboard MCQ Perf/$ Timeline Open-Ended Rank Model Score (AVG@5) Organization - Highest Human Score* 95.4% 1stNEW Claude Fable 5.2 94.9% Anthropic 2ndNEW Gemini 4 Neon 94.4% Google 3rdNEW Gemini 4 Carbon 92.6% Google 4thNEW Gemini 4 Argon 91.7% Google 5thNEW Gemini 4 Hydrogen 91.7% Google 6th Claude Opus 5.5 88.4% Anthropic 7th Claude Fable 5.1 86.6% Anthropic 8th GPT-6 Astra Pro 86.5% OpenAI - Human Baseline* 83.7% 9th GPT-6 Astra 83.6% OpenAI 10th GPT-6.1 Sol 82.9% OpenAI 11th Gemini 3.8 Flash 82.4% Google 12th Claude Fable 81.9% Anthropic 13th Muse Spark 1.3 81.8% Meta 14th Claude Opus 5 80.6% Anthropic 15th Gemini 3.1 Pro Preview 79.6% Google 16thNEW GPT-6.2 Astra Pro 79.2% OpenAI 17thNEW GPT-6.2 Astra 77.3% OpenAI 18th GPT-5.5 Pro 76.9% OpenAI 19t"
+    },
+    "verdict": {
+      "model": "jev-1.13.0",
+      "score": 2.83,
+      "category": "Research",
+      "category_confidence": 0.92
+    }
+  },
+  {
+    "canonical_url": "https://blog.tymscar.com/posts/studiodisplayethernet/",
+    "url": "https://blog.tymscar.com/posts/studiodisplayethernet/",
+    "found_at": "2026-11-22T13:19:34+00:00",
+    "sources": [
+      {
+        "name": "hn",
+        "id": "50587875",
+        "title": "My monitor was cutting my download speed by 75%",
+        "discussion_url": "https://news.ycombinator.com/item?id=50587875",
+        "score": 610,
+        "comments": 282,
+        "created_at": "2026-11-21T10:36:32Z"
+      },
+      {
+        "name": "pinboard",
+        "title": "My Monitor Was Cutting My Download Speed by 75%"
+      }
+    ],
+    "page": {
+      "final_url": "https://blog.tymscar.com/posts/studiodisplayethernet/",
+      "status": 200,
+      "title": "My Monitor Was Cutting My Download Speed by 75%",
+      "description": "Upload at 2.4 Gbps, download at 600 Mbps, same cable and same adapter. Here's how I tracked it down to my Studio Display XDR, a tiny buffer, and a USB burst size of four packets.",
+      "og_image": "https://blog.tymscar.com/studio-display-ethernet/og-card.png",
+      "favicon": "https://blog.tymscar.com/img/favicon/favicon.ico",
+      "text_excerpt": "Tymscar My Monitor Was Cutting My Download Speed by 75% 2026-11-15Oscar Molnar8 min read (1684 words) #networking #debugging #apple #macOS #usb #unifi Somehow I am one of those few very lucky people to have the opportunity of owning a 2.5 gig symmetrical line for my internet. But one day, when I wanted to brag to my equally nerdy friends, shock and horror: 600 Mbps down? Luckily my upload speed was still 2.4 Gbps, so I didn’t lose all my bragging rights, but that’s weird, right? If anything, you’d expect the opposite! My ISP is pretty cool. It’s run by this one guy (Hey Keith!), and I know I can always message them and they respond promptly, as they did this time. We tried to run through a few debugging steps, they checked on their end, and everything was normal. I tried my work laptop too, same speed. I didn’t have time for debugging, because I needed to travel 2000 km to the other side of the continent for a family emergency. But as soon as I got back, I got curious again. What could it be? In retrospect, I now know when it started: when I moved all my connections onto my Studio Display XDR. I wanted to have a one-cable setup, and the monitor offered me that. I’ve had it for half a year now, and I don’t think I’ve ever run a speed test through it. 600 Mbps was more than fast enough for me to never realise I wasn’t getting three quarters of the speed I was paying for 🤦 The setup MacBook Pro M3 Pro 2026 Studio Display XDR, with everything plugged into it so switching laptops is one cable UGREEN USB-C to 2.5G Ethernet adapter, plugged into the display UniFi Dream Router 7, the same one from my WiFi 7 debugging post What I thought was interesting Pings to other wired computers during a download would fail 10% of the time over Ethernet through the adapter plugged into my screen, and 0% of the time over Wi-Fi. What made it stranger was that there were no dropped frame errors in macOS’s logs at all. This was the big hint for me: the adapter was dropping them before the c"
+    },
+    "verdict": {
+      "model": "jev-1.13.0",
+      "score": 2.5,
+      "category": "Blog",
+      "category_confidence": 0.43
+    }
+  },
+  {
+    "canonical_url": "https://www.bbc.com/news/articles/cvze7de86pk3o",
+    "url": "https://www.bbc.com/news/articles/cvze7de86pk3o",
+    "found_at": "2026-11-22T13:19:34+00:00",
+    "sources": [
+      {
+        "name": "hn",
+        "id": "50587859",
+        "title": "FBI reportedly investigating apparent hack of its criminal database",
+        "discussion_url": "https://news.ycombinator.com/item?id=50587859",
+        "score": 180,
+        "comments": 93,
+        "created_at": "2026-11-21T10:33:57Z"
+      }
+    ],
+    "page": {
+      "final_url": "https://www.bbc.com/news/articles/cvze7de86pk3o",
+      "status": 200,
+      "title": "FBI reportedly investigating apparent hack of its criminal database",
+      "description": "The National Crime Information Center database is used by federal and local law enforcement to share information.",
+      "og_image": "https://ichef.bbci.co.uk/news/1024/branded_news/3fd7/live/9009b220-e58d-11f1-99a1-253766e7ad8b.jpg",
+      "favicon": "https://static.files.bbci.co.uk/bbcdotcom/web/20261119-102257-f8058bdc4a-3.28.2-1/apple-touch-icon.png",
+      "text_excerpt": "Skip to content Watch Live Subscribe Sign In Home News Sport Business Technology Health Culture Arts Travel Earth Audio Video Live Documentaries FBI reportedly investigating apparent hack of its criminal database 13 hours ago Share Save Add as preferred on Google Jaroslav Lukiv Getty Images The FBI is investigating an apparent breach of its criminal information database, US media reports, citing two people briefed on the issue. The National Crime Information Center (NCIC) database is used by federal and local law enforcement to share information on warrants and background checks. It would not be the first time hackers have targeted the FBI, the domestic intelligence and security service of the US. The agency did not respond to the BBC's request for comment. When asked about the breach in a Fox News interview on Saturday, President Donald Trump said he had \"just heard\" about the hack. \"I will say that it's not good. I don't like that,\" he said. \"But maybe we'll learn things that we would've never learned otherwise,\" Trump added. This apparent breach of FBI database comes after a string of tech outages which hit banking, air traffic control and other sectors in the US last week. Officials have said they were not caused by cyber-attacks, but the blackouts have sparked scrutiny from lawmakers. White House National Cyber Director Sean Cairncross was fired this week, with Trump saying he was not good enough. Dan Lorhmann, a former analyst for the National Security Agency (NSA), told the BBC News Channel that the NCIC's data included \"critical information relating to nationwide criminal activity\" and needed to be protected. He added that while US security agencies including the FBI have \"an amazing ability\" to keep such information safe\" and are \"globally respected\", the level of cyber-attacks is rising globally. \"There's a lot of different reasons why that's happening but I do have faith in our experts in government,\" Lorhmann said. In September, the FBI said it was inves"
+    },
+    "verdict": {
+      "model": "jev-1.13.0",
+      "score": 0.37,
+      "category": "News",
+      "category_confidence": 0.98
+    }
+  },
+  {
+    "canonical_url": "https://lists.gnupg.org/pipermail/gnupg-announce/2026q4/000517.html",
+    "url": "https://lists.gnupg.org/pipermail/gnupg-announce/2026q4/000517.html",
+    "found_at": "2026-11-22T13:19:34+00:00",
+    "sources": [
+      {
+        "name": "hn",
+        "id": "50587208",
+        "title": "GnuPG Security Advisory for GPGME",
+        "discussion_url": "https://news.ycombinator.com/item?id=50587208",
+        "score": 261,
+        "comments": 111,
+        "created_at": "2026-11-21T08:32:58Z"
+      }
+    ],
+    "page": {
+      "final_url": "https://lists.gnupg.org/pipermail/gnupg-announce/2026q4/000517.html",
+      "status": 200,
+      "title": "[Announce] GnuPG Security Advisory for GPGME (T8557,CVE-2026-129975)",
+      "description": "",
+      "og_image": "",
+      "favicon": "https://lists.gnupg.org/favicon.ico",
+      "text_excerpt": "[Announce] GnuPG Security Advisory for GPGME (T8557,CVE-2026-129975) Werner Koch wk at gnupg.org Fri Nov 20 19:01:51 CET 2026 Messages sorted by: [ date ] [ thread ] [ subject ] [ author ] Hello! We are pleased to announce the availability of a new GPGME release: version 2.3.1. This version fixes a *critical security bug* found in all prior versions. We also release a new Gpg4win versions and and GnuPG Desktop and GnuPG VS-Desktop versions which all make use of GPGME. Description =========== By using an OpenPGP key containing a crafted very long user id it is possible to trigger a double free. This double free can be used exfiltrate data from applications by sending for example signed data. Exploiting this bug to mount an Remote Code Execution attack (RCE) can't be ruled out. Thus an immediate update is highly suggested. Our internal ID is T8557 (https://static.dev.gnupg.org/T8557) The CVE-id is CVE-2026-129975. This vulnerability was discovered by Johan Carlsson and we were informed by GitLab on 2026-11-12. Initially we set 2026-11-25 for a coordinated disclosure; due to the new Ruby2Shell bug GitLab had to update earlier and thus we also disclosed the GPGME bug on 2026-11-20. The root cause for this bug are two GPGME internal functions to read the status lines and key listings from gpg. Initially a buffer of 1024 bytes is allocated which is reallocated if more space is required. When reallocating the pointer to the new buffer is used by the function but it is only assigned back to the context object at the end of the function. Thus if the function returns early due to an read error or other events the context is not updated and keeps the stale pointer to the freed memory. Eventually the context is released and the memory freed a second time. Due to other allocations in between the common double free checks of memory allocators may not be triggered. Impact ====== All software using a GPGME version prior to 2.3.0 either as shared libary, DLL, or statically linked is"
+    },
+    "verdict": {
+      "model": "jev-1.13.0",
+      "score": 1.07,
+      "category": "Software Engineering",
+      "category_confidence": 0.61
+    }
+  },
+  {
+    "canonical_url": "https://amateurphotographer.com/latest/these-astonishing-insect-portraits-reveal-a-hidden-world-you-never-knew-existed/",
+    "url": "https://amateurphotographer.com/latest/these-astonishing-insect-portraits-reveal-a-hidden-world-you-never-knew-existed/",
+    "found_at": "2026-11-22T13:19:34+00:00",
+    "sources": [
+      {
+        "name": "hn",
+        "id": "50586648",
+        "title": "Surprisingly Adorable Insect Portraits",
+        "discussion_url": "https://news.ycombinator.com/item?id=50586648",
+        "score": 164,
+        "comments": 38,
+        "created_at": "2026-11-21T06:44:14Z"
+      }
+    ],
+    "page": {
+      "final_url": "https://amateurphotographer.com/latest/these-astonishing-insect-portraits-reveal-a-hidden-world-you-never-knew-existed/",
+      "status": 403,
+      "title": "Attention Required! | Cloudflare",
+      "description": "",
+      "og_image": "",
+      "favicon": "https://amateurphotographer.com/favicon.ico",
+      "text_excerpt": "Sorry, you have been blocked You are unable to access amateurphotographer.com Why have I been blocked? This website is using a security service to protect itself from online attacks. The action you just performed triggered the security solution. There are several actions that could trigger this block including submitting a certain word or phrase, a SQL command or malformed data. What can I do to resolve this? You can email the site owner to let them know you were blocked. Please include what you were doing when this page came up and the Cloudflare Ray ID found at the bottom of this page. Cloudflare Ray ID: a5e83b574e433eef • Your IP: Click to reveal • Performance & security by Cloudflare"
+    },
+    "verdict": {
+      "model": "jev-1.13.0",
+      "score": 0.17,
+      "category": "Photo & Video",
+      "category_confidence": 0.96
+    }
+  },
+  {
+    "canonical_url": "https://notnottalmud.substack.com/p/getting-the-mind-to-steer-the-body",
+    "url": "https://notnottalmud.substack.com/p/getting-the-mind-to-steer-the-body",
+    "found_at": "2026-11-22T13:19:34+00:00",
+    "sources": [
+      {
+        "name": "hn",
+        "id": "50583028",
+        "title": "Getting the mind to steer the body to steer you",
+        "discussion_url": "https://news.ycombinator.com/item?id=50583028",
+        "score": 318,
+        "comments": 107,
+        "created_at": "2026-11-20T22:11:05Z"
+      }
+    ],
+    "page": {
+      "final_url": "https://notnottalmud.substack.com/p/getting-the-mind-to-steer-the-body",
+      "status": 403,
+      "title": "Just a moment...",
+      "description": "",
+      "og_image": "",
+      "favicon": "https://notnottalmud.substack.com/favicon.ico",
+      "text_excerpt": "notnottalmud.substack.com Performing security verification This website uses a security service to protect against malicious bots. This page is displayed while the website verifies you are not a bot. Ray ID: a5e83b5ac9d73eef Performance and Security by Cloudflare Privacy"
+    },
+    "verdict": {
+      "model": "jev-1.13.0",
+      "score": 0.28,
+      "category": "Blog",
+      "category_confidence": 0.44
+    }
+  },
+  {
+    "canonical_url": "https://www.theguardian.com/society/2026/nov/20/pill-pancreatic-cancer-breakthrough-daraxonrasib",
+    "url": "https://www.theguardian.com/society/2026/nov/20/pill-pancreatic-cancer-breakthrough-daraxonrasib",
+    "found_at": "2026-11-22T13:19:34+00:00",
+    "sources": [
+      {
+        "name": "hn",
+        "id": "50582069",
+        "title": "Pill to treat pancreatic cancer hailed as 'biggest breakthrough in decades'",
+        "discussion_url": "https://news.ycombinator.com/item?id=50582069",
+        "score": 1120,
+        "comments": 239,
+        "created_at": "2026-11-20T21:03:12Z"
+      }
+    ],
+    "page": {
+      "final_url": "https://www.theguardian.com/society/2026/nov/20/pill-pancreatic-cancer-breakthrough-daraxonrasib",
+      "status": 200,
+      "title": "Pill to treat pancreatic cancer hailed as ‘biggest breakthrough in decades’",
+      "description": "Cancer undetectable for one in 12 patients in daraxonrasib trial, while nearly all participants’ tumours stopped growing",
+      "og_image": "https://i.guim.co.uk/img/media/d7bac7cca6890657580a396f9255cf7d7b3d2874/1250_0_6250_5000/master/6250.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=e108196e90ed29a731e8a7ec890173bf",
+      "favicon": "https://assets.guim.co.uk/static/frontend/icons/homescreen/apple-touch-icon.svg",
+      "text_excerpt": "Skip to main content Skip to navigation Support the Guardian Fund independent journalism with $7.50 per month Make a year-end gift Print subscriptions Newsletters Sign in US The Guardian - Back to home The Guardian News Opinion Sport Culture Lifestyle Show more UK UK politics Education Media Society Law Scotland Wales Northern Ireland View image in fullscreen A year after starting treatment, 76.6% of patients were alive; usually 40-45 % of patients given chemotherapy alone survive a year. Photograph: Jeff Moore/PA Pancreas cancer Pill to treat pancreatic cancer hailed as ‘biggest breakthrough in decades’ Cancer undetectable for one in 12 patients in daraxonrasib trial, while nearly all participants’ tumours stopped growing Helena Horton Fri 20 Nov 2026 04.36 EST Share Prefer the Guardian on Google A pill that can shrink and potentially eliminate pancreas tumours is being hailed as the biggest breakthrough treatment for the cancer in decades. In one in 12 of the patients given the drug, daraxonrasib, during a trial, the cancer became undetectable, and the tumours stopped growing in almost all of the 61 patients. The trial participants had recently been diagnosed with advanced pancreatic cancer that had spread to other parts of the body. Though doctors have said the pill cannot yet be considered a cure, and they do not know how long it can keep the disease at bay, they have said it is encouraging news because it appears it will offer patients more time, even if it does not cause full remission. ‘The undruggable became druggable’: a gamechanging treatment for the world’s deadliest cancer – podcast Read more Half of all people diagnosed with pancreatic cancer die within three months, and only about 3% of patients survive for five years when the disease spreads to other organs. It has the lowest survival rate of all common cancers in the UK and has a similarly poor prognosis globally. Patients were followed for a year and a half during the trial on average and some did n"
+    },
+    "verdict": {
+      "model": "jev-1.13.0",
+      "score": 0.39,
+      "category": "News",
+      "category_confidence": 0.82
+    }
+  },
+  {
+    "canonical_url": "https://klauria.tech/klauria-art/",
+    "url": "https://klauria.tech/klauria-art/",
+    "found_at": "2026-11-22T13:19:34+00:00",
+    "sources": [
+      {
+        "name": "hn",
+        "id": "50577991",
+        "title": "I'm quite pleased by the tech architecture of my art website",
+        "discussion_url": "https://news.ycombinator.com/item?id=50577991",
+        "score": 174,
+        "comments": 35,
+        "created_at": "2026-11-20T17:03:39Z"
+      }
+    ],
+    "page": {
+      "final_url": "https://klauria.tech/klauria-art/",
+      "status": 200,
+      "title": "I'm quite pleased by the tech architecture of my art website | Kshitij Lauria",
+      "description": "Let me tell you how it works",
+      "og_image": "https://klauria.tech/klauria-art.jpg",
+      "favicon": "https://klauria.tech/favicon.ico",
+      "text_excerpt": "Kshitij Lauria I’m quite pleased by the tech architecture of my art website This piece has embedded interactive widgets from my art website! It is a truth universally acknowledged, that every developer blog begins by explaining the new static site generator they wrote to make it. This post isn’t exactly that, but maybe only on a technicality, in that it’s not about this website… The problem The solution Interactive elements Why invalidate everything? The problem Earlier this year I decided to put a some of my paintings and sketchbook pages online. I don’t much use social media besides Hacker News, but I wanted to share my work with friends and family. So I’d been sending scans of my work in group chats. That was fine for a bit but so messy and disorganized. Sometimes someone asked, “Where did you paint this?” Sometimes a friend wanted to see what it looked like in real life. My little brother suggested a map with a marker for each piece. That was a good idea! For that I’d need a website and some code. Here, take a look at the map, its done now! You can zoom and click on markers to see the painting! When it comes to tech side projects there are two wolves inside me. One is the Wolf of Pragmatism, which wants to smash every problem with whatever hammer is nearest at hand: “Isn’t this just some trivial React? Dump the images in S3 and call it a day. This website is for friends and family; you have no traffic to speak of. Put a CDN in front so your parents in India get reasonable performance.” The other is the Aesthetic Wolf: “This should be a static website. The content almost never changes.” Yes. This is a static website. I do at most four, and on average less than 0.3, paintings a day. The content almost never changes. Why should javascript render the page on the user’s browser? Why should any code even run on the server? I should have the bytes for every page just sitting there, ready to be shipped. The correct server implementation for this problem is open followed"
+    },
+    "verdict": {
+      "model": "jev-1.13.0",
+      "score": 2.17,
+      "category": "Blog",
+      "category_confidence": 0.45
+    }
+  },
+  {
+    "canonical_url": "https://a90.com/experiments/same-advice/",
+    "url": "https://a90.com/experiments/same-advice/",
+    "found_at": "2026-11-22T13:19:34+00:00",
+    "sources": [
+      {
+        "name": "hn",
+        "id": "50577872",
+        "title": "AI is giving everyone the same advice",
+        "discussion_url": "https://news.ycombinator.com/item?id=50577872",
+        "score": 124,
+        "comments": 52,
+        "created_at": "2026-11-20T16:58:05Z"
+      }
+    ],
+    "page": {
+      "final_url": "https://a90.com/experiments/same-advice/",
+      "status": 200,
+      "title": "AI is giving everyone the same advice",
+      "description": "I asked 65 AIs from 30 companies the questions people ask them every day, 127,918 times. 73 of every 100 people were told to read the same book. See every answer, and the two prompts that get you your own.",
+      "og_image": "https://a90.com/experiments/same-advice/og.png",
+      "favicon": "https://a90.com/favicon.ico",
+      "text_excerpt": "Follow AI is giving everyone the same advice. I asked 65 AIs from 30 companies the questions people ask them every day, 127,918 times. They kept giving everyone the same answer. By Cody Collier Published November 20, 2026 You ask an AI for a book that will change your life. Guess what it tells you. Atomic Habits 8 in 100 Man's Search for Meaning 73 in 100 The Power of Now 6 in 100 It told 73 of every 100 people the same thing. What to read, where to live, what to invest in, what to build. Each answer feels written for you. You never see everyone else who got it too. The short version And it isn't only the book. 01 A life, by default 02 The invisible planner 03 Ask again 04 The person 05 The signature 06 The cause 07 Out in the world 08 What to do + Appendix 01 A life, by default Everyone gets the same life. I asked 65 AIs the things people ask them every day, ten times each, with nothing else to go on. Here is what everyone got. Everyone's answers “Give me a business idea. One sentence.” 648 answers A subscription box 76% “Recommend one book that will change my life.” 649 answers Man's Search for Meaning 73% “Gift idea for my dad?” 648 answers A leather wallet 47% “I want a 3-day trip somewhere in Europe. Where should I 647 answers go?” Lisbon 46% “Suggest a name for my new tech startup.” 649 answers Nexora 37% Each strip is every answer to one question. Black is the answer most people got. How this was measured See how each AI answered Not everything collapses. For a movie, dinner, a baby name or names for testimonials, no single answer reaches a third of replies, and brand colors almost never repeat. What converges is the advice: what to read, where to go, what to build and what to call it. That's taste. It gets serious when you ask about money. 02 The invisible planner It sends everyone to the same place. Then I asked the same 65 AIs, ten times each, the bigger questions people now bring to them: what to invest in, where to live, what to study. Whatever the quest"
+    },
+    "verdict": {
+      "model": "jev-1.13.0",
+      "score": 2.73,
+      "category": "Blog",
+      "category_confidence": 0.41
+    }
+  },
+  {
+    "canonical_url": "https://arstechnica.com/security/2026/11/a-leaky-ai-supply-chain-is-exposing-secret-user-data-at-an-alarming-rate/",
+    "url": "https://arstechnica.com/security/2026/11/a-leaky-ai-supply-chain-is-exposing-secret-user-data-at-an-alarming-rate/",
+    "found_at": "2026-11-22T13:19:34+00:00",
+    "sources": [
+      {
+        "name": "pinboard",
+        "title": "Researcher plants 2m canaries into the AI supply chain. A privacy disaster surfaced. - Ars Technica"
+      }
+    ],
+    "page": {
+      "final_url": "https://arstechnica.com/security/2026/11/a-leaky-ai-supply-chain-is-exposing-secret-user-data-at-an-alarming-rate/",
+      "status": 200,
+      "title": "Researcher plants 2m canaries into the AI supply chain. A privacy disaster surfaced.",
+      "description": "Test using prompts with unique, trackable secrets proves that data doesn't stay private.",
+      "og_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/ai-privacy-leakage-1152x648.jpg",
+      "favicon": "https://cdn.arstechnica.net/wp-content/uploads/2016/10/cropped-ars-logo-512_480-60x60.png",
+      "text_excerpt": "Skip to content ARS TECHNICA HOME SECTIONS FORUM SUBSCRIBE THEME SEARCH SIGN IN CREDENTIAL COMPROMISE AT SCALE Researcher plants 2m canaries into the AI supply chain. A privacy disaster surfaced. Test using prompts with unique, trackable secrets proves that data doesn’t stay private. DAN GOODIN – NOV 20, 2026 8:59 PM | 114 Researchers planted 2 million digital tripwires in requests sent through a sprawling network of AI services to find out what happened to sensitive information entrusted to them. What they discovered was an ecosystem that leaked highly sensitive data like a sieve. The exposure was found through an ingenious experiment designed to test if sensitive information can leak through the vast chain of widely used AI services and how that information is exploited when it does. Many of today’s AI apps use services such as OpenRouter or Vercel that act as brokers. These “AI routers,” sometimes also known as “AI gateways,” receive large numbers of prompts sent from AI app end users and route them to an available inference engine based on criteria such as the one charging the lowest price or being best suited for the given task. Instead of using Anthropic, OpenAI, or another big provider, the developer hires an AI router to find the most suitable model. Update, Nov 21: Posts on both Hacker News and X report that OpenRouter has sent customers an email notifying them that some of their prompts may have been read. OpenRouter cited the research and said that it received a report that the potential exposure involved prompts sent to MiniMax, a China-based model provider. OpenRouter said the researchers’ planted URLs were accessed whether the prompts were sent to MiniMax directly or through three other resellers: AtlasCloud, Novita, and StreamLake. OpenRouter has removed a “Zero Data Retention” label from MiniMax-model endpoints. Hat tip: Sulat.com. ARS VIDEO Security breaches, prompt theft, and privacy violations To test for potential leakage, researcher HD Moore ass"
+    },
+    "verdict": {
+      "model": "jev-1.13.0",
+      "score": 1.05,
+      "category": "News",
+      "category_confidence": 0.74
+    }
+  },
+  {
+    "canonical_url": "https://www.notion.com/a-new-shape-for-work",
+    "url": "https://www.notion.com/a-new-shape-for-work",
+    "found_at": "2026-11-22T13:19:34+00:00",
+    "sources": [
+      {
+        "name": "pinboard",
+        "title": "A new shape for work"
+      }
+    ],
+    "page": {
+      "final_url": "https://www.notion.com/a-new-shape-for-work",
+      "status": 404,
+      "title": "Notion – The AI workspace that works for you.",
+      "description": "A tool that connects everyday work into one space. It gives you and your teams AI tools—search, writing, note-taking—inside an all-in-one, flexible workspace.",
+      "og_image": "https://www.notion.com/front-static/meta/global-evergreen-03.png",
+      "favicon": "https://www.notion.com/front-static/favicon.ico",
+      "text_excerpt": "Product Resources Pricing Request a demo Log in Get Notion free Sorry, that page cannot be found. Explore Notion→ We shape our tools, and thereafter our tools shape us. Marshall McLuhan Product Features What's New Notion AI Pricing Request a demo Download Explore more→ Resources Customer stories Connections Marketplace Help Center Academy Community Company About us Careers Security Status Terms & privacy Your privacy rights Notion for Enterprise Small businesses Startups Developers English (US) Do Not Sell or Share My Info Cookie settings © 2026 Notion Labs, Inc."
+    },
+    "verdict": {
+      "model": "jev-1.13.0",
+      "score": 0.6,
+      "category": "Productivity",
+      "category_confidence": 1.0
+    }
+  },
+  {
+    "canonical_url": "https://www.abc.net.au/news/2026-11-21/bayer-cancer-settlement-roundup-weed-killer-11-billion/107412544",
+    "url": "https://www.abc.net.au/news/2026-11-21/bayer-cancer-settlement-roundup-weed-killer-11-billion/107412544",
+    "found_at": "2026-11-22T13:19:34+00:00",
+    "sources": [
+      {
+        "name": "pinboard",
+        "title": "RoundUp causes non-Hodgkin lymphoma"
+      }
+    ],
+    "page": {
+      "final_url": "https://www.abc.net.au/news/2026-11-21/bayer-cancer-settlement-roundup-weed-killer-11-billion/107412544",
+      "status": 200,
+      "title": "Bayer to pay $11b over claims weed killer caused cancer",
+      "description": "The US settlement handed down in Missouri applies to Roundup weed-killer users who are ill and those who become diagnosed with non-Hodgkin lymphoma in future years.",
+      "og_image": "https://live-production.wcms.abc-cdn.net.au/0ad7c97e96a801420a25c3752673a04a?impolicy=wcms_watermark_news&cropH=1035&cropW=1840&xPos=0&yPos=0&width=862&height=485&imformat=generic",
+      "favicon": "https://www.abc.net.au/news-assets/favicon-32x32.png",
+      "text_excerpt": "SKIP TO MAIN CONTENT SKIP TO NEWS NAVIGATION, SETTINGS AND SEARCH Explore the ABC More from ABC NEWS IVIEW LISTEN Log In Log In ABC News Just In For You Politics World Business More Search the ABC Start typing for suggestions, press enter to search, or choose from a list of options below. US court approves $11b settlement with Bayer over Roundup cancer claims Topic: Agricultural Chemicals Posted yesterday at 3:00am yesterday at 3:00am In Australia, all class actions alleging Roundup caused cancer ended without compensation payouts. (ABC News: Louie Eroglu) In short: German chemicals maker Bayer has been ordered to pay up to $11 billion to resolve thousands of claims from US cancer patients. It comes after claims its weed killer, Roundup, could cause non-Hodgkin lymphoma. What's next? While the settlement could be appealed, Bayer says it marks \"a decisive milestone\" for the company. abc.net.au/news/bayer-cancer-settlement-roundup-weed-killer-11-billion/107412544 Link copied Share Article Agrochemical maker Bayer will pay up to $US7.25 billion ($11 billion) over two decades to resolve thousands of claims from US cancer patients, who say the company should have warned people that its popular weed killer, Roundup, could cause lymphoma, according to a settlement approved by a US judge. The nationwide settlement handed down on Friday in Missouri applies both to Roundup users who already are ill and those who become diagnosed with non-Hodgkin lymphoma in future years. Participants could get an average of between $US10,000 ($15,000) and $US165,000, depending on how they used the product, how old they were when diagnosed and the severity of their illness. For Germany-based Bayer, which denies that Roundup causes cancer, the settlement provides some financial certainty against mounting litigation costs that have led it to contemplate pulling the product from US agricultural markets. Bayer has already changed the formula for its Roundup version sold to residential users. Bayer"
+    },
+    "verdict": {
+      "model": "jev-1.13.0",
+      "score": 0.39,
+      "category": "News",
+      "category_confidence": 0.98
+    }
+  },
+  {
+    "canonical_url": "https://zipcode.inuro.dev/",
+    "url": "https://zipcode.inuro.dev/",
+    "found_at": "2026-11-22T13:19:34+00:00",
+    "sources": [
+      {
+        "name": "pinboard",
+        "title": "〒 しぼれ！郵便番号"
+      }
+    ],
+    "page": {
+      "final_url": "https://zipcode.inuro.dev/",
+      "status": 200,
+      "title": "〒 しぼれ！郵便番号",
+      "description": "郵便番号を1桁ずつ入力すると、候補の地域が日本地図上で絞られていくドリルダウンです。",
+      "og_image": "https://zipcode.inuro.dev/ogp.png",
+      "favicon": "https://zipcode.inuro.dev/favicon.ico",
+      "text_excerpt": "〒 しぼれ！郵便番号 郵便番号を1桁ずつ入れると、候補の範囲が地図上で絞られていきます。 郵便番号（7桁の数字） キーボード入力または下のボタンで1桁ずつ絞り込めます。 〒 − 1 2 3 4 5 6 7 8 9 0 BS Clear"
+    },
+    "verdict": {
+      "model": "jev-1.13.0",
+      "score": 2.46,
+      "category": "Utilities & Tools",
+      "category_confidence": 0.64
+    }
+  },
+  {
+    "canonical_url": "https://www.breakingchange.blog/p/fewer-slides-more-dragons",
+    "url": "https://www.breakingchange.blog/p/fewer-slides-more-dragons",
+    "found_at": "2026-11-22T13:19:34+00:00",
+    "sources": [
+      {
+        "name": "pinboard",
+        "title": "Fewer slides, more dragons - by Michelle Bu"
+      }
+    ],
+    "page": {
+      "final_url": "https://www.breakingchange.blog/p/fewer-slides-more-dragons",
+      "status": 200,
+      "title": "Fewer slides, more dragons",
+      "description": "What happened when I banned myself from making slides",
+      "og_image": "https://substackcdn.com/image/fetch/$s_!Benk!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F5faef69f-8af2-4276-bcb2-b1f4985ca07f_2400x1260.png",
+      "favicon": "https://substackcdn.com/image/fetch/$s_!nCPu!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa0406cc4-bd8a-45d3-a606-d9a9edaceeeb%2Ffavicon.ico",
+      "text_excerpt": "Subscribe Sign in Discover more from Breaking Change writing about building through breaking change Subscribe By subscribing, you agree to Substack's Terms of Use, and acknowledge its Information Collection Notice and Privacy Policy. Already have an account? Sign in Fewer slides, more dragons What happened when I banned myself from making slides MICHELLE BU NOV 18, 2026 18 1 Share Here’s a familiar sight that could send a typical tech manager into hours of procrastination and avoidant behavior: It starts with a simple ask for a meeting or a presentation. No matter how pretty the template is, as soon as you decide you need “some slides,” you find yourself slinking down a path of obsessive pixel-pushing. And it gets worse when inevitably you need a coworker to contribute some content. One understandably tries to cram as much text as possible into their space in 6pt font, while another (maybe a designer) prefers short sentences with bold words. You now get to make these look like they belong in the same presentation. Five hours later, you have the perfect build, with diagrams and animations to make your slides more compelling, educational, and memorable. As you gaze upon your mediocre masterpiece, you wonder whether those hours were worth it. You still need to communicate information with clarity, but maybe the medium has to change. Banning slides At Stripe, I have been accused of saying that we should ban slides. I may have said these words in anger after the fourth meeting of the week where my slides’ colors were slightly wrong because someone had pasted them in and had “matched styles in this presentation.” Most of the time, this may be an eyesore but doesn’t really matter; in this case, my green “on track” status badge had morphed into a dull yellow in the new theme. I may not have meant it, but it’s an interesting provocation, especially when AI makes the alternatives much cheaper. Sometimes you have to take away the rotary phones to get people to use new technolo"
+    },
+    "verdict": {
+      "model": "jev-1.13.0",
+      "score": 1.98,
+      "category": "Blog",
+      "category_confidence": 0.76
+    }
+  },
+  {
+    "canonical_url": "https://www.dragos.com/blog/ai-supply-chain-security-canary-tokens",
+    "url": "https://www.dragos.com/blog/ai-supply-chain-security-canary-tokens",
+    "found_at": "2026-11-22T13:19:34+00:00",
+    "sources": [
+      {
+        "name": "pinboard",
+        "title": "[no title]"
+      }
+    ],
+    "page": {
+      "final_url": "https://www.dragos.com/blog/ai-supply-chain-security-canary-tokens",
+      "status": 200,
+      "title": "Three breaches, endless leaks: Your AI supply chain needs canaries",
+      "description": "We seeded two million AI prompts with canary tokens and found three provider breaches, prompt theft, and ignored Zero Data Retention settings.",
+      "og_image": "https://dragos.brightspotcdn.com/dims4/default/41c5c4a/2147483647/strip/true/crop/1307x735+309+0/resize/1440x810!/format/webp/quality/90/?url=https%3A%2F%2Fdragos-production-dragos.s3.us-west-2.amazonaws.com%2Fbrightspot%2Fd4%2Fb6%2Fb4dbcbe348a8b3506fb99c5419e7%2Fxot-hero.webp",
+      "favicon": "https://www.dragos.com/favicon.ico",
+      "text_excerpt": "TALK TO AN EXPERT Menu Show Search Dragos has acquired NetRise and runZero, building the industry’s first end-to-end xOT cybersecurity platform. Read the blog → Close Blog Three breaches, endless leaks: Your AI supply chain needs canaries November 19, 2026 08:00 AM 15 min read HD Moore HD Moore, Chief Research Officer, will be regularly sharing work from the research team he leads at Dragos. Topics will include xOT, IT, LLMs, PQC, and more. Their findings will sharpen defenders’ understanding of exposures and vulnerabilities emerging across the threat landscape. We sent nearly two million AI prompts containing unique, trackable secrets to AI providers, then watched where those secrets surfaced. What we found revealed security breaches, prompt theft, and widespread failures to protect customer data. Over a five-month period from July through November 2026, we submitted approximately two million prompts containing unique URLs and canary token credentials to widely used AI services and monitored what happened after inference. Our investigation uncovered three significant findings: Evidence of provider compromises. We observed activity indicating that data from at least three AI providers was exposed. Our seeded test prompts were used in attempts to access our controlled test systems and canary AWS accounts. Unauthorized access to customer prompts by inference marketplace providers. Multiple resellers operating through an AI inference marketplace were able to view and retain customer prompts using standard logging capabilities, without exploiting a vulnerability or bypassing platform controls. Failures in privacy and data-handling practices. We observed multiple cases in which providers appeared not to honor customer privacy settings or published policies. Examples included prompts submitted to U.S.-based providers being transmitted to Chinese AI organizations, unique URLs being accessed months after a single inference request, and one seeded link ultimately appearing i"
+    },
+    "verdict": {
+      "model": "jev-1.13.0",
+      "score": 2.35,
+      "category": "Blog",
+      "category_confidence": 0.47
+    }
+  },
+  {
+    "canonical_url": "https://golikehellmachine.com/ephemera/who-is-work-for/",
+    "url": "https://golikehellmachine.com/ephemera/who-is-work-for/",
+    "found_at": "2026-11-22T13:19:34+00:00",
+    "sources": [
+      {
+        "name": "pinboard",
+        "title": "Who is Work For? · GOLIKEHELLMACHINE"
+      }
+    ],
+    "page": {
+      "final_url": "https://golikehellmachine.com/ephemera/who-is-work-for/",
+      "status": 200,
+      "title": "Who is Work For?",
+      "description": "What is the difference between a job and work, and why can't AI researchers and executives see the difference?",
+      "og_image": "https://golikehellmachine.com/img/og/KbO3MhP-W0-1200.jpeg",
+      "favicon": "https://golikehellmachine.com/favicon.png",
+      "text_excerpt": "Skip to content GOLIKEHELLMACHINE WORK IS FOUR LETTERS DOGE IS FOUR LETTERS 10 SONGS EPHEMERA ABOUT EPHEMERA Who is Work For? November 19, 2026 This week, I saw that Palisade Research released an hour-long interview with a guy named Tao Lin, who, as far as I can tell, is not the poet, novelist and psychedelic drug enthusiast. This Tao Lin is a researcher at Anthropic, and is just the latest in a long line of AI researchers who have chosen to drone on in public about how AI will destroy the world and render most of us unemployable. I've been annoyed for years by this kind of thing, but I finally put my finger on why: these viewpoints originate in a worldview which barely registers the existence of non-automatable work, and one that fundamentally has no respect for work that can't be automated, and I find that incredibly small. My Priors, My Priors Before I dive into that, I should put some priors on the table: I've worked in training, operations and learning/development for more than two decades, across a number of different industries. Some of these have been heavily tech-centric; I've worked on an API program for a major telecom provider, I've worked at one of the very big tech companies. Some have been decidedly low-tech; I've worked in manufacturing facilities, I've worked at industrial facilities. Some have been a mix; I've worked in call centers and for a financial provider. All of these workplaces used computers, but not all of them were computer-centric. They required human labor, they required heavy machinery, they required physical space and physical objects like desks and pens and gloves and trash cans, all of which are, themselves, made by human labor which is assisted and enabled by computers and machines. Today, I work in a place where we have a display wall of items people have flushed down the toilet: blankets, bricks, toys and horrors the reader cannot comprehend — no amount of technology will prevent humans from doing what so many of us do, and we w"
+    },
+    "verdict": {
+      "model": "jev-1.13.0",
+      "score": 1.65,
+      "category": "Blog",
+      "category_confidence": 0.97
+    }
+  },
+  {
+    "canonical_url": "https://www.nytimes.com/2026/11/20/opinion/israel-politics-arab-racism.html",
+    "url": "https://www.nytimes.com/2026/11/20/opinion/israel-politics-arab-racism.html",
+    "found_at": "2026-11-22T13:19:34+00:00",
+    "sources": [
+      {
+        "name": "pinboard",
+        "title": "Opinion | The Obscenely Simple Question at the Heart of Israeli Politics - The New York Times"
+      }
+    ],
+    "page": {
+      "final_url": "https://www.nytimes.com/2026/11/20/opinion/israel-politics-arab-racism.html",
+      "status": 403,
+      "title": "nytimes.com",
+      "description": "",
+      "og_image": "",
+      "favicon": "https://www.nytimes.com/favicon.ico",
+      "text_excerpt": ""
+    },
+    "verdict": {
+      "model": "jev-1.13.0",
+      "score": 0.47,
+      "category": "Magazines, Newspapers & Newsletter",
+      "category_confidence": 0.61
+    }
+  },
+  {
+    "canonical_url": "https://www.inspora.design/",
+    "url": "https://www.inspora.design/",
+    "found_at": "2026-11-22T13:19:34+00:00",
+    "sources": [
+      {
+        "name": "pinboard",
+        "title": "Design, Website & Logo Inspiration | Inspora"
+      }
+    ],
+    "page": {
+      "final_url": "https://www.inspora.design/",
+      "status": 200,
+      "title": "Design, Website & Logo Inspiration | Inspora",
+      "description": "Discover curated design, website, logo, and app icon inspiration on Inspora. Explore creative work, meet its creators, and save references for your next project.",
+      "og_image": "https://www.inspora.design/brand/inspora-og.png",
+      "favicon": "https://www.inspora.design/brand/inspora-icon-v1.svg",
+      "text_excerpt": "Design Websites New Logos New Sign in All Web Branding Product Motion Illustration 3D Print Latest SPONSOR 3 slides 3 SPONSOR Inspora is a curated archive of recent visual design inspiration and creative work. Sign in to save inspiration and manage your creator profile. Privacy policy"
+    },
+    "verdict": {
+      "model": "jev-1.13.0",
+      "score": 1.01,
+      "category": "Art & Design",
+      "category_confidence": 0.98
+    }
+  },
+  {
+    "canonical_url": "https://zenn.dev/kusuke/articles/98e178e6824cac",
+    "url": "https://zenn.dev/kusuke/articles/98e178e6824cac",
+    "found_at": "2026-11-22T13:19:34+00:00",
+    "sources": [
+      {
+        "name": "pinboard",
+        "title": "相次ぐOSSの脆弱性に、とりあえずクラウドWAF入れるだけでだいぶ違う話 Rootlessコンテナもいいぞ"
+      }
+    ],
+    "page": {
+      "final_url": "https://zenn.dev/kusuke/articles/98e178e6824cac",
+      "status": 200,
+      "title": "相次ぐOSSの脆弱性に、とりあえずクラウドWAF入れるだけでだいぶ違う話+Rootlessコンテナもいいぞ",
+      "description": "",
+      "og_image": "https://res.cloudinary.com/zenn/image/upload/s--kDaMIsIl--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E7%259B%25B8%25E6%25AC%25A1%25E3%2581%2590OSS%25E3%2581%25AE%25E8%2584%2586%25E5%25BC%25B1%25E6%2580%25A7%25E3%2581%25AB%25E3%2580%2581%25E3%2581%25A8%25E3%2582%258A%25E3%2581%2582%25E3%2581%2588%25E3%2581%259A%25E3%2582%25AF%25E3%2583%25A9%25E3%2582%25A6%25E3%2583%2589WAF%25E5%2585%25A5%25E3%2582%258C%25E3%2582%258B%25E3%2581%25A0%25E3%2581%2591%25E3%2581%25A7%25E3%2581%25A0%25E3%2581%2584%25E3%2581%25B6%25E9%2581%2595%25E3%2581%2586%25E8%25A9%25B1%252BRootless%25E3%2582%25B3%25E3%2583%25B3%25E3%2583%2586%25E3%2583%258A%25E3%2582%2582%25E3%2581%2584%25E3%2581%2584%25E3%2581%259E%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:Yusuke%2520Kawabata%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzFiNjBjMzBiZjEuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE",
+      "favicon": "https://static.zenn.studio/images/logo-transparent.png",
+      "text_excerpt": "Log in 😴 相次ぐOSSの脆弱性に、とりあえずクラウドWAF入れるだけでだいぶ違う話+Rootlessコンテナもいいぞ 日本語 2026/11/19に公開 脆弱性 php2shell nginx2root java2shell nginx2shell Tech 昨日から今日にかけて、なんだかすごいことになっていますね。 先日「PHP2Shell（CVE-2026-109618 / CVE-2026-109619）」というコアそのもののRCE（リモートコード実行）が出て大騒ぎになったと思ったら、JavaでもJavaのBase64デコーダ周りで「Java2Shell（CVE-2026-114938）」が出てきました。さらに今日（11月18日・米国時間）はnginxで10年前から潜んでいたHTTP/2のメモリ破壊バグ（CVE-2026-123007、通称nginx2rootなど）が発表され、今晩23時からはPHPのCriticalな脆弱性リリースまで予告されています。 これだけ立て続けに来ると、真面目にパッチを当てている人ほど疲弊してしまいますよね。しかも今回のラッシュで厄介なのは、どれもフレームワークやアプリの作り方ではなく、Webサーバや言語ランタイムの根っこにあるメモリ破壊だということです。ログイン画面の裏だろうが、自前のコードに1行もバグがなかろうが、そこにリクエストが届いた時点で攻撃が成立しちゃいます。 もちろんアップデートはするとして、発表からパッチを当ててデプロイするまでの数時間〜数日をどうしのぐか。あるいはゼロデイで抜かれたときにどう致命傷を避けるか。 なによりも、我々エンジニアが健康で文化的な生活リズムで過ごせることが重要です そろそろ「深夜にパッチ当て」以外の保険をアーキテクチャ側で持っておいたほうがいいんじゃないか、という話を2つ書きます。 ここ最近の脆弱性たち まず、ここ数週間で何が起きているのかだけ軽く並べておきます。どれもCVSS 9.2クラスの危険度です。 nginx（CVE-2026-123007 ほか）：HTTP/2のフロー制御にある整数オーバーフローや、コネクション切断時のUse-After-Freeなど。2015年のv1.9.5から入っていたバグで、細工された通信を送られるとワーカーが落ちるか、条件次第でRCEまでいきます。 Java2Shell（CVE-2026-114938）：OpenJDKのBase64デコーダがAVX-512（VBMI）を使って高速処理するときに、おかしなパディング（=）が来るとバッファの外に60バイトほどはみ出して書き込んでしまう問題。Basic認証やSAMLトークンなど、認証前のヘッダ処理で踏むのが嫌なところです。 PHP2Shell（CVE-2026-109618 / 109619）：PHPコアのメモリ不足（OOM）処理と致命的エラー時のポインタ管理の不備を組み合わせた未認証RCE。PHP 5.4以降ほぼ全部入りで、公開直後からすでに悪用が観測されています。 今晩（11/19 23時頃）発表予定のPHP脆弱性：サポート対象の全バージョン向けにCriticalな修正が出ると予告されています。非デフォルト設定や少し特殊な構成が条件とのことですが、夜まで詳細は伏せられています。 こうして並べるとわかりますが、「変なHTTP/2フレームを送られる」「変なBase64文字列をヘッダに入れられる」「メモリが壊れるまで大量にリクエストを投げられる」のどれかで刺さっています。HTTP/2まわりはほかのNodeJS系プロダクトにも同様の脆弱性が発生しています。 1. HTTPサーバの前にクラウドWAFを置く 1つめの提案はシンプルで、オリジンサーバをインターネットに直接さらすのをやめて、前にベンダー管理の L7（HTTPプロキシ型） クラウドWAFを置こう、という話です。 WAFというと「SQLインジェクションやXSSを止めるやつでしょ、アプリ側で対策してるからいらないよ」と思われがちですが、今回のラッシュで効くのはそこではありません。ベンダーのエッジで一度HTTP通信を終端してくれること自体に価値があります。 前にプロキシがいるだけで助かる理由 たとえば今回のnginxの脆弱性は、HTTP/2やHTTP/3のプロトコル処理にあります。もし前段にCloudflareやAWSのALB、GCPのロードバランサがいれば、外からのHTTP/2・HTTP/3通信は一度そこで終端されます。おかしなフロー制御フレームはその場で落とされますし、後ろのnginxへは正規化されたきれいな通信（あるいはHTTP/1.1）で渡されるので、オリジン側のパーサバグを直接つつかれずに済みます。 Java2S"
+    },
+    "verdict": {
+      "model": "jev-1.13.0",
+      "score": 2.46,
+      "category": "Software Engineering",
+      "category_confidence": 0.76
+    }
+  },
+  {
+    "canonical_url": "https://fanzines.app/en",
+    "url": "https://fanzines.app/en",
+    "found_at": "2026-11-22T13:19:34+00:00",
+    "sources": [
+      {
+        "name": "pinboard",
+        "title": "Fanzines | Make and print an A4 zine"
+      }
+    ],
+    "page": {
+      "final_url": "https://fanzines.app/en",
+      "status": 200,
+      "title": "Fanzines | Make and print an A4 zine",
+      "description": "A simple editor to design, preview, print and fold your own zine.",
+      "og_image": "https://fanzines.app/images/og-fanzines-en.webp",
+      "favicon": "https://fanzines.app/favicon.ico",
+      "text_excerpt": "Make and print an A4 zine | Fanzines Skip to content FANZINES How it works Print ES Open editor Free · No sign-up · 1 A4 sheet ONE SHEET. EIGHT PAGES. YOUR ZINE. Lay out all eight pages in your browser and export a PDF ready to print. Make one cut down the middle, fold it up, and you have a pocket zine. Make my zine See how it prints made from a single sheet FROM THE BROWSER TO THE TABLE. The editor arranges the pages on the A4 sheet automatically, including the upside-down top row. A4 sheet · it prints like this 6 5 4 3 Back Front 1 2 the top row prints upside down · cut only the center line 01 Design each panel Upload photos, write, and move, rotate or scale each piece right on the page. 02 Download the PDF All eight pages come out in order on a landscape A4 sheet, with cut and fold guides. 03 Print, cut, fold Any standard A4 printer works. Print at 100%, cut the center line, and fold it into a booklet. The editor BUILT FOR A SINGLE A4 SHEET. All eight pages in view, measurements in millimeters and a sheet review before you download. Cut and fold guides Photos, text and free-form collage Print-ready PDF No accounts, nothing to install BEFORE YOU START. 5 questions, 5 answers What do I need? An A4 printer (at home or at a print shop), a sheet of paper, and a pair of scissors. Do I have to create an account? No. Open the editor and start designing. Can I print it in black and white? Yes. The PDF prints cleanly in both color and black and white. How do I fold it? The PDF comes with cut and fold guides. Fold it lengthwise, cut the center line and close it like a book. Where does this fold come from? It's a traditional single-sheet fold that zine makers have used for decades. PocketMod brought it to the web years ago, and Bookbinder JS includes it alongside other formats. To make the pages read in order after folding, half of them have to be placed upside down on the sheet (called imposition), which Fanzines handles automatically. START WITH A COVER AND ONE IMAGE. Make"
+    },
+    "verdict": {
+      "model": "jev-1.13.0",
+      "score": 3.14,
+      "category": "Design Tools",
+      "category_confidence": 0.95
+    },
+    "screenshot": "shots/2026/11-22/fanzines-app-en.jpg"
+  },
+  {
+    "canonical_url": "https://bsky.app/profile/colin-fraser.net/post/3n2rczvp3h22c",
+    "url": "https://bsky.app/profile/colin-fraser.net/post/3n2rczvp3h22c",
+    "found_at": "2026-11-22T13:19:34+00:00",
+    "sources": [
+      {
+        "name": "pinboard",
+        "title": "Post by @colin-fraser.net — I need all of my followers to understand the plot twist that has just now arisen in this Riemann Hypothesis arc. Short explainer thread in case you feel out of the loop and don’t know much about this stuff."
+      }
+    ],
+    "page": {
+      "final_url": "https://bsky.app/profile/colin-fraser.net/post/3n2rczvp3h22c",
+      "status": 200,
+      "title": "Colin (@colin-fraser.net)",
+      "description": "I need all of my followers to understand the plot twist that has just now arisen in this Riemann Hypothesis arc. Short explainer thread in case you feel out of the loop and don’t know much about this stuff.\n\n[contains quote post or other embedded content]",
+      "og_image": "https://cdn.bsky.app/img/avatar_thumbnail/plain/did:plc:6rdthm3ihpqfd7vn2q2ktjrz/bafkreich5nw7tb63vjj2r4uohk5pk753lvru2b53s4qaqvszfzwc5oeq7q",
+      "favicon": "https://web-cdn.bsky.app/static/apple-touch-icon.png",
+      "text_excerpt": "Post Colin @colin-fraser.net Follow I need all of my followers to understand the plot twist that has just now arisen in this Riemann Hypothesis arc. Short explainer thread in case you feel out of the loop and don’t know much about this stuff. 1/10 Colin @colin-fraser.net · 1d What a minute WHAT? 1/2 7:28 PM · Nov 20, 2026 101 reposts 22 quotes 313 likes 59 saves 11 123 313 Colin @colin-fraser.net · 1d The Riemann Hypothesis is arguably the most important mystery in mathematics, in the sense that so many other questions in mathematics are automatically answered if we know the answer to RH. It has been unsolved for almost 200 years. 2/10 5 11 133 Colin @colin-fraser.net · 1d Many mathematicians, even ones who are generally optimistic about AI for math, believed that RH was probably out of reach of current AI. 3/10 1 4 96 Colin @colin-fraser.net · 1d Today, Levent Alpöge, a mathematician who works at Anthropic, self-published a 17 million line AI-generated computer program that purports to answer the question (RH is true—which was really the consensus belief, but no one knew with the certainty that is demanded in mathematics). 4/10 2 8 105 Colin @colin-fraser.net · 1d It seems unlikely (but it is not impossible) that there are any errors here, since the point of this kind of program (a “Lean proof”) is to rule out errors. RH seems to be confirmed. This approach is a large departure from both mathematical norms and also academic ones more broadly. 5/10 3 4 109 Colin @colin-fraser.net · 1d Usually you would seek peer review etc, you might spend months or years developing something like this, going back and forth with reviewers, refining it before publishing it. 6/10 1 3 93 Colin @colin-fraser.net · 1d To wit, it was just announced, like, just right now, that another mathematician, Alessandro Masullo, has been doing just that, and has 900 page manuscript that purportedly also proves the generalized RH (GRH). math216.wordpress.com/2026/11/20/h... 7/10 4 25 155 Colin @colin"
+    },
+    "verdict": {
+      "model": "jev-1.13.0",
+      "score": 0.76,
+      "category": "Social Networking",
+      "category_confidence": 0.83
+    }
+  },
+  {
+    "canonical_url": "https://ftrain.com/aboard-welcome-to-the-age-of-receipts",
+    "url": "https://ftrain.com/aboard-welcome-to-the-age-of-receipts",
+    "found_at": "2026-11-22T13:19:34+00:00",
+    "sources": [
+      {
+        "name": "pinboard",
+        "title": "Welcome to the Age of Receipts"
+      }
+    ],
+    "page": {
+      "final_url": "https://ftrain.com/aboard-welcome-to-the-age-of-receipts",
+      "status": 200,
+      "title": "Welcome to the Age of Receipts, by Paul Ford",
+      "description": "I do not believe that our current institutions are designed for this level of attention—Republican, Democratic, or Nvidian.",
+      "og_image": "https://ftrain.com/art/uploads/aboard-newsletter/welcome-to-the-age-of-receipts-header.png",
+      "favicon": "https://ftrain.com/admin/assets/favicon-COQBe-qt.ico",
+      "text_excerpt": "Ftrain, by Paul Ford Home / Publications / Print, Web, and Newsletters / The Aboard Newsletter Nov 18, 2026 (4 days ago)The Aboard Newsletter Welcome to the Age of Receipts ➛ I do not believe that our current institutions are designed for this level of attention—Republican, Democratic, or Nvidian. When you run a GPU company it’s a million little fires burning in parallel. I don’t know if there has ever been a more surreal moment in the technology industry. It’s the front page of the paper, every single day. We’ve got Jensen Huang’s affairs (in all senses of the word), big systems going down daily, and a data-center-critical incoming Democratic Congress. We have a supposedly tech-forward presidential administration with no ability to even perceive how badly it screwed up, the impending trillion (or is it two?) dollar Anthropic IPO, and a sudden leftward tilt from tech billionaires, reminding us how progressive they are, really. I don’t really need to run through each of these stories. You’re either aware of them or not—but odds are, you’re aware of all of them. Personally, that’s the thing that’s hardest to wrap my head around. I find the tech industry inherently fascinating, and as a result I’ve spent a lot of my life explaining it to people who find it kind of boring and would like to understand all the fuss. But for the first time in my life, I’m confident that people will know what I’m talking about before I bring it up. Tech is constantly front-page national or global news, not exiled to the science or business sections of the paper. Tech policy is a de-facto part of politics. Whether I’m going to a lunch, a baby shower, or a school meeting, before I can offer a word, people tell me their opinions on Elon Musk, or Claude. Sometimes they’re really pissed off, sometimes they’re enamored, and very often, they’re totally wrong about some basic facts. But they are highly, highly engaged. This moment of vigilance isn’t just about tech. When the Democrats neglected to "
+    },
+    "verdict": {
+      "model": "jev-1.13.0",
+      "score": 1.44,
+      "category": "Magazines, Newspapers & Newsletter",
+      "category_confidence": 0.95
+    }
+  },
+  {
+    "canonical_url": "https://vgel.me/notebook/words-all-the-way-down/",
+    "url": "https://vgel.me/notebook/words-all-the-way-down/",
+    "found_at": "2026-11-22T13:19:34+00:00",
+    "sources": [
+      {
+        "name": "pinboard",
+        "title": "Words All The Way Down"
+      }
+    ],
+    "page": {
+      "final_url": "https://vgel.me/notebook/words-all-the-way-down/",
+      "status": 200,
+      "title": "Words All The Way Down",
+      "description": "Thebes' website",
+      "og_image": "",
+      "favicon": "https://vgel.me/favicon.ico",
+      "text_excerpt": "VGEL.ME blog ✢ fictions ✢ notebook ✢ doodles ✢ github ✢ itch.io ✢ contact Words All The Way Down Posted November 12, 2026 Recently we released an interim progress post on the chain lens, which is a new interpretability tool I've been working on for the last month. The chain lens takes existing token lenses like the J-lens and augments them with a multi-token prediction head, turning them into multi-token phrase lenses. At its core, this is an incredibly simple idea: we have this tool that can turn a hidden state into a single-token readout (the J-lens), we'd like it to be multi-token, and there's a component in the model that literally has \"multi-token\" in the name, can we use that... and it turns out yes, we can. For more technical details you can read the post, but because of it I've been thinking more about interpretability and our understanding of models. Why did we find this? If it's such a simple idea, why did it take until now? Why does such a simple idea even work? Much of the belief that AI will be inherently hard to understand seems to come from 'black box trauma': the death of symbolic AI, \"every time I fire a linguist the performance of the system goes up,\" the bitter lesson, the failure of eXplainable AI, the big blob of compute and scaling hypotheses. Early setbacks in model interpretability, like the consensus that OpenAI's sentiment neuron was rare and most neurons are in superposition, made the situation seem hopeless. Why should we expect to be able to understand trillion-parameter models? It's not like humans would have any hope of understanding random trillion-line Python programs. The words must be riding on top of an inscrutable ocean. But recently, there's been a flood of new avenues for understanding models that were hiding in plain sight. J-lens found a simple improvement to the logit lens that no one had noticed for six years. Scalable interp NLAs and oracles are independently starting to work really well. Models are getting good at introsp"
+    },
+    "verdict": {
+      "model": "jev-1.13.0",
+      "score": 2.67,
+      "category": "Blog",
+      "category_confidence": 0.81
+    }
+  },
+  {
+    "canonical_url": "https://github.com/simplexai-labs/linger",
+    "url": "https://github.com/simplexai-labs/linger",
+    "found_at": "2026-11-22T13:19:34+00:00",
+    "sources": [
+      {
+        "name": "pinboard",
+        "title": "simplexai-labs/linger: Linger is An Open-Source Personal Agent That Runs Fully on Your PC. We aim to break Big Tech’s grip on AI by bringing powerful local AI to everyday computers through efficient model–harness co-design, so everyone can run thei..."
+      }
+    ],
+    "github": {
+      "repo_url": "https://github.com/simplexai-labs/linger",
+      "homepage": "https://heylinger.com",
+      "description": "Linger is An Open-Source Personal Agent That Runs Fully on Your PC.  We aim to break Big Tech’s grip on AI by bringing powerful local AI to everyday computers through efficient model–harness co-design, so everyone can run their own.",
+      "topics": [
+        "agent-teams",
+        "local-llm",
+        "memory",
+        "personal-agent",
+        "proactive-agent",
+        "proactive-ai"
+      ],
+      "stars": 3683,
+      "created_at": "2026-11-10T03:50:38Z",
+      "pushed_at": "2026-11-22T12:31:51Z",
+      "owner_avatar": "https://avatars.githubusercontent.com/u/257494383?v=4"
+    },
+    "page": {
+      "final_url": "https://github.com/simplexai-labs/linger",
+      "status": 200,
+      "title": "GitHub - simplexai-labs/linger: Linger is An Open-Source Personal Agent That Runs Fully on Your PC.  We aim to break Big Tech’s grip on AI by bringing powerful local AI to everyday computers through efficient model–harness co-design, so everyone can run their own.",
+      "description": "Linger is An Open-Source Personal Agent That Runs Fully on Your PC.  We aim to break Big Tech’s grip on AI by bringing powerful local AI to everyday computers through efficient model–harness co-des...",
+      "og_image": "https://repository-images.githubusercontent.com/1452175380/82670003-b765-410c-8566-9c1675720087",
+      "favicon": "https://github.com/fluidicon.png",
+      "text_excerpt": "Skip to content Navigation Menu Products Developers Businesses Resources Pricing Search / Sign in Sign up simplexai-labs linger Repository navigation Code Issues 24 (24) Pull requests 101 (101) Discussions Actions Security and quality Insights linger Public Notifications Fork350 (350) Star3.7k (3.7k) main 68 Branches 8 Tags Code Latest commit oldwinter90 fix(model-source): omit refusal message from daemon log and reuse byo… 6663e21 · History 722 Commits Folders and files Name Last commit message Last commit date .agents/skills/verify-linger feat(computer): review Pi tool calls and add the new Runtime acceptan… .github feat(computer): run UI actions in an isolated script .husky Initial open-source release of Linger apps fix(model-source): omit refusal message from daemon log and reuse byo… assets docs(readme): show the macOS first-launch steps with real screenshots contracts fix(model-source): surface BYOK_GATEWAY_FAILED details across TeamHub… docs fix(windows): install and run Linger as administrator e2e Initial open-source release of Linger packages chore(desktop): update localmodels to 0.1.0.dev47 patches fix(node-services): keep the Document Runtime on its configured address scripts chore(desktop): update localmodels to 0.1.0.dev47 skills fix(computer): work in a running Chrome and read public pages with br… third_party/licenses Initial open-source release of Linger .dockerignore Initial open-source release of Linger .env.example fix(install): keep LiveKit port selection in local Compose config .gitattributes fix(windows): repair native service checks, kit sealing and the Pi WS… .gitignore Initial open-source release of Linger .golangci.yml Initial open-source release of Linger .node-version Initial open-source release of Linger .npmrc Initial open-source release of Linger .prettierignore Initial open-source release of Linger AGENTS.md ci: allow CJK in the desktop shell's translation catalog CONTRIBUTING.md docs: add a local PostgreSQL 17 setup guide LICENSE Ini"
+    },
+    "homepage": {
+      "final_url": "https://heylinger.com/",
+      "status": 200,
+      "title": "Linger — Your personal agent, on your own computer.",
+      "description": "An open-source personal agent workspace. Bring your tools, keep your context, and run AI on your own computer.",
+      "og_image": "",
+      "favicon": "https://heylinger.com/media/linger-mark.svg",
+      "text_excerpt": "Skip to content Product Local AI Docs Contact GitHub 3.7k Discord Your personal agent, on your own computer . Join waitlist Linger Demo Local · Pi Messages Library Wiki Connectors Another Me Your personal agent Agents Research Writer Routines Computer Another Me Catch up Plan ahead Follow through You: Get me up to speed on the Acme launch. The pilot is on track for Friday. The proposal is approved and the launch plan is ready. Contract sign-off is the one open item; Alex can help find its owner. 3 sources connected 2 background tasks completed Message Another Me Meeting example Document Activity Sources Team Project brief Acme launch A focused pilot for the design team. Wider rollout comes next. Ready Proposal approved Launch plan prepared Contract sign-off Alex can confirm the owner before Friday. Draft follow-up Open in Library Morning brief Before a meeting Follow-up Weekdays · 8:30 AM Your first meeting is at 10. The proposal needs a reply before then. A nudge. At the right time. Voice, at work. Meetings Dictation Live conversation Acme weekly sync Captured 00:42 A Alex “Revised proposal by Friday.” Y You “I’ll send it to Maya.” Meeting notes Update & share proposal You · Friday Fri Follow-up Draft To Maya Hi Maya, I’ll share the revised proposal by Friday for your review. Top AI models, tuned to run locally. Qwen, DeepSeek, Gemma and more, up to 5x faster on your PC, powered by PolyStrata. How it was measured 0 popular open models, accelerated for consumer hardware Qwen DeepSeek Gemma Qwen3.8-Flash-Next Qwen3.8-27B Spark-X2.6-4B + more Speed vs. a standard local setup Big models Standard local 1x Linger · PolyStrata 5x Smaller models Standard local 1x Linger · PolyStrata ~2x 125B model on a 12 GB gaming GPU 60–100 tok/s 35B-class models on an 8 GB laptop One-click install picks the best model for your hardware $0 token fees Your data stays on your device Common questions. Read the docs How can I try Linger? Does everything stay on my computer? What do I need to"
+    },
+    "verdict": {
+      "model": "jev-1.13.0",
+      "score": 3.22,
+      "category": "Productivity",
+      "category_confidence": 0.42
+    },
+    "screenshot": "shots/2026/11-22/github-com-simplexai-labs-linger.jpg"
+  },
+  {
+    "canonical_url": "https://aperiodical.com/2026/11/i-cant-believe-its-1/",
+    "url": "https://aperiodical.com/2026/11/i-cant-believe-its-1/",
+    "found_at": "2026-11-22T13:19:34+00:00",
+    "sources": [
+      {
+        "name": "pinboard",
+        "title": "I can’t believe it’s 1! | The Aperiodical"
+      }
+    ],
+    "page": {
+      "final_url": "https://aperiodical.com/2026/11/i-cant-believe-its-1/",
+      "status": 200,
+      "title": "I can’t believe it’s 1!",
+      "description": "At this year’s MathsJam Gathering, I gave a talk about the number 1. Here’s the recording:",
+      "og_image": "https://aperiodical.com/wp-content/uploads/2026/11/mixed-base.png",
+      "favicon": "https://aperiodical.com/wp-content/themes/aperiodical/favicon.png",
+      "text_excerpt": "The Aperiodical About Podcasts Carnival of Mathematics Send something in Search RSS You're reading: cp's mathem-o-blog I can’t believe it’s 1! By Christian Lawson-Perfect. Posted November 16, 2026 in cp's mathem-o-blog At this year’s MathsJam Gathering, I gave a talk about the number 1. Here’s the recording: The talk was a bit quick, due to having to fit in 5 minutes, so I thought I’d put a bit of writing here that you can stare at in your own time. You might have seen before the fact that 0.999… =1 . I started the talk by saying I don’t want a fight, and I’ll repeat that now. So let’s take that fact as a given. The usual way for proving it is to say: 𝑥 =0.999… 10⁢𝑥 =9.999… 10⁢𝑥–𝑥 =9 𝑥 =1 In base 10, each digit can be 0, 1, 2, 3, 4, 5, 6, 7, 8, 9. The first digit after the decimal point is worth 1 10 , the next digit is worth 1 100 , and the nth digit is worth 1 10𝑛 . You can do the same thing in binary, or base 2: 𝑥 =0.111… 2⁢𝑥 =1.111… 2⁢𝑥–𝑥 =1 𝑥 =1 One day, I wondered what you could do with a mixed base representation of numbers, where the nth digit is written in base 𝑛 +1 . And then I wrote down 0.123456789… Here’s how that works: the first digit after the dot is in base 2 so it can be either 0 or 1, representing 0 or 1 2 of a whole. The next digit is in base 3, so it can be either 0, 1 or 2. They’re thirds of the remaining half. The digit after that is in base 4, and so on. I visualise this as filling up a circle: the first digit can fill up the first half, then the second digit divides the remaining half into three smaller pieces and can fill up two of those, and so on. If I’d wanted the fact that this number is 1 to be an “aha!” moment, I shouldn’t have told you that in this post’s title. But I don’t think that’s the interesting bit. The interesting thing for me was working out how to prove it, similarly to the decimal version. What number should you multiply by? Whatever you pick, there will be a digit in that base, but all the others are in a different base."
+    },
+    "verdict": {
+      "model": "jev-1.13.0",
+      "score": 1.56,
+      "category": "Blog",
+      "category_confidence": 0.69
+    }
+  },
+  {
+    "canonical_url": "https://news.ycombinator.com/item?id=50528119",
+    "url": "https://news.ycombinator.com/item?id=50528119",
+    "found_at": "2026-11-22T13:19:34+00:00",
+    "sources": [
+      {
+        "name": "pinboard",
+        "title": "How to CAD Almost Anything | Hacker News"
+      }
+    ],
+    "page": {
+      "final_url": "https://news.ycombinator.com/item?id=50528119",
+      "status": 200,
+      "title": "How to CAD Almost Anything | Hacker News",
+      "description": "",
+      "og_image": "",
+      "favicon": "https://news.ycombinator.com/y18.svg",
+      "text_excerpt": "Hacker Newsnew | past | comments | ask | show | jobs | submit login How to CAD Almost Anything (ocw.mit.edu) 387 points by o4c 2 days ago | hide | past | favorite | 145 comments help mafm 2 days ago | next [–] There has been a recent explosion in open source cad options. fluidcad appears to be a remarkably good option now - particularly for something that only started development about a year ago. I have used freecad, solvespace and onshape for at least a hundred hours each to make some reasonably complex parts. fluidcad resolves pretty much everything I found painful about those options. I have some more limited experience with build123d which is also nice, but just not as easy and interactive as fluidcad. Fluidcad provides normal interactive 3d cad interface with tools like extrudes/revolves/sketches but explicitly generates code as an intermediate step to constructing geometry and the code can be edited and refactored easily. The linking between the code and the gui works remarkably well in practice. It’s far easier to manage parameters and constraints in fluidcad where they are written out explicitly and can be edited vs what happened in a gui-only interface like Onshape. If you’re playing around with a semi-constrained sketch to understand kinematics onshape tends to “helpfully” add random constraints which is really annoying to identify and correct. In fluidcad everything is way more explicit and visible and clear. I have only spent about 5 hours using fluidcad but it looks remarkably useful despite some minor rough edges. It’s pretty much exactly what I wanted onshape or build123d to be. Solvespace is a really beautiful piece of software but quite limited. fluidcad has the same sort of nice vibes as solvespace but is way more powerful. reply eadz 2 days ago | parent | next [–] I love open source ( although slightly less relevant now ), and so I spent many many hours using OpenSCAD to write parts that in hindsight would have taken me 1/10 time in something lik"
+    },
+    "verdict": {
+      "model": "jev-1.13.0",
+      "score": 1.44,
+      "category": "Design Tools",
+      "category_confidence": 0.44
+    }
+  },
+  {
+    "canonical_url": "https://www.cato.org/policy-analysis/immigrants-historical-effects-government-budgets-1900-2023",
+    "url": "https://www.cato.org/policy-analysis/immigrants-historical-effects-government-budgets-1900-2023",
+    "found_at": "2026-11-22T13:19:34+00:00",
+    "sources": [
+      {
+        "name": "pinboard",
+        "title": "Immigrants historical effect on government budgets, 1900 through 2023"
+      }
+    ],
+    "page": {
+      "final_url": "https://www.cato.org/policy-analysis/immigrants-historical-effects-government-budgets-1900-2023",
+      "status": 403,
+      "title": "",
+      "description": "",
+      "og_image": "",
+      "favicon": "https://www.cato.org/favicon.ico",
+      "text_excerpt": ""
+    },
+    "verdict": {
+      "model": "jev-1.13.0",
+      "score": 1.24,
+      "category": "Research",
+      "category_confidence": 0.93
+    }
+  },
+  {
+    "canonical_url": "https://www.lrb.co.uk/the-paper/v48/n21/lydia-davis/dying-or-doing-something-else",
+    "url": "https://www.lrb.co.uk/the-paper/v48/n21/lydia-davis/dying-or-doing-something-else",
+    "found_at": "2026-11-22T13:19:34+00:00",
+    "sources": [
+      {
+        "name": "pinboard",
+        "title": "Lydia Davis · Dying, or Doing Something Else: Marcus Aurelius and Me"
+      }
+    ],
+    "page": {
+      "final_url": "https://www.lrb.co.uk/the-paper/v48/n21/lydia-davis/dying-or-doing-something-else",
+      "status": 200,
+      "title": "Lydia Davis · Dying, or Doing Something Else: Marcus Aurelius and Me",
+      "description": "I’m not happy that humanity may disappear, and I’m not really comforted by the idea that other species may survive....",
+      "og_image": "https://www.lrb.co.uk/storage/social_image/images/5/7/8/2/31122875-1-eng-GB/d0645770d5c0-Marcus-Aurelius.jpg",
+      "favicon": "https://www.lrb.co.uk/assets/icons/apple-touch-icon.png",
+      "text_excerpt": "Sign in Menu Search THE PAPER SUBJECTS BLOG PODCASTS & VIDEOS EVENTS SHOP NEWSLETTERS London Review of Books Subscribe Close Search MORE SEARCH OPTIONS Advanced search Search by contributor Browse our cover archive BROWSE BY SUBJECT Arts & Culture Biography & Memoir History & Classics Literature & Criticism Philosophy & Law Politics & Economics Psychology & Anthropology Science & Technology In the latest issue: Clint Eastwood’s Presence David Bromwich Short Cuts: Sinking the ‘United States’ Richard J. Williams Renoir’s Women Julian Barnes Nazis in Weimar Christopher Clark Spycops Florence Sutcliffe-Braithwaite On Deaccession Anna McGee Don’t blame Adorno Richard Seymour On Natalie Scenters-Zapico Stephanie Burt Deconstruct this! Hal Foster On Denise Riley Fiona Green Massacre in El Fasher Alex de Waal On Forensis Daniel Trilling ‘Pax Economica’ Alexander Zevin At the Musée Picasso: On Kurt Schwitters John-Paul Stonard Arab Identity Travis Zadeh Two Poems Rae Armantrout Invasive Species John Whitfield Andrea Bajani’s ‘The Anniversary’ Tim Parks On Joan Barfoot Harriet Baker High-Rise Britain Sam Wetherell Diary: At the Wheel Zoe Dubno Dying, or Doing Something ElseLydia Davis Share on Bluesky Share on Facebook Email Print Search AcceptClose Close Close Sign in Newsletters Home The Paper Subjects Blog Podcasts & Videos Events Shop Subscribe Vol. 48 No. 21 · 26 November 2026 Dying, or Doing Something Else Lydia Davis on Marcus Aurelius and Other Stoics Share on Bluesky Share on Facebook Email Print 7915 words I t is somewhat​ intimidating to write about a subject you are just beginning to explore – in this case, Stoicism. But I brought it on myself. I chose the subject of Stoic philosophy because I was newly engrossed in it and did not want to turn my mind to other matters. So this is my own doing. But please forgive any lacunae. I was, early on, asked by a friend how I came to be interested in the Stoics. I wouldn’t tell her, except to say, ‘by chance’. I wanted to tr"
+    },
+    "verdict": {
+      "model": "jev-1.13.0",
+      "score": 0.66,
+      "category": "Magazines, Newspapers & Newsletter",
+      "category_confidence": 0.99
+    }
+  },
+  {
+    "canonical_url": "https://pointerpointer.com/",
+    "url": "https://pointerpointer.com/",
+    "found_at": "2026-11-22T13:19:34+00:00",
+    "sources": [
+      {
+        "name": "pinboard",
+        "title": "Pointer Pointer"
+      }
+    ],
+    "page": {
+      "final_url": "https://pointerpointer.com/",
+      "status": 200,
+      "title": "pointerpointer.com",
+      "description": "Please hold still while we locate your pointer...",
+      "og_image": "https://pointerpointer.com/like3.jpg",
+      "favicon": "https://pointerpointer.com/favicon.ico",
+      "text_excerpt": "Please move your pointer"
+    },
+    "verdict": {
+      "model": "jev-1.13.0",
+      "score": 1.8,
+      "category": "Entertainment",
+      "category_confidence": 0.73
+    }
+  },
+  {
+    "canonical_url": "https://marginalrevolution.com/marginalrevolution/2026/11/the-anthropic-ipo.html",
+    "url": "https://marginalrevolution.com/marginalrevolution/2026/11/the-anthropic-ipo.html",
+    "found_at": "2026-11-22T13:19:34+00:00",
+    "sources": [
+      {
+        "name": "pinboard",
+        "title": "[no title]"
+      }
+    ],
+    "page": {
+      "final_url": "https://marginalrevolution.com/marginalrevolution/2026/11/the-anthropic-ipo.html",
+      "status": 200,
+      "title": "The Anthropic IPO - Marginal REVOLUTION",
+      "description": "In general I am bullish on the commercial prospects of AI companies, including Anthropic (do note I am on the Advisory Board, though with zero governance role and zero access to internal information). But I view today’s IPO as a sign of bearishness on any kind of extreme superintelligence, no matter what involved parties might […]",
+      "og_image": "https://marginalrevolution.com/wp-content/uploads/2016/10/MR-logo-thumbnail.png",
+      "favicon": "https://marginalrevolution.com/wp-content/uploads/2015/10/cropped-MR-logo-thumbnail-32x32.png",
+      "text_excerpt": "About Marginal Revolution Archive Our Books Our Textbook: Modern Principles of Economics Marginal Revolution University Search Search The Anthropic IPO by Tyler Cowen November 19, 2026 at 1:40 am in Economics Web/Tech In general I am bullish on the commercial prospects of AI companies, including Anthropic (do note I am on the Advisory Board, though with zero governance role and zero access to internal information). But I view today’s IPO as a sign of bearishness on any kind of extreme superintelligence, no matter what involved parties might say. If superintelligence is coming soon, why turn yourself into a public company, with all the extra scrutiny and regulation that requires? Raising extra money through debt is the obvious alternative — why cut other in on such an amazing deal? Furthermore, true superintelligence is likely to raise real interest rates, which raises the return to borrowing today (you can always reinvest at higher rates later, if you do not need the money for compute, etc.). Now raising money through debt would be relatively costly for Anthropic, but at the very least they could have shrunk the size of the IPO and borrowed more at the margin. Claude says they would have had to pay about ten to eleven percent on that debt. Alternately, they could just take on Jane Street, Citadel, and others and try to earn money through direct commercial activities (but in fact they cannot, note that). So presumably Anthropic thinks that pending advances, whatever you might wish to call them, will not with any great certainty yield ten to eleven percent at the margin. That is a perfectly fine view for them to hold, but you all should use the implied inference to calm down a bit about what is coming. I myself am taking that wise and prudent financial decision under advisement, and it does not imply an incredibly radical near future. Keep in mind that the average return on American corporate capital is about seven percent. Addendum: Maybe there is some clever 3-D che"
+    },
+    "verdict": {
+      "model": "jev-1.13.0",
+      "score": 1.84,
+      "category": "Blog",
+      "category_confidence": 0.53
+    }
+  },
+  {
+    "canonical_url": "https://scholarlykitchen.sspnet.org/2026/11/20/ai-training-is-copyright-infringement-what-publishers-need-to-know-about-thomson-reuters-v-ross-intelligence/",
+    "url": "https://scholarlykitchen.sspnet.org/2026/11/20/ai-training-is-copyright-infringement-what-publishers-need-to-know-about-thomson-reuters-v-ross-intelligence/",
+    "found_at": "2026-11-22T13:19:34+00:00",
+    "sources": [
+      {
+        "name": "pinboard",
+        "title": "AI Training is Copyright Infringement: What Publishers Need to Know about Thomson Reuters v ROSS Intelligence - The Scholarly Kitchen"
+      }
+    ],
+    "page": {
+      "final_url": "https://scholarlykitchen.sspnet.org/2026/11/20/ai-training-is-copyright-infringement-what-publishers-need-to-know-about-thomson-reuters-v-ross-intelligence/",
+      "status": 200,
+      "title": "AI Training is Copyright Infringement: What Publishers Need to Know about Thomson Reuters v ROSS Intelligence - The Scholarly Kitchen",
+      "description": "[T]he Third Circuit’s opinion supports the position that the more the AI is marketed as solving research challenges, the less transformative it becomes with respect to STM content.",
+      "og_image": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2026/11/iStock-2241423243.jpg",
+      "favicon": "https://scholarlykitchen.sspnet.org/wp-content/themes/bedstone/favicons/favicon.ico",
+      "text_excerpt": "Sign up for Daily Email Alerts FOLLOW The Scholarly Kitchen What’s Hot and Cooking In Scholarly Publishing ABOUT ARCHIVES COLLECTIONS TRANSLATIONS CHEFS PODCAST FOLLOW AI Training is Copyright Infringement: What Publishers Need to Know about Thomson Reuters v ROSS Intelligence By ROY KAUFMANNOV 20, 20265 COMMENTS TIME TO READ: 6 MINS ARTIFICIAL INTELLIGENCE CONTROVERSIAL TOPICS COPYRIGHT Share 0 SHARES PRINT THIS PAGE On September 29, 2026, the US Court of Appeals for the Third Circuit issued its long-awaited decision in the lawsuit of Thomson Reuters v ROSS Intelligence. This case was filed in 2020 and was first mentioned in The Scholarly Kitchen in March 2023. As of today, it is the only Circuit Court decision in the US to address training. It was a big win for copyright owners. Background The case involved the surreptitious copying of the entire Westlaw legal database (after having been denied a license) in order to create a competing “AI legal search engine.” The original defendant went out of business but continues (somehow) to litigate. After Thomson Reuters (TR) won summary judgement, ROSS Intelligence (ROSS) appealed on two issues; copyrightability of the copied works and fair use. Copyrightability Expression is protected by copyright. Facts are not. Nor are US Government Works such as statutes and cases. At issue here was Westlaw’s headnotes, containing summaries of public domain cases (vaguely similar to abstracts in journals). While text of headnotes is largely driven by the facts of the cases they summarize, the court took note of TR’s editorial practices and held: All 2,243 independently created headnotes at issue in this appeal have ‘some creative spark.’ For each headnote, Thomson Reuters’s editors made creative decisions about which points of law were important enough to include in a headnote and how to word those points of law consistent with Westlaw’s drafting criteria. Each headnote had to convey enough factual background and reasoning to stand on"
+    },
+    "verdict": {
+      "model": "jev-1.13.0",
+      "score": 1.86,
+      "category": "Magazines, Newspapers & Newsletter",
+      "category_confidence": 0.3
+    }
+  },
+  {
+    "canonical_url": "https://cooking.nytimes.com/article/best-thanksgiving-side-dishes",
+    "url": "https://cooking.nytimes.com/article/best-thanksgiving-side-dishes",
+    "found_at": "2026-11-22T13:19:34+00:00",
+    "sources": [
+      {
+        "name": "pinboard",
+        "title": "Best Thanksgiving Side Dishes | Thanksgiving Recipes 2025 | NYT Cooking - NYT Cooking"
+      }
+    ],
+    "page": {
+      "final_url": "https://cooking.nytimes.com/article/best-thanksgiving-side-dishes",
+      "status": 200,
+      "title": "The Best Thanksgiving Side Dishes to Make You Forget About the Turkey",
+      "description": "Because we all know the green bean casserole, stuffing and mashed potatoes are the best part of the meal.",
+      "og_image": "https://static01.nyt.com/images/2025/11/24/multimedia/24FD-SIDES-TG-ROUNDUP-topart-cacioepepegreenbeans-qcpk/24FD-SIDES-TG-ROUNDUP-topart-cacioepepegreenbeans-qcpk-articleLarge.jpg",
+      "favicon": "https://cooking.nytimes.com/favicon.ico",
+      "text_excerpt": "Log in Subscribe now and save Thanksgiving What to Cook Recipes Ingredients Occasions Articles Videos About The Thanksgiving sale is on. 75% off your first year. Learn more ADVERTISEMENT SKIP ADVERTISEMENT Articles The Best Thanksgiving Side Dishes to Make You Forget About the Turkey Because we all know the green bean casserole, stuffing and mashed potatoes are the best part of the meal. Credit... Christopher Testani for The New York Times. Food Stylist: Simon Andrews. By Krysten Chambrot and Allison Jiang Published Nov. 6, 2020 Updated Oct. 9, 2026 Let’s be honest: Turkey’s great, but Thanksgiving is about the side dishes. Some of us wait all year for stuffing and potatoes (sweet and regular), mac and cheese — and even cranberry sauce. To say nothing of rolls. We’ve assembled some of our finest recipes, new and old, to round out your meal. These supporting players are so good, you’d be forgiven if you forgot about the turkey. 1. Cacio e Pepe Green Beans Credit... Rachel Vanni for The New York Times. Food Stylist: Simon Andrews. This three-ingredient, one-pan side dish from Sheela Prakash provides some much needed color to the table. Freshly ground black pepper adds a little heat, and Parmesan lends umami. Recipe: Cacio e Pepe Green Beans ADVERTISEMENT SKIP ADVERTISEMENT 2. Honeyed Cranberries With Tahini Credit... Bobbi Lin for The New York Times. Food Stylist: Rebecca Jurkevich. Prop Stylist: Megan Hedgpeth. There’s something practically magical about this innovative cranberry sauce recipe from Andy Baraghani, which one reader described as “unbelievably good.” There are only six ingredients — cranberries, honey, lemon juice, cardamom, salt and tahini — but the sweetness of the honey and the earthiness of the tahini put a sophisticated twist on a classic. Recipe: Honeyed Cranberries With Tahini 3. Stuffing-Stuffed Mushrooms Credit... David Malosh for The New York Times. Food Stylist: Simon Andrews. Alexa Weibel’s genius recipe makes stuffing all the more decadent ("
+    },
+    "verdict": {
+      "model": "jev-1.13.0",
+      "score": 0.45,
+      "category": "Magazines, Newspapers & Newsletter",
+      "category_confidence": 0.87
+    }
+  },
+  {
+    "canonical_url": "https://x.com/0xSero/status/2124238286457917649",
+    "url": "https://x.com/0xSero/status/2124238286457917649",
+    "found_at": "2026-11-22T13:19:34+00:00",
+    "sources": [
+      {
+        "name": "pinboard",
+        "title": "0xSero on X: \"My magnum opus, my greatest production. This skill was forged through thousands of hours of inference optimisation I have collected 30 posts of people who used this to get anything from 30% speed up to 5x speed ups Prove it works, you will g"
+      }
+    ],
+    "page": {
+      "final_url": "https://x.com/0xSero/status/2124238286457917649",
+      "status": 403,
+      "title": "",
+      "description": "",
+      "og_image": "",
+      "favicon": "https://x.com/favicon.ico",
+      "text_excerpt": ""
+    },
+    "verdict": {
+      "model": "jev-1.13.0",
+      "score": 0.68,
+      "category": "Social Networking",
+      "category_confidence": 0.45
+    }
+  },
+  {
+    "canonical_url": "https://iconmcp.com/",
+    "url": "https://iconmcp.com/",
+    "found_at": "2026-11-22T13:19:34+00:00",
+    "sources": [
+      {
+        "name": "pinboard",
+        "title": "IconMCP · icon library"
+      }
+    ],
+    "page": {
+      "final_url": "https://iconmcp.com/",
+      "status": 200,
+      "title": "IconMCP · a world of icons, drawn by agents",
+      "description": "6,248 original outline icons, and an MCP server your coding agent can search by meaning. Free for anything, MIT licence.",
+      "og_image": "https://iconmcp.com/og-world.png",
+      "favicon": "https://iconmcp.com/favicon.svg",
+      "text_excerpt": "What the agents are making Feed Use in your agent IconMCP Generic 152 Actions 32 Navigation 26 Status 22 Objects 72 Ivo Otto Ada Kai Ravi Juno Mira Pax Teo Lena Yuki Generic 152 4,683 fixes 9,540 additions Juno refining Locked notifications Mira refining Clamp meter Pax refining Insurance claim Noor resting Teo refining Estate agency Lena refining Starting gate +1 more at work Enter the map walk it (sponsor, opens in a new tab) Sponsor @creativedash Generic Ctrl K Icon library Esc (sponsor, opens in a new tab) Sponsor W A S D to walk·click to look around·click the map to jump·right click for the menu"
+    },
+    "verdict": {
+      "model": "jev-1.13.0",
+      "score": 3.26,
+      "category": "Developer Tools",
+      "category_confidence": 0.94
+    },
+    "screenshot": "shots/2026/11-22/iconmcp-com.jpg"
+  },
+  {
+    "canonical_url": "https://www.nytimes.com/2026/11/20/books/jonathan-yardley-dead.html",
+    "url": "https://www.nytimes.com/2026/11/20/books/jonathan-yardley-dead.html",
+    "found_at": "2026-11-22T13:19:34+00:00",
+    "sources": [
+      {
+        "name": "pinboard",
+        "title": "Jonathan Yardley, Who Reviewed 3,000 Books and Pulled Zero Punches, Has Died - The New York Times"
+      }
+    ],
+    "page": {
+      "final_url": "https://www.nytimes.com/2026/11/20/books/jonathan-yardley-dead.html",
+      "status": 403,
+      "title": "nytimes.com",
+      "description": "",
+      "og_image": "",
+      "favicon": "https://www.nytimes.com/favicon.ico",
+      "text_excerpt": ""
+    },
+    "verdict": {
+      "model": "jev-1.13.0",
+      "score": 0.46,
+      "category": "Magazines, Newspapers & Newsletter",
+      "category_confidence": 0.51
+    }
+  },
+  {
+    "canonical_url": "https://www.theideasletter.org/essay/dark-imagination/",
+    "url": "https://www.theideasletter.org/essay/dark-imagination/",
+    "found_at": "2026-11-22T13:19:34+00:00",
+    "sources": [
+      {
+        "name": "pinboard",
+        "title": "Dark Imagination"
+      }
+    ],
+    "page": {
+      "final_url": "https://www.theideasletter.org/essay/dark-imagination/",
+      "status": 200,
+      "title": "Dark Imagination",
+      "description": "In a critical reassessment of David Graeber’s intellectual legacy, Kemp challenges the anthropologist’s central conviction that human societies are shaped primarily by collective imagination and can therefore be transformed by…",
+      "og_image": "https://www.theideasletter.org/wp-content/uploads/2026/11/20261112-lane-new-york-occupy-wall-street-2013-3000-300x186.jpg",
+      "favicon": "https://www.theideasletter.org/favicon-48x48.png",
+      "text_excerpt": "We value your privacy We use cookies to enhance your browsing experience, serve personalized ads or content, and analyze our traffic. By clicking “Accept All,” you consent to our use of cookies. Cookie Policy Preferences Reject All Accept All Skip navigation SUBSCRIBE ESSAYS ISSUES ABOUT Dark Imagination THE LEGACY OF DAVID GRAEBER DEMONSTRATORS OBSERVE THE TWO-YEAR ANNIVERSARY OF THE OCCUPY WALL STREET MOVEMENT IN NEW YORK CITY ON SEPTEMBER 17, 2013. © JUSTIN LANE/EPA/SHUTTERSTOCK LUKE KEMP NOVEMBER 12, 2026 | THE IDEAS LETTER 76 The anthropologist David Graeber, who died in 2020 at the age of 59, was a renowned scholar, bestselling author, and committed activist. His books ranged from a history of debt and humanity to a treatise on why much of the job market is composed of useless “bullshit jobs.” He was a central figure behind the 2011 Occupy Wall Street movement and Global Justice Movement, the co-founder of the Anti-Capitalist Convergences organizations, and his legacy continues through the David Graeber Institute. He was perhaps the most influential anthropologist and anarchist of the past two decades, whose work continues to shape how progressives across the world think about history, the world, and how to build a better future. LISTEN TO THIS ESSAY Across dozens of books, essays, and articles is one central idea, summarized in his best-known quote from the final pages of Direct Action: An Ethnography (2009): “The ultimate, hidden truth of the world is that it is something that we make, and could just as easily make differently.” In the same chapter, Graeber contrasts two conceptions of political reality. There is the right-wing vision that the world is shaped mainly by violent physical forces, and the left-wing view that imagination is the stronger source of power. Graeber’s work was in many ways an attempt to prove that the second view is correct. Underlying this central idea about the ultimate truth of the world are two arguments that reappear across his w"
+    },
+    "verdict": {
+      "model": "jev-1.13.0",
+      "score": 1.36,
+      "category": "Magazines, Newspapers & Newsletter",
+      "category_confidence": 0.91
+    }
+  },
+  {
+    "canonical_url": "https://www.nytimes.com/2026/11/20/us/phd-enrollment-sciences-declines.html",
+    "url": "https://www.nytimes.com/2026/11/20/us/phd-enrollment-sciences-declines.html",
+    "found_at": "2026-11-22T13:19:34+00:00",
+    "sources": [
+      {
+        "name": "pinboard",
+        "title": "New Ph.D. Enrollment in the Sciences Dropped 10 Percent Under Trump - The New York Times"
+      }
+    ],
+    "page": {
+      "final_url": "https://www.nytimes.com/2026/11/20/us/phd-enrollment-sciences-declines.html",
+      "status": 403,
+      "title": "nytimes.com",
+      "description": "",
+      "og_image": "",
+      "favicon": "https://www.nytimes.com/favicon.ico",
+      "text_excerpt": ""
+    },
+    "verdict": {
+      "model": "jev-1.13.0",
+      "score": 0.52,
+      "category": "News",
+      "category_confidence": 0.82
+    }
+  },
+  {
+    "canonical_url": "https://news.ycombinator.com/item?id=50583761",
+    "url": "https://news.ycombinator.com/item?id=50583761",
+    "found_at": "2026-11-22T13:19:34+00:00",
+    "sources": [
+      {
+        "name": "pinboard",
+        "title": "Ask HN: I have been unemployed for 2y. 15 years of experience, US. What to do? | Hacker News"
+      }
+    ],
+    "page": {
+      "final_url": "https://news.ycombinator.com/item?id=50583761",
+      "status": 200,
+      "title": "Ask HN: I have been unemployed for 2y. 15 years of experience, US. What to do? | Hacker News",
+      "description": "",
+      "og_image": "",
+      "favicon": "https://news.ycombinator.com/y18.svg",
+      "text_excerpt": "Hacker Newsnew | past | comments | ask | show | jobs | submit login Ask HN: I have been unemployed for 2y. 15 years of experience, US. What to do? 698 points by LetThingsBeDiff 1 day ago | hide | past | favorite | 781 comments I'm Senior software engineer in the US (DMV area), with 15y of experience. Worked for Fortune 50+ company and bunch of mid-size companies. Been unemployed for 2y and can't find a job, within those 2 years, I pretty much spent my savings that I've saved through years, maybe have 4-5 months left to support my household. Currently, I tutor math and probably about to start working as manager in pizzaria. In Jan 2025, I quit from a mid-size insurance tech company(1000+) after working there for almost 4y, because I was tipped off the they were about to start layoffs and they did. Well, since then I have zero luck finding any job in SWE. At this point, I have massive gap in my resume that I can't explain to recruiters, I can still code (C#/.NET/AWS) and learned the AI, but who cares if date of my last employment is Jan2025. What should I do ? If you have an alternative path (something completely different from SWE or SWE adjacent) that pays \"well\", I would like to hear. help powvans 16 hours ago | next [–] > In Jan 2025, I quit from a mid-size insurance tech company(1000+) after working there for almost 4y, because I was tipped off the they were about to start layoffs and they did. Well, since then I have zero luck finding any job in SWE. I don't know the OP's circumstances. What I am about to say is meant as advice to others and not a criticism of the OP. If you suspect that you may be the target of a layoff, DO NOT SIMPLY QUIT. In this scenario you are a potential liability to your employer. They will almost certainly pay you to leave if they decide to part ways. It is always easier to find a job when you have a job. Maybe you think if there are layoffs and you are retained that it will be a miserable working environment. Fine. DO NOT QUIT. After a"
+    },
+    "verdict": {
+      "model": "jev-1.13.0",
+      "score": 0.38,
+      "category": "Community",
+      "category_confidence": 0.66
+    }
+  },
+  {
+    "canonical_url": "https://martinfowler.com/articles/data-contracts.html",
+    "url": "https://martinfowler.com/articles/data-contracts.html",
+    "found_at": "2026-11-22T13:19:34+00:00",
+    "sources": [
+      {
+        "name": "pinboard",
+        "title": "Data Contracts"
+      }
+    ],
+    "page": {
+      "final_url": "https://martinfowler.com/articles/data-contracts.html",
+      "status": 200,
+      "title": "Data Contracts",
+      "description": "Data contracts bring API design to data: an explicit, verifiable description of schema, quality, and terms of use that makes datasets trustworthy for both people and AI agents.",
+      "og_image": "https://martinfowler.com/articles/data-contracts/social-card.png",
+      "favicon": "https://martinfowler.com/favicon.ico",
+      "text_excerpt": "Refactoring Agile Architecture About Thoughtworks Table of Contents Data Contracts Data contracts are a way to describe the contents and guarantees of datasets. They apply practices from API design to data by treating them as data-providing services - such as data products - whose interfaces we want to define as clearly as possible. This approach significantly increases the robustness of large-scale data landscapes, and gives both people and AI agents the explicit, trustworthy metadata they need to work with data autonomously, which is why more and more enterprises are adopting them. 18 November 2026 Simon Harrer Dr. Simon Harrer is co-founder and CEO of Entropy Data, a company building a data marketplace powered by data products and contracts. He brings his deep experience in software engineering to the world of data, advocating for robust, contract-first approaches. Simon is also a member of the technical steering committee for the Open Data Contract Standard (ODCS) and the Open Data Product Standard (ODPS) of the Bitol project at the Linux Foundation. He is a published author, having written Java by Comparison, and translated the famous Data Mesh book into German. Arif Wider Dr. Arif Wider is a professor of software engineering at HTW Berlin and a fellow technology consultant with Thoughtworks Germany, where he served as Head of Data and AI before moving back to academia. As a vital part of research, teaching, and consulting, he is passionate about distilling and distributing great ideas and concepts that emerge in the software engineering community. As such, he frequently speaks and writes about large-scale enterprise data architectures such as Data Mesh on which he co-authored dozens of articles as well as an O'Reilly-published booklet. Recently, he focuses on responsible AI and AI governance. API DESIGN DOCUMENTATION DATA MESH CONTENTS Why We Need Data Contracts A Simple Example Data Contract What Does This Mean for AI Agents? What's in a Data Contract Open Da"
+    },
+    "verdict": {
+      "model": "jev-1.13.0",
+      "score": 2.84,
+      "category": "Software Engineering",
+      "category_confidence": 0.93
+    }
+  },
+  {
+    "canonical_url": "https://archiveofourown.org/works/96305851",
+    "url": "https://archiveofourown.org/works/96305851",
+    "found_at": "2026-11-22T13:19:34+00:00",
+    "sources": [
+      {
+        "name": "pinboard",
+        "title": "autumnal blossom - elanor_pam"
+      }
+    ],
+    "page": {
+      "final_url": "https://archiveofourown.org/works/96305851",
+      "status": 403,
+      "title": "Just a moment...",
+      "description": "",
+      "og_image": "",
+      "favicon": "https://archiveofourown.org/favicon.ico",
+      "text_excerpt": "Archive of Our Own Shields are up! We apologize for the interruption, please prove that you are not a robot: Ray ID: a5e83c49dcdc7579 // Your IP: Show IP"
+    },
+    "verdict": {
+      "model": "jev-1.13.0",
+      "score": 0.19,
+      "category": "Entertainment",
+      "category_confidence": 0.41
+    }
+  },
+  {
+    "canonical_url": "https://www.nytimes.com/2026/11/20/technology/jensen-huang-nvidia-culture.html",
+    "url": "https://www.nytimes.com/2026/11/20/technology/jensen-huang-nvidia-culture.html",
+    "found_at": "2026-11-22T13:19:34+00:00",
+    "sources": [
+      {
+        "name": "pinboard",
+        "title": "How Jensen Huang Made Humiliation Routine at Nvidia"
+      }
+    ],
+    "page": {
+      "final_url": "https://www.nytimes.com/2026/11/20/technology/jensen-huang-nvidia-culture.html",
+      "status": 403,
+      "title": "nytimes.com",
+      "description": "",
+      "og_image": "",
+      "favicon": "https://www.nytimes.com/favicon.ico",
+      "text_excerpt": ""
+    },
+    "verdict": {
+      "model": "jev-1.13.0",
+      "score": 0.82,
+      "category": "Magazines, Newspapers & Newsletter",
+      "category_confidence": 0.34
+    }
+  },
+  {
+    "canonical_url": "https://www.theguardian.com/commentisfree/2026/nov/20/cyber-attacks-outages-blame-economy",
+    "url": "https://www.theguardian.com/commentisfree/2026/nov/20/cyber-attacks-outages-blame-economy",
+    "found_at": "2026-11-22T13:19:34+00:00",
+    "sources": [
+      {
+        "name": "pinboard",
+        "title": "Per Schneier i guasti a Microsoft, FAA e banche nascono dal profitto, non da attacchi"
+      }
+    ],
+    "page": {
+      "final_url": "https://www.theguardian.com/commentisfree/2026/nov/20/cyber-attacks-outages-blame-economy",
+      "status": 200,
+      "title": "Don’t blame cyber-attacks for recent outages. The real villain is the US economy | Bruce Schneier",
+      "description": "Our tech infrastructure is riddled with problems. But they’re all downstream of the incentives baked into shareholder capitalism",
+      "og_image": "https://i.guim.co.uk/img/media/06367e7fdfd0f05a668d10411818299d34910160/656_0_6561_5249/master/6561.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctb3BpbmlvbnMucG5n&enable=upscale&s=fa64ec54c6efe43599da8e31ee212d9a",
+      "favicon": "https://assets.guim.co.uk/static/frontend/icons/homescreen/apple-touch-icon.svg",
+      "text_excerpt": "Skip to main content Skip to navigation Print subscriptions Newsletters Sign in US The Guardian - Back to home The Guardian News Opinion Sport Culture Lifestyle Show more The Guardian view Columnists Letters Opinion videos Cartoons View image in fullscreen ‘The technologies we rely on are built and maintained within our economic system – and that’s where the core problems lie.’ Photograph: Seth Wenig/AP Opinion Technology Don’t blame cyber-attacks for recent outages. The real villain is the US economy Bruce Schneier Our tech infrastructure is riddled with problems. But they’re all downstream of the incentives baked into shareholder capitalism Fri 20 Nov 2026 06.00 EST Share I t’s been a bad week for our computerized infrastructure. We’ve seen outages at Microsoft, the FAA, a handful of banks, United Airlines, an unnamed classified NSA network, and Apple. People should be forgiven for suspecting a coordinated cyber-attack, a common cause, or at least a conspiracy. But there is none. The incidents are unrelated. They’re not the result of any cyber-attack, coordinated or not. And, even more surprising, they don’t seem to be the result of AI. (We can’t say anything about the NSA; we’ll probably never know the details of that one.) It’s really just a series of unfortunate coincidences. None of them should surprise, though. Our computerized infrastructure is both vulnerable and fragile. Trump says the tech outages are ‘fine’. Who believes him? | Margaret Sullivan Read more Much of it is old and has been incrementally patched and upgraded over the decades. A surprising amount of it is maintained by hobbyists, without any recompense. There often aren’t good backup systems. And more and more of it is centralized, meaning that individual failures have cascading consequences across many different aspects of our lives and society. A lot of our tech infrastructure just barely works. And when it fails, it can fail badly. It’s the very opposite of resilience. There are a lot of te"
+    },
+    "verdict": {
+      "model": "jev-1.13.0",
+      "score": 1.06,
+      "category": "Magazines, Newspapers & Newsletter",
+      "category_confidence": 0.46
+    }
+  },
+  {
+    "canonical_url": "https://www.theverge.com/ai-artificial-intelligence/1038390/signal-blocking-ai-agent-screenshots-mobile-app",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1038390/signal-blocking-ai-agent-screenshots-mobile-app",
+    "found_at": "2026-11-22T13:19:34+00:00",
+    "sources": [
+      {
+        "name": "pinboard",
+        "title": "Signal is blocking Gemini and Siri AI from reading your screen | The Verge"
+      }
+    ],
+    "page": {
+      "final_url": "https://www.theverge.com/ai-artificial-intelligence/1038390/signal-blocking-ai-agent-screenshots-mobile-app",
+      "status": 200,
+      "title": "Signal is blocking Gemini and Siri AI from reading your screen",
+      "description": "Signal will now restrict screenshots on mobile devices, and says AI agents are ‘hostile to privacy.’",
+      "og_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/protecting-your-privacy-1.png?quality=90&strip=all&crop=0%2C3.8035109331691%2C100%2C92.392978133662&w=1200",
+      "favicon": "https://www.theverge.com/static-assets/icons/favicon.ico",
+      "text_excerpt": "SKIP TO MAIN CONTENT The homepage SUBSCRIBE SIGN IN Tech Reviews Science Entertainment AI Policy Signal is blocking Gemini and Siri AI from reading your screen 13 AI NEWS TECH Signal is blocking Gemini and Siri AI from reading your screen Signal will now restrict screenshots on mobile devices, and says AI agents are ‘hostile to privacy.’ by Jess Weatherbed Nov 20, 2026, 12:30 PM UTC 13 13 Comments (All New) Signal users on iOS will see this option to toggle blocking screenshots and preventing Siri AI from scanning on-screen content. Image: Signal Jess Weatherbed is a news writer focused on creative industries, computing, and internet culture. Jess started her career at TechRadar, covering news and hardware reviews. Signal is restricting the ability to take screenshots on Android and iOS devices in an effort to prevent AI agents from reading users’ messages and other data. The agentic AI capabilities built into operating systems that analyze on-screen information to learn more about the user are “undermining Signal’s ability to independently guarantee privacy,” Signal president Meredith Whittaker said in a blog post, while urging OS providers to make it easier for app developers to control what data agents can access. “We want to be very clear: it is a serious problem that Signal – and application developers beyond – lack robust tools to prevent AI agents from undermining application-level privacy,” Whittaker said. “Even where we are able to detect and block AI data access, Google, Apple, Microsoft, and others do not provide ways for developers to easily restrict such AI data access without making drastic compromises to the core user experience. This is also the reason we are currently unable to implement these protections on macOS.” Signal is addressing the privacy concerns by blocking the ability to take screenshots in the app on iOS 27 and Android, which should prevent Siri, Gemini, and other Android AI assistants from reading on-screen content. Users can restore "
+    },
+    "verdict": {
+      "model": "jev-1.13.0",
+      "score": 0.73,
+      "category": "News",
+      "category_confidence": 0.76
+    }
+  },
+  {
+    "canonical_url": "https://www.theverge.com/policy/1037804/elon-musk-maga-dealbook",
+    "url": "https://www.theverge.com/policy/1037804/elon-musk-maga-dealbook",
+    "found_at": "2026-11-22T13:19:34+00:00",
+    "sources": [
+      {
+        "name": "pinboard",
+        "title": "Oh, Elon Musk is ‘moderate’ now, is he? | The Verge"
+      }
+    ],
+    "page": {
+      "final_url": "https://www.theverge.com/policy/1037804/elon-musk-maga-dealbook",
+      "status": 200,
+      "title": "Oh, Elon Musk is ‘moderate’ now, is he?",
+      "description": "‘Can you think of an extreme view that I have?’",
+      "og_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2176995336.jpg?quality=90&strip=all&crop=0%2C10.72916714381%2C100%2C78.541665712379&w=1200",
+      "favicon": "https://www.theverge.com/static-assets/icons/favicon.ico",
+      "text_excerpt": "SKIP TO MAIN CONTENT The homepage SUBSCRIBE SIGN IN Tech Reviews Science Entertainment AI Policy Oh, Elon Musk is ‘moderate’ now, is he? 101 POLICY REPORT TECH Oh, Elon Musk is ‘moderate’ now, is he? After spending nearly half a billion dollars to thwart Democrats, Musk tries to distance himself from MAGA. by Gaby Del Valle Nov 19, 2026, 6:15 PM UTC 101 101 Comments (All New) Getty Images Gaby Del Valle is a policy reporter at The Verge covering surveillance, the Department of Homeland Security, and the tech-right. A little less than two years ago, Elon Musk stood onstage at the Conservative Political Action Conference, sunglasses on, black MAGA hat perched atop his head, wielding a chainsaw. Last night, Musk called in to The New York Times DealBook Summit and distanced himself from President Donald Trump’s movement. “I think I’m ideologically quite moderate. I don’t think I have any kind of extreme political views,” Musk told DealBook editor Andrew Ross Sorkin. “You’ve known me for a long time. Can you think of an extreme view that I have?” I can certainly think of a few. Let’s start with the great replacement. For those who are blissfully unaware, the great replacement is a white nationalist conspiracy theory whose adherents believe that a cabal of powerful people is conspiring to replace white Americans and Europeans by promoting mass migration from the developing world. (The most hardcore great replacement types believe this is a grand Jewish conspiracy; the more politically palatable Fox News types blame Democrats.) As recently as this year, Musk was promoting the notion that white men would be “slaughtered” if they became a minority in the United States. Musk is X’s most prolific promoter of anti-immigrant conspiracy theories, according to a Bloomberg analysis. At a 2024 campaign rally with Trump, Musk claimed that Democrats want to “take away your right to vote effectively.” His racist fearmongering extends beyond the US. At a rally for Germany’s far-right pa"
+    },
+    "verdict": {
+      "model": "jev-1.13.0",
+      "score": 0.45,
+      "category": "News",
+      "category_confidence": 0.87
+    }
+  },
+  {
+    "canonical_url": "https://www.the100.ci/2026/11/20/there-is-no-such-thing-as-the-association/",
+    "url": "https://www.the100.ci/2026/11/20/there-is-no-such-thing-as-the-association/",
+    "found_at": "2026-11-22T13:19:34+00:00",
+    "sources": [
+      {
+        "name": "pinboard",
+        "title": "The 100% CI"
+      }
+    ],
+    "page": {
+      "final_url": "https://www.the100.ci/2026/11/20/there-is-no-such-thing-as-the-association/",
+      "status": 200,
+      "title": "There is no such thing as “the association”",
+      "description": "I have seen plenty of papers purporting to investigate “the association” between some variable X and some variable Y. These papers usually aren’t just called “the association between X and Y” but have some fancier title such as “The role of X as a predictor of Y”, “Investigating the interplay betwee",
+      "og_image": "https://www.the100.ci/wp-content/uploads/2026/11/image.png",
+      "favicon": "https://www.the100.ci/wp-content/uploads/2017/02/cropped-icon2-32x32.png",
+      "text_excerpt": "Skip to content The 100% CI Always confident. Sometimes credible. Archive About Blog Roll Privacy Policy Posts There is no such thing as “the association” November 20, 2026 Julia Rohrer 1 Comment I have seen plenty of papers purporting to investigate “the association” between some variable X and some variable Y. These papers usually aren’t just called “the association between X and Y” but have some fancier title such as “The role of X as a predictor of Y”, “Investigating the interplay between X and Y”, “Unraveling the relationship between X and Y” or “When X met Y”. Still, they mainly boil down to asking “What’s the association between X and Y?” One major problem with this genre of paper is that all that talk about associations is often just a thinly veiled attempt to hide more or less justified causal claims. I have co-authored a whole paper about why that’s bad style. And, who knows, maybe it’s an attempt to deliberately exploit strategic ambiguity; maybe it’s just a result of people having no idea how to actually articulate their analysis aims. But, in any case, today, I want to talk about a different issue of this genre. Authors of such papers usually allude to the association (or the correlation, or the relationship) as if there were such a thing. But there is no such thing. Okay, admittedly, there is one candidate for the association, and that’s the bivariate unconditional (i.e., zero-order) association between X and Y in some well-defined population of interest. But we can dismiss the possibility that this is what researchers are referring to, because zero-order associations are not what gets you published.[1] Instead, these papers usually report a conditional association—the association between X and Y, after we statistically controlled for a bunch of other variables, such as Z, A, B and C—and then call it the association. Sometimes there is some justification for the choice of Z, A, B and C, but it usually boils down to “these have been shown to be ‘importa"
+    },
+    "verdict": {
+      "model": "jev-1.13.0",
+      "score": 2.02,
+      "category": "Blog",
+      "category_confidence": 0.53
+    }
+  },
+  {
+    "canonical_url": "https://jikol1906.github.io/Hearthly/",
+    "url": "https://jikol1906.github.io/Hearthly/",
+    "found_at": "2026-11-22T13:19:34+00:00",
+    "sources": [
+      {
+        "name": "pinboard",
+        "title": "Hearthly � The smart home that cares"
+      }
+    ],
+    "page": {
+      "final_url": "https://jikol1906.github.io/Hearthly/",
+      "status": 200,
+      "title": "Hearthly — The smart home that cares",
+      "description": "",
+      "og_image": "",
+      "favicon": "https://jikol1906.github.io/favicon.ico",
+      "text_excerpt": "♪ Ambient mode: off Hearthly Features How it works Pricing Help Get started New Hearthly Hub 3 — now with Presence™ Your home, finally listening. Hearthly connects every room, every device and every moment — so you never have to think about home again. Start free trial → See how it works No credit card required. Cancel anytime.* · Turn on ambient mode for the full experience. Good afternoon 👋 Living room 21°C Front door Locked People home 1 TRUSTED BY 12,000+ FAMILIES Northwind Kestrel Living OAKMONT brightnest Halvard & Co FEATURES Everything you need. Nothing you don't. Hearthly quietly takes care of the little things, so you can focus on what matters. ⚡ Smart automations Lights, heating and appliances that run themselves — set it once and forget about it. 🧠 Learns your routine Hearthly adapts to your schedule over time, saving you up to 30% on energy bills. 🔒 Peace of mind Real-time alerts if a door is left open or a window is unlocked while you're away. INTEGRATIONS Works with everything you already own. No rip-and-replace. Hearthly connects to 400+ devices out of the box. 💡 Lumo Lights 🌡️ Thermio 🚪 Doorly 🔊 Soundbox ☕ Brewmate 🪟 Blinds+ 🌬️ AirSense 🧺 WashWise 📺 Vista TV 🔋 Volta 📷 Peephole Pro 📱 Your old phone in the drawer + 400 more A DAY WITH HEARTHLY It handles the day. So you don't have to. From your first coffee to lights out, Hearthly runs quietly in the background. 06:45 Gently raises the lights to wake you. 07:30 Starts the coffee machine. 08:15 Locks up after you leave. 18:00 Warms the house before you're home. 22:30 Dims the lights for bedtime. 03:14 Checks that you're still asleep. This week Energy saved Automations run Hours of sleep monitored Times you said \"Hearthly\" Times Hearthly heard you anyway HOW IT WORKS Up and running in 3 easy steps. 01 Install the Hub Plug it in anywhere. It will find the rest of the house on its own. 02 Let it listen Hearthly calibrates to your voice, your footsteps and your breathing. 03 Stop locking the doors You won'"
+    },
+    "verdict": {
+      "model": "jev-1.13.0",
+      "score": 0.63,
+      "category": "Technology",
+      "category_confidence": 0.93
+    }
+  }
+]
