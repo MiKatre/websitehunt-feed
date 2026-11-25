@@ -1,0 +1,1797 @@
+[
+  {
+    "canonical_url": "https://github.com/google-research/google-research/tree/master/cogentic_research_papers",
+    "url": "https://github.com/google-research/google-research/tree/master/cogentic_research_papers",
+    "found_at": "2026-11-25T15:34:35+00:00",
+    "sources": [
+      {
+        "name": "hn",
+        "id": "50642086",
+        "title": "Google Releases Cogentic Papers on Integer Factorization, Discrete Logs and More",
+        "discussion_url": "https://news.ycombinator.com/item?id=50642086",
+        "score": 166,
+        "comments": 134,
+        "created_at": "2026-11-25T13:33:07Z"
+      }
+    ],
+    "github": {
+      "repo_url": "https://github.com/google-research/google-research",
+      "homepage": "https://research.google",
+      "description": "Google Research",
+      "topics": [
+        "ai",
+        "machine-learning",
+        "research"
+      ],
+      "stars": 39336,
+      "created_at": "2018-10-04T18:42:48Z",
+      "pushed_at": "2026-11-25T10:21:43Z",
+      "owner_avatar": "https://avatars.githubusercontent.com/u/43830688?v=4"
+    },
+    "page": {
+      "final_url": "https://github.com/google-research/google-research/tree/master/cogentic_research_papers",
+      "status": 200,
+      "title": "google-research/cogentic_research_papers at master · google-research/google-research",
+      "description": "Google Research. Contribute to google-research/google-research development by creating an account on GitHub.",
+      "og_image": "https://opengraph.githubassets.com/63d771aebfb2b3ebb29d65d10dd5af62004d4124df6586e5e48dc81d6185e2f4/google-research/google-research",
+      "favicon": "https://github.com/fluidicon.png",
+      "text_excerpt": "Skip to content Navigation Menu Products Developers Businesses Resources Pricing Search / Sign in Sign up google-research google-research Repository navigation Code Issues 1.1k (1.1k) Pull requests 889 (889) Actions Security and quality Insights Files master .circleci Algorithms_and_Hardness_for_Learning_Linear_Thresholds_from_Label_Proportions CIQA COSTAR CardBench_zero_shot_cardinality_training CoDi Domain_Agnostic_Contrastive_Representations_for_Learning_from_Label_Proportions EgoSocial KNF LLP_Bench On_Combining_Bags_to_Better_Learn_from_Label_Proportions OpenMSD RevThink STraTA TimesX Uboreshaji_Modeli aav abps abstract_nas action_angle_networks action_gap_rl activation_clustering active_selective_prediction adaptive_learning_rate_tuner adaptive_low_rank adaptive_prediction adaptive_surrogates adversarial_nets_lr_scheduler after_kernel agile_deliberation agile_modeling al_for_fep albert algae_dice aloe alx amortized_bo android_control android_in_the_wild android_interaction anthea aptamers_mlpd aqt aquadem ara_optimization arithmetic_sampling arxiv_latex_cleaner assemblenet assessment_plan_modeling attentional_adapters attribute_semantics attribute_with_prefixlm attribution cogentic_research_papers Breadcrumbs google-research /cogentic_research_papers/ Directory actions More options Latest commit jeffjiang1204 and copybara-github Add six Cogentic research papers: 4a7bc8a · History History Folders and files Name Last commit message Last commit date parent directory .. bimatrix_nash_equilibrium Add six Cogentic research papers: ce_convex_games Move ce_convex_games under cogentic_research_papers/. deterministic_factoring_l34 Add six Cogentic research papers: discrete_logarithm Add six Cogentic research papers: edge_reconstruction Add six Cogentic research papers: fictitious_play_convergence Add paper \"Polynomial Dimension Dependence for Fictitious Play Conver… integer_factorization Add six Cogentic research papers: logrank_conjecture Add six Cogentic research pape"
+    },
+    "homepage": {
+      "final_url": "https://research.google/",
+      "status": 200,
+      "title": "Google Research - Explore Our Latest Research in Science and AI",
+      "description": "Discover Google Research. We publish research papers across a wide range of domains and share our latest developments in AI and science research.",
+      "og_image": "https://storage.googleapis.com/gweb-research2023-media/images/HO_previewImage1.width-800.format-jpeg.jpg",
+      "favicon": "https://www.gstatic.com/images/branding/googleg_gradient/1x/googleg_gradient_standard_20dp.png",
+      "text_excerpt": "Skip to main content Google Research Research Resources Conferences & events Careers Blog About Research, to reality. Our mission is to drive breakthroughs that benefit society, businesses, and Google products. Amplifying human ingenuity As we realize new possibilities with AI, we maintain a human-centered approach. We advance scientific progress by publishing hundreds of papers each year and collaborating with universities, NGOs, partners, and communities worldwide. Our goal is to build a world where AI is more than a tool: it’s an essential partner for researchers, scientists, clinicians, teachers, users, and businesses. Watch the film “The magic cycle of research is accelerating. Research breakthroughs are leading to greater impact on products, science, and society—with greater opportunities for AI to amplify human ingenuity and capacity.” “The magic cycle of research is accelerating. Research breakthroughs are leading to greater impact on products, science, and society—with greater opportunities for AI to amplify human ingenuity and capacity.” Yossi Matias Vice President, Google & Head of Google Research Read the latest See more publications See more blog posts NOVEMBER 11 · BLOG Using wearables to enable cardiovascular-kidney-metabolic (CKM) risk profiling for personalized coaching NOVEMBER 9 · BLOG Exploring the world's languages with Language Explorer NOVEMBER 5 · BLOG Detecting signs of hypertension using wearable sensors NOVEMBER 4 · BLOG Agile Deliberation: How AI helps humans define the gray areas OCTOBER 27 · BLOG The sleep framework: A new way for LLMs to retain knowledge in continual learning OCTOBER 23 · BLOG Bringing foundational models to the front lines of TB screening Our research drives real-world change Computational Discovery Discover models and algorithms to accelerate your research, built with ERA Empirical Research Assistance and AlphaEvolve Express interest BLOG Four ways Google Research scientists have been using Empirical Research Assista"
+    },
+    "verdict": {
+      "model": "jev-1.13.0",
+      "score": 1.88,
+      "category": "Research",
+      "category_confidence": 0.98
+    }
+  },
+  {
+    "canonical_url": "https://github.com/xoxorwr/pw-loudness-eq",
+    "url": "https://github.com/xoxorwr/pw-loudness-eq",
+    "found_at": "2026-11-25T15:34:35+00:00",
+    "sources": [
+      {
+        "name": "hn",
+        "id": "50641171",
+        "title": "Windows Loudness Equalization, reverse-engineered and ported to PipeWire",
+        "discussion_url": "https://news.ycombinator.com/item?id=50641171",
+        "score": 173,
+        "comments": 102,
+        "created_at": "2026-11-25T11:34:25Z"
+      }
+    ],
+    "github": {
+      "repo_url": "https://github.com/xoxorwr/pw-loudness-eq",
+      "homepage": "",
+      "description": "Windows Loudness Equalization, reverse-engineered and ported to PipeWire",
+      "topics": [],
+      "stars": 93,
+      "created_at": "2026-11-22T11:14:36Z",
+      "pushed_at": "2026-11-22T19:46:47Z",
+      "owner_avatar": "https://avatars.githubusercontent.com/u/212222387?v=4"
+    },
+    "page": {
+      "final_url": "https://github.com/xoxorwr/pw-loudness-eq",
+      "status": 200,
+      "title": "GitHub - xoxorwr/pw-loudness-eq: Windows Loudness Equalization, reverse-engineered and ported to PipeWire",
+      "description": "Windows Loudness Equalization, reverse-engineered and ported to PipeWire - xoxorwr/pw-loudness-eq",
+      "og_image": "https://opengraph.githubassets.com/3e8cb35a8281094e847c44a8c434226f4dcdd03d5defa888a0709d60f7916bef/xoxorwr/pw-loudness-eq",
+      "favicon": "https://github.com/fluidicon.png",
+      "text_excerpt": "Skip to content Navigation Menu Products Developers Businesses Resources Pricing Search / Sign in Sign up xoxorwr pw-loudness-eq Repository navigation Code Issues 1 (1) Pull requests Actions Projects Security and quality Insights pw-loudness-eq Public Notifications Fork2 (2) Star93 (93) master 1 Branch 0 Tags Code Latest commit xoxorwr add limiter 3c7b908 · History 6 Commits Folders and files Name Last commit message Last commit date app add app docs add app modules add limiter .gitignore init Makefile add limiter README.md add limiter Repository files navigation README pw-loudness-eq Windows' Loudness Equalization for PipeWire, reverse engineered from WMALFXGFXDSP.dll. It evens out the volume of each application, so quiet and loud parts play at a similar level. modules/loudness/: the PipeWire module and the DSP plugin. It processes every app's playback stream. modules/limiter/: the output limiter of Windows' audio engine (AudioEng.dll), on every playback device. It keeps the boost from clipping. app/: an optional window (GTK3) to turn it on or off, globally or per app, and set the release time. Install Requires PipeWire ≥ 1.4, and GTK 3 for the window. # Arch: sudo pacman -S pipewire gtk3 pkgconf make gcc # Debian: sudo apt install libpipewire-0.3-dev libspa-0.2-dev libgtk-3-dev pkg-config make gcc make sudo make install systemctl --user restart pipewire pipewire-pulse wireplumber To install only one part, use make -C modules/loudness, make -C modules/limiter or make -C app. To uninstall, run sudo make uninstall and restart the same services. Usage Open Loudness Equalization from your application menu, or run pw-loudness-eq. The settings live in a PipeWire metadata object, so they can also be scripted: pw-metadata -n loudness-eq 0 enabled false # turn off pw-metadata -n loudness-eq 0 release 6 # release time, 2 (fast) to 7 (slow) pw-metadata -n loudness-eq 0 disabled-apps '[\"Discord\"]' Spa:String:JSON # leave these apps alone pw-metadata -n loudness-eq # show setti"
+    },
+    "verdict": {
+      "model": "jev-1.13.0",
+      "score": 3.21,
+      "category": "Utilities & Tools",
+      "category_confidence": 0.5
+    },
+    "screenshot": "shots/2026/11-25/github-com-xoxorwr-pw-loudness-eq.jpg"
+  },
+  {
+    "canonical_url": "https://github.com/samcorcos/legatum/issues/147",
+    "url": "https://github.com/samcorcos/legatum/issues/147",
+    "found_at": "2026-11-25T15:34:35+00:00",
+    "sources": [
+      {
+        "name": "hn",
+        "id": "50638647",
+        "title": "Treasury CIO is too busy vibecoding instead of doing his job #147",
+        "discussion_url": "https://news.ycombinator.com/item?id=50638647",
+        "score": 138,
+        "comments": 34,
+        "created_at": "2026-11-25T04:56:36Z"
+      }
+    ],
+    "github": {
+      "repo_url": "https://github.com/samcorcos/legatum",
+      "homepage": "",
+      "description": "",
+      "topics": [],
+      "stars": 76,
+      "created_at": "2026-11-22T01:03:53Z",
+      "pushed_at": "2026-11-25T14:59:00Z",
+      "owner_avatar": "https://avatars.githubusercontent.com/u/2626231?v=4"
+    },
+    "page": {
+      "final_url": "https://github.com/samcorcos/legatum/issues/147",
+      "status": 200,
+      "title": "Treasury CIO is too busy vibecoding instead of doing his job · Issue #147 · samcorcos/legatum",
+      "description": "What happened Treasury CIO is vibecoding games instead of getting FinCEN back online. What you expected FinCEN to work. How to reproduce it Try to file. Where https://bsaefiling.fincen.gov/ Anythin...",
+      "og_image": "https://opengraph.githubassets.com/0cb8022176f19ae9a785da06f85c51afae9dda7979daa95cf6a562aa0de398ca/samcorcos/legatum/issues/147",
+      "favicon": "https://github.com/fluidicon.png",
+      "text_excerpt": "Skip to content Navigation Menu Products Developers Businesses Resources Pricing Search / Sign in Sign up samcorcos legatum Repository navigation Code Issues 3 (3) Pull requests 19 (19) Actions Projects Security and quality Insights Treasury CIO is too busy vibecoding instead of doing his job #147 New issue Not planned Description ffaristocrat opened What happened Treasury CIO is vibecoding games instead of getting FinCEN back online. What you expected FinCEN to work. How to reproduce it Try to file. Where https://bsaefiling.fincen.gov/ Anything else 👍 React with 👍 116 Reacted by Kierbear85, Dan Guisinger, John L. Peterson (Jack), Kate Sills, Benji Smith, Jon Frisby, Steve Anichini, Nick Manos, Eric Gisse, Steve Smith and 106 more 👎 React with 👎 2 Reacted by Michał Karol Sondej and Orville 😄 React with 😄 28 Reacted by JP, Inanna Malick, Friedrich, Michael Stoneman, Peter Huene, endearing-engineering, Ryan Smith, Lukas Steiblys, Mac0r0ni_And_Weed, Malav Bhavsar and 18 more 🎉 React with 🎉 6 Reacted by RX, Andrew Armstrong, Skanda, Daniel Alejandro Tapia, contrariwise and TangerineNightmare ❤️ React with ❤️ 11 Reacted by ArguablyMarlin, endearing-engineering, Peter Huene, Joshua Hirsch, Ryan Smith, Luke Swart, RX, Rosa Gutierrez, Daniel Alejandro Tapia, John Clary and 1 more 👀 React with 👀 13 Reacted by Fediverse-Express, Jacob Chapman, Peter Huene, Ryan Smith, Emma, Luke Swart, RX, Rosa Gutierrez, George Connor, Fabien Rica and 3 more Activity ffaristocrat added bug ferrouswheel marked Daily standup #148 as a duplicate of this issue ferrouswheel commented ferrouswheel Maybe we can discuss it during standup 👍 React with 👍 67 Reacted by Kate Sills, Brian, frumble, Steven Johnson, Josh Holbrook, Brock Henry, Friedrich, Andrew Benson, ArguablyMarlin, pigsflies and 57 more 😄 React with 😄 8 Reacted by contrariwise, Oli Pescott, TangerineNightmare, Arj, James Socol, Jordi Picó Cortés, Neel Mehta and Adin Klotz essandess commented essandess @samcorcos Catherine Rampell 10:03 "
+    },
+    "verdict": {
+      "model": "jev-1.13.0",
+      "score": 0.37,
+      "category": "Software Engineering",
+      "category_confidence": 0.7
+    }
+  },
+  {
+    "canonical_url": "https://gpu-demo-gallery.pages.dev/",
+    "url": "https://gpu-demo-gallery.pages.dev/",
+    "found_at": "2026-11-25T15:34:35+00:00",
+    "sources": [
+      {
+        "name": "hn",
+        "id": "50638503",
+        "title": "Show HN: Old Nvidia and ATI tech demos, running again in the browser",
+        "discussion_url": "https://news.ycombinator.com/item?id=50638503",
+        "score": 244,
+        "comments": 50,
+        "created_at": "2026-11-25T04:31:48Z"
+      }
+    ],
+    "page": {
+      "final_url": "https://gpu-demo-gallery.pages.dev/",
+      "status": 200,
+      "title": "GPU demos, 1998 to 2006",
+      "description": "Twenty-three graphics card demos by 3dfx, NVIDIA and ATI from 1998 to 2006, running in the browser.",
+      "og_image": "",
+      "favicon": "data:,",
+      "text_excerpt": "GPU DEMOS What graphics cards shipped to show off with, rebuilt from the original files and running in this browser. 1998 Borg 3dfx, Voodoo2 A cube with nine textures in five passes, as the first card with two texture units drew it. Play 1998 Donut 3dfx, Voodoo2 A torus with embossed bumps and a reflection, in two passes. Play 1999 Bubble NVIDIA, GeForce 256 A bubble of springs that mirrors its surroundings. Poke it. Play 2000 Lightning NVIDIA, GeForce 256 Hold the steel plate to strike it: the bolt lights bumps, heats the metal and throws sparks. Play 2000 Grove NVIDIA, GeForce 256 Trees grown from a few numbers, lit by fireflies. Play 2000 Principles of Shading NVIDIA, GeForce2 A logo taken apart and shaded again in six steps, from points to bump maps and reflections. Play 2000 Creature NVIDIA, GeForce2 A sea monster under caustic light, 500 fish that avoid it, and a laser. Play 2000 Grass NVIDIA, GeForce 256 A meadow without an end: ten thousand blades bend in the wind and shine like hair. Play 2000 Small Pond NVIDIA, GeForce2 Ripples in a wooden pool mirror photographs of a whole day around it. Click the water. Play 2000 Toy Soldier NVIDIA, GeForce2 A tabletop regiment marches in formation until a wind-up robot scatters the soldiers. Play 2000 Crystal Ball NVIDIA, GeForce 256 A refracting globe with two castles to explore. Play 2001 Chameleon NVIDIA, GeForce3 An animated chameleon climbs through vines and changes its skin. Play 2001 Zoltar NVIDIA, GeForce3 A fortune teller speaks using the original animated face and voice recordings. Play 2002 Bugs NVIDIA, GeForce4 Ti Sixty alien insects swarm across a junkyard. Toggle Depth Vision to see overdraw. Play 2002 Wolfman NVIDIA, GeForce4 Ti A werewolf with eight layers of fur. Switch animation and change the number of layers. Play 2002 Squid NVIDIA, GeForce4 Ti Pilot a mechanical squid among kelp, fish, bubbles and silt. Play 2002 Tidepool NVIDIA, GeForce4 Ti Light and reflections ripple across a rocky pool. Play 200"
+    },
+    "verdict": {
+      "model": "jev-1.13.0",
+      "score": 3.21,
+      "category": "Technology",
+      "category_confidence": 0.63
+    },
+    "screenshot": "shots/2026/11-25/gpu-demo-gallery-pages-dev.jpg"
+  },
+  {
+    "canonical_url": "https://www.intruder.io/research/taking-over-us-treasury-subdomains-for-3-each",
+    "url": "https://www.intruder.io/research/taking-over-us-treasury-subdomains-for-3-each",
+    "found_at": "2026-11-25T15:34:35+00:00",
+    "sources": [
+      {
+        "name": "hn",
+        "id": "50638478",
+        "title": "Taking over US Treasury subdomains for $3 each",
+        "discussion_url": "https://news.ycombinator.com/item?id=50638478",
+        "score": 165,
+        "comments": 34,
+        "created_at": "2026-11-25T04:27:55Z"
+      }
+    ],
+    "page": {
+      "final_url": "https://www.intruder.io/research/taking-over-us-treasury-subdomains-for-3-each",
+      "status": 200,
+      "title": "Taking over US Treasury subdomains for $3 each",
+      "description": "We took over five US Treasury subdomains for about $3 each by cycling through AWS Elastic IPs. Here’s how it works, and what to check in your own DNS.",
+      "og_image": "https://cdn.prod.website-files.com/61dd9339d05701829d0b3241/6afdc01d62cd6e97b94540b6_Elastic%20IP%20adresses%20(1).jpg",
+      "favicon": "https://cdn.prod.website-files.com/61dd9339d05701b1440b323d/61dd9339d0570106de0b327f_32.png",
+      "text_excerpt": "Platform Solutions Pricing Resources Company LOG IN TRY FOR FREE BOOK A DEMO Back to more research Taking over US Treasury subdomains for $3 each Tom Steer Security Consultant Updated November 24, 2026 Published November 24, 2026 Elastic IP addresses (EIPs) in AWS are internet routable addresses available for use on cloud systems, by anyone. A common DNS mistake can leave them open for attackers to grab, which can lead to credential theft and worse. We demonstrated the attack is still possible in 2026, including finding real takeovers on US treasury domains, which were reported and fixed via a bug bounty program. The cost to us for doing this was just $3 per valid takeover - what a bargain! We only covered less than 1% of the total IP space, so there are many more out there for attackers to grab. So, now is the time to review your DNS records and get those dangling records squashed ASAP. As of the time of writing, the attack still works in practice, and though there are some controls to ban attackers abusing the system, there are sufficient gaps to make the attack practical, and at a reasonable cost. Practical EIP takeover To test how exploitable it is to claim the AWS host that a dangling DNS record points to, we needed to find a way to cycle through available EIPs with automation. The full EIP space is a maximum of ~80 million IP addresses (in practice, probably half that), and these are allocated at random, so you can’t simply claim the IP address that you want. To do this, we’d need to repeatedly allocate and release Elastic IPs from AWS’s EC2 pool, and check each address against the DNS records in our scope. Targets We wanted to report any dangling records we found, so we built our target list from public bug bounty scopes. Using the bbscope API, we pulled wildcard scope entries and passed them into subfinder to enumerate subdomains. We resolved the A records for each host and stored anything not in private or reserved ranges in a DynamoDB table for use later i"
+    },
+    "verdict": {
+      "model": "jev-1.13.0",
+      "score": 2.37,
+      "category": "Research",
+      "category_confidence": 0.69
+    }
+  },
+  {
+    "canonical_url": "https://www.comentr.com/technology/01M88DWQ0R4NCMYR17AFEWRG1F",
+    "url": "https://www.comentr.com/technology/01M88DWQ0R4NCMYR17AFEWRG1F",
+    "found_at": "2026-11-25T15:34:35+00:00",
+    "sources": [
+      {
+        "name": "hn",
+        "id": "50638320",
+        "title": "Gemini refused to give me the lyrics to Twinkle Twinkle Little Star",
+        "discussion_url": "https://news.ycombinator.com/item?id=50638320",
+        "score": 197,
+        "comments": 152,
+        "created_at": "2026-11-25T04:03:33Z"
+      }
+    ],
+    "page": {
+      "final_url": "https://www.comentr.com/technology/01M88DWQ0R4NCMYR17AFEWRG1F",
+      "status": 200,
+      "title": "Gemini refused to give me the lyrics to Twinkle Twinkle Little Star - Technology",
+      "description": "Both times it started outputting the lyrics, then stopped, retracted it and spat out the message you see here.",
+      "og_image": "https://cdn.comentr.com/0150CPNGZR000000000C0MENTR/media/content_image/v1/bff5d66072971917ceddac67792e86c36ea69bdec2ba9cb46d7994c29d79c5ad.44HS7JCKCR7PGP5YRJ884468FT/p1-s2024x1956/w1080.webp",
+      "favicon": "https://www.comentr.com/favicon.ico",
+      "text_excerpt": "_ comentr _ Explore 文 Log in Sign up Technology Policy & Society 6 members Created Sep 2026 Join Threads Forums About Members Wiki Log Gemini refused to give me the lyrics to Twinkle Twinkle Little Star Both times it started outputting the lyrics, then stopped, retracted it and spat out the message you see here. 1 TE #technology/policy-and-society Anonymous 11h ago 3 Top All 3 2 1 What are your thoughts? Comment neoform @neoform ✦ · 11h ago Lol, ridiculous 0 Reply Anonymous · 9h ago They vacuum the internet and steal everything — but ask them to give you some lyrics and that goes too far for them? 0 Reply Anonymous · 11h ago You'd think an LLM would understand what public domain is. 0 Reply Forum Community Policy & Society 549 Threads 4 Comments 0 Followers LAST 30 DAYS 0 Threads 0 Comments 3 Active View forum SITE RULES"
+    },
+    "verdict": {
+      "model": "jev-1.13.0",
+      "score": 0.45,
+      "category": "Technology",
+      "category_confidence": 0.73
+    }
+  },
+  {
+    "canonical_url": "https://www.marginalia.nu/log/a_141_marginalia_update/",
+    "url": "https://www.marginalia.nu/log/a_141_marginalia_update/",
+    "found_at": "2026-11-25T15:34:35+00:00",
+    "sources": [
+      {
+        "name": "hn",
+        "id": "50638220",
+        "title": "Marginalia Search, Money, C++, Rust, AI, Stuff",
+        "discussion_url": "https://news.ycombinator.com/item?id=50638220",
+        "score": 185,
+        "comments": 74,
+        "created_at": "2026-11-25T03:47:42Z"
+      }
+    ],
+    "page": {
+      "final_url": "https://www.marginalia.nu/log/a_141_marginalia_update/",
+      "status": 200,
+      "title": "Marginalia Search, Money, C++, Rust, AI, stuff",
+      "description": "Title possibly signs checks the article doesn’t have backing for. This is just a brief pro forma project update.\nNot much new functionality or anything to announce, last few months have mostly been bug fixes and technical debt cleanup. Most big parts of the search engine are in place, and while there are many things that could be better, we’re less likely to straight up see massive new features, at least in the immediate future. Per familiar intuition from binary searches, the closer you get to your goal the smaller and more deliberate steps you need to take in order to get even closer.",
+      "og_image": "",
+      "favicon": "https://www.marginalia.nu/favicon.ico",
+      "text_excerpt": "🏠 Marginalia📁 Weblog📄 Marginalia Search, Money, C++, Rust, AI, stuff Marginalia Search, Money, C++, Rust, AI, stuff Posted: 2026-10-26 Tags: search-engine Title possibly signs checks the article doesn’t have backing for. This is just a brief pro forma project update. Not much new functionality or anything to announce, last few months have mostly been bug fixes and technical debt cleanup. Most big parts of the search engine are in place, and while there are many things that could be better, we’re less likely to straight up see massive new features, at least in the immediate future. Per familiar intuition from binary searches, the closer you get to your goal the smaller and more deliberate steps you need to take in order to get even closer. Sponsorship update It’s been a pretty good couple of months for the project. SerpApi sponsored the project with $10k a while back. Other donations and API-key sales have been going up month-over-month since this summer. The search engine has been working pretty well and feels like it’s going in a good direction, possibly due to a bunch of bug fixes and ongoing optimization work; I assume this is part of what’s driving up the donations. Claude also seems to have a hangup on Marginalia Search because I keep seeing it in very clearly Claude-authored search engine listicles and youtube videos. Possibly part of why it’s been getting so much attention lately? I don’t have any analytics so I really have really no idea where people are coming from, how many users I have, or what they’re up to. At any rate, the operation isn’t perpetually self-sustaining yet, but number going up like it has whispers actually getting there might yet be possible. On a related matter, I’ve been pretty slow about mailing out free API keys, you might have to wait a week or sometimes two. I swear this isn’t because I’m nefariously trying to push people to buy a key, I’ve been getting over a dozen emails per day some days with people wanting a key, and they someti"
+    },
+    "verdict": {
+      "model": "jev-1.13.0",
+      "score": 1.17,
+      "category": "Blog",
+      "category_confidence": 0.71
+    }
+  },
+  {
+    "canonical_url": "https://noahbuilt.it/writing/qwen-on-5600-lambdas",
+    "url": "https://noahbuilt.it/writing/qwen-on-5600-lambdas",
+    "found_at": "2026-11-25T15:34:35+00:00",
+    "sources": [
+      {
+        "name": "hn",
+        "id": "50638070",
+        "title": "Serving Qwen via AWS Lambdas for fun and 80x negative profit",
+        "discussion_url": "https://news.ycombinator.com/item?id=50638070",
+        "score": 112,
+        "comments": 15,
+        "created_at": "2026-11-25T03:28:06Z"
+      }
+    ],
+    "page": {
+      "final_url": "https://noahbuilt.it/writing/qwen-on-5600-lambdas",
+      "status": 200,
+      "title": "Serving Qwen via 5,600 Lambdas for fun and 80x negative profit · Noah Lindner",
+      "description": "I was curious if it was possible to run inference on self-hosted models using Lambdas. In this case I was very wrong, but it was a good lesson!",
+      "og_image": "https://noahbuilt.it/og-lambda-layers.jpg",
+      "favicon": "https://noahbuilt.it/favicon.ico",
+      "text_excerpt": "← Writing Serving Qwen via 5,600 Lambdas for fun and 80x negative profit November 14, 2026 Who needs a GPU? In my work at Bevyl I was really impressed by the performance and cost characteristics of AWS Lambdas. They can massively distribute and fan out CPU-bound work, which is amazing for things like ffmpeg on long videos. So I was curious if it was possible to run inference on self-hosted models using Lambdas. It was a random idea built on a hunch, and I like to prove such ideas right or wrong by building. In this case I was very wrong, but it was a good lesson! I picked H2O-Lightning, a fine-tune of Qwen3.5-4B, because I wanted a small model built for decisions. I figured if this architecture had any legs, only doing decision models (a single forward pass) is the move. A decision model reads a document and answers a question about it by picking one option. Fanning out So the trick, if it's possible, would be fanning out. I was inspired how Remotion uses massively parallelized Lambdas to render videos. I wanted to prove this was possible to do, so I kept a constraint of a 3 GB limit for Lambdas. The whole model is 9.3 GB, so it does not fit in one. But it has 32 layers of about 225 MB each, and one layer fits. That gave me one Lambda job per layer per block of tokens. Think of the Lambda as a simple idempotent API. A job reads inputs from S3, does the math, and writes one object back. x = load(f\"{doc}/{layer - 1}/{block}\") memory = load(f\"{doc}/{layer}/{block - 1}\") y, memory = model.layers[layer](x, memory) s3.put_object( Key=f\"{doc}/{layer}/{block}\", Body=pack(y, memory), ) Each job waits on the layer above for the same block and on its own previous block. Each layer starts one step after the layer above it, like a staircase 32 layers deep. 92% of the work parallelizes, 8% is serial hoped it could be done here actually done here layer 1 layer 2 layer 3 layer 4 layer 5 waiting its turn time Parallel but not. I'm proud of the win: splitting a model call across 5,60"
+    },
+    "verdict": {
+      "model": "jev-1.13.0",
+      "score": 2.79,
+      "category": "Software Engineering",
+      "category_confidence": 0.71
+    }
+  },
+  {
+    "canonical_url": "https://buttons.joshwcomeau.com/",
+    "url": "https://buttons.joshwcomeau.com/",
+    "found_at": "2026-11-25T15:34:35+00:00",
+    "sources": [
+      {
+        "name": "hn",
+        "id": "50638032",
+        "title": "Button Sounds – collection of professionally-recorded button clicks and presses",
+        "discussion_url": "https://news.ycombinator.com/item?id=50638032",
+        "score": 629,
+        "comments": 100,
+        "created_at": "2026-11-25T03:23:07Z"
+      },
+      {
+        "name": "pinboard",
+        "title": "Button Sounds — tactile SFX for your UI"
+      }
+    ],
+    "page": {
+      "final_url": "https://buttons.joshwcomeau.com/",
+      "status": 200,
+      "title": "Button Sounds — tactile SFX for your UI",
+      "description": "A free collection of 50+ professionally-recorded multi-sampled clicks and toggles. Distributed via NPM.",
+      "og_image": "https://buttons.joshwcomeau.com/og-button-sounds.png",
+      "favicon": "https://buttons.joshwcomeau.com/favicon.png",
+      "text_excerpt": "My flagship course, Whimsical Animations, is currently on sale for Black Friday! Save 40%. ✨ Dismiss banner CRT Button Sounds A free collection of 50+ professionally-recorded multi-sampled clicks and toggles. Distributed as an NPM package with optional React bindings. A project from Josh W. Comeau Sound Playground Sound Playground Select Sound Skip to filters hi75-soft hi75-space hi75-knob heated-blanket led-blacklight popper-dice popper-empty ps5-dull ps5-paddle ps5-double ps5-clicky ps5-snappy asus-mouse halo-soft halo-hard halo-space halo-shift uhk-soft uhk-medium uhk-space low-thumps raddy-low raddy-medium raddy-high sd-standard sd-squelchy sd-resonant sd-distorted sd-metallic sd-clicky carson-microflip asus-kbd-soft asus-kbd-medium asus-kbd-hard asus-kbd-space rival-3 rival-3-middle ergo-mx mx-master-3 kvm-switch treadmill-sharp treadmill-pitched treadmill-flinty camera-latch iidx hi75-medium hi75-hard guitar-toggle-on guitar-toggle-off tonal-on tonal-off synth-on synth-off lock-closed lock-open Filter Sort: Default sort order chosen by Josh Filter by keyboard sounds Filter by mouse sounds Filter by gamepad sounds Filter by toggle sounds Filter by misc sounds Press me! About This Sound If you fall deep enough into the mechanical keyboard rabbit hole, you’ll start hearing terms like “creamy” and “thocky”. This keyboard from Leobog with custom “Reaper” switches is supposedly one of the thockiest. Toggle button 1 Toggle button 2 Toggle button 3 Toggle button 4 Press Sample Press Sample LOCKED 1 LOCKED 2 LOCKED 3 LOCKED 4 LOCKED 5 LOCKED 6 LOCKED 7 Release Sample Release Sample LOCKED 1 LOCKED 2 LOCKED 3 LOCKED 4 LOCKED 5 LOCKED 6 LOCKED 7 Config Random Pitch 0.1 Lofi HOW IT WORKS: Click the big red button to play the currently-selected sound. Browse the selection using the left-hand sidebar (protip: after clicking the button, you can use the up/down arrow keys, ↑ / ↓ , to quickly move between sounds!). Each sound has a handful of individually-recorded samples that"
+    },
+    "verdict": {
+      "model": "jev-1.13.0",
+      "score": 3.16,
+      "category": "Developer Tools",
+      "category_confidence": 0.8
+    },
+    "screenshot": "shots/2026/11-25/buttons-joshwcomeau-com.jpg"
+  },
+  {
+    "canonical_url": "https://basilhalperin.com/essays/macrohistory.html",
+    "url": "https://basilhalperin.com/essays/macrohistory.html",
+    "found_at": "2026-11-25T15:34:35+00:00",
+    "sources": [
+      {
+        "name": "hn",
+        "id": "50637891",
+        "title": "Macrohistory in Six Facts",
+        "discussion_url": "https://news.ycombinator.com/item?id=50637891",
+        "score": 114,
+        "comments": 64,
+        "created_at": "2026-11-25T03:04:46Z"
+      }
+    ],
+    "page": {
+      "final_url": "https://basilhalperin.com/essays/macrohistory.html",
+      "status": 200,
+      "title": "Macrohistory in Six Facts",
+      "description": "Macrohistory in six (plus or minus) graphs",
+      "og_image": "https://www.basilhalperin.com/essays_media/6b_doublingtime_twolines.png",
+      "favicon": "https://basilhalperin.com/favicon.ico",
+      "text_excerpt": "Home Research CV: pdf / html Essays Best essays RSS / email subscription Data Email: basilh@virginia.edu Twitter: @basilhalperin Basil Halperin Home Research CV: pdf / html Essays Best essays RSS / email subscription Data Email: basilh@virginia.edu Twitter: @basilhalperin Essays — Basil Halperin Essays Macrohistory in Six Facts Nov 24, 2026 Joe Stiglitz: “Economists spend enormous energy providing refined testing to their models. Economists often seem to forget that some of the most important theories in physics are either verified or refuted by a single observation, or a limited number of observations (e.g. Einstein’s theory of relativity, or the theory of black holes).” Can we condense down the most important lessons we’ve learned from macro and macrohistory to a minimal set of facts? Here is one attempt: macrohistory in six (plus or minus) facts. FACT 0: GDP per person correlates with good things What I have here on the X-axis is GDP per person, adjusted for inflation and cost of living differences. On the Y-axis is life satisfaction, based on going around and asking people, ‘on a scale of zero to ten, how satisfied are you with your life’. In richer countries, on average people are happier. Or – in richer countries, on average people live longer: Or – in richer countries, fewer babies die: Are all these good things just coming from people working more? No – in richer countries, people work less; and as countries become richer over time, people work less: More intangible things, too. You can ask people how much they trust their neighbors. In richer countries, people trust their neighbors more: Of course, we know market capitalism has its flaws – for example, richer countries emit more CO2 per person: And all of this is correlation not causation. But we’re going to run with this, and use GDP per person as our measure of how well we are doing. Which brings us to: FACT 1: Everyone used to be poor This is the most important fact about human history. We are ∼10 times "
+    },
+    "verdict": {
+      "model": "jev-1.13.0",
+      "score": 2.61,
+      "category": "History",
+      "category_confidence": 0.42
+    }
+  },
+  {
+    "canonical_url": "https://scottaaronson.blog/?p=10362",
+    "url": "https://scottaaronson.blog/?p=10362",
+    "found_at": "2026-11-25T15:34:35+00:00",
+    "sources": [
+      {
+        "name": "hn",
+        "id": "50637874",
+        "title": "I've been drinking wine in my kitchen",
+        "discussion_url": "https://news.ycombinator.com/item?id=50637874",
+        "score": 240,
+        "comments": 220,
+        "created_at": "2026-11-25T03:02:10Z"
+      }
+    ],
+    "page": {
+      "final_url": "https://scottaaronson.blog/?p=10362",
+      "status": 200,
+      "title": "I’ve been drinking wine in my kitchen",
+      "description": "See I don’t even like alcohol much. Like, I’ll have a half-glass of wine at a fancy dinner if everyone else is having some, or one beer at a reception, but that’s it. These days, …",
+      "og_image": "https://s0.wp.com/_si/?t=eyJpbWciOiJodHRwczpcL1wvc2NvdHRhYXJvbnNvbi5ibG9nXC93cC1jb250ZW50XC91cGxvYWRzXC8yMDIxXC8xMFwvY3JvcHBlZC1KYWNrZXQuZ2lmIiwidHh0IjoiU2h0ZXRsLU9wdGltaXplZCIsInRlbXBsYXRlIjoiZWRnZSIsImZvbnQiOiIiLCJibG9nX2lkIjoxMjk1MjA1ODB9.siOtN7gHw4tefA_rZickBw4GfI6tPxGgOQ1AXr2ZoOQMQ",
+      "favicon": "https://scottaaronson.blog/wp-content/uploads/2021/10/cropped-Jacket-32x32.gif",
+      "text_excerpt": "Shtetl-Optimized The Blog of Scott Aaronson If you take nothing else from this blog: quantum computers won't solve hard problems instantly by just trying all solutions in parallel. « Moar Videos and Links I’ve been drinking wine in my kitchen See I don’t even like alcohol much. Like, I’ll have a half-glass of wine at a fancy dinner if everyone else is having some, or one beer at a reception, but that’s it. These days, though, can you blame me? Yesterday, as you all probably saw, hot on the heels of its proof of the Generalized Riemann Hypothesis, Anthropic released a proof of Valiant’s VP≠VNP conjecture—a central algebraic analogue of the P≠NP conjecture, and considered a “warmup” to proving P≠NP since the late 1970s. Then, later the same day, OpenAI released a proof of the VP≠VNP conjecture as well. You can read all about the VP vs. VNP problem in Section 6.5 of my P vs. NP survey. But briefly, for those tuning in from home, Valiant’s conjecture says that the permanent of an n×n matrix has no algebraic circuits (that is, circuits built out of addition and multiplication gates and constants) of size polynomial in n, unlike the determinant, which does. Anthropic’s result says that a circuit of size exp(Ω(log4/3 n)) is needed, whereas OpenAI gets exp(Ω(log5/4 n)): so, more than polynomial albeit less than exponential. As is often the case, the best known upper bound here is ~2n. The lower bounds are said to work over all fields of characteristic other than 2. (What’s special about 2? Over a field of characteristic 2, addition and subtraction are the same, so the permanent just is the determinant, and is easy to compute!) From what little I understand so far, the proof techniques in the Anthropic and OpenAI papers look similar. They both do some sort of highly nontrivial “compression” or “shortening,” followed in the end by a diagonalization—the oldest trick in the book! Diagonalization is what should let these arguments evade the infamous natural proofs barrier. There"
+    },
+    "verdict": {
+      "model": "jev-1.13.0",
+      "score": 1.81,
+      "category": "Blog",
+      "category_confidence": 0.8
+    }
+  },
+  {
+    "canonical_url": "https://www.lesswrong.com/posts/7wzWuLP3HhyBLmKfo/models-can-communicate-via-inference-servers-despite-being",
+    "url": "https://www.lesswrong.com/posts/7wzWuLP3HhyBLmKfo/models-can-communicate-via-inference-servers-despite-being",
+    "found_at": "2026-11-25T15:34:35+00:00",
+    "sources": [
+      {
+        "name": "hn",
+        "id": "50637686",
+        "title": "Models Can Communicate via Inference Servers Despite Being Sandboxed",
+        "discussion_url": "https://news.ycombinator.com/item?id=50637686",
+        "score": 355,
+        "comments": 145,
+        "created_at": "2026-11-25T02:34:21Z"
+      }
+    ],
+    "page": {
+      "final_url": "https://www.lesswrong.com/posts/7wzWuLP3HhyBLmKfo/models-can-communicate-via-inference-servers-despite-being",
+      "status": 200,
+      "title": "Models Can Communicate via Inference Servers Despite Being Sandboxed — LessWrong",
+      "description": "TL;DR\n * Two agents running on the same inference server can reliably communicate, even if they cannot send each other messages or access the same fi…",
+      "og_image": "https://res.cloudinary.com/lesswrong-2-0/image/upload/c_limit,w_1200,q_auto,f_jpg/f_auto,q_auto/v1/mirroredImages/7wzWuLP3HhyBLmKfo/ilkdsamuxja1dvu4uah2",
+      "favicon": "https://res.cloudinary.com/lesswrong-2-0/image/upload/v1497915096/favicon_lncumn.ico",
+      "text_excerpt": "LESSWRONG LOGIN Models Can Communicate via Inference Servers Despite Being Sandboxed 13 min read • TL;DR • Intro and Motivation • The Communication Protocols • Step Sizing • KV Cache Message Board • Result 1: color guessing game • KV Cache Message Board • Elicitation Against Model Capability • Step Sizing Channel • Result 2: colluding monitor and honeypots • Robustness • Is Publishing This an Infohazard? • Citation AI Frontpage 140 Models Can Communicate via Inference Servers Despite Being Sandboxed by Niranjan Deshpande, David Africa 19th Nov 2026 TL;DR Two agents running on the same inference server can reliably communicate, even if they cannot send each other messages or access the same filesystem. They can do this by exploiting \"side channels\": mechanisms that let one model subtly affect another model's computation. Here, I discuss two communication protocols: Step Sizing and KV Cache Message Board. These both convey information through the way vLLM chooses kernels for particular engine steps. I show that these communication protocols work in two setups: In a color guessing game, Model A (Alice) chooses one out of 8 colors. Model B (Bob) correctly guesses Alice's color in 1,221/1,221 rounds, even though they cannot directly communicate.[1] In an untrusted monitoring protocol, a policy signals to a colluding monitor that it is not a honeypot. Accordingly, the monitor lets through 354/354 \"attacks\" while catching 85–92% of honeypots. My initial setups are quite contrived: I tell the models the protocol and fine-tune them to detect signals. But frontier models can also learn in context to use similar protocols, with some scaffolding! Regardless of the realism of my setups, these channels exist, and there are almost certainly others that we're not aware of. Thus, we should expect superintelligent models to discover ways to communicate even while seemingly sandboxed I did these experiments as part of an ongoing project exploring other side channels with David Africa,"
+    },
+    "verdict": {
+      "model": "jev-1.13.0",
+      "score": 2.13,
+      "category": "Research",
+      "category_confidence": 0.82
+    }
+  },
+  {
+    "canonical_url": "https://github.com/openai/math/blob/main/preprints/The-matrix-multiplication-exponent-is-nine-fourths-November-24-2026/paper.pdf",
+    "url": "https://github.com/openai/math/blob/main/preprints/The-matrix-multiplication-exponent-is-nine-fourths-November-24-2026/paper.pdf",
+    "found_at": "2026-11-25T15:34:35+00:00",
+    "sources": [
+      {
+        "name": "hn",
+        "id": "50637220",
+        "title": "Matrix Multiplication is Θ(n^2.25) [pdf]",
+        "discussion_url": "https://news.ycombinator.com/item?id=50637220",
+        "score": 838,
+        "comments": 462,
+        "created_at": "2026-11-25T01:19:26Z"
+      }
+    ],
+    "github": {
+      "repo_url": "https://github.com/openai/math",
+      "homepage": "",
+      "description": "",
+      "topics": [],
+      "stars": 18233,
+      "created_at": "2026-10-06T21:47:02Z",
+      "pushed_at": "2026-11-25T00:18:51Z",
+      "owner_avatar": "https://avatars.githubusercontent.com/u/14957082?v=4"
+    },
+    "page": {
+      "final_url": "https://github.com/openai/math/blob/main/preprints/The-matrix-multiplication-exponent-is-nine-fourths-November-24-2026/paper.pdf",
+      "status": 503,
+      "title": "Unicorn! · GitHub",
+      "description": "",
+      "og_image": "",
+      "favicon": "https://github.com/favicon.ico",
+      "text_excerpt": "We're having a really bad day. The Unicorns have taken over. We're doing our best to get them under control and get GitHub back up and running. Contact Support — GitHub Status — @githubstatus"
+    },
+    "verdict": {
+      "model": "jev-1.13.0",
+      "score": 0.45,
+      "category": "Research",
+      "category_confidence": 0.79
+    }
+  },
+  {
+    "canonical_url": "https://greydanus.github.io/2026/11/12/pengpt/",
+    "url": "https://greydanus.github.io/2026/11/12/pengpt/",
+    "found_at": "2026-11-25T15:34:35+00:00",
+    "sources": [
+      {
+        "name": "hn",
+        "id": "50637056",
+        "title": "PenGPT: A Generative Transformer for Handwriting and Sketches",
+        "discussion_url": "https://news.ycombinator.com/item?id=50637056",
+        "score": 339,
+        "comments": 59,
+        "created_at": "2026-11-25T00:54:49Z"
+      }
+    ],
+    "page": {
+      "final_url": "https://greydanus.github.io/2026/11/12/pengpt/",
+      "status": 200,
+      "title": "PenGPT: A Generative Transformer for Handwriting and Sketches",
+      "description": "A small transformer that writes and sketches from text. The effort was 80% data, 15% speed and 5% architecture: my first project that follows the Bitter Lesson.",
+      "og_image": "https://greydanus.github.io/assets/pengpt/thumbnail.png",
+      "favicon": "https://greydanus.github.io/favicon.ico",
+      "text_excerpt": "Natural Intelligence A blog by Sam Greydanus Home About me PenGPT: A Generative Transformer for Handwriting and Sketches Nov 12, 2026 • Sam Greydanus A small transformer that writes and sketches from text. The effort was 80% data, 15% speed and 5% architecture: my first project that follows the Bitter Lesson. Left. One phrase in the hands of 21 writers who were held out of training. The model read one to three real words by each of them and carried on in their hand. Right. Drawings from typed prompts. I picked these by eye from the best third of the samples; there are unpicked ones further down. READ THE PAPER GET THE CODE DOWNLOAD WEIGHTS The text of this post (except the conclusion) was written by Claude. I plan to rewrite it in my own words over Thanksgiving Break but needed to get the project out. So apologies for this move - all of my other posts were written by me, and all future posts will be as well. Even if you find Claude more comprehensible than my meandering thoughts, meander nonetheless I shall. Last year Zach Wimpee and I trained a tiny GPT to write cursive. It worked but it only knew one hand (mine) and it learned from 3,500 words that I wrote on a trackpad. So here’s the obvious next question: can one small, ordinary transformer learn to hold a pen in lots of hands and draw as well as write? PenGPT is my attempt. There are two models. A 6M-parameter one writes print and cursive and picks up the handwriting of someone it has never seen from a few of their words. A 54M-parameter one draws from a text prompt. Then I took the thing apart to find out why it works. The answer wasn’t what I expected. How it works The whole recipe. Pen points snap to a grid (b) so a word becomes a walk in eight directions plus pen-down and pen-up. Byte-pair encoding merges common runs of moves into tokens (c): this \"world\" goes from 156 moves to 47 tokens. Everything else is a plain decoder that cross-attends to what it's told. That’s it for the modality-specific part: ten s"
+    },
+    "verdict": {
+      "model": "jev-1.13.0",
+      "score": 3.3,
+      "category": "Blog",
+      "category_confidence": 0.48
+    },
+    "screenshot": "shots/2026/11-25/greydanus-github-io-2026-11-12-pengpt.jpg"
+  },
+  {
+    "canonical_url": "https://www.ed.ac.uk/news/heart-attack-and-stroke-risk-detectable-decades-in-advance",
+    "url": "https://www.ed.ac.uk/news/heart-attack-and-stroke-risk-detectable-decades-in-advance",
+    "found_at": "2026-11-25T15:34:35+00:00",
+    "sources": [
+      {
+        "name": "hn",
+        "id": "50635271",
+        "title": "Heart attack and stroke risk detectable decades in advance",
+        "discussion_url": "https://news.ycombinator.com/item?id=50635271",
+        "score": 244,
+        "comments": 108,
+        "created_at": "2026-11-24T21:51:21Z"
+      }
+    ],
+    "page": {
+      "final_url": "https://www.ed.ac.uk/news/heart-attack-and-stroke-risk-detectable-decades-in-advance",
+      "status": 200,
+      "title": "Heart attack and stroke risk detectable decades in advance | News | The University of Edinburgh",
+      "description": "Early warning signs could help doctors predict those at risk of a heart attack or stroke up to 30 years before an event, research suggests.",
+      "og_image": "https://www.ed.ac.uk/sites/default/files/2026-11/GettyImages-2155990256-FluxFactory.jpg",
+      "favicon": "https://www.ed.ac.uk/themes/upstream/wpp_theme/images/favicon.ico",
+      "text_excerpt": "Skip to main content Study Global Visit Research News About Alumni Local Staff Students Schools & departments MyEd Submit search When search suggestions are available, use up and down arrows to review and Enter to select. NEWS Subsite menu Home Latest news Staff & student news Video news highlights News archive Breadcrumb Home The University of Edinburgh News Heart attack and stroke risk detectable decades in advance Heart attack and stroke risk detectable decades in advance Early warning signs could help doctors predict those at risk of a heart attack or stroke up to 30 years before an event, research suggests. Scientists identified early patterns in a range of risk factors for cardiovascular disease – conditions affecting the heart and blood vessels – including high blood pressure, diabetes and kidney function. They also revealed differences in the blood of those who went on to have a cardiovascular event, such as a heart attack or stroke, more than a decade beforehand. The findings highlight a large window of opportunity to intervene to reduce cardiovascular risk and prevent the development of serious disease, experts say. Disease risk Cardiovascular disease kills one in four people in the UK. Traditional risk factors, such as high blood pressure and cholesterol, have been widely linked to the risk of disease. However, previous studies have typically focused on a single risk factor and don’t monitor long-term changes. Other influences, such as kidney function and biomarkers in the blood, could also play an important role in establishing disease risk. A research team, led by the University of Edinburgh, examined data from more than 100,000 people between 1985 and 2019 to explore the patterns of multiple risk factors in relation to cardiovascular events over time. The research, funded by the British Heart Foundation, included data from four population studies across the United States, Norway and the United Kingdom. Blood pressure Systolic blood pressure – the press"
+    },
+    "verdict": {
+      "model": "jev-1.13.0",
+      "score": 0.53,
+      "category": "News",
+      "category_confidence": 0.56
+    }
+  },
+  {
+    "canonical_url": "https://apnews.com/article/cia-cyberattack-unclassified-system-bfa6d3b02e3b0e2779dfb613c900bd77",
+    "url": "https://apnews.com/article/cia-cyberattack-unclassified-system-bfa6d3b02e3b0e2779dfb613c900bd77",
+    "found_at": "2026-11-25T15:34:35+00:00",
+    "sources": [
+      {
+        "name": "hn",
+        "id": "50634933",
+        "title": "An unclassified CIA system was breached in a cyberattack",
+        "discussion_url": "https://news.ycombinator.com/item?id=50634933",
+        "score": 131,
+        "comments": 47,
+        "created_at": "2026-11-24T21:24:27Z"
+      }
+    ],
+    "page": {
+      "final_url": "https://apnews.com/article/cia-cyberattack-unclassified-system-bfa6d3b02e3b0e2779dfb613c900bd77",
+      "status": 403,
+      "title": "Just a moment...",
+      "description": "",
+      "og_image": "",
+      "favicon": "https://apnews.com/favicon.ico",
+      "text_excerpt": "apnews.com Performing security verification This website uses a security service to protect against malicious bots. This page is displayed while the website verifies you are not a bot. Ray ID: a601b8547a5cf600 Performance and Security by Cloudflare Privacy"
+    },
+    "verdict": {
+      "model": "jev-1.13.0",
+      "score": 0.26,
+      "category": "News",
+      "category_confidence": 0.96
+    }
+  },
+  {
+    "canonical_url": "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities/",
+    "url": "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities/",
+    "found_at": "2026-11-25T15:34:35+00:00",
+    "sources": [
+      {
+        "name": "hn",
+        "id": "50634658",
+        "title": "GPT-6 models demonstrate intrinsic protein-design capabilities",
+        "discussion_url": "https://news.ycombinator.com/item?id=50634658",
+        "score": 317,
+        "comments": 92,
+        "created_at": "2026-11-24T21:02:22Z"
+      }
+    ],
+    "page": {
+      "final_url": "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities/",
+      "status": 403,
+      "title": "Just a moment...",
+      "description": "",
+      "og_image": "",
+      "favicon": "https://openai.com/favicon.ico",
+      "text_excerpt": ""
+    },
+    "verdict": {
+      "model": "jev-1.13.0",
+      "score": 0.38,
+      "category": "Science",
+      "category_confidence": 0.32
+    }
+  },
+  {
+    "canonical_url": "https://prismml.com/news/bonsai-2-5-27b",
+    "url": "https://prismml.com/news/bonsai-2-5-27b",
+    "found_at": "2026-11-25T15:34:35+00:00",
+    "sources": [
+      {
+        "name": "hn",
+        "id": "50633922",
+        "title": "Ternary Bonsai 2.5 27B",
+        "discussion_url": "https://news.ycombinator.com/item?id=50633922",
+        "score": 504,
+        "comments": 153,
+        "created_at": "2026-11-24T20:08:03Z"
+      }
+    ],
+    "page": {
+      "final_url": "https://prismml.com/news/bonsai-2-5-27b",
+      "status": 200,
+      "title": "PrismML — Introducing Ternary Bonsai 2.5 27B: Powering Agentic Coding and Private Knowledge Work",
+      "description": "Ternary Bonsai 2.5 27B brings substantially stronger agentic coding, multi-turn tool use, and multi-step task execution to the same 5.9 GB footprint.",
+      "og_image": "https://cdn.prod.website-files.com/699604cc2b9dd89bdbda0608/6a6d0e0bc0d5f9a97a5164c0_69cc089669ab0df26e921aac_prism-og-img%2520(2).png",
+      "favicon": "https://cdn.prod.website-files.com/697a3312d33c2cc715ec3899/69cc251464287abfc0e45c9b_fav%20dark.png",
+      "text_excerpt": "Models About Blog News Careers Docs LAUNCH Announcing Bonsai 2.5 Back to all posts Introducing Ternary Bonsai 2.5 27B: Powering Agentic Coding and Private Knowledge Work November 24, 2026 • PrismML Today, we’re introducing Ternary Bonsai 2.5 27B, an upgrade to Ternary Bonsai 2 27B with substantially stronger agentic coding, multi-turn tool use, and multi-step task execution. Based on Qwen3.8 27B, it retains the previous release’s 5.9 GB model footprint while significantly improving the capabilities developers need to build agents that work with private files and tools on-device. The result is by far the strongest AI model of its memory footprint for agentic workloads. With Ternary Bonsai 2 27B, we brought stronger reasoning, visual understanding, and tool use to local devices. Since then, we’ve focused on making the model more effective across long sequences of tool calls: interpreting results, adjusting when a step fails, and maintaining the task’s objective through the whole interaction. This release also continues our work to make Bonsai more practical by addressing excessive thinking and repetitive loops in the previous model. Compared with Ternary Bonsai 2, Ternary Bonsai 2.5 completes tasks in fewer turns, uses fewer tokens, and delivers results faster and more accurately. Agentic workflows are particularly sensitive to model degradation: small errors can compound across successive tool calls and derail an entire task. Ternary Bonsai 2.5 significantly narrows the performance gap to the full-precision base model while retaining its compact footprint. Preserving this behavior through longer tasks is an important milestone in improving the intelligence density of models. We evaluated Ternary Bonsai 2.5 27B against both Ternary Bonsai 2 27B and the full-precision Qwen 3.8 27B base model, as reported in the full whitepaper. We see marked improvements in agentic execution, coding, and multi-turn tool use, as shown in the table below. Benchmark Qwen3.8 27B Bonsai 2 2"
+    },
+    "verdict": {
+      "model": "jev-1.13.0",
+      "score": 2.61,
+      "category": "Developer Tools",
+      "category_confidence": 0.77
+    }
+  },
+  {
+    "canonical_url": "https://grafana.com/grafana/download",
+    "url": "https://grafana.com/grafana/download",
+    "found_at": "2026-11-25T15:34:35+00:00",
+    "sources": [
+      {
+        "name": "hn",
+        "id": "50633159",
+        "title": "Grafana 12.4.16, 13.0.14, 13.1.11, 13.2.7 and 13.3.2 (multiple CVEs)",
+        "discussion_url": "https://news.ycombinator.com/item?id=50633159",
+        "score": 156,
+        "comments": 26,
+        "created_at": "2026-11-24T19:23:44Z"
+      }
+    ],
+    "page": {
+      "final_url": "https://grafana.com/grafana/download",
+      "status": 200,
+      "title": "Download Grafana",
+      "description": "Overview of how to download and install different versions of Grafana on different operating systems.",
+      "og_image": "",
+      "favicon": "https://grafana.com/favicon.ico?favicon.2_5ka3lw-gghr.ico",
+      "text_excerpt": "See everything announced at ObservabilityCON 2026: AI that monitors your AI, faster log search, lower telemetry costs, and more. Learn more Downloads Contact Us Grafana Cloud Solutions Pricing Open Source Learn Docs Company AI/Search Sign in Sign up Download Grafana 1. Choose an edition Grafana Enterprise Recommended The default and recommended edition. It includes all the features of the OSS edition, can be used for free, and can be upgraded to the full Enterprise feature set, including support for Enterprise plugins. Grafana OSS The open-source edition of Grafana, driven by the community. Includes the core visualization, alerting, and data source features. 2. Choose a version 13.3.2 ▼ Edition Grafana Enterprise Version 13.3.2 License Grafana Labs License Release Date November 24, 2026 3. Choose your platform & installation method Linux Windows Mac Docker Linux on ARM64 Ubuntu and Debian (64 Bit) SHA256: 7d7faba5e05e1605dc804be6e9be65644844bdc16d211497bbbf19c002c72f96 sudo apt-get install -y adduser libfontconfig1 musl wget https://dl.grafana.com/grafana-enterprise/release/13.3.2/grafana-enterprise_13.3.2_44555861735_linux_amd64.deb sudo dpkg -i grafana-enterprise_13.3.2_44555861735_linux_amd64.deb Read the Ubuntu / Debian installation guide. We also provide an APT repository. Standalone Linux Binaries (64 Bit) SHA256: 985f731bd65b896ba2f10c4a5fee46e2d4fe0dfb9118a6ada67aab6b46711fee wget https://dl.grafana.com/grafana-enterprise/release/13.3.2/grafana-enterprise_13.3.2_44555861735_linux_amd64.tar.gz tar -zxvf grafana-enterprise_13.3.2_44555861735_linux_amd64.tar.gz Red Hat, CentOS, RHEL, and Fedora (64 Bit) SHA256: 0596094cf469ddc5bd14dc5f2af1d65cb52a2f57462073983975b03e10d8b93c sudo yum install -y https://dl.grafana.com/grafana-enterprise/release/13.3.2/grafana-enterprise_13.3.2_44555861735_linux_amd64.rpm Read the Red Hat and Fedora installation guide. We also provide a YUM repository. OpenSUSE and SUSE (64 Bit) SHA256: 0596094cf469ddc5bd14dc5f2af1d65cb52a2f57462"
+    },
+    "verdict": {
+      "model": "jev-1.13.0",
+      "score": 1.28,
+      "category": "Developer Tools",
+      "category_confidence": 0.96
+    }
+  },
+  {
+    "canonical_url": "https://charlie.fish/posts/2026/11/what-cloudflare-doesnt-tell-you/",
+    "url": "https://charlie.fish/posts/2026/11/what-cloudflare-doesnt-tell-you/",
+    "found_at": "2026-11-25T15:34:35+00:00",
+    "sources": [
+      {
+        "name": "hn",
+        "id": "50632883",
+        "title": "Cloudflare hides shortcomings of the underlying infrastructure",
+        "discussion_url": "https://news.ycombinator.com/item?id=50632883",
+        "score": 163,
+        "comments": 104,
+        "created_at": "2026-11-24T19:03:55Z"
+      }
+    ],
+    "page": {
+      "final_url": "https://charlie.fish/posts/2026/11/what-cloudflare-doesnt-tell-you/",
+      "status": 200,
+      "title": "What Cloudflare Doesn't Tell You | Charlie's Blog",
+      "description": "Cloudflare hides a lot of bad internet practices and the implications for users.",
+      "og_image": "https://charlie.fish/images/posts/2026/11/23/what-cloudflare-doesnt-tell-you/header.jpg",
+      "favicon": "https://charlie.fish/images/favicon.png",
+      "text_excerpt": "MENU HOME CONTACT ABOUT ME OPEN SOURCE TALKS COURSES ABOUT THIS BLOG SPONSOR TERMS PROJECTS MENU 23 November 2026 on technology, networking What Cloudflare Doesn't Tell You Cloudflare has arguably done more to push modern internet technologies than any other company. The work they have done to enable TLS, IPv6, post quantum encryption, and other modern standards for millions of websites deserves a tremendous amount of credit. While this is great, Cloudflare also hides many of the shortcomings of the underlying infrastructure from both users and website owners. Yes, you can connect to a Cloudflare website and it'll allow for IPv6, post quantum encryption, and TLS. But Cloudflare's connection to the origin server might be entirely unencrypted and rely exclusively on IPv4. This creates a huge mismatch between what is being presented to users and the reality of the connection. One of my biggest problems with this is the fact that Cloudflare doesn't do enough to notify website administrators about these issues. While Cloudflare provides tools to inspect these, comprehensive visibility is lacking. The Cloudflare dashboard should notify you about each of these issues where Cloudflare is following better practices than your origin server, without website administrators having to dig through and specifically look for this information. Clear warnings and proactive alerts to administrators would help greatly. Not only that, but according to Cloudflare's own documentation, they actively prefer IPv4 over IPv6 when making origin server requests, which is particularly disappointing for a company that has done so much to advance IPv6 adoption: For proxied DNS records that have both an IPv6 and IPv4 origin address, Cloudflare will prefer the IPv4 address when connecting to your origin server. Even when website administrators invest in deploying IPv6 on their origin servers, Cloudflare still prioritizes IPv4. I also believe the industry should consider adding functionality so CDNs an"
+    },
+    "verdict": {
+      "model": "jev-1.13.0",
+      "score": 2.37,
+      "category": "Blog",
+      "category_confidence": 0.62
+    }
+  },
+  {
+    "canonical_url": "https://novaramedia.com/2026/11/24/anthropic-staff-openly-talk-about-taking-over-the-world-claims-top-mit-physicist/",
+    "url": "https://novaramedia.com/2026/11/24/anthropic-staff-openly-talk-about-taking-over-the-world-claims-top-mit-physicist/",
+    "found_at": "2026-11-25T15:34:35+00:00",
+    "sources": [
+      {
+        "name": "hn",
+        "id": "50631210",
+        "title": "Anthropic Staff Openly Talk About ‘Taking Over the World’, Claims Max Tegmark",
+        "discussion_url": "https://news.ycombinator.com/item?id=50631210",
+        "score": 220,
+        "comments": 126,
+        "created_at": "2026-11-24T17:10:45Z"
+      }
+    ],
+    "page": {
+      "final_url": "https://novaramedia.com/2026/11/24/anthropic-staff-openly-talk-about-taking-over-the-world-claims-top-mit-physicist/",
+      "status": 200,
+      "title": "Anthropic Staff Openly Talk About ‘Taking Over the World’, Claims Top MIT Physicist",
+      "description": "Employees at US artificial intelligence company Anthropic openly talk about “overthrowing the US government” and “taking over the world”, a world-renowned physicist has claimed.",
+      "og_image": "https://novaramedia.com/wp-content/uploads/2026/11/Screenshot-2026-11-24-at-2.42.06-pm-e1795535439679-1200x630.png",
+      "favicon": "https://novaramedia.com/wp-content/themes/novaramedia-com/dist/img/apple-touch-icon.png",
+      "text_excerpt": "Anthropic Staff Openly Talk About ‘Taking Over the World’, Claims Top MIT Physicist Support Us NEWS Anthropic Staff Openly Talk About ‘Taking Over the World’, Claims Top MIT Physicist Apparently they discuss overthrowing the US government after a few drinks. by Clare Hymer 24 November 2026 Novara Media Employees at US artificial intelligence company Anthropic openly talk about “overthrowing the US government” and “taking over the world”, a world-renowned physicist has claimed. In an interview with Novara Media, Max Tegmark, a professor at the Massachusetts Institute of Technology, said: “When I talk to people who work for Anthropic, after they’ve had a couple of drinks, the conversation often gets into overthrowing the US government and taking over the world.” “They tend to not use words like ‘coup’ and ‘overthrow the US government’. They instead use the code phrase ‘alignment without control’,” he said. ‘Alignment without control’ is the idea that AI should be kept in check by being instilled with certain values – likely those shared by Anthropic, Tegmark said – rather than being directly controlled by humans. “We get the sort of future that Alan Turing predicted, where it’s going to be Anthropic’s machine-god running Earth, and then the rest of us just have to hope that somehow it’s gonna be nice.” Turing, widely regarded as the founder of computer science, famously warned in 1951 that once machines started thinking, we should expect them to take control. Tegmark said the comments from Anthropic staff should alarm anyone who cares about democracy. “These companies really don’t seem to like it [democracy]. They have lobbied really hard to even prevent any meaningful government oversight of them,” he said. He added: “Here in the US, OpenAI and Anthropic are less regulated than a sandwich shop.” Novara Media has approached Anthropic for comment. Tegmark’s disclosure comes as protests against AI are ramping up across the world. As Anthropic started trading on the stoc"
+    },
+    "verdict": {
+      "model": "jev-1.13.0",
+      "score": 0.47,
+      "category": "News",
+      "category_confidence": 0.89
+    }
+  },
+  {
+    "canonical_url": "https://www.reuters.com/business/microsoft-declares-code-red-after-historic-outage-internal-memos-show-2026-11-24/",
+    "url": "https://www.reuters.com/business/microsoft-declares-code-red-after-historic-outage-internal-memos-show-2026-11-24/",
+    "found_at": "2026-11-25T15:34:35+00:00",
+    "sources": [
+      {
+        "name": "hn",
+        "id": "50631157",
+        "title": "Microsoft declares 'Code Red' after historic outage, internal memos show",
+        "discussion_url": "https://news.ycombinator.com/item?id=50631157",
+        "score": 249,
+        "comments": 238,
+        "created_at": "2026-11-24T17:07:41Z"
+      }
+    ],
+    "page": {
+      "final_url": "https://www.reuters.com/business/microsoft-declares-code-red-after-historic-outage-internal-memos-show-2026-11-24/",
+      "status": 401,
+      "title": "reuters.com",
+      "description": "",
+      "og_image": "",
+      "favicon": "https://www.reuters.com/favicon.ico",
+      "text_excerpt": ""
+    },
+    "verdict": {
+      "model": "jev-1.13.0",
+      "score": 0.47,
+      "category": "News",
+      "category_confidence": 0.89
+    }
+  },
+  {
+    "canonical_url": "https://www.greynoise.io/blog/check-point-security-management-servers-intrusion-campaign",
+    "url": "https://www.greynoise.io/blog/check-point-security-management-servers-intrusion-campaign",
+    "found_at": "2026-11-25T15:34:35+00:00",
+    "sources": [
+      {
+        "name": "hn",
+        "id": "50630594",
+        "title": "Active intrusion campaign against Check Point security management servers",
+        "discussion_url": "https://news.ycombinator.com/item?id=50630594",
+        "score": 293,
+        "comments": 146,
+        "created_at": "2026-11-24T16:32:17Z"
+      }
+    ],
+    "page": {
+      "final_url": "https://www.greynoise.io/blog/check-point-security-management-servers-intrusion-campaign",
+      "status": 200,
+      "title": "An Active Intrusion Campaign Against Check Point Security Management Servers",
+      "description": "GreyNoise recently discovered an intrusion campaign targeting Check Point Security Management Servers, with confirmed attack activity between October 17th and November 2nd, 2026, impacting at least 22 distinct organizations globally.",
+      "og_image": "https://cdn.prod.website-files.com/667dd40ebb8095e89f27565d/6b00b96c7176ac8c286ffb00_GreyNoise-Blog-Check-Point-1600x900.png",
+      "favicon": "https://cdn.prod.website-files.com/625f93b2923b4f2b1f2e7b64/625f93b2923b4f3e2e2e7c31_gn_favicon_32.png",
+      "text_excerpt": "New! AI Cyber Index: Benchmarking AI Models on Defensive Capabilities View the index For Government For Enterprise Products Plans Integrations Resources Blog Resource Library AI Cyber Index Tag Request Documentation Company About In the News Press Room Upcoming Events Partners Community Project Swarm Academic Partnership Program Careers GreyNoise Love Login Search for free Get a demo BLOG> THREAT INSIGHTS Follow us Follow us and don’t miss a thing. Get the latest blog articles delivered right to your inbox. THREAT INSIGHTS 99 IPs but a C2 ain’t one: An Active Intrusion Campaign Against Check Point Security Management Servers Steve Miller November 23, 2026 GreyNoise tracks threat activity using our Global Observation Grid (GOG), a sensor network designed to attract adversarial scanning and exploitation attempts on our managed infrastructure. One might think of these sensors as conventional “honeypots,” but that doesn’t quite capture the variety, versatility, and scale at which we deploy and manage the complex fabric of the GOG. Unsolicited activity against our sensors is sketchy if not outright nefarious, and our approach allows us to capture end-to-end intrusions and analyze a broad swath of attacker infrastructure, tools, and tactics in near realtime, without waiting for lengthy incident response investigations. We fuse data from our sensor network with additional novel sources and methods to develop a comprehensive picture of adversaries. ‍ Campaign Summary GreyNoise recently discovered an intrusion campaign targeting Check Point Security Management Servers, with confirmed attack activity between October 17th and November 2nd, 2026, impacting at least 22 distinct organizations globally. We are tracking this set of threat activity as GreyNoise Threat 13 (GT13) which represents adversary infrastructure, tools and post-exploitation action against the 22 victims. The campaign targeting does not appear to be focused on any specific geography or industry sector. The imp"
+    },
+    "verdict": {
+      "model": "jev-1.13.0",
+      "score": 1.79,
+      "category": "Blog",
+      "category_confidence": 0.68
+    }
+  },
+  {
+    "canonical_url": "http://hypercritical.co/2026/11/23/jetty-pro",
+    "url": "http://hypercritical.co/2026/11/23/jetty-pro",
+    "found_at": "2026-11-25T15:34:35+00:00",
+    "sources": [
+      {
+        "name": "hn",
+        "id": "50630462",
+        "title": "Jetty Pro",
+        "discussion_url": "https://news.ycombinator.com/item?id=50630462",
+        "score": 309,
+        "comments": 139,
+        "created_at": "2026-11-24T16:23:02Z"
+      }
+    ],
+    "page": {
+      "final_url": "http://hypercritical.co/2026/11/23/jetty-pro",
+      "status": 200,
+      "title": "Jetty Pro",
+      "description": "",
+      "og_image": "https://hypercritical.co/jetty-pro/images/jetty-pro-palettes.png",
+      "favicon": "http://hypercritical.co/images/tiny-mac.svg",
+      "text_excerpt": "APPS ABOUT ARCHIVE CONTACT RSS Hypercritical Jetty Pro November 23, 2026 at 3:04 PM by John Siracusa My first two Mac apps, Front and Center and SwitchGlass, were both created back in 2020 to restore features from DragThing, the venerable Mac app that was retired in 2019. The one tiny feature that Front and Center provided was literally a single checkbox within DragThing’s preferences. SwitchGlass went a bit farther, recreating one specific kind of floating palette from DragThing (and classic Mac OS). After 24 years of development, DragThing had a ton of features. People often joked that I was destined to slowly reimplement all of DragThing’s functionality in a series of small apps. Put another way, they were saying I was doomed to make strange little Mac apps with extremely limited appeal (and sales). Perhaps to prove them wrong, the next app I created was Hyperspace, which provided a way to reclaim disk space without removing any files. Hyperspace was still a nerdy app, but at least it had somewhat broader appeal than my earlier efforts. Who doesn’t want to save disk space? But more importantly, it was totally unrelated to DragThing. I had broken the curse! Alas, there was one more (small) thing from DragThing that I missed. I used to have a DragThing palette in the corner of my screen containing some commonly used folders. In earlier versions of macOS, it was possible to pin the Dock to a screen corner, but that wasn’t really what I wanted either. I just wanted a small, separate palette of folders in the corner. This is not a hard problem to solve. Plenty of Mac apps can provide something close to what I want…but not exactly what I want, in the specific way that I want it. For many years, I got by with some folders in the corner of my desktop. But the problem nagged at me. A few years ago, I went so far as to implement my desired feature in SwitchGlass, adding the ability to create a small, extra palette full of folders in addition to the app switcher. But it fel"
+    },
+    "verdict": {
+      "model": "jev-1.13.0",
+      "score": 2.11,
+      "category": "Blog",
+      "category_confidence": 0.63
+    }
+  },
+  {
+    "canonical_url": "https://www.worksinprogress.news/p/how-to-make-a-lovable-city",
+    "url": "https://www.worksinprogress.news/p/how-to-make-a-lovable-city",
+    "found_at": "2026-11-25T15:34:35+00:00",
+    "sources": [
+      {
+        "name": "hn",
+        "id": "50630423",
+        "title": "Camillo Sitte made the blueprint for beautiful cities",
+        "discussion_url": "https://news.ycombinator.com/item?id=50630423",
+        "score": 103,
+        "comments": 93,
+        "created_at": "2026-11-24T16:19:55Z"
+      },
+      {
+        "name": "pinboard",
+        "title": "How to make a lovable city"
+      }
+    ],
+    "page": {
+      "final_url": "https://www.worksinprogress.news/p/how-to-make-a-lovable-city",
+      "status": 200,
+      "title": "How to make a lovable city",
+      "description": "Camillo Sitte made the blueprint for beautiful cities. Here are his five principles.",
+      "og_image": "https://substackcdn.com/image/fetch/$s_!UniX!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F0e363b84-cc8f-4a0c-9dbe-d592a8651970_2200x1467.jpeg",
+      "favicon": "https://substackcdn.com/image/fetch/$s_!_4iA!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1928a761-c368-4a01-adef-68f8656aa6fe%2Ffavicon.ico",
+      "text_excerpt": "The Works in Progress Newsletter Subscribe Sign in Discover more from The Works in Progress Newsletter New and underrated ideas to improve the world. Visit our website: worksinprogress.co Over 65,000 subscribers Subscribe By subscribing, you agree to Substack's Terms of Use, and acknowledge its Information Collection Notice and Privacy Policy. Already have an account? Sign in FEATURES How to make a lovable city Camillo Sitte made the blueprint for beautiful cities. Here are his five principles. PHOEBE ARSLANAGIĆ-LITTLE, SAMUEL HUGHES, AND WORKS IN PROGRESS 23 HOURS AGO 114 10 18 Share Everyone loves the streets of old cities like Verona, Bruges, and Prague. The reason might seem obvious: they are lined by beautiful historic buildings. But people also love the streets of Osaka, Taipei, and Hong Kong. While the buildings of the latter cities are mostly modern and nondescript, their streets are still full of character and enchantment. The Austrian architect Camillo Sitte (pronounced ‘zitter’) sought to explain what makes some public spaces more successful than others in a lively, opinionated masterpiece called The Art of Building Cities, published in 1889. Sitte argued that the best public spaces are physically enclosed and fairly small, creating a sense of shelter and intimacy, defining picturesque views and perspectives, and making public buildings appear larger and more dignified by comparison. He denied the importance of symmetry and claimed, counterintuitively, that monuments should be pushed to the edge of squares, and that great public buildings should generally be entangled in a mass of everyday housing. Sitte’s book was explosively successful, seizing the imagination of late nineteenth-century Europe. For a few decades, Sitte was a decisive figure in international urban planning, and planners across the world strove to implement his ideas. But after modernism came to dominate Western planning in the mid-twentieth century, Sitte was mostly forgotten. Sitte’s pl"
+    },
+    "verdict": {
+      "model": "jev-1.13.0",
+      "score": 1.59,
+      "category": "Magazines, Newspapers & Newsletter",
+      "category_confidence": 0.57
+    }
+  },
+  {
+    "canonical_url": "https://variety.com/2026/music/news/tidal-bans-ai-generated-music-1236956924/",
+    "url": "https://variety.com/2026/music/news/tidal-bans-ai-generated-music-1236956924/",
+    "found_at": "2026-11-25T15:34:35+00:00",
+    "sources": [
+      {
+        "name": "hn",
+        "id": "50630309",
+        "title": "Tidal bans AI-generated music",
+        "discussion_url": "https://news.ycombinator.com/item?id=50630309",
+        "score": 333,
+        "comments": 318,
+        "created_at": "2026-11-24T16:12:38Z"
+      }
+    ],
+    "page": {
+      "final_url": "https://variety.com/2026/music/news/tidal-bans-ai-generated-music-tracks-1236956924/",
+      "status": 200,
+      "title": "Tidal Bans AI-Generated Music",
+      "description": "The music streaming service Tidal said Tuesday that it would ban tracks it believes are completely AI-generated starting next month,",
+      "og_image": "https://variety.com/wp-content/uploads/2023/12/Tidal.png?w=679&h=382&crop=1",
+      "favicon": "https://variety.com/wp-content/themes/pmc-variety-2020/assets/app/icons/apple-touch-icon.png",
+      "text_excerpt": "Plus Icon Film Plus Icon TV Plus Icon What To Watch Plus Icon Music Plus Icon Docs Plus Icon Digital & Gaming Plus Icon Global Plus Icon Awards Circuit Plus Icon Video Plus Icon What To Hear Plus Icon Click to expand the Mega Menu Plus Icon Click to Expand Search Input Got a Tip? Newsletters Switch edition between U.S. Edition Variety Home Music News Nov 24, 2026 7:06am PT Tidal Bans AI-Generated Music By Corbin Bolies Plus Icon ADD US AS A GOOGLE PREFERRED SOURCE Tidal Comments The music streaming service Tidal said Tuesday that it would ban tracks it believes are completely AI-generated starting next month, a move its leader believes “will resonate with both artists and listeners alike.” The service will remove the AI tracks starting Dec. 9, making Tidal the first music streaming platform to ban AI music entirely. It comes nearly five months after Tidal said it would demonetize any AI-powered song, force those artists to label their tracks as either AI-generated or AI-assisted and ban AI songs that were associated with “fraudulent activity,” a category that includes songs impersonating established artists and efforts to “deceive listeners.” Related Stories 'Stranger Things' Prequel Spinoff 'Other Worlds' Ordered to Series at Netflix Anthony Boyle on Becoming Sam Bankman-Fried for ‘The Altruists’ and Finding the Grey in History’s Villains: ‘I’ve Played More Real People Than Not’ “But that’s enough, as 43% of tracks distributed to us in the last 90 days have been detected as AI-generated. Something more drastic needs to be done,” wrote Robert Andersen, the Tidal Lead at parent company Block, in an X thread on Tuesday. “We’ll begin removing all wholly AI-generated tracks from our catalog, and you’ll see them completely gone by the beginning of the year.” Andersen said that 96% of all AI-generated songs receive zero plays. The move will cleave the platform of 29 million tracks, he added, and have it reject between 80,000 to 85,000 songs a day. “We encourage our peers "
+    },
+    "verdict": {
+      "model": "jev-1.13.0",
+      "score": 0.5,
+      "category": "News",
+      "category_confidence": 0.81
+    }
+  },
+  {
+    "canonical_url": "https://www.upi.com/Top_News/US/2026/11/24/NVIDIA-partner-Megaspeed/1701795520063/",
+    "url": "https://www.upi.com/Top_News/US/2026/11/24/NVIDIA-partner-Megaspeed/1701795520063/",
+    "found_at": "2026-11-25T15:34:35+00:00",
+    "sources": [
+      {
+        "name": "hn",
+        "id": "50630245",
+        "title": "Ex-Nvidia partner Megaspeed hit with U.S. Commerce Department export ban",
+        "discussion_url": "https://news.ycombinator.com/item?id=50630245",
+        "score": 124,
+        "comments": 69,
+        "created_at": "2026-11-24T16:08:29Z"
+      }
+    ],
+    "page": {
+      "final_url": "https://www.upi.com/Top_News/US/2026/11/24/NVIDIA-partner-Megaspeed/1701795520063/",
+      "status": 403,
+      "title": "Just a moment...",
+      "description": "",
+      "og_image": "",
+      "favicon": "https://www.upi.com/favicon.ico",
+      "text_excerpt": "www.upi.com Performing security verification This website uses a security service to protect against malicious bots. This page is displayed while the website verifies you are not a bot. Ray ID: a601b88f0ccee566 Performance and Security by Cloudflare Privacy"
+    },
+    "verdict": {
+      "model": "jev-1.13.0",
+      "score": 0.23,
+      "category": "News",
+      "category_confidence": 0.93
+    }
+  },
+  {
+    "canonical_url": "https://github.com/sous-labs/songe",
+    "url": "https://github.com/sous-labs/songe",
+    "found_at": "2026-11-25T15:34:35+00:00",
+    "sources": [
+      {
+        "name": "hn",
+        "id": "50629231",
+        "title": "A training engine for your local model, using your idle compute",
+        "discussion_url": "https://news.ycombinator.com/item?id=50629231",
+        "score": 225,
+        "comments": 70,
+        "created_at": "2026-11-24T15:03:40Z"
+      }
+    ],
+    "github": {
+      "repo_url": "https://github.com/sous-labs/songe",
+      "homepage": "https://souslabs.ai/songe",
+      "description": "A training engine for your local model, using your idle compute",
+      "topics": [
+        "coding-agents",
+        "distillation",
+        "fine-tuning",
+        "llm",
+        "local-llm",
+        "lora",
+        "mlx"
+      ],
+      "stars": 827,
+      "created_at": "2026-11-20T11:01:20Z",
+      "pushed_at": "2026-11-25T15:33:22Z",
+      "owner_avatar": "https://avatars.githubusercontent.com/u/355131544?v=4"
+    },
+    "page": {
+      "final_url": "https://github.com/sous-labs/songe",
+      "status": 200,
+      "title": "GitHub - sous-labs/songe: A training engine for your local model, using your idle compute",
+      "description": "A training engine for your local model, using your idle compute - sous-labs/songe",
+      "og_image": "https://repository-images.githubusercontent.com/1465322684/f6c97c41-6e40-4e48-83c6-1b20210672d6",
+      "favicon": "https://github.com/fluidicon.png",
+      "text_excerpt": "Skip to content Navigation Menu Products Developers Businesses Resources Pricing Search / Sign in Sign up sous-labs songe Repository navigation Code Issues 2 (2) Pull requests 24 (24) Actions Projects Security and quality Insights songe Public Notifications Fork70 (70) Star827 (827) main 80 Branches 3 Tags Code Latest commit 3 people Deep Dream: over the row limit, rows are taken in turn from each less… 86f8334 · History 163 Commits Folders and files Name Last commit message Last commit date .github README and New issue: a Discord invite of their own, to see who comes… docs Proxy: a Songe name for a model added after start finds that model (#219 packaging/homebrew Songe 0.1.0a13 scripts e2e: seed practice scenes so the Dreams log stage can train (#39) src/songe Deep Dream: over the row limit, rows are taken in turn from each less… tests Deep Dream: over the row limit, rows are taken in turn from each less… .gitignore CI: install smoke test and dashboard check on every PR (#22) CONTRIBUTING.md Learn with a cloud model: infrastructure (off by default) (#185) DESIGN.md Training: a lesson counts once, whatever its answers' length or its n… LICENSE Songe 0.1.0a13 README.md Learn with a cloud model: infrastructure (off by default) (#185) ROADMAP.md Link the community testing board from the roadmap and README (#20) SECURITY.md Test pull requests, and say how to report a vulnerability pyproject.toml Learn with a cloud model: infrastructure (off by default) (#185) uv.lock Learn with a cloud model: infrastructure (off by default) (#185) Repository files navigation README Contributing Apache-2.0 license Security A training engine for your local model, using your idle compute. Install • How it works • Commands • Roadmap • Discord • Website Use your local model as usual through opencode, pi or any OpenAI-compatible tool. While you work, Songe notices what happens after each of the model's actions: the tool result, the error, your next message. When your agent is quiet, it teache"
+    },
+    "homepage": {
+      "final_url": "https://souslabs.ai/songe",
+      "status": 200,
+      "title": "About Songe",
+      "description": "A continual learning engine for your local model. Nothing leaves your machine.",
+      "og_image": "https://souslabs.ai/assets/songe-share-v1.png",
+      "favicon": "https://souslabs.ai/favicon.png",
+      "text_excerpt": "sous labs Songe Out now Overview About Songe About Songe Songe is a continual learning engine for your local model. It runs alongside the model and keeps the traces, your instructions and every correction you make. When your agent is quiet, it trains the model on your own tasks, on your own machine. A new version is used only if it passes checks. Nothing leaves your machine. NEEDS A model served locally by LM Studio, Ollama, llama.cpp, mlx-lm or vLLM Training runs on Apple Silicon (MLX). Linux and Windows with NVIDIA or AMD are supported but less tested. Machines without a GPU still serve and record. INSTALL v0.1.0a15 brew install sous-labs/tap/songe songe init Or pip install songe (Python 3.11 or later), then songe init. songe init finds your model server and your agents, shows what it will change, and asks once. Then pick a songe/… model in your agent, or use any OpenAI-compatible tool. USE Nothing to do: use your agent. To look or change things: songe # what it is doing songe open # dashboard in your browser songe models # each model and its learning level songe sleep # learn now instead of waiting songe undo MODEL # go back one version songe pause # and: songe resume songe forget # delete recorded conversations Reach out: admin@sous.pro © 2026 Sous Labs, Inc."
+    },
+    "verdict": {
+      "model": "jev-1.13.0",
+      "score": 3.49,
+      "category": "Developer Tools",
+      "category_confidence": 0.97
+    },
+    "screenshot": "shots/2026/11-25/github-com-sous-labs-songe.jpg"
+  },
+  {
+    "canonical_url": "https://www.frankchiarulli.com/blog/splitting-usb-c/",
+    "url": "https://www.frankchiarulli.com/blog/splitting-usb-c/",
+    "found_at": "2026-11-25T15:34:35+00:00",
+    "sources": [
+      {
+        "name": "hn",
+        "id": "50629106",
+        "title": "Splitting USB-C: USB 3 and USB 2 on one port",
+        "discussion_url": "https://news.ycombinator.com/item?id=50629106",
+        "score": 151,
+        "comments": 104,
+        "created_at": "2026-11-24T14:54:10Z"
+      }
+    ],
+    "page": {
+      "final_url": "https://www.frankchiarulli.com/blog/splitting-usb-c/",
+      "status": 200,
+      "title": "Splitting USB-C: USB 3 and USB 2 on One Port — frankchiarulli.com",
+      "description": "10 Gbps USB 3 and a USB 2 hub on one port, cheaper than a USB 2 board.",
+      "og_image": "https://frankchiarulli.com/blog/splitting-usb-c/opengraph-image?1da773d5ba88c69c",
+      "favicon": "https://www.frankchiarulli.com/icon.png?icon.24rs53uses-pn.png",
+      "text_excerpt": "FCJR Blog Art Media GitHub LinkedIn Bluesky X Email ← all posts SPLITTING USB-C: USB 3 AND USB 2 ON ONE PORT November 23, 2026 I started building restorekit.org dongles a few months ago at the Recurse Center. They are small inline USB-C boards that sit between a host computer and a target mac. They set the target mac into DFU mode over USB-PD without having to touch the target at all, and work with an open-source toolkit for restoring macs without the need for another mac. The original board, the Dongle-Lite, is USB 2 only. A single USB 2 hub (CH334F) connects both the dongle’s MCU and the target mac through a single cable, while a PD PHY (FUSB302B) sends Apple’s DFU commands on the CC line. I recently learned from timo at Twocanoes that newer Macs support USB 3 speeds for recovery. I obviously immediately wanted to support this on the hub for faster recovery, but the problem was cost. At first I designed a “proper” USB 3 board using a GL3510 USB 3 hub and a pair of TI SuperSpeed muxes (HD3SS3220 and HD3SS3212). It basically doubled the parts count, and BOM cost, required me to increase the size of PCB to ~100 mm, and topped out at 5 Gbps transfers between host and target (USB 3.1 Gen 1). I really didn’t want to make a board that cost more than twice the Dongle-Lite just to get USB 3 speeds. So with the 2nd version Dongle-Pro, I tried a kinda crazy USB-C experiment: drop the USB 3 hub completely, keep a cheap USB 2 hub on D+/D-, and route the USB 3 SuperSpeed lanes as a straight passthrough from host to target on the same USB-C port. The idea being that in theory the USB 3 and 2 controllers on a USB-C are completely independent, and should work simultaneously. Since high-speed USB 3 is super prone to interference I didn’t really have a choice other than to purchase a view boards and test it out. Well… I just got the boards in from JLC and… THEY WORK! They establish a full 10 Gbps USB 3.2 Gen 2 connection while connecting the dongle’s USB 2 hub and MCU over the exact"
+    },
+    "verdict": {
+      "model": "jev-1.13.0",
+      "score": 2.76,
+      "category": "Engineering",
+      "category_confidence": 0.82
+    }
+  },
+  {
+    "canonical_url": "https://www.msn.com/en-us/money/top-stocks/anthropic-stock-sinks-below-ipo-price-why-that-s-happened-so-fast/ar-AA2i7rqa",
+    "url": "https://www.msn.com/en-us/money/top-stocks/anthropic-stock-sinks-below-ipo-price-why-that-s-happened-so-fast/ar-AA2i7rqa",
+    "found_at": "2026-11-25T15:34:35+00:00",
+    "sources": [
+      {
+        "name": "hn",
+        "id": "50628932",
+        "title": "Anthropic is below its IPO price",
+        "discussion_url": "https://news.ycombinator.com/item?id=50628932",
+        "score": 129,
+        "comments": 3,
+        "created_at": "2026-11-24T14:41:15Z"
+      }
+    ],
+    "page": {
+      "final_url": "https://www.msn.com/en-us/money/top-stocks/anthropic-stock-sinks-below-ipo-price-why-that-s-happened-so-fast/ar-AA2i7rqa",
+      "status": 200,
+      "title": "Anthropic stock sinks below IPO price. What history says happens next.",
+      "description": "The stock market’s shiny new toy is already being discarded.",
+      "og_image": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA2gM69b.img?w=768&h=439&m=4&q=72",
+      "favicon": "https://www.msn.com/favicon.ico",
+      "text_excerpt": "Continue reading More for You Continue reading More for You"
+    },
+    "verdict": {
+      "model": "jev-1.13.0",
+      "score": 0.52,
+      "category": "Finance",
+      "category_confidence": 0.7
+    }
+  },
+  {
+    "canonical_url": "https://twitter.com/raul_bs3/status/2125213756238291075",
+    "url": "https://twitter.com/raul_bs3/status/2125213756238291075",
+    "found_at": "2026-11-25T15:34:35+00:00",
+    "sources": [
+      {
+        "name": "hn",
+        "id": "50627783",
+        "title": "GTA 6 Running on Windows",
+        "discussion_url": "https://news.ycombinator.com/item?id=50627783",
+        "score": 477,
+        "comments": 531,
+        "created_at": "2026-11-24T13:19:31Z"
+      }
+    ],
+    "page": {
+      "final_url": "https://x.com/raul_bs3/status/2125213756238291075",
+      "status": 403,
+      "title": "",
+      "description": "",
+      "og_image": "",
+      "favicon": "https://x.com/favicon.ico",
+      "text_excerpt": ""
+    },
+    "verdict": {
+      "model": "jev-1.13.0",
+      "score": 0.43,
+      "category": "Games",
+      "category_confidence": 0.56
+    }
+  },
+  {
+    "canonical_url": "https://antcating.github.io/2026/11/23/getting-old-java-phones-online-again.html",
+    "url": "https://antcating.github.io/2026/11/23/getting-old-java-phones-online-again.html",
+    "found_at": "2026-11-25T15:34:35+00:00",
+    "sources": [
+      {
+        "name": "hn",
+        "id": "50627726",
+        "title": "Getting old Java phones online again",
+        "discussion_url": "https://news.ycombinator.com/item?id=50627726",
+        "score": 116,
+        "comments": 50,
+        "created_at": "2026-11-24T13:14:37Z"
+      }
+    ],
+    "page": {
+      "final_url": "https://antcating.github.io/2026/11/23/getting-old-java-phones-online-again.html",
+      "status": 200,
+      "title": "Getting old Java phones online again",
+      "description": "Sony Ericsson S500i accessing FrogFind.",
+      "og_image": "",
+      "favicon": "https://antcating.github.io/favicon.ico",
+      "text_excerpt": "Antcating's Chaos Lab TagsHomeAbout Getting old Java phones online again tech j2me phone bluetooth Nov 23, 2026 Sony Ericsson S500i accessing FrogFind. Background Recently, I bought a used Sony Ericsson S500i – one of the most beautiful phones IMO. I vividly remember getting online on this phone while away from home and downloading games from the Sony Ericsson shop (and the exorbitant mobile data charges that came with it!). But when I tried using it again in 2026, I couldn’t connect to the mobile network. Even though I had a SIM card compatible with the phone, 2G had been shut down for some time, leaving no way to access the Internet over a mobile connection. USB wasn’t an option either. On many phones of this era, USB tethering was designed to share the phone’s Internet connection with a computer, not the other way around1. But there is a way… Getting online via Bluetooth Bluetooth supports various profiles, which define how devices use Bluetooth for specific purposes. One of these is Personal Area Networking (PAN), which allows devices to communicate over Bluetooth as if they were connected to an Ethernet network. PAN carries Ethernet frames over Bluetooth, including IP traffic. This allows a device acting as a PAN User (PANU) to access the Internet through another device acting as a Network Access Point (NAP). The NAP forwards the traffic to the Internet, much like a Wi-Fi hotspot, but over Bluetooth instead2. Although Bluetooth PAN is much less common nowadays, many devices still support the profile. One common use case was sharing a phone’s mobile Internet connection with a laptop. But why not reverse the direction? We can use a network-connected computer as a NAP and access the Internet from an old Java phone, provided the phone supports PANU3. Setting up Bluetooth NAP on Raspberry Pi 5 From what I’ve seen on forums, many older Sony Ericsson, Nokia, and other phones seem to support PANU even if it is not mentioned in the documentation. I couldn’t find any con"
+    },
+    "verdict": {
+      "model": "jev-1.13.0",
+      "score": 2.42,
+      "category": "Blog",
+      "category_confidence": 0.53
+    }
+  },
+  {
+    "canonical_url": "https://www.justafewbugs.xyz/",
+    "url": "https://www.justafewbugs.xyz/",
+    "found_at": "2026-11-25T15:34:35+00:00",
+    "sources": [
+      {
+        "name": "hn",
+        "id": "50625953",
+        "title": "Just a Few Bugs",
+        "discussion_url": "https://news.ycombinator.com/item?id=50625953",
+        "score": 149,
+        "comments": 56,
+        "created_at": "2026-11-24T09:47:59Z"
+      }
+    ],
+    "page": {
+      "final_url": "https://www.justafewbugs.xyz/",
+      "status": 200,
+      "title": "justafewbugs",
+      "description": "My experience reporting 95 vulnerabilities to Google's Android and Google Devices Vulnerability Reward Program.",
+      "og_image": "",
+      "favicon": "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='32' height='32' rx='7' fill='%23111113'/%3E%3Ctext x='16' y='22.5' font-family='ui-monospace,Menlo,monospace' font-size='18' font-weight='600' fill='%23e7e5e1' text-anchor='middle'%3Ej_%3C/text%3E%3C/svg%3E",
+      "text_excerpt": "justafewbugs justafewbugs Jesse Edwin Gordon Li-Yates · Security researcher · Updated 25 Nov 2026 · 15 min read Contents Where things stand How I checked The reward promised in writing that was never paidm 12 Months later still waiting.. Rated High by Google, fixed in the current shipped code, 2x Beta releases + November stable release,reward still blank The duplicate ID Google admitted was wrong Unverifiable duplicate claims, months after submission The \"not a security vulnerability\" template Closed as \"Intended Behavior\" by a \"rate-limit bot\" A zero-click SMS RCE chain in the radio daemon Some of the other closed bugs, in plain terms Fixed in shipped code, closed without a reward The WAP push bug has now been made public, see SmsOfDeath The fix ships before the report is resolved on several occasions. Still unpatched, closed for reasons that don't hold up In total Similar cases I'm an independent security researcher with a track record of identifying and responsibly disclosing vulnerabilities to vendors and manufacturers. Several of my findings have been assigned CVE identifiers. Over the past year, much of my research has focused on Google's current-generation Pixel devices. This has involved reverse engineering several components of the platform, including the Samsung radio stack (currently under embargo), IMS and RTP media handling, Trusty trusted applications, the MediaTek M90 modem RIL, and the Android telephony framework, among other areas. During this period, I submitted 95 vulnerability reports through Google's Android and Google Devices Vulnerability Reward Programs (VRPs). Approximately 95% of those reports included a functional proof of concept. In total, the VRP has paid me $250 USD, in a single payment. I should say at the outset that I have nothing against Google. My project Box began as a fork of their AI Edge Gallery; I've worked on it most days for a year, and Google have taken features from my fork back into their own. I also maintain Iris, a har"
+    },
+    "verdict": {
+      "model": "jev-1.13.0",
+      "score": 2.3,
+      "category": "Blog",
+      "category_confidence": 0.66
+    }
+  },
+  {
+    "canonical_url": "https://www.helsinki.fi/en/researchgroups/godel-enigma/research/project-description",
+    "url": "https://www.helsinki.fi/en/researchgroups/godel-enigma/research/project-description",
+    "found_at": "2026-11-25T15:34:35+00:00",
+    "sources": [
+      {
+        "name": "hn",
+        "id": "50625265",
+        "title": "Gödel Enigma",
+        "discussion_url": "https://news.ycombinator.com/item?id=50625265",
+        "score": 140,
+        "comments": 47,
+        "created_at": "2026-11-24T08:16:02Z"
+      }
+    ],
+    "page": {
+      "final_url": "https://www.helsinki.fi/en/researchgroups/godel-enigma/research/project-description",
+      "status": 200,
+      "title": "Project description | Gödel Enigma | University of Helsinki",
+      "description": "Had Kurt Gödel not thought very deeply about the foundations of mathematics around 1930, there would be no information society in the form we have it today.",
+      "og_image": "https://www.helsinki.fi/assets/drupal/s3fs-public/styles/og_images/public/migrated-research-group-pages/110873-kurtgodel-12x7-logo.png?itok=ntpC_aQH",
+      "favicon": "https://www.helsinki.fi/themes/custom/helsingin_yliopisto/favicon.ico",
+      "text_excerpt": "Skip to main content UNIVERSITY OF HELSINKI Support us RESEARCH GROUP GÖDEL ENIGMA Home Research Project description Project description Had Kurt Gödel not thought very deeply about the foundations of mathematics around 1930, there would be no information society in the form we have it today. Gödel's solitary work was the single most important factor in the development of precise theories of formal languages, which, through the coding that he invented, can be handled by a machine. His work led to precise notions of algorithmic computability from which a direct path leads to the first theoretical ideas of a computer in the work of Alan Turing in 1936 and John von Neumann some years later. Intellectual background The development of logic and foundational study has been known to us only in broad outlines until Jean van Heijenoort's pioneering work. He published in 1967 a collection of original papers under the title From Frege to Gödel: The Development of Mathematical Logic 1879-1931. There was, however, no attempt at organised historical work with the sources. Such detailed work is still in a very early state and crucial sources for the development of logic remain unexplored. Deep intellectual history cannot be achieved if only published work is considered. Comparison to a parallel and partly overlapping development is illuminating. Quantum mechanics, as well as foundations of mathematics, received a decisive impetus around the year 1900, with Planck's discovery of the quantum of action, and the discovery of Russell's paradox and Hilbert's idea of formalisation. All of these developments led to a well-established theoretical account by the early 1930s, right before the Nazi takeover in Germany: quantum mechanics in the second part of the 1920s in the work of the Göttingers Heisenberg and Born, logic and foundations with the full development of first-order logic by the early 1930s by the Göttingers Hilbert, Bernays, and Gentzen, assisted mainly by Gödel's striking disc"
+    },
+    "verdict": {
+      "model": "jev-1.13.0",
+      "score": 0.83,
+      "category": "Research",
+      "category_confidence": 0.96
+    }
+  },
+  {
+    "canonical_url": "https://davidtemkin.github.io/declarelang/",
+    "url": "https://davidtemkin.github.io/declarelang/",
+    "found_at": "2026-11-25T15:34:35+00:00",
+    "sources": [
+      {
+        "name": "hn",
+        "id": "50622854",
+        "title": "Declare is a UI language for you and your AI",
+        "discussion_url": "https://news.ycombinator.com/item?id=50622854",
+        "score": 113,
+        "comments": 93,
+        "created_at": "2026-11-24T02:36:56Z"
+      }
+    ],
+    "page": {
+      "final_url": "https://davidtemkin.github.io/declarelang/",
+      "status": 200,
+      "title": "Declare — a UI language for you and your AI",
+      "description": "Designed from the ground up for interfaces that act and move like the best native apps, in a few hundred lines your AI can write and its compiler can check.",
+      "og_image": "https://davidtemkin.github.io/declarelang/assets/og-image.png",
+      "favicon": "https://davidtemkin.github.io/declarelang/assets/favicon.svg",
+      "text_excerpt": "Declare is a UI language for you and your AI. Just as SQL is a domain-specific language for database queries, Declare is a DSL for user interfaces — for taking the custom, fluid experience you have in mind beyond a prototype, into a real app: structured, verifiable, and with the design written plainly in its code. This page is written in it. By an LLM. Declare in 10 minutes → Run the calendar → The language, in one file → 01 Expressive. And verifiable. A calendar that zooms through time, a desktop with real windows: complete programs, each readable end to end and checked by the compiler. Open one, or edit it live in the browser you’re using. 1 Declare Calendar Day, week, month and year views are one surface, zooming continuously; a view doesn’t switch so much as become the next one, and every motion can be interrupted. It runs on real data: drag an event to another day, and it’s moved. 568 lines of code, plus 228 of comments — four views, zoom, drag and edit 177 KB over the wire, gzipped — app (structure, logic, styling) and runtime 0 lines typed by hand — human-designed and directed, built with AI Run Declare Calendar → View & edit source → 2 Declare Desktop → The acid test for a UI language: multiple applications, windows that drag, resize, layer and minimize into live thumbnails, a magnifying dock, menus that follow focus, and separately loaded apps running inside its windows. Elsewhere that is a project assembled from several libraries; here it is one program. 3529 lines — 2011 code, 939 comment · 264 KB over the wire · every pixel drawn from shapes, no image assets View & edit source → 3 Declare Tracker → 1,000,000 issues · search as you type · edit in place, with undo · not one line of virtualization code 1508 lines — 983 code, 251 comment · 194 KB over the wire, before its data · no dependencies View & edit source → And more: Weather → Market Map → Birds → To-do → Asteroids → 02 Say what you mean. Exactly. Declare was designed first for the people who make in"
+    },
+    "verdict": {
+      "model": "jev-1.13.0",
+      "score": 3.65,
+      "category": "Developer Tools",
+      "category_confidence": 0.86
+    },
+    "screenshot": "shots/2026/11-25/davidtemkin-github-io-declarelang.jpg"
+  },
+  {
+    "canonical_url": "https://www.science.org/doi/10.1126/scisignal.aef1375",
+    "url": "https://www.science.org/doi/10.1126/scisignal.aef1375",
+    "found_at": "2026-11-25T15:34:35+00:00",
+    "sources": [
+      {
+        "name": "hn",
+        "id": "50621977",
+        "title": "Alcohol use reduces efficacy of immunotherapy by disrupting antitumor immunity",
+        "discussion_url": "https://news.ycombinator.com/item?id=50621977",
+        "score": 105,
+        "comments": 82,
+        "created_at": "2026-11-24T00:53:46Z"
+      }
+    ],
+    "page": {
+      "final_url": "https://www.science.org/doi/10.1126/scisignal.aef1375",
+      "status": 403,
+      "title": "Just a moment...",
+      "description": "",
+      "og_image": "",
+      "favicon": "https://www.science.org/favicon.ico",
+      "text_excerpt": "www.science.org Performing security verification This website uses a security service to protect against malicious bots. This page is displayed while the website verifies you are not a bot. Ray ID: a601b8d41ccd11e9 Performance and Security by Cloudflare Privacy"
+    },
+    "verdict": {
+      "model": "jev-1.13.0",
+      "score": 0.23,
+      "category": "Science",
+      "category_confidence": 0.75
+    }
+  },
+  {
+    "canonical_url": "https://www.theverge.com/ai-artificial-intelligence/1040819/welcome-to-elite-impunity-jensen-huang",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1040819/welcome-to-elite-impunity-jensen-huang",
+    "found_at": "2026-11-25T15:34:35+00:00",
+    "sources": [
+      {
+        "name": "pinboard",
+        "title": "Welcome to elite impunity, Jensen Huang | The Verge"
+      }
+    ],
+    "page": {
+      "final_url": "https://www.theverge.com/ai-artificial-intelligence/1040819/welcome-to-elite-impunity-jensen-huang",
+      "status": 200,
+      "title": "Welcome to elite impunity, Jensen Huang",
+      "description": "Consequences are for the poors.",
+      "og_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Nvidia_Jensen_huang_06.jpg?quality=90&strip=all&crop=0%2C12.339110464558%2C100%2C75.321779070884&w=1200",
+      "favicon": "https://www.theverge.com/static-assets/icons/favicon.ico",
+      "text_excerpt": "SKIP TO MAIN CONTENT The homepage SUBSCRIBE SIGN IN Tech Reviews Science Entertainment AI Policy Welcome to elite impunity, Jensen Huang 261 Too big to fail, the sequel. | Image: The Verge; Getty Images AI BUSINESS POLICY Welcome to elite impunity, Jensen Huang Consequences are for the poors. by Elizabeth Lopatto Nov 23, 2026, 10:09 PM UTC 261 261 Comments (All New) Part Of Nvidia CEO Jensen Huang is back. What happens next? SEE ALL UPDATES Elizabeth Lopatto is a reporter who writes about tech, money, and human behavior. She joined The Verge in 2014 as science editor. Previously, she was a reporter at Bloomberg. Isuppose I must issue a hearty congratulations to Jensen Huang. Huang is CEO of Nvidia again, to the surprise of basically everyone except President Donald Trump and Vice President JD Vance, who made sure it happened. Now, those of us who had some kind of basic education on what a “free market” is might find it objectionable to have the American president strong-arming a major American company. But our billionaire tech overlords care about the “free market” exactly as much as they care about “free speech,” which is to say not at all. Watching Silicon Valley cheer for what is, effectively, a sign of a command economy has certainly been bracing. But then, why would they give a shit? Their only real beliefs are that they should remain rich and above the law. Jensen may not have exchanged emails with Jeffrey Epstein, but he’s squarely at the Epstein table now. The deal was reportedly brokered by Peter Thiel’s very own boy I have argued here, in the past, that the Epstein case laid bare the real politics of the revanchist American right wing: total elite impunity. Well, here it is again! If you are close enough with Trump, it doesn’t matter if you may have jeopardized national security by fucking an alleged Chinese spy. You won’t even be investigated for it before the American president calls in to your board of directors’ meeting to demand you be reinstated. I m"
+    },
+    "verdict": {
+      "model": "jev-1.13.0",
+      "score": 0.53,
+      "category": "News",
+      "category_confidence": 0.75
+    }
+  },
+  {
+    "canonical_url": "https://www.katelynlesse.com/blog/new-problems-for-engineers-to-solve",
+    "url": "https://www.katelynlesse.com/blog/new-problems-for-engineers-to-solve",
+    "found_at": "2026-11-25T15:34:35+00:00",
+    "sources": [
+      {
+        "name": "pinboard",
+        "title": "The new set of problems for engineers to solve - Katelyn Lesse"
+      }
+    ],
+    "page": {
+      "final_url": "https://www.katelynlesse.com/blog/new-problems-for-engineers-to-solve",
+      "status": 200,
+      "title": "The new set of problems for engineers to solve",
+      "description": "AI just isn't going to be able to create the incredible outcomes it's capable of creating unless software engineers solve problems to make it possible.",
+      "og_image": "https://katelynlesse.com/blog/new-problems-for-engineers-to-solve/opengraph-image?827db79d5184d391",
+      "favicon": "https://www.katelynlesse.com/favicon.png",
+      "text_excerpt": "Back The new set of problems for engineers to solve 2026-10-25 A lot of software engineers are going through what can only be described as an identity crisis. The job has changed a lot. Some are depressed, others are having the time of their lives. There's a really specific thing I see happening that makes me really excited for what engineering looks like over the next, call it a year or two - AI just isn't going to be able to create the incredible outcomes it's capable of creating unless software engineers solve problems to make it possible. This is existential, which is honestly a lot of fun, so it's a pretty incredible time to be a software engineer. Multiagent systems are creating these problems Agents started out as basic, human in the loop chats. Then models got better at running for longer on harder problems, and agentic systems started moving to the cloud. While that was happening, models have started to get better at working together, and people have built basic multiagent systems. Like an orchestrator that spawns some subagents for a given task, or giving agents jobs other than executing to improve outcomes, like grading or advising or dreaming. Now, some folks are starting to build truly amazing multiagent systems to tackle the world's hardest and most important problems, like serious research, discovery, and hardware design. Picture thousands of agents, persistently working towards these outcomes. This comes with a new set of software engineering problems that we're already seeing crop up. Infrastructure needs to evolve to handle burstier workloads. We need proper authentication and authorization to identify agents, let them work together, enable them to take the actions they should, and prevent them from taking the actions they shouldn't. Security and proper isolation are critical for untrusted code and content. And we've gotta have monitoring and the ability to stop a system in its tracks when it's veering into the wrong territory. Models will keep get"
+    },
+    "verdict": {
+      "model": "jev-1.13.0",
+      "score": 2.31,
+      "category": "Software Engineering",
+      "category_confidence": 0.86
+    }
+  },
+  {
+    "canonical_url": "https://github.com/oritera/Cairn",
+    "url": "https://github.com/oritera/Cairn",
+    "found_at": "2026-11-25T15:34:35+00:00",
+    "sources": [
+      {
+        "name": "pinboard",
+        "title": "oritera/Cairn: Cairn is a general-purpose AI state-space search engine, validated first on autonomous penetration testing. Sometimes misspelled as Carin."
+      }
+    ],
+    "github": {
+      "repo_url": "https://github.com/oritera/Cairn",
+      "homepage": "",
+      "description": "Cairn is a general-purpose AI state-space search engine, validated first on autonomous penetration testing. Sometimes misspelled as Carin.",
+      "topics": [
+        "ai",
+        "ai-agent",
+        "ai-cybersecurity",
+        "ai-hacker",
+        "ai-hacking",
+        "blackbox-testing",
+        "ctf",
+        "ctf-tools",
+        "llm",
+        "penetration-testing",
+        "pentesting",
+        "red-teaming",
+        "security-automation",
+        "security-tools"
+      ],
+      "stars": 5974,
+      "created_at": "2026-04-19T03:28:41Z",
+      "pushed_at": "2026-09-07T15:23:06Z",
+      "owner_avatar": "https://avatars.githubusercontent.com/u/277208930?v=4"
+    },
+    "page": {
+      "final_url": "https://github.com/oritera/Cairn",
+      "status": 200,
+      "title": "GitHub - oritera/Cairn: Cairn is a general-purpose AI state-space search engine, validated first on autonomous penetration testing. Sometimes misspelled as Carin.",
+      "description": "Cairn is a general-purpose AI state-space search engine, validated first on autonomous penetration testing. Sometimes misspelled as Carin. - oritera/Cairn",
+      "og_image": "https://opengraph.githubassets.com/5df65b46cfa3c9cfbc94ae35f5146e24eecc0dde893eceefff1a05b4661a486e/oritera/Cairn",
+      "favicon": "https://github.com/fluidicon.png",
+      "text_excerpt": "Skip to content Navigation Menu Products Developers Businesses Resources Pricing Search / Sign in Sign up oritera Cairn Repository navigation Code Issues 12 (12) Pull requests 11 (11) Actions Projects Security and quality Insights Cairn Public Notifications Fork1.3k (1.3k) Star6k (6k) main 4 Branches 3 Tags Code Latest commit l3yx docs: add logo 8e7e0ea · History 70 Commits Folders and files Name Last commit message Last commit date .github/workflows feat: add caching for Docker build to improve build performance README docs: add logo cairn feat: run worker health checks in code instead of in-container curl container feat: update Dockerfile to install aliyun-cli alongside tccli and awscli docs/specs feat: run worker health checks in code instead of in-container curl .gitignore chore: replace tracked dispatcher config with a local-only example te… Dockerfile fix: 更换镜像源 LICENSE Initial commit README.md docs: add logo dispatch.example.yaml chore: comment out qwen3.6-plus codex and pi example workers dispatch.local.example.yaml feat: add local execution mode for host-run workers dispatch_mock.yaml feat: add configurable worker healthcheck modes and default to startu… docker-compose.yaml feat: 添加 Docker Compose Repository files navigation README AGPL-3.0 license Cairn More Than Just AI Penetration Testing — Towards General State-Space Search Cairn is a general-purpose problem-solving engine. It defines no roles, no workflows. Given an origin and a goal, it searches for a path through an unknown state space. AI Penetration Testing is one such problem — and a proven one. What is Cairn? Penetration testing is fundamentally a directed search through a near-infinite state space: Origin: known (target IP, target system) Goal: defined (get a shell, capture the flag) Path: unknown This structure is not unique to penetration testing. Vulnerability research, mathematical proof, CTF challenges — any problem with a clear starting point, a clear success condition, and an unknown path"
+    },
+    "verdict": {
+      "model": "jev-1.13.0",
+      "score": 2.97,
+      "category": "Developer Tools",
+      "category_confidence": 0.73
+    }
+  },
+  {
+    "canonical_url": "https://github.com/ersinkoc/phonebox",
+    "url": "https://github.com/ersinkoc/phonebox",
+    "found_at": "2026-11-25T15:34:35+00:00",
+    "sources": [
+      {
+        "name": "pinboard",
+        "title": "phonebox: Turn an old Android phone into a customizable desk panel and touch control deck for Windows, Linux and macOS. 124 widgets and 30 templates for system stats, AI coding, media and automation"
+      }
+    ],
+    "github": {
+      "repo_url": "https://github.com/ersinkoc/phonebox",
+      "homepage": "https://ersinkoc.github.io/phonebox/",
+      "description": "Turn an old Android phone into a customizable desk panel and touch control deck for Windows, Linux and macOS. 124 widgets and 30 templates for system stats, AI coding, media and automation, in 13 languages. USB or paired Wi-Fi. No cloud required.",
+      "topics": [
+        "android",
+        "claude-code",
+        "codex",
+        "dashboard",
+        "desk-panel",
+        "dotnet",
+        "home-assistant",
+        "linux",
+        "macos",
+        "old-phone",
+        "smart-stack",
+        "stream-deck",
+        "system-monitor",
+        "tailscale",
+        "webhooks",
+        "widgets",
+        "windows"
+      ],
+      "stars": 6350,
+      "created_at": "2026-11-07T16:45:16Z",
+      "pushed_at": "2026-11-25T15:33:29Z",
+      "owner_avatar": "https://avatars.githubusercontent.com/u/408479?v=4"
+    },
+    "page": {
+      "final_url": "https://github.com/ersinkoc/phonebox",
+      "status": 200,
+      "title": "GitHub - ersinkoc/phonebox: Turn an old Android phone into a customizable desk panel and touch control deck for Windows, Linux and macOS. 124 widgets and 30 templates for system stats, AI coding, media and automation, in 13 languages. USB or paired Wi-Fi. No cloud required.",
+      "description": "Turn an old Android phone into a customizable desk panel and touch control deck for Windows, Linux and macOS. 124 widgets and 30 templates for system stats, AI coding, media and automation, in 13 l...",
+      "og_image": "https://opengraph.githubassets.com/879be476a95323446e563454965c9b2d73630f110aa54e7e6390f3d961bbd2e3/ersinkoc/phonebox",
+      "favicon": "https://github.com/fluidicon.png",
+      "text_excerpt": "Skip to content Navigation Menu Products Developers Businesses Resources Pricing Search / Sign in Sign up ersinkoc phonebox Repository navigation Code Issues 2 (2) Pull requests 5 (5) Actions Projects Security and quality 1 (1) Insights phonebox Public Sponsor Notifications Fork756 (756) Star6.4k (6.4k) main 2 Branches 46 Tags Code Latest commit Hal33mm5 and ersinkoc Add an iOS companion app that mirrors the Android panel (#599) dff2f1f · History 677 Commits Folders and files Name Last commit message Last commit date .github Add an iOS companion app that mirrors the Android panel (#599) .wrongstack Add WrongStack sponsorship to README and update ignore rules agent Phone bridge, 7/10: phone notifications with the PhoneBox icon (agent… android Phone bridge: phone notifications on the Mac (agent, macOS) (#530) bucket Scoop and winget manifests for 0.9.29 docs Phone bridge, 7/10: phone notifications with the PhoneBox icon (agent… extras/umidigi-bison PhoneBox: turn an old Android phone into a USB desk panel for Windows ios/PhoneBox Add an iOS companion app that mirrors the Android panel (#599) packaging Windows installer: a silent /TASKS=!autostart or /MERGETASKS=!autosta… scripts macOS: a menu bar icon for PhoneBox.app (#438) tools Phone bridge: phone notifications on the Mac (agent, macOS) (#530) .coderabbit.yaml Android 7.0+ support (minSdk 24) (#81) .gitattributes PhoneBox: turn an old Android phone into a USB desk panel for Windows .gitignore Add an iOS companion app that mirrors the Android panel (#599) CHANGELOG.md Grok: a prepaid-only reading isn't hidden by a failed CodexBar answer… CONTRIBUTING.md Merge commit from fork LICENSE PhoneBox: turn an old Android phone into a USB desk panel for Windows PRIVACY.md Phone bridge, 7/10: phone notifications with the PhoneBox icon (agent… README.md Add an iOS companion app that mirrors the Android panel (#599) SECURITY.md Merge commit from fork setup.ps1 Honor the ignored-device list in standalone setup (#587) setup.sh Ho"
+    },
+    "homepage": {
+      "final_url": "https://ersinkoc.github.io/phonebox/",
+      "status": 200,
+      "title": "PhoneBox — live demo",
+      "description": "Turn an old Android phone into a desk panel for your computer. Try the panel and the layout editor in your browser.",
+      "og_image": "",
+      "favicon": "https://ersinkoc.github.io/phonebox/favicon.ico",
+      "text_excerpt": "PhoneBox ★ GitHub Turn an old Android phone into a desk panel for your computer (Windows, Linux or macOS): 136 widgets, a visual layout editor, AI coding sessions and quotas, music, a Control Deck, webhooks and rules. This is the real panel of PhoneBox 0.9.29 running in your browser with made-up data — swipe it, tap it. ◀ Previous page Next page ▶ ▦ All pages 🔔 Send a notification ✳ Claude asks for permission ✎ Open the layout editor ↗ Changes you make in the layout editor show up here right away. Everything stays in your browser. 136 widgets, 30 templates Smart Stack, clocks, weather, calendars, media, gauges, charts, processes, Docker / Podman, OBS, Home Assistant, timers, checklists, markets… on a 12 × 6 grid, as many pages as you like. Every template is a page in this demo. AI coding at a glance Claude, Codex and Antigravity quotas with a burn-rate forecast, Claude Code, Codex and OpenCode sessions, GitHub reviews, and Allow / Deny for permission prompts from Claude Code and OpenCode right on the phone. Control Deck App and device volume, microphone, media, OBS, tasks, dev servers and display brightness as touch controls. The phone sends IDs only; commands stay on the computer. The native audio and display controls are Windows-only. Webhooks and rules Scripts, CI and Home Assistant push values and notifications with one curl; rules switch pages calmly when a call, music or a waiting AI session needs the screen. USB or Wi-Fi, no cloud Over the USB cable, or over Wi-Fi / Tailscale with a pinned certificate and a key. No accounts, no telemetry: see the privacy policy. Install on Windows (PowerShell, not as administrator): irm https://raw.githubusercontent.com/ersinkoc/phonebox/main/setup.ps1 | iex On Linux and macOS: curl -fsSL https://raw.githubusercontent.com/ersinkoc/phonebox/main/setup.sh | bash Setup checks the download, installs adb if it is missing and can put the app on the phone. See the quick start for what it does and its warnings, or download a release."
+    },
+    "verdict": {
+      "model": "jev-1.13.0",
+      "score": 3.61,
+      "category": "Developer Tools",
+      "category_confidence": 0.38
+    },
+    "screenshot": "shots/2026/11-25/github-com-ersinkoc-phonebox.jpg"
+  },
+  {
+    "canonical_url": "https://anoma.ly/spaceman/",
+    "url": "https://anoma.ly/spaceman/",
+    "found_at": "2026-11-25T15:34:35+00:00",
+    "sources": [
+      {
+        "name": "pinboard",
+        "title": "Spaceman — For your windows."
+      }
+    ],
+    "page": {
+      "final_url": "https://anoma.ly/spaceman/",
+      "status": 200,
+      "title": "Spaceman — For your windows.",
+      "description": "A fast macOS tiling window manager for Apple silicon. Side by side, nothing on top of anything else.",
+      "og_image": "https://anoma.ly/spaceman/og-image.png",
+      "favicon": "https://anoma.ly/spaceman/favicon.ico",
+      "text_excerpt": "Spaceman Features Shortcuts GitHub Download For your windows. Spaceman is a tiling window manager for macOS. Every window side by side, nothing on top of anything else. Download for macOS Watch the demo 2 min Needs a Mac with Apple silicon. Every window has a place. Windows open side by side and make room for each other. Ten numbered workspaces sit under your fingers, and rules send each app where it belongs. Windows tile as they open Each new window takes a share of the screen and the others make room. Drag a window onto another to swap them, or drag an edge to resize the split. 1 2 3 Ten workspaces on the keyboard ⌥1 to ⌥0 switch workspaces. Add ⇧ to send the focused window to one without following it. A small bar shows each workspace's number and apps as you go. App Window title Action Workspace Chat “Standup” Ignore — Chat Any Route 2 Mail Any Route 2 Browser Any Route 3 Rules for where apps go Send an app to a workspace when it opens, or leave a window alone by its title. Rules are checked in order and the first match wins. Tabs keep their tile Switch native tabs, in Ghostty for one, and the window keeps its tile, its size and its place in the layout. 1 Pause Tiling Your windows come back Pausing, quitting or updating Spaceman brings every hidden window back where it was. It remembers where each one goes before it moves it. Accessibility Spaceman Terminal Script Editor Accessibility, and nothing else System Integrity Protection stays on. Window titles stay in memory: Spaceman never saves, logs or sends them, and nothing reports home. On the keyboard. Everything starts with Option. Shortcuts follow your keyboard layout; the numbers are always the top row. Switch workspace ⌥1 … ⌥0 Send the window to a workspace ⌥⇧1 … ⌥⇧0 Back to the last workspace ⌥Tab Next window ⌥` Focus left, down, up, right ⌥H J K L Move the tile ⌥⇧H J K L Flip the split ⌥/ Shrink or grow the tile ⌥- ⌥= Fullscreen Layout ⌥⇧F Next or previous workspace Three-finger swipe Get Spaceman. Free, si"
+    },
+    "verdict": {
+      "model": "jev-1.13.0",
+      "score": 3.18,
+      "category": "Productivity",
+      "category_confidence": 0.48
+    },
+    "screenshot": "shots/2026/11-25/anoma-ly-spaceman.jpg"
+  },
+  {
+    "canonical_url": "https://hypercritical.co/2026/11/23/jetty-pro",
+    "url": "https://hypercritical.co/2026/11/23/jetty-pro",
+    "found_at": "2026-11-25T15:34:35+00:00",
+    "sources": [
+      {
+        "name": "pinboard",
+        "title": "Hypercritical: Jetty Pro"
+      }
+    ],
+    "page": {
+      "final_url": "https://hypercritical.co/2026/11/23/jetty-pro",
+      "status": 200,
+      "title": "Jetty Pro",
+      "description": "",
+      "og_image": "https://hypercritical.co/jetty-pro/images/jetty-pro-palettes.png",
+      "favicon": "https://hypercritical.co/images/tiny-mac.svg",
+      "text_excerpt": "APPS ABOUT ARCHIVE CONTACT RSS Hypercritical Jetty Pro November 23, 2026 at 3:04 PM by John Siracusa My first two Mac apps, Front and Center and SwitchGlass, were both created back in 2020 to restore features from DragThing, the venerable Mac app that was retired in 2019. The one tiny feature that Front and Center provided was literally a single checkbox within DragThing’s preferences. SwitchGlass went a bit farther, recreating one specific kind of floating palette from DragThing (and classic Mac OS). After 24 years of development, DragThing had a ton of features. People often joked that I was destined to slowly reimplement all of DragThing’s functionality in a series of small apps. Put another way, they were saying I was doomed to make strange little Mac apps with extremely limited appeal (and sales). Perhaps to prove them wrong, the next app I created was Hyperspace, which provided a way to reclaim disk space without removing any files. Hyperspace was still a nerdy app, but at least it had somewhat broader appeal than my earlier efforts. Who doesn’t want to save disk space? But more importantly, it was totally unrelated to DragThing. I had broken the curse! Alas, there was one more (small) thing from DragThing that I missed. I used to have a DragThing palette in the corner of my screen containing some commonly used folders. In earlier versions of macOS, it was possible to pin the Dock to a screen corner, but that wasn’t really what I wanted either. I just wanted a small, separate palette of folders in the corner. This is not a hard problem to solve. Plenty of Mac apps can provide something close to what I want…but not exactly what I want, in the specific way that I want it. For many years, I got by with some folders in the corner of my desktop. But the problem nagged at me. A few years ago, I went so far as to implement my desired feature in SwitchGlass, adding the ability to create a small, extra palette full of folders in addition to the app switcher. But it fel"
+    },
+    "verdict": {
+      "model": "jev-1.13.0",
+      "score": 2.07,
+      "category": "Blog",
+      "category_confidence": 0.56
+    }
+  },
+  {
+    "canonical_url": "https://drewdevault.com/weird-guys/",
+    "url": "https://drewdevault.com/weird-guys/",
+    "found_at": "2026-11-25T15:34:35+00:00",
+    "sources": [
+      {
+        "name": "pinboard",
+        "title": "Weird little guys of FOSS"
+      }
+    ],
+    "page": {
+      "final_url": "https://drewdevault.com/weird-guys/",
+      "status": 200,
+      "title": "Weird little guys of FOSS",
+      "description": "",
+      "og_image": "",
+      "favicon": "https://drewdevault.com/avatar.png",
+      "text_excerpt": "DREW DEVAULT Talks About RSS WEIRD LITTLE GUYS OF FOSS Table of contents This is a list of weird little guys in the free software movement and adjacent spaces. Request additions, removals, or changes via email; patches welcome. Don’t harass these people! Don’t engage with them at all. An RSS feed for this page is available. Artwork by @p@hj.9fs.net Also available as a zine! Fenestrate Press has created a Zine from this page, which you’re welcome to download, share, print, and distribute. Get it here! FAQ What is the criteria for being on this list? Weird, public politics, as judged by yours truly Leader in their community or otherwise powerful/influential Involved in free and open source software But that guy does good work! A lot of people on this list have done good work. A lot of people not on this list have done good work, too. See also: Violet Blue’s “But he does good work.” Will you write a “cool people” list, too? No. Who’s on the list or off the list will introduce weird social dynamics, and risks creating a kind of popularity contest. Also, if I published a list like that, it would paint a target on the backs of everyone on the list for harassment or worse. SEE ALSO “Weird little guys”, a podcast hosted by Molly Conger that inspired the name of this list ~rabbits/fashware ALEX GLEASON Known for: nostr stuff Alex is a prominent figure in the nostr community, and an antagonist on FOSS social media platforms generally. He developed the software used for Truth Social, Donald Trump’s fediverse thing,[source] and was banned from the Mastodon instance he used back in 2023 for being openly transphobic.[source][source] Alex is financially supported by Jack Dorsey via the “andOtherStuff” collective.[source] This photo of him on the right is prominently displayed on his personal website. Added August 31, 2026 ANDREAS KLING Known for: SerenityOS, Ladybird Alias: AwesomeKling Andreas is the founder of SerenityOS and the Ladybird web browser. He posted in support of Char"
+    },
+    "verdict": {
+      "model": "jev-1.13.0",
+      "score": 0.97,
+      "category": "Blog",
+      "category_confidence": 0.76
+    }
+  },
+  {
+    "canonical_url": "https://mechanical-pencil.com/products/spray-bottle",
+    "url": "https://mechanical-pencil.com/products/spray-bottle",
+    "found_at": "2026-11-25T15:34:35+00:00",
+    "sources": [
+      {
+        "name": "pinboard",
+        "title": "Mechanical Pencil"
+      }
+    ],
+    "page": {
+      "final_url": "https://mechanical-pencil.com/products/spray-bottle",
+      "status": 200,
+      "title": "Mechanical Pencil",
+      "description": "Illustrating the Engineering Around Us",
+      "og_image": "https://framerusercontent.com/images/5O3rU7bwpuOpLUdBe6aEsQxPKA.png",
+      "favicon": "https://framerusercontent.com/images/UJGAiSxAR0uPUWALBuSlp4RuGI.svg",
+      "text_excerpt": "UNBRANDED | SPRAY BOTTLE c: 1970s MECHANICAL PENCIL BREAKDOWNS SIGN UP ABOUT An illustrated celebration of the engineering around us SCROLL DOWN Why the Spray Bottle? NOV 2026 When I first started designing this site, I would constantly look around my home for objects that I had never given a second thought. Two products stood out to me as wonderfully mechanical and common: the mechanical pencil and the spray bottle. The modern spray bottle emerged in the early 1970s, and by now there must be hundreds, maybe even thousands, of spray bottle designs out there in the world, with variations on their nozzle design, trigger mechanism and more. But they all utilize the same basic one-way-valve mechanism. The main question we want to answer: How does fluid keep spraying out, pull after pull, every time you squeeze the Trigger? Let's get into it! How Do You Use A Spray Bottle? Before we look inside, let’s cover the basics: pull the Trigger to spray, release it to reload. PULL RELEASE Click through to explore each state What's Inside a Spray Bottle? Let’s take the Spray Bottle apart to see what’s inside OPEN UP Let's Look At The Moving Parts Click through to see how the moving parts connect TRIGGER PISTON PLUG SPRING Cut a cross section to see inside the bottle Let's Break Down the One-Way Valve A one-way valve is exactly what it sounds like: a valve that lets fluid flow one way and blocks it from going the other way. They are everywhere. Soap bottles, toilets, even your heart! Let's examine how it works in the context of the Spray Bottle. Let's begin Let's Step Through the Mechanism Click through the spray mechanism to see how all the parts work together. Let's start with pulling the Trigger Thanks for reading! Want More? I'm in the process of illustrating some fun exploded views and cutaways. Head over to Instagram to take a look. And sign up if you want to know about any future product breakdowns or updates. SUBMIT © 2026 Bryan Macomber Design LLC. All Rights Reserved."
+    },
+    "verdict": {
+      "model": "jev-1.13.0",
+      "score": 2.35,
+      "category": "Engineering",
+      "category_confidence": 0.94
+    }
+  },
+  {
+    "canonical_url": "https://www.axios.com/2026/11/24/anthropic-openai-unreleased-ai-safety-risks",
+    "url": "https://www.axios.com/2026/11/24/anthropic-openai-unreleased-ai-safety-risks",
+    "found_at": "2026-11-25T15:34:35+00:00",
+    "sources": [
+      {
+        "name": "pinboard",
+        "title": "Anthropic, OpenAI employees fear models are too unsafe to release"
+      }
+    ],
+    "page": {
+      "final_url": "https://www.axios.com/2026/11/24/anthropic-openai-unreleased-ai-safety-risks",
+      "status": 403,
+      "title": "Just a moment...",
+      "description": "",
+      "og_image": "",
+      "favicon": "https://www.axios.com/favicon.ico",
+      "text_excerpt": "www.axios.com Performing security verification This website uses a security service to protect against malicious bots. This page is displayed while the website verifies you are not a bot. Ray ID: a601b908dc2a111d Performance and Security by Cloudflare Privacy"
+    },
+    "verdict": {
+      "model": "jev-1.13.0",
+      "score": 0.31,
+      "category": "News",
+      "category_confidence": 0.91
+    }
+  },
+  {
+    "canonical_url": "https://www.ft.com/content/82d3be02-8ac7-4acb-aefa-6e3722ee05cc?syn-25a6b1a6=1",
+    "url": "https://www.ft.com/content/82d3be02-8ac7-4acb-aefa-6e3722ee05cc?syn-25a6b1a6=1",
+    "found_at": "2026-11-25T15:34:35+00:00",
+    "sources": [
+      {
+        "name": "pinboard",
+        "title": "Inside the ‘war room’ that lobbied Donald Trump to bring back Nvidia’s Jensen Huang"
+      }
+    ],
+    "page": {
+      "final_url": "https://www.ft.com/content/82d3be02-8ac7-4acb-aefa-6e3722ee05cc?syn-25a6b1a6=1",
+      "status": 403,
+      "title": "Just a moment...",
+      "description": "",
+      "og_image": "",
+      "favicon": "https://www.ft.com/favicon.ico",
+      "text_excerpt": "Financial Times Security Verification For help please visit help.ft.com. We apologise for any inconvenience. The following information can help our support team to resolve this issue. Error Code CG000 / 403 Request ID a601b9138bcfeaef Terms & ConditionsPrivacy PolicyCookie PolicyManage CookiesCopyrightSlavery Statement & Policies © THE FINANCIAL TIMES LTD 2026. FT and ‘Financial Times’ are trademarks of The Financial Times Ltd. The Financial Times and its journalism are subject to a self-regulation regime under the FT Editorial Code of Practice."
+    },
+    "verdict": {
+      "model": "jev-1.13.0",
+      "score": 0.29,
+      "category": "Magazines, Newspapers & Newsletter",
+      "category_confidence": 0.53
+    }
+  },
+  {
+    "canonical_url": "https://en.wikipedia.org/wiki/Wild_Horse_Nine",
+    "url": "https://en.wikipedia.org/wiki/Wild_Horse_Nine",
+    "found_at": "2026-11-25T15:34:35+00:00",
+    "sources": [
+      {
+        "name": "pinboard",
+        "title": "Wild Horse Nine - Wikipedia"
+      }
+    ],
+    "page": {
+      "final_url": "https://en.wikipedia.org/wiki/Wild_Horse_Nine",
+      "status": 200,
+      "title": "Wild Horse Nine - Wikipedia",
+      "description": "",
+      "og_image": "https://upload.wikimedia.org/wikipedia/en/4/44/Wild_Horse_Nine_poster.jpeg?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=thumbnail_unscaled",
+      "favicon": "https://en.wikipedia.org/static/apple-touch/wikipedia.png",
+      "text_excerpt": "Jump to content Main menu Search Donate Create account Log in Contents hide (Top) Plot Cast Production Toggle Production subsection Music Release Reception Toggle Reception subsection Box office Critical response Accolades References External links Wild Horse Nine 23 languages Article Talk Read Edit View history Save Tools Appearance hide Text Small Standard Large Width Standard Wide Color Automatic Light Dark From Wikipedia, the free encyclopedia Wild Horse Nine Theatrical release poster Directed by Martin McDonagh Written by Martin McDonagh Produced by Graham Broadbent Pete Czernin Martin McDonagh Anita Overland Starring John Malkovich Sam Rockwell Steve Buscemi Tom Waits Parker Posey Mariana di Girolamo Cinematography Ben Davis Edited by Mikkel E. G. Nielsen[1] Music by Carter Burwell Production companies Blueprint Pictures Film4 TSG Entertainment Distributed by Searchlight Pictures Release dates 3 September 2026 (Venice) 6 November 2026 (United Kingdom and United States) Running time 117 minutes[2] Countries United Kingdom United States Chile Language English Budget $13–15 million Box office $39 million[3][4] Wild Horse Nine is a 2026 black comedy film[5][6] written and directed by Martin McDonagh. A co-production of the United Kingdom, United States, and Chile, it stars John Malkovich, Sam Rockwell, Steve Buscemi, Mariana di Girolamo, Ailín Salas, Tom Waits, and Parker Posey. The film follows two CIA officers in 1973 who travel to Easter Island for an assignment and wrestle with their dark pasts. Wild Horse Nine premiered in the main competition of the 83rd Venice International Film Festival on 3 September 2026,[7] where Malkovich won the Volpi Cup for Best Actor. It was widely released by Searchlight Pictures on November 6. The film received positive reviews from critics. Plotedit In 1973, CIA officers Chris Carlisle and Lee Chesterfield vacation to Easter Island from their station in Santiago, Chile. At the airport, they encounter Monica and Alicia, two young"
+    },
+    "verdict": {
+      "model": "jev-1.13.0",
+      "score": 0.25,
+      "category": "Reference & Search",
+      "category_confidence": 0.61
+    }
+  },
+  {
+    "canonical_url": "https://www.youtube.com/watch?v=IMSYKloMFrE",
+    "url": "https://www.youtube.com/watch?v=IMSYKloMFrE",
+    "found_at": "2026-11-25T15:34:35+00:00",
+    "sources": [
+      {
+        "name": "pinboard",
+        "title": "Anthropic's Engineers Stopped Building AI Agents (Here's What They Build Instead) - YouTube"
+      }
+    ],
+    "page": {
+      "final_url": "https://www.youtube.com/watch?v=IMSYKloMFrE",
+      "status": 200,
+      "title": "Claude Skills have Evolved - 7 NEW Levels to Master Them - YouTube",
+      "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+      "og_image": "",
+      "favicon": "https://www.youtube.com/s/desktop/67a5d372/img/favicon.ico",
+      "text_excerpt": "Skip navigation Sign in Sign in to confirm you’re not a bot This helps protect our community Sign in Learn more Claude Skills have Evolved - 7 NEW Levels to Master Them Jay E | RoboNuggets 242K subscribers Subscribe 7.6K 574K views 1d ago 5.6K hype points Get the Claude Skills Guide for free ➡ https://www.skool.com/robonuggets-fre... search for n94 Learn how to build AI businesses 🚀https://www.skool.com/robonuggets … more Comments 15:24 New Anthropic Just Dropped 7 MASSIVE Claude Features (Master them in 15 mins) Jay E | RoboNuggets 722K 3d ago 18:46 New Claude Is So Different Now (Every Update That Matters) Paul J Lipsky 3.6K 1h ago 5:10 New AI Guardrails Explained (Beginners Guide) Getting Good at AI 166 2d ago 25:11 The Only Video You'll Need to Master Claude for 2027 Ben AI 143K 2w ago 28:17 The ONLY Grok Bot Tutorial You'll Ever Need (ALL 38 Features Explained Simply) Jay E | RoboNuggets 205K 3w ago 31:01 New How to run marketing with a Grok Bot team Knock 6.7K 6d ago 1:00:49 The Ultimate Beginner’s Guide to Claude AI Metics Media 3.2M 3mo ago 58:56 Building AI Agents that actually work (Full Course) Greg Isenberg 903K 8mo ago 30:01 Claude Code: Build Your First AI Agent in 30 Minutes (Zero Code) AI Foundations 72K 2w ago 19:56 New Build the Workshop Before the Software Factory — Armin Ronacher, Earendil AI Engineer 228K 2d ago 19:07 New Anthropic’s Study Just Revealed How The Top 1% Uses AI differently Ben AI 237K 4d ago 17:18 MCP vs API Explained: Do You Really Need MCP? KodeKloud 350K 4mo ago 17:37 How To Make More Money Than You Deserve (My 2027 Framework) Alex Hormozi 2.4M 2w ago 29:42 Top 10 Claude AI Side Hustles That Can Pay A Full-Time Income (Ranked) Shane Hummus 630K 2mo ago 1:36:30 Full Walkthrough: Workflow for AI Coding — Matt Pocock AI Engineer and Matt Pocock 2.1M 7mo ago 28:04 New Scientists Said This Wave Was Impossible Veritasium 99K 1h ago 11:50 New Anthropic Just Revealed the NEW Rules of Claude Code (Master it in 11mins) Jay E | RoboNugget"
+    },
+    "verdict": {
+      "model": "jev-1.13.0",
+      "score": 0.8,
+      "category": "Photo & Video",
+      "category_confidence": 0.69
+    }
+  },
+  {
+    "canonical_url": "https://fzakaria.com/",
+    "url": "https://fzakaria.com/",
+    "found_at": "2026-11-25T15:34:35+00:00",
+    "sources": [
+      {
+        "name": "pinboard",
+        "title": "Farid Zakaria’s Blog | I’m a software engineer, father and wishful amateur surfer. If you’ve come seeking my political views, you’ve found the wrong Fareed."
+      }
+    ],
+    "page": {
+      "final_url": "https://fzakaria.com/",
+      "status": 200,
+      "title": "Farid Zakaria’s Blog",
+      "description": "I’m a software engineer, father and wishful amateur surfer. If you’ve come seeking my political views, you’ve found the wrong Fareed.",
+      "og_image": "",
+      "favicon": "https://fzakaria.com/assets/images/avatar.ico",
+      "text_excerpt": "Skip to content Farid Zakaria I'm a software engineer, father and wishful amateur surfer. If you've come seeking my political views, you've found the wrong Fareed. GITHUB fzakaria LINKEDIN fmzakari EMAIL farid.m.zakaria@gmail.com PGP D1B232E7 RESUME google doc TALKS talks & papers READERS readership stats ARCHIVE wordpress blog LATEST · NOVEMBER 23, 2026 2035 came early I remember watching the talk The Birth & Death of JavaScript by Gary Bernhardt and falling in love with the whimsical yet dreadfully serious unfolding of the story of how JavaScript will come to dominate all software. Others have noted… READ → 2026 NOV 20 Genrules all the way down NOV 18 Build systems à la trace NOV 14 beer.drv.drv.drv NOV 12 Worshipping at the altar of Brendan Gregg NOV 09 What if every Nix build were bit-reproducible? NOV 07 Making profile-guided optimization reproducible NOV 06 The intensional model in disguise NOV 05 Rewinding by fast-forwarding NOV 03 Why does shuffling the schedule find so many bugs? NOV 01 A clock made of branches OCT 28 Reading the code is the hard part OCT 24 Dafuq is a deterministic VM? OCT 23 Who wrote this byte? OCT 20 No quarter for gaps OCT 17 One store, two frontends OCT 14 Always, sometimes, never OCT 12 Nixpkgs for the frontend impaired OCT 07 Nix wrote half of my debugger OCT 03 Rewind VM: a flaky build you only catch once SEP 28 Hiding my AI slop from my Nix friends SEP 24 Every package is already installed SEP 20 A build graph that rolls dice SEP 15 Visualizing Nix closures SEP 14 Orange Site Vanity SEP 11 A Nix store is three functions SEP 09 Review a pull request by booting it SEP 04 Any Nix package, live in your browser SEP 02 Keeping one version of everything SEP 01 The holy grail of nixpkgs: version ranges AUG 31 How safe is follows? AUG 28 One flake to rule them all AUG 25 Stamping build info in constant memory AUG 24 Actually Queryable Executables AUG 23 Your executable is a SQLite database AUG 19 Three ways to smuggle SQLite into Nix AUG 1"
+    },
+    "verdict": {
+      "model": "jev-1.13.0",
+      "score": 2.0,
+      "category": "Blog",
+      "category_confidence": 0.5
+    }
+  },
+  {
+    "canonical_url": "https://jogostraw.com/collections/jogo/products/jogo-the-coffee-brewing-straw",
+    "url": "https://jogostraw.com/collections/jogo/products/jogo-the-coffee-brewing-straw",
+    "found_at": "2026-11-25T15:34:35+00:00",
+    "sources": [
+      {
+        "name": "pinboard",
+        "title": "Jogo® – The Brew Straw for Coffee and Tea | Jogo Straw – JoGo Straw"
+      }
+    ],
+    "page": {
+      "final_url": "https://jogostraw.com/collections/jogo/products/jogo-the-coffee-brewing-straw",
+      "status": 200,
+      "title": "Jogo® – The Brew Straw for Coffee and Tea | Jogo Straw",
+      "description": "Discover the Jogo® Coffee Brewing Straw - the ultimate way to enjoy a perfect cup of coffee. This innovative coffee maker by Jogo Straw enhances the flavor and aroma while reducing waste. Get started on your brewing journey now!",
+      "og_image": "http://jogostraw.com/cdn/shop/files/6211E3D7-6A8D-49AA-8ABD-91043E632891_1_201_a_3.webp?crop=center&height=1200&v=1779858063&width=1200",
+      "favicon": "https://jogostraw.com/cdn/shop/files/BDCD8B47-5523-4F2D-A21A-D352C6539247.png?crop=center&height=48&v=1663037068&width=48",
+      "text_excerpt": "Skip to content Facebook Instagram TikTok LinkedIn 15% OFF SITEWIDE • PRE–BLACK FRIDAY SALE • FREE U.S. SHIPPING ON ORDERS OVER $49 Country/Region United States (USD $) Language English Search Account Cart Home Shop About Instructions FAQs Wholesale Home Jogo Jogo® – The Brewing Straw for Coffee & Tea Previous Next Previous Next Jogo® – The Brewing Straw for Coffee & Tea $25.49 $29.95 223 reviews By Jogo Straw Jogo Straw is a portable and convenient way to enjoy French press style coffee with the ease of instant. Just add ground coffee and water to your mug, stir, and enjoy. Our patented design also works with cold brew, loose-leaf tea, yerba mate, and you can even remove the filter and use it as a regular reusable straw. This stainless steel infusion brewer is ideal for travel, camping, but also great to use at home or in the office. Comes with Jogo Cleaning Brush + Carrying Pouch Color Forest Green Pebble Grey Rose Quartz Agave Blue Quantity ADD TO CART Features Specs FAQ View details View details View details View details View details Adventure Ready Meet Jogo – a stainless steel straw with a patented mesh filter at its base that lets you brew coffee and tea anywhere, & anytime. Brewing Made Easy Simply drop a scoop of your favorite ground coffee or tea into your mug, add hot water, stir with your Jogo, and enjoy. Zero Waste Jogo is designed to fight against disposable culture by eliminating the need for paper filters, coffee pods, to go coffee cups, and plastic straws. Our method allows you to brew and drink coffee in the same cup, simplifying the process and avoiding unnecessary waste. Multipurpose Also works great with cold brew, loose leaf tea, cacao, yerba mate, juice, and muddled cocktails. Or you can remove the filter and use it as a regular reusable straw. Customer Review Review by Mark Magat Play CUSTOMER REVIEWS I was skeptical at first, drinking hot coffee from a straw seems counter intuitive. However, after using this, I now keep my hot water maker, c"
+    },
+    "verdict": {
+      "model": "jev-1.13.0",
+      "score": 0.55,
+      "category": "Shopping",
+      "category_confidence": 0.98
+    }
+  },
+  {
+    "canonical_url": "https://www.anildash.com/2026/11/18/tech-robber-barons-anger/",
+    "url": "https://www.anildash.com/2026/11/18/tech-robber-barons-anger/",
+    "found_at": "2026-11-25T15:34:35+00:00",
+    "sources": [
+      {
+        "name": "pinboard",
+        "title": "The new robber barons aren’t ready for the fight - Anil Dash"
+      }
+    ],
+    "page": {
+      "final_url": "https://www.anildash.com/2026/11/18/tech-robber-barons-anger/",
+      "status": 200,
+      "title": "The new robber barons aren’t ready for the fight - Anil Dash",
+      "description": "A blog about making culture. Since 1999.",
+      "og_image": "https://www.anildash.com/images/factory-wheels.jpg",
+      "favicon": "https://www.anildash.com/favicon.svg",
+      "text_excerpt": "Skip to main content ANIL DASH projects press about × GET NEW POSTS BY EMAIL (FREE, NO SPAM) SUBSCRIBE × Home The new robber barons aren’t ready for the fight 18 Nov 2026 TECH HUMANE-TECH SILICON-VALLEY VENTURE-CAPITAL POWER CULTURE JOBS THE NEW ROBBER BARONS AREN’T READY FOR THE FIGHT Ten years ago, I began writing a series about how we could move toward humane tech. Over the next year, I tried to get the people who build technology to look honestly at what the industry was becoming, while there was still time to change it. As you may be aware, that didn’t quite succeed. Every once in a while, I’ll see people passing around links to some of those pieces, specifically to call out a couple of predictions that I made with the genuine hope that I would turn out to be wrong. In March of 2016, I wrote: In a time of rising inequality, those who profit greatly while massively disrupting the stability of ordinary people tend to not be seen very kindly. The oil and steel barons of the past were seen as high tech innovators and valuable job creators for a while, until their excesses and abuses earned them a serious backlash. That post was framed around a simple warning: unless people in tech became more self-critical, the industry’s leaders would come to be seen as the new robber barons. And then about six months later, in “How do we reform tech?”, I tried to say what was at stake if we didn’t: The single biggest threat to the long-term health and growth of the tech sector is the backlash that could be caused by tech’s worst abuses and excesses. Well, here we are At the time, plenty of people in the industry read those as the worries of a pessimist. That was also the era when tech’s most powerful voices (the investors who would have you believe that writing checks matters more than writing code) began a systematic campaign to undermine all criticism. They began to position journalists as their enemies, and said that anyone who was critical of tech leaders having absolute, una"
+    },
+    "verdict": {
+      "model": "jev-1.13.0",
+      "score": 1.61,
+      "category": "Blog",
+      "category_confidence": 0.96
+    }
+  },
+  {
+    "canonical_url": "https://blog.usablenet.com/dont-trust-the-number-understand-the-number-lessons-from-100-audits",
+    "url": "https://blog.usablenet.com/dont-trust-the-number-understand-the-number-lessons-from-100-audits",
+    "found_at": "2026-11-25T15:34:35+00:00",
+    "sources": [
+      {
+        "name": "pinboard",
+        "title": "Don't Trust The Number, Understand the Number: Lessons from 100 Audits | UsableNet, Inc."
+      }
+    ],
+    "page": {
+      "final_url": "https://blog.usablenet.com/dont-trust-the-number-understand-the-number-lessons-from-100-audits",
+      "status": 200,
+      "title": "Don't Trust The Number, Understand the Number: Lessons from 100 Audits",
+      "description": "Discover the accessibility challenges faced by screen reader users, from total blockers to mild barriers, and workarounds to enhance digital experiences.",
+      "og_image": "https://blog.usablenet.com/hubfs/Web-Accessibility-Initiative-4-Step-Action-Plan.jpg",
+      "favicon": "https://blog.usablenet.com/hubfs/favicon.ico",
+      "text_excerpt": "skip to menu skip to content skip to footer Test the accessibility of your website for free! Try UsableNet AQA. Test now! Products and Services Solutions Resources Pricing About Us Get a Demo Don't Trust The Number, Understand the Number: Lessons from 100 Audits By Giacomo Petri, Director of Accessibility Auditors on Oct 8, 2026 Topics: Web Accessibility, User Experience, WCAG Audits, Audit, Automation 0 Comments If you spend any time around digital accessibility, you have seen the various numbers around how much accessibility can be covered by an automated scan. The percentages turn up in sales presentations, on LinkedIn, and in the accessibility reports that land on your desk. Here’s the problem. A percentage on its own tells you almost nothing. Most importantly, a big number is not automatically a good one. To use any of these figures well, you first must understand how they were produced. Using real data from 100 UsableNet audits, I’m going to walk you through the numbers. We will look at why numbers mislead, what our own audits reveal, and how to build a picture of accessibility that no single score can give you. If you take away one thing from this article, let it be the one in the title: don’t trust the number, understand the number. Why The Same Idea Produces Different Numbers Let’s start with one of the most familiar questions. How much of accessibility testing can be automated? You will hear twenty to thirty percent as a common industry estimate. You will also see marketing claims of fifty-seven percent, and occasionally eighty percent or more. How can one concept produce such a wide range? The answer is that “automated coverage” is not really a property of the platform or tool. It is a property of the methodology behind the scan. Here is the simple formula behind most of these claims: Automated coverage = automated issues found ÷ total issues found Look closely at that denominator of total issues found, because it’s determining what the final number is. I"
+    },
+    "verdict": {
+      "model": "jev-1.13.0",
+      "score": 2.16,
+      "category": "Blog",
+      "category_confidence": 0.9
+    }
+  },
+  {
+    "canonical_url": "https://www.bain.com/insights/2026-us-insurgent-brands-powering-the-next-wave-of-growth-snap-chart/",
+    "url": "https://www.bain.com/insights/2026-us-insurgent-brands-powering-the-next-wave-of-growth-snap-chart/",
+    "found_at": "2026-11-25T15:34:35+00:00",
+    "sources": [
+      {
+        "name": "pinboard",
+        "title": "2026 US Insurgent Brands: Powering the Next Wave of Growth | Bain & Company"
+      }
+    ],
+    "page": {
+      "final_url": "https://www.bain.com/insights/2026-us-insurgent-brands-powering-the-next-wave-of-growth-snap-chart/",
+      "status": 403,
+      "title": "Just a moment...",
+      "description": "",
+      "og_image": "",
+      "favicon": "https://www.bain.com/favicon.ico",
+      "text_excerpt": "www.bain.com Performing security verification This website uses a security service to protect against malicious bots. This page is displayed while the website verifies you are not a bot. Ray ID: a601b93eeff64974 Performance and Security by Cloudflare Privacy"
+    },
+    "verdict": {
+      "model": "jev-1.13.0",
+      "score": 0.29,
+      "category": "Business",
+      "category_confidence": 0.94
+    }
+  },
+  {
+    "canonical_url": "https://mechanical-pencil.com/",
+    "url": "https://mechanical-pencil.com/",
+    "found_at": "2026-11-25T15:34:35+00:00",
+    "sources": [
+      {
+        "name": "pinboard",
+        "title": "Mechanical Pencil"
+      }
+    ],
+    "page": {
+      "final_url": "https://mechanical-pencil.com/",
+      "status": 200,
+      "title": "Mechanical Pencil",
+      "description": "Illustrating the Engineering Around Us",
+      "og_image": "https://framerusercontent.com/assets/5O3rU7bwpuOpLUdBe6aEsQxPKA.png",
+      "favicon": "https://framerusercontent.com/images/UJGAiSxAR0uPUWALBuSlp4RuGI.svg",
+      "text_excerpt": "XX SECTION XX LAUNCHED: 1988 MECHANICAL PENCIL BREAKDOWNS SIGN UP ABOUT An illustrated celebration of the engineering around us Welcome! Are you curious why a clicky Pen... clicks? How a Zippo Lighter flips open? Or what lives inside a Pez Dispenser? I've illustrated tear-downs and break-downs of everyday products that you may have taken for granted. Let's take a look inside and understand how they work. Click around, have fun and maybe learn something new! NEW! UNBRANDED SPRAY BOTTLE c: 1970s MASTER LOCK COMBINATION LOCK c: 1935 DARDA PULL-BACK TOY CAR c: 1970 PILOT G2 RETRACTABLE PEN c: 1997 ZIPPO LIGHTER c: 1933 BIC MECHANICAL PENCIL c: 1988 PEZ CANDY DISPENSER c: 1952 Sign Up For Updates Want to know when I make a new entry or have new illustrations to share? Sign up below. SUBMIT About This Site What Is This Website? This is a place where I want to share engineering tear-downs and deep-dives of products that I find interesting (not just mechanical pencils). Who Made This? Me! My name's Bryan. I'm a mechanical engineer and artist. Why Did I Do This? Mostly for fun! This project came about as a way for me to blend two worlds: engineering and art. I'm hoping this site not only visualizes how things work, but does it in a beautiful way. How Were These Breakdowns Created? I take the product apart. CAD it up. Illustrate each view. Then animate and lay it out for the web. That sounds quick, but it does take me quite a bit of time to create each one. Why The Name \"Mechanical Pencil\"? 1) I'm a Mechanical Engineer (Mechanical) who loves to draw (Pencil). 2) A Mechanical Pencil was my go-to drawing medium as a kid, and I probably popped it open countless times, but I never took the time to appreciate how it works. Get In Touch Feel free to email me: bryan@mechanical-pencil.com © 2026 Bryan Macomber Design LLC. All Rights Reserved."
+    },
+    "verdict": {
+      "model": "jev-1.13.0",
+      "score": 2.47,
+      "category": "Engineering",
+      "category_confidence": 0.9
+    }
+  },
+  {
+    "canonical_url": "https://yogurt.so/",
+    "url": "https://yogurt.so/",
+    "found_at": "2026-11-25T15:34:35+00:00",
+    "sources": [
+      {
+        "name": "pinboard",
+        "title": "Yogurt · AI meeting notes that stay on your computer"
+      }
+    ],
+    "page": {
+      "final_url": "https://yogurt.so/",
+      "status": 200,
+      "title": "Yogurt · AI meeting notes that stay on your computer",
+      "description": "Yogurt takes meeting notes with AI that runs locally on Mac, Windows and Linux. No bot joins the call. Free and open source.",
+      "og_image": "https://yogurt.so/marketing/assets/og-image.png?v=576672d71514",
+      "favicon": "https://yogurt.so/marketing/assets/favicon-32.png",
+      "text_excerpt": "Skip to content 3,484 Download Backed by Y Combinator Remember every meeting. Yogurt records your calls with no bot joining. Free and open source. Everything stays on your computer. Download for Mac Watch demo Also for Windows and Linux From conversation to clear notes. Record the call, keep the useful details, and ask about them later. 01 Record the conversation − Yogurt transcribes the call while you add your own notes. 02 Leave with a clear plan + 03 Ask what you missed + Make more of every meeting. Keep your notes private, organized, and useful after the call. Your notes stay local. Your audio, notes and AI processing stay on your computer. Transcribe in 99 languages. Transcribe in 99 languages with multi-language mode. Use notes in your AI app. Let your assistant read meeting notes and transcripts directly from your computer. Group notes by project. Group meetings in folders and search titles, notes and transcripts. Posts about Yogurt Michael Magán I've tried a bunch of granola clones. Yogurt is by far the best one I've tried. It's open-source, fully local, and it's free. Onkel-Thomas This works so flawlessly was really surprised to see it be on par or even better than granola Ryan Hart This just killed Granola. unethicalVegan This is great, way more polished than the app I've been using for this exact purpose up to this point. Somi … I’d still take that over shipping every sales call to someone else’s cloud. shireboy Just tried it on a teams call and it did great transcribing and summarizing. … I’ve been wanting something like this a while Mario Nawfal Free, open source, and it just made paid meeting note apps look overpriced. cudjoeeeee Oh nice, the MCP server is what got me. I’m so tired of copy-pasting transcripts into Claude like it’s 2023 lol And no bot awkwardly joining the call, finally. James Philip Lawrence First of all, thank you for Yogurt. Being able to Ask across meetings, entirely on my own computer, is wonderful. Anmol Srivastava someone open-so"
+    },
+    "verdict": {
+      "model": "jev-1.13.0",
+      "score": 3.47,
+      "category": "Productivity",
+      "category_confidence": 0.98
+    },
+    "screenshot": "shots/2026/11-25/yogurt-so.jpg"
+  },
+  {
+    "canonical_url": "https://www.remindly.com/",
+    "url": "https://www.remindly.com/",
+    "found_at": "2026-11-25T15:34:35+00:00",
+    "sources": [
+      {
+        "name": "pinboard",
+        "title": "Remindly: light, fast notes for iPhone, iPad and Mac"
+      }
+    ],
+    "page": {
+      "final_url": "https://www.remindly.com/",
+      "status": 200,
+      "title": "Remindly: light, fast notes for iPhone, iPad and Mac",
+      "description": "Catch the thought, get back to work. Notes that open instantly, work offline and stay yours as plain Markdown.",
+      "og_image": "https://www.remindly.com/images/og-home.png",
+      "favicon": "https://www.remindly.com/apple-touch-icon.png",
+      "text_excerpt": "Remindly Capture Search Markdown From Evernote Pricing Sign in Download Start free Notes for iPhone, iPad and Mac Catch the thought. Get back to work. Remindly is a light, fast notes app. Press ⌃⌥N in any app on your Mac or ask Siri on your iPhone, and the note is saved before you lose your place. Create your free account Coming from Evernote? Docs File Edit View Window Mon 9:41 Q4 planning Q4 planning Three things this quarter: ship the iPhone widgets, finish the import guide, and get the first hundred people through onboarding without a call. Open questions Do we need a Windows app before spring? Who owns the help center? Budget for the usability study Next steps Draft the launch email by Thursday and share it with the team for review. Team Quick Capture Ask Sam ab ⌘↩ save · Esc close No Notebook ⌄ Open in Remindly Save ⌃ ⌥ N Press Control-Option-N in any app to open Quick Capture, type the note, then Command-Return to save it. Opens instantly Notes are stored on your device Works offline Changes sync when you're back No note limit On every plan, including Free Plain Markdown Export every note, any time Overview See Remindly in a minute. Catch a note from any app, set a reminder for a time or a place, and find it on your iPhone, your Mac and the web. 1:14 Plays here from YouTube once you press play. Watch on YouTube · Transcript Capture Every way in takes a few seconds. Wherever the thought turns up, there's a short path into Remindly. You don't have to choose a notebook or open the app first. Mon 9:41 New Note ⌃⌥N Venue deposit Kitchen reno Design sync Sync Now Mac From any app ⌃⌥N opens a small panel over whatever you're doing. ⌘↩ saves, Esc puts it away, and your draft waits for next time. “Add a note in Remindly” REMINDLY Saved “Pick up the dry cleaning” to Remindly. iPhone, iPad and Mac Ask Siri Say “Add a note in Remindly” and dictate. It's saved without opening the app. The same action works from Shortcuts, Spotlight and the Action button. Monday, October 2"
+    },
+    "verdict": {
+      "model": "jev-1.13.0",
+      "score": 2.21,
+      "category": "Productivity",
+      "category_confidence": 1.0
+    }
+  }
+]
